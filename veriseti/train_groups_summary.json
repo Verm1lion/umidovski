@@ -1,0 +1,221 @@
+{
+  "total_cvs": 3043,
+  "train_total": 2593,
+  "test_total": 450,
+  "train_pct": 85.21,
+  "test_pct": 14.79,
+  "zero_leakage": true,
+  "group_count": 10,
+  "groups": [
+    {
+      "group_id": 1,
+      "collar": "BEYAZ",
+      "count": 283,
+      "min_id": 10000,
+      "max_id": 10342,
+      "top_categories": {
+        "FINANCE_ACCOUNTING": 41,
+        "HEALTHCARE": 38,
+        "OFFICE_ADMIN_MGMT": 36,
+        "IT_SOFTWARE": 30,
+        "MARKETING_MEDIA": 25
+      },
+      "top_titles": {
+        "Memur": 9,
+        "Hemşire": 8,
+        "Müdür": 8,
+        "Yönetici": 8,
+        "Doktor": 7
+      }
+    },
+    {
+      "group_id": 2,
+      "collar": "BEYAZ",
+      "count": 284,
+      "min_id": 10343,
+      "max_id": 10679,
+      "top_categories": {
+        "IT_SOFTWARE": 43,
+        "FINANCE_ACCOUNTING": 35,
+        "SALES": 32,
+        "INDUSTRIAL_MANUFACTURING": 32,
+        "MARKETING_MEDIA": 23
+      },
+      "top_titles": {
+        "Avukat": 6,
+        "Halkla İlişkiler": 5,
+        "Stratejist": 3,
+        "Danışman": 2,
+        "Müşavir": 2
+      }
+    },
+    {
+      "group_id": 3,
+      "collar": "BEYAZ",
+      "count": 283,
+      "min_id": 10680,
+      "max_id": 11014,
+      "top_categories": {
+        "IT_SOFTWARE": 34,
+        "INDUSTRIAL_MANUFACTURING": 31,
+        "LEGAL": 29,
+        "HEALTHCARE": 28,
+        "FINANCE_ACCOUNTING": 25
+      },
+      "top_titles": {
+        "Gemi Kiralama ve Brokerlik Uzmanı": 2,
+        "Class A Occupational Health & Safety Specialist": 2,
+        "Proses Kontrol ve Enstrümantasyon Mühendisi": 2,
+        "Dijital İllüstratör": 2,
+        "Tersine Mühendislik ve Kötü Amaçlı Yazılım Analisti": 1
+      }
+    },
+    {
+      "group_id": 4,
+      "collar": "BEYAZ",
+      "count": 284,
+      "min_id": 11016,
+      "max_id": 11350,
+      "top_categories": {
+        "IT_SOFTWARE": 195,
+        "INDUSTRIAL_MANUFACTURING": 58,
+        "SCIENCE_RND": 14,
+        "HEALTHCARE": 5,
+        "EDUCATION": 5
+      },
+      "top_titles": {
+        "Corporate Venturing & Innovation Lead": 1,
+        "Radyasyon Onkolojisi Uzmanı": 1,
+        "Sterilization & Cleanroom Validation Engineer": 1,
+        "E-Öğrenme ve İnteraktif İçerik Geliştirici": 1,
+        "Gürültü Haritalama ve Çevre Akustiği Mühendisi": 1
+      }
+    },
+    {
+      "group_id": 5,
+      "collar": "BEYAZ",
+      "count": 283,
+      "min_id": 11351,
+      "max_id": 11672,
+      "top_categories": {
+        "CONSTRUCTION": 136,
+        "INDUSTRIAL_MANUFACTURING": 81,
+        "SCIENCE_RND": 32,
+        "CREATIVE_DESIGN": 20,
+        "FINANCE_ACCOUNTING": 11
+      },
+      "top_titles": {
+        "Dayanım ve Yorulma Ömrü Simülasyon Mühendisi (nCode DesignLife / Fe-Safe)": 1,
+        "Otomobil Süspansiyon ve Direksiyon Kinematiği Tasarım Mühendisi": 1,
+        "Titreşim Yalıtımı ve Mekanik Akustik Mühendisi (NVH / Actran)": 1,
+        "Mühimmat Emniyet ve Kurma Sistemi (ESAD) Donanım Mühendisi": 1,
+        "Elektrikli Araç Şanzıman Dişli NVH ve Gürültü Simülasyon Mühendisi": 1
+      }
+    },
+    {
+      "group_id": 6,
+      "collar": "BEYAZ",
+      "count": 284,
+      "min_id": 11673,
+      "max_id": 11999,
+      "top_categories": {
+        "FINANCE_ACCOUNTING": 94,
+        "SALES": 64,
+        "SUPPLY_CHAIN_LOGISTICS": 36,
+        "MARKETING_MEDIA": 32,
+        "HR": 30
+      },
+      "top_titles": {
+        "İç Denetim ve Kurumsal Risk Yönetimi Müdürü (CIA / COSO Framework)": 1,
+        "Kıdemli Şirket Birleşme ve Devralma (M&A) Müdürü (CFA / LBO)": 1,
+        "İK Dijital Dönüşüm ve HRIS Uzmanı (SAP SuccessFactors / Workday)": 1,
+        "Kimya ve Proses Sanayi Kütle Dengesi ve Maliyet Kontrolörü (Mass Balance Costing)": 1,
+        "Kıdemli İK İş Ortağı - Üretim ve Fabrika (Plant HRBP)": 1
+      }
+    },
+    {
+      "group_id": 7,
+      "collar": "MAVI",
+      "count": 283,
+      "min_id": 20001,
+      "max_id": 20328,
+      "top_categories": {
+        "INDUSTRIAL_MANUFACTURING": 46,
+        "CONSTRUCTION": 45,
+        "CHEF_HORECA": 26,
+        "MARITIME": 25,
+        "HEALTHCARE": 16
+      },
+      "top_titles": {
+        "Gemici": 3,
+        "Liman Yükleme Elemanı / Stevedore": 3,
+        "Usta Gemici": 3,
+        "Raspa ve Boya Elemanı": 3,
+        "Apron Araç Sürücüsü": 3
+      }
+    },
+    {
+      "group_id": 8,
+      "collar": "MAVI",
+      "count": 283,
+      "min_id": 20329,
+      "max_id": 20656,
+      "top_categories": {
+        "INDUSTRIAL_MANUFACTURING": 65,
+        "CONSTRUCTION": 53,
+        "CHEF_HORECA": 30,
+        "AGRICULTURE": 18,
+        "MARITIME": 17
+      },
+      "top_titles": {
+        "Matbaa İşçisi": 3,
+        "Resepsiyonist": 3,
+        "Okul Servis Hostesi": 3,
+        "Ön Muhasebe Destek Elemanı": 3,
+        "Bilgisayar Teknik Servis Elemanı": 3
+      }
+    },
+    {
+      "group_id": 9,
+      "collar": "MAVI",
+      "count": 283,
+      "min_id": 20657,
+      "max_id": 20999,
+      "top_categories": {
+        "INDUSTRIAL_MANUFACTURING": 68,
+        "CONSTRUCTION": 67,
+        "LOGISTICS_DRIVER": 52,
+        "CHEF_HORECA": 43,
+        "SUPPLY_CHAIN_LOGISTICS": 22
+      },
+      "top_titles": {
+        "Reach Truck Operatörü": 11,
+        "Hızlı Teslimat Moto Kuryesi": 8,
+        "E-Ticaret Panelvan Dağıtım Kuryesi": 7,
+        "Ağır Tonaj Dizel Forklift Operatörü": 5,
+        "Kule Vinç Operatörü": 4
+      }
+    },
+    {
+      "group_id": 10,
+      "collar": "BEYAZ/MAVI (INTERN)",
+      "count": 43,
+      "min_id": 21001,
+      "max_id": 21043,
+      "top_categories": {
+        "FINANCE_ACCOUNTING": 6,
+        "INDUSTRIAL_MANUFACTURING": 6,
+        "IT_SOFTWARE": 6,
+        "HR": 5,
+        "CONSTRUCTION": 3
+      },
+      "top_titles": {
+        "Tekstil ve Moda Tasarımı Stajyeri": 1,
+        "Gastronomi ve Mutfak Sanatları Stajyeri": 1,
+        "İş Makineleri Bakım ve Onarım Stajyeri (MYO)": 1,
+        "İnşaat Mühendisliği Stajyeri": 1,
+        "Yapı Denetim ve İnşaat Teknikeri Stajyeri": 1
+      }
+    }
+  ]
+}

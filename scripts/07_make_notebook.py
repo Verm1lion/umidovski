@@ -181,6 +181,9 @@ if DRY_RUN:
 for d in (CFG["OUT_DIR"], CFG["FIG_DIR"]):
     os.makedirs(d, exist_ok=True)
 set_seed(CFG["SEED"])
+RUN_T0 = time.time()      # toplam süre (run_summary.json)
+TIMINGS = {}              # aşama süreleri, sn (run_summary.json)
+EVAL_LOG = []             # her evaluate() çağrısı: (ad, bölüm, sorgu sayısı) — test kaç kez ölçüldü?
 print(json.dumps({k: v for k, v in CFG.items()}, indent=1, ensure_ascii=False))
 """)
 
@@ -314,6 +317,8 @@ def qrels_for(qids, cols=None):
 
 def evaluate(ranked, name=None, cols=None, store=True):
     res = core.evaluate_rankings(ranked, qrels_for(list(ranked), cols), k=10, rel_threshold=CFG["REL_THRESHOLD"])
+    part = ("test" if set(map(int, ranked)) <= set(S["test"]) else "val" if set(map(int, ranked)) <= set(S["val"]) else "diğer")
+    EVAL_LOG.append({"ad": name or "(kayıtsız)", "bölüm": part, "sorgu": len(ranked), "alt_korpus": cols is not None})
     if name and store:
         RESULTS[name] = res
     return res["summary"]
@@ -658,7 +663,8 @@ class GradedIREvaluator(SentenceEvaluator):
 from sentence_transformers.base.sampler import NoDuplicatesBatchSampler, RoundRobinBatchSampler
 
 class ExactNoDuplicatesBatchSampler(NoDuplicatesBatchSampler):
-    # (1) ST'nin NoDuplicatesBatchSampler.__len__ değeri bir üst-sınır TAHMİNİDİR; Trainer fazla batch'leri sessizce
+    # (1) ST'nin NoDuplicatesBatchSampler.__len__ değeri (= ceil(N/B)) gerçek batch sayısını EKSİK tahmin eder (çakışmalar
+    #     yüzünden gerçek batch sayısı daha fazladır); Trainer bu sayıdan fazlasını sessizce
     #     atlıyordu. Burada her epoch'un batch listesi bir kez hesaplanır; __len__ ve __iter__ aynı listeyi kullanır.
     # (2) Kural: anchor/pozitif (negatif olmayan sütunlar) batch içinde tekil olmalı ve hiçbir satırın negatifiyle
     #     çakışmamalı (yanlış negatif). Aynı ZOR NEGATİF birden çok satırda paylaşılabilir (zararsız) -> batch'ler dolu kalır.
@@ -743,7 +749,7 @@ def train_bi_encoder(scale, train_ds, epochs, out_dir, cosent_ds=None, eval_ds=N
     trainer = STTrainer(model=model, args=args, train_dataset=train, eval_dataset=evald, loss=loss,
                         evaluator=evaluator, callbacks=cbs)
     t0 = time.time(); trainer.train(); drop_amp_wrapper(model)
-    print(f"{log_name}: {time.time() - t0:.0f} sn")
+    print(f"{log_name}: {time.time() - t0:.0f} sn"); TIMINGS[log_name] = round(time.time() - t0, 1)
     shutil.rmtree(out_dir, ignore_errors=True)     # checkpoint'lar diski doldurmasın (en iyi model bellekte)
     return model, logs.rows
 """)
@@ -893,6 +899,7 @@ ce_trainer = CrossEncoderTrainer(model=CE, args=ce_args, train_dataset=DS_CE,
                                  evaluator=GradedRerankEvaluator(VAL_IDS, HYB["val"][0]),
                                  callbacks=[ce_logs, EarlyStoppingCallback(early_stopping_patience=CFG["EARLY_STOP_PATIENCE"])])
 t0 = time.time(); ce_trainer.train(); drop_amp_wrapper(CE); print(f"Cross-encoder: {time.time() - t0:.0f} sn")
+TIMINGS["Cross-encoder"] = round(time.time() - t0, 1)
 shutil.rmtree(os.path.join(CFG["OUT_DIR"], "ce_ckpt"), ignore_errors=True)
 ce_log_df = plot_logs(ce_logs.rows, "Aşama 2a — Cross-encoder eğitimi", "stage2a_training.png")
 ce_log_df.to_csv(os.path.join(CFG["OUT_DIR"], "stage2a_training_log.csv"), index=False)
@@ -905,6 +912,43 @@ print("Hybrid + Cross-encoder:", fmt(evaluate(rerank_lists(TEST_IDS, CAND["test"
 """)
 
 md(r"""
+### 9.1 Tanı: aday kümesi tavanı ve belirteç kırpılması (karar için yalnız VAL)
+Aşama 2 en fazla aday kümesindeki ilanları sıralayabilir. Aşağıdaki "kâhin" (oracle), adayları gerçek dereceye göre dizer:
+Aşama 2'nin bu adaylarla ulaşabileceği **üst sınırdır**. Val tavanı hedefin (NDCG@10 > 92) altındaysa Aşama 2'yi
+iyileştirmek hedefe götürmez; önce Aşama 1 / `N_CANDIDATES`. Test tavanı yalnız rapor için `run_summary.json`'a yazılır.
+""")
+code(r"""
+def cand_ceiling(ids, cand):
+    orc = {int(q): sorted(map(int, cand[i]), key=lambda j: -grade(q, j)) for i, q in enumerate(ids)}
+    res = core.evaluate_rankings(orc, qrels_for(list(orc)), k=10, rel_threshold=CFG["REL_THRESHOLD"])
+    return fmt(res["summary"])
+DIAG = {"aday_tavani_val": cand_ceiling(VAL_IDS, CAND["val"]), "aday_tavani_test(yalniz_rapor)": cand_ceiling(TEST_IDS, CAND["test"]),
+        "n_candidates": CFG["N_CANDIDATES"]}
+print(f"Aday kümesi tavanı (val, ilk {CFG['N_CANDIDATES']} hibrit aday, kâhin sıralama):", DIAG["aday_tavani_val"])
+try:
+    def over(tok, texts, limit, pairs=False):
+        if pairs:
+            n = [len(tok(x, y)["input_ids"]) for x, y in texts]
+        else:
+            n = [len(tok(t)["input_ids"]) for t in texts]
+        return {"oran_%": round(100 * float(np.mean(np.array(n) > limit)), 1), "medyan": int(np.median(n)), "p90": int(np.percentile(n, 90))}
+    btok = BI.tokenizer
+    smp_j = jobs.job_struct.sample(min(400, len(jobs)), random_state=CFG["SEED"]).tolist()
+    smp_c = CV.loc[VAL_IDS, "cv_struct"].tolist()[:400]
+    DIAG["kirpilma_bi_ilan"] = over(btok, [DP + t for t in smp_j], CFG["MAX_SEQ_LEN"])
+    DIAG["kirpilma_bi_cv"] = over(btok, [QP + t for t in smp_c], CFG["MAX_SEQ_LEN"])
+    ce_pairs_s = [(core.compact_cv_for_ce(CV.loc[int(q), "cv_struct"]), core.compact_job_for_ce(jobs.job_struct.iloc[int(j)]))
+                  for q, row in zip(VAL_IDS[:40], CAND["val"][:40]) for j in row[:10]]
+    DIAG["kirpilma_ce_cift"] = over(CE.tokenizer, ce_pairs_s, CFG["CE_MAX_LEN"], pairs=True)
+    print("Belirteç uzunlukları (> sınır oranı, medyan, p90):", {k: v for k, v in DIAG.items() if k.startswith("kirpilma")})
+except Exception as e:
+    print("Kırpılma ölçümü atlandı:", e)
+if DEVICE == "cuda":
+    DIAG["gpu_tepe_bellek_GB_simdiye_kadar"] = round(torch.cuda.max_memory_allocated() / 1e9, 2)
+    print("GPU tepe bellek (şimdiye kadar):", DIAG["gpu_tepe_bellek_GB_simdiye_kadar"], "GB")
+""")
+
+md(r"""
 ## 10. Aşama 2b — LambdaMART (LightGBM `lambdarank`) — elle çarpan yerine öğrenilen sıralama
 Özellik vektörü (her (CV, aday ilan) çifti için):
 dense kosinüs/sıra/z-skor, BM25 skor/sıra, RRF skor/sıra, cross-encoder logit/sıra/z-skor, **tahmini** sektör olasılığı
@@ -913,8 +957,8 @@ lokasyon/remote uyumu, beceri kesişimi (overlap/Jaccard), unvan karakter-n-gram
 
 * Sektör/yaka sınıflandırıcıları **yalnızca train CV'leriyle** eğitilir; val/test için tahminler örneklem-dışıdır.
 * LambdaMART **val sorgularında** eğitilir (yığınlama / stacking: Aşama-1/2a modelleri bu sorgularla hiç **eğitilmedi**;
-  val yalnızca τ seçimi ve erken durdurma için kullanıldı — bu, val özniteliklerini test'e göre en fazla hafifçe iyimser
-  yapar, test performansını şişirmez). **Cold** ilanlar LTR eğitiminden de çıkarılır; Optuna + GroupKFold (sorgu bazlı,
+  val'in etiketleri τ seçimi, erken durdurma ve en iyi checkpoint seçimi için kullanıldı — bu, val özniteliklerini test'e
+  göre hafifçe iyimser yapabilir; test performansını şişirmez). **Cold** ilanlar LTR eğitiminden de çıkarılır; Optuna + GroupKFold (sorgu bazlı,
   erken durdurma için ayrı iç bölme) ile hiperparametre seçilir.
 """)
 code(r"""
@@ -1311,6 +1355,31 @@ METRICS = {"ablation_test": ABL.reset_index().to_dict(orient="records"), "cold_s
 json.dump(METRICS, open(os.path.join(EX, "metrics.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1, default=str)
 ABL.to_csv(os.path.join(EX, "ablation_test.csv")); COLD_TBL.to_csv(os.path.join(EX, "cold_start_test.csv"))
 COMP.to_csv(os.path.join(EX, "ablation_component_tests.csv"))
+# Sorgu bazlı sonuçlar (hata analizi / sonraki deneyler için) ve makinece okunabilir çalıştırma özeti
+pd.concat([RESULTS[n]["per_query"].assign(sistem=n) for n in RESULTS], ignore_index=True).to_csv(
+    os.path.join(CFG["OUT_DIR"], "per_query_test.csv"), index=False)
+RUN_SUMMARY = {
+    "hedefler": {k: {"deger": float(ABL.loc[MAIN[-1], k]), "hedef_>": v, "karsilandi": bool(ABL.loc[MAIN[-1], k] > v)}
+                 for k, v in TARGETS.items()},
+    "ana_ablation": ABL.loc[MAIN].reset_index().to_dict(orient="records"),
+    "val_sinyalleri": {"temperature_sweep": {str(k): v for k, v in temp_res.items()}, "secilen_olcek": best_scale,
+                       "ltr_cv_ndcg10(val,WARM)": study.best_value,
+                       "bi_val_en_iyi": (bi_log_df.filter(like="eval_val_graded_ndcg").max().max() if len(bi_log_df) else None),
+                       "ce_val_en_iyi": (ce_log_df.filter(like="eval_val_graded_ndcg").max().max() if len(ce_log_df) else None)},
+    "tani": DIAG, "sureler_sn": TIMINGS, "toplam_sure_dk": round((time.time() - RUN_T0) / 60, 1),
+    "gpu": (torch.cuda.get_device_name(0) if DEVICE == "cuda" else "cpu"),
+    "gpu_tepe_bellek_GB": (round(torch.cuda.max_memory_allocated() / 1e9, 2) if DEVICE == "cuda" else None),
+    "surumler": {"torch": torch.__version__, "sentence_transformers": sentence_transformers.__version__,
+                 "transformers": transformers.__version__, "lightgbm": lgb.__version__, "sklearn": sklearn.__version__,
+                 "python": sys.version.split()[0]},
+    "test_degerlendirme_sayisi": sum(1 for e in EVAL_LOG if e["bölüm"] == "test"), "degerlendirme_kaydi": EVAL_LOG,
+    "cfg": {k: v for k, v in CFG.items()}, "dry_run": DRY_RUN,
+}
+for d_ in (EX, CFG["OUT_DIR"]):
+    json.dump(RUN_SUMMARY, open(os.path.join(d_, "run_summary.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1, default=str)
+shutil.copy(os.path.join(CFG["OUT_DIR"], "per_query_test.csv"), os.path.join(EX, "per_query_test.csv"))
+print("run_summary.json yazıldı | test değerlendirme sayısı:", RUN_SUMMARY["test_degerlendirme_sayisi"],
+      "| toplam süre:", RUN_SUMMARY["toplam_sure_dk"], "dk")
 for f in os.listdir(CFG["FIG_DIR"]):
     os.makedirs(os.path.join(EX, "figures"), exist_ok=True); shutil.copy(os.path.join(CFG["FIG_DIR"], f), os.path.join(EX, "figures", f))
 open(os.path.join(EX, "README_INFERENCE.md"), "w", encoding="utf-8").write(
@@ -1330,7 +1399,7 @@ if DRIVE_DIR:
     shutil.copy(zp, os.path.join(DRIVE_DIR, "export_model_bundle.zip"))
     shutil.copytree(CFG["FIG_DIR"], os.path.join(DRIVE_DIR, "figures"), dirs_exist_ok=True)
     for f in ("ablation_test.csv", "ablation_component_tests.csv", "cold_start_test.csv", "stage1_training_log.csv",
-              "stage2a_training_log.csv"):
+              "stage2a_training_log.csv", "run_summary.json", "per_query_test.csv"):
         if os.path.exists(os.path.join(CFG["OUT_DIR"], f)): shutil.copy(os.path.join(CFG["OUT_DIR"], f), DRIVE_DIR)
     # Drive yazmaları arka planda yüklenir; büyük paketin oturum kapanmadan Drive'a ulaşmasını garanti et
     try:

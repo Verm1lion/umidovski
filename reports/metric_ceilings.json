@@ -1,0 +1,410 @@
+{
+  "aciklama": "Kahin = ilanlari gercek dereceye gore siralar. Hicbir model secimi yapilmaz; test degerleri yalnizca hedeflerin mevcut tanimla ulasilabilirligini raporlamak icindir.",
+  "alakali_esigi_notebook": 2,
+  "kahin": {
+    "val|tam|esik1": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 98.64,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 31.73,
+      "R@10": 13.25,
+      "R@50": 47.11,
+      "R@100": 69.21,
+      "n_queries": 457,
+      "n_skipped_no_relevant": 0
+    },
+    "val|tam|esik2": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 85.08,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 32.88,
+      "R@10": 54.72,
+      "R@50": 93.11,
+      "R@100": 98.19,
+      "n_queries": 441,
+      "n_skipped_no_relevant": 16
+    },
+    "val|tam|esik3": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 24.48,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 100.0,
+      "R@10": 96.9,
+      "R@50": 99.97,
+      "R@100": 100.0,
+      "n_queries": 145,
+      "n_skipped_no_relevant": 312
+    },
+    "val|warm|esik1": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 99.01,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 29.96,
+      "R@10": 13.92,
+      "R@50": 49.51,
+      "R@100": 72.84,
+      "n_queries": 454,
+      "n_skipped_no_relevant": 3
+    },
+    "val|warm|esik2": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 83.22,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 31.05,
+      "R@10": 56.67,
+      "R@50": 94.59,
+      "R@100": 98.61,
+      "n_queries": 438,
+      "n_skipped_no_relevant": 19
+    },
+    "val|warm|esik3": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 24.34,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 100.0,
+      "R@10": 97.07,
+      "R@50": 100.0,
+      "R@100": 100.0,
+      "n_queries": 136,
+      "n_skipped_no_relevant": 321
+    },
+    "val|cold|esik1": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 83.87,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 6.81,
+      "R@10": 69.61,
+      "R@50": 100.0,
+      "R@100": 100.0,
+      "n_queries": 455,
+      "n_skipped_no_relevant": 2
+    },
+    "val|cold|esik2": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 37.62,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 8.56,
+      "R@10": 98.35,
+      "R@50": 100.0,
+      "R@100": 100.0,
+      "n_queries": 362,
+      "n_skipped_no_relevant": 95
+    },
+    "val|cold|esik3": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 15.16,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 100.0,
+      "R@10": 100.0,
+      "R@50": 100.0,
+      "R@100": 100.0,
+      "n_queries": 31,
+      "n_skipped_no_relevant": 426
+    },
+    "test|tam|esik1": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 99.41,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 33.7,
+      "R@10": 11.77,
+      "R@50": 45.29,
+      "R@100": 68.62,
+      "n_queries": 460,
+      "n_skipped_no_relevant": 1
+    },
+    "test|tam|esik2": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 83.38,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 34.22,
+      "R@10": 53.53,
+      "R@50": 91.37,
+      "R@100": 97.36,
+      "n_queries": 453,
+      "n_skipped_no_relevant": 8
+    },
+    "test|tam|esik3": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 27.87,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 100.0,
+      "R@10": 96.22,
+      "R@50": 100.0,
+      "R@100": 100.0,
+      "n_queries": 155,
+      "n_skipped_no_relevant": 306
+    },
+    "test|warm|esik1": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 99.28,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 32.83,
+      "R@10": 13.01,
+      "R@50": 48.22,
+      "R@100": 72.54,
+      "n_queries": 460,
+      "n_skipped_no_relevant": 1
+    },
+    "test|warm|esik2": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 81.15,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 33.33,
+      "R@10": 55.55,
+      "R@50": 92.96,
+      "R@100": 97.95,
+      "n_queries": 453,
+      "n_skipped_no_relevant": 8
+    },
+    "test|warm|esik3": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 27.02,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 100.0,
+      "R@10": 96.63,
+      "R@50": 100.0,
+      "R@100": 100.0,
+      "n_queries": 151,
+      "n_skipped_no_relevant": 310
+    },
+    "test|cold|esik1": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 85.21,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 7.41,
+      "R@10": 69.05,
+      "R@50": 100.0,
+      "R@100": 100.0,
+      "n_queries": 459,
+      "n_skipped_no_relevant": 2
+    },
+    "test|cold|esik2": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 40.53,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 9.44,
+      "R@10": 97.34,
+      "R@50": 100.0,
+      "R@100": 100.0,
+      "n_queries": 360,
+      "n_skipped_no_relevant": 101
+    },
+    "test|cold|esik3": {
+      "NDCG@10": 100.0,
+      "MRR@10": 100.0,
+      "P@10": 14.71,
+      "P@10_capped": 100.0,
+      "Top1": 100.0,
+      "Top1_exact(grade3)": 100.0,
+      "R@10": 100.0,
+      "R@50": 100.0,
+      "R@100": 100.0,
+      "n_queries": 34,
+      "n_skipped_no_relevant": 427
+    }
+  },
+  "ikili_kusursuz(grade>=2_basta_kendi_icinde_rastgele__kalan_1>0_dogru)": {
+    "val": {
+      "NDCG@10": 91.96,
+      "P@10": 85.08,
+      "Top1": 100.0
+    },
+    "test": {
+      "NDCG@10": 91.36,
+      "P@10": 83.38,
+      "Top1": 100.0
+    }
+  },
+  "aday_kumesi_tavani(BM25)": {
+    "val|bm25_dogrudan": {
+      "NDCG@10": 49.46,
+      "MRR@10": 66.61,
+      "P@10": 36.6,
+      "P@10_capped": 42.53,
+      "Top1": 57.82,
+      "Top1_exact(grade3)": 6.8,
+      "R@10": 21.35,
+      "R@50": 42.2,
+      "R@100": 54.29,
+      "n_queries": 441,
+      "n_skipped_no_relevant": 16
+    },
+    "val|bm25_ilk50_kahin_yeniden_siralama": {
+      "NDCG@10": 83.15,
+      "MRR@10": 94.78,
+      "P@10": 63.79,
+      "P@10_capped": 72.55,
+      "Top1": 94.78,
+      "Top1_exact(grade3)": 28.34,
+      "R@10": 35.24,
+      "R@50": 42.2,
+      "R@100": 54.29,
+      "n_queries": 441,
+      "n_skipped_no_relevant": 16
+    },
+    "val|bm25_ilk100_kahin_yeniden_siralama": {
+      "NDCG@10": 89.71,
+      "MRR@10": 96.37,
+      "P@10": 71.66,
+      "P@10_capped": 81.68,
+      "Top1": 96.37,
+      "Top1_exact(grade3)": 30.84,
+      "R@10": 40.5,
+      "R@50": 53.73,
+      "R@100": 54.29,
+      "n_queries": 441,
+      "n_skipped_no_relevant": 16
+    },
+    "val|bm25_ilk200_kahin_yeniden_siralama": {
+      "NDCG@10": 93.95,
+      "MRR@10": 98.19,
+      "P@10": 77.1,
+      "P@10_capped": 88.52,
+      "Top1": 98.19,
+      "Top1_exact(grade3)": 31.75,
+      "R@10": 45.08,
+      "R@50": 65.57,
+      "R@100": 67.15,
+      "n_queries": 441,
+      "n_skipped_no_relevant": 16
+    },
+    "test|bm25_dogrudan": {
+      "NDCG@10": 53.66,
+      "MRR@10": 74.03,
+      "P@10": 38.37,
+      "P@10_capped": 48.53,
+      "Top1": 64.68,
+      "Top1_exact(grade3)": 9.49,
+      "R@10": 26.59,
+      "R@50": 47.46,
+      "R@100": 59.05,
+      "n_queries": 453,
+      "n_skipped_no_relevant": 8
+    },
+    "test|bm25_ilk50_kahin_yeniden_siralama": {
+      "NDCG@10": 86.95,
+      "MRR@10": 96.91,
+      "P@10": 65.76,
+      "P@10_capped": 79.12,
+      "Top1": 96.91,
+      "Top1_exact(grade3)": 28.92,
+      "R@10": 40.45,
+      "R@50": 47.46,
+      "R@100": 59.05,
+      "n_queries": 453,
+      "n_skipped_no_relevant": 8
+    },
+    "test|bm25_ilk100_kahin_yeniden_siralama": {
+      "NDCG@10": 93.37,
+      "MRR@10": 99.56,
+      "P@10": 73.84,
+      "P@10_capped": 88.11,
+      "Top1": 99.56,
+      "Top1_exact(grade3)": 31.13,
+      "R@10": 44.71,
+      "R@50": 58.39,
+      "R@100": 59.05,
+      "n_queries": 453,
+      "n_skipped_no_relevant": 8
+    },
+    "test|bm25_ilk200_kahin_yeniden_siralama": {
+      "NDCG@10": 96.48,
+      "MRR@10": 99.56,
+      "P@10": 78.65,
+      "P@10_capped": 93.57,
+      "Top1": 99.56,
+      "Top1_exact(grade3)": 32.01,
+      "R@10": 47.93,
+      "R@50": 68.76,
+      "R@100": 70.45,
+      "n_queries": 453,
+      "n_skipped_no_relevant": 8
+    }
+  },
+  "alakali_dagilimi": {
+    "val": {
+      "n_cv": 457,
+      "alakali(>=2)_medyan": 23.0,
+      "alakali<10_orani_%": 35.89,
+      "alakali_yok": 16,
+      "grade3_yok_orani_%": 68.27,
+      "yaka": {
+        "BLUE": {
+          "n": 167,
+          "alakali_medyan": 8.0,
+          "alakali<10_orani_%": 65.87
+        },
+        "WHITE": {
+          "n": 290,
+          "alakali_medyan": 37.5,
+          "alakali<10_orani_%": 18.62
+        }
+      }
+    },
+    "test": {
+      "n_cv": 461,
+      "alakali(>=2)_medyan": 27.0,
+      "alakali<10_orani_%": 34.49,
+      "alakali_yok": 8,
+      "grade3_yok_orani_%": 66.38,
+      "yaka": {
+        "BLUE": {
+          "n": 142,
+          "alakali_medyan": 7.0,
+          "alakali<10_orani_%": 70.42
+        },
+        "WHITE": {
+          "n": 319,
+          "alakali_medyan": 35.0,
+          "alakali<10_orani_%": 18.5
+        }
+      }
+    }
+  },
+  "grade3_lokasyon_bagimliligi": {
+    "val": {
+      "ayni_uzmanlik_yaka_kidem_cifti": 1711,
+      "bunlardan_grade3": 491,
+      "yalniz_lokasyon_yuzunden_grade2_%": 71.3
+    },
+    "test": {
+      "ayni_uzmanlik_yaka_kidem_cifti": 1894,
+      "bunlardan_grade3": 570,
+      "yalniz_lokasyon_yuzunden_grade2_%": 69.9
+    }
+  }
+}

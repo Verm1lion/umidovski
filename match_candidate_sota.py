@@ -952,7 +952,8 @@ def main(argv=None):
             print(f"Aday bulunamadı: {a.cv_id}")
             return 1
         row = row.iloc[0]
-        print(f"Aday {row['cv_id']}: {row['headline']}")
+        # --json çıktısı saf JSON kalsın: bilgi satırı stderr'e
+        print(f"Aday {row['cv_id']}: {row['headline']}", file=sys.stderr if a.json else sys.stdout)
         return run_one(row["cv_text"], row["headline"])
     while True:
         try:

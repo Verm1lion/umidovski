@@ -1,12 +1,12 @@
 {
- "hucre": 51,
- "kod_hucresi": 29,
+ "hucre": 53,
+ "kod_hucresi": 30,
  "ast_hatalari": [],
  "pyflakes": [],
  "nbformat_gecerli": true,
  "dry_run": {
   "durum": "OK",
-  "sure_sn": 111.0,
+  "sure_sn": 901.8,
   "hata": null,
   "RUN_OK": true,
   "export_zip": true

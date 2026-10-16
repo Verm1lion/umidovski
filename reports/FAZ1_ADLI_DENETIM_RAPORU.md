@@ -1,9 +1,11 @@
 # FAZ 1 — Mevcut Sistemin Adli Denetimi (Forensic Audit)
 
-> Bütün ölçüm sayıları `scripts/03_forensic_audit.py` ile yeniden üretilebilir; ham çıktı `reports/faz1_audit.json`.
+> Ölçüm sayıları, aşağıda sayılan istisnalar dışında, `scripts/03_forensic_audit.py` ile yeniden üretilebilir; ham çıktı `reports/faz1_audit.json`.
 > Birkaç statik gözlem doğrudan kaynak dosyalardan okunmuştur: eski rehberin bildirdiği metrikler ve çarpanlar
-> (`MODEL_VE_TEST_REHBERI.md`), eski bölmenin grup sayısı (`veriseti/train_groups_summary.json → group_count`) ve
-> "Distribütör ve Bayi Yöneticisi" ilanının açıklama uzunluğu (`work/tum_ilanlar.parquet`).
+> (`MODEL_VE_TEST_REHBERI.md`), eski bölme özetindeki train grup sayısı ve grup büyüklükleri (`veriseti/train_groups_summary.json → group_count`, `groups[].count`) ve
+> "Distribütör ve Bayi Yöneticisi" ilanının açıklama uzunluğu (`work/tum_ilanlar.parquet`). Betik çıktısında yer
+> almayan, doğrudan veri ve kod dosyaları üzerinde yapılmış birkaç ek kontrol metinde *(ayrıca kontrol edildi)*
+> diye işaretlenmiştir.
 > Eski değerlendirme fonksiyonları (`test.py`) **değiştirilmeden içe aktarılarak** kullanılmıştır. Ortamda eski
 > modelin ağırlıkları olmadığından, kanıtlar **modelden bağımsız** kurgulanmıştır: sıralayıcı olarak rastgele skor
 > ve BM25 kullanılmıştır. Gösterilen hatalar modelin değil, **metriklerin ve veri kurgusunun** hatalarıdır.
@@ -21,10 +23,10 @@ python scripts/03_forensic_audit.py      # -> reports/faz1_audit.json + reports/
 | 2 | **Yerel IDCG hatası:** `calculate_ndcg` IDCG'yi yalnızca dönen 10 sonuçtan hesaplıyor | `[2,0,0,…,0]` → test.py **1,000**, doğru NDCG **0,220**. BM25'te test.py %84,4, doğrusu %68,1 | NDCG sistematik olarak şişiyor |
 | 3 | **CMQ kalite matrisi modelin kendi skorunu içeriyor** (%40 ağırlık) | Aynı rastgele sıralayıcı: kendi skoruyla kurulan CMQ'da 23,30, bağımsız skorla kurulanda 19,98 (+3,3 puan) | "Kademeli NDCG" kendini ödüllendiriyor |
 | 4 | **Eğitim etiketleri bir modelin benzerlik skorundan türetilmiş** | SOFT_NEG: `label = 0,250·sim + 0,162`, **R² = 0,999**; SOFT_POS: R² = 0,982 | Model, öğretmenin yanlılığını regresyonla kopyalıyor |
-| 5 | **Etiket belirteci girdide (kısayol öğrenme):** Eğitim ilan metinlerinin %100'ünde `Sektör: IT_SOFTWARE` gibi etiket belirteci var | Pozitif çiftlerin %93,95'i aynı sektörden; negatif çiftlerin %81,26'sı (HARD_NEG'lerin %100'ü) farklı sektörden | Model "sektör belirtecini eşle" kısayolunu öğrenir; test metriği de sektör eşleşmesi olduğu için kısayol doğrudan ödüllenir |
-| 6 | **"HARD_NEG"ler aslında kolay negatif** | %100 farklı sektör, ortalama sim = −0,05 | Zor negatif madenciliği yok |
+| 5 | **Etiket belirteci girdide (kısayol öğrenme):** Eğitim ilan metinlerinin %100'ünde `Sektör: IT_SOFTWARE` gibi etiket belirteci var | Pozitif çiftlerin %93,95'i aynı sektörden; negatif çiftlerin %81,26'sı (HARD_NEG'lerin %100'ü) farklı sektörden | Model "sektör belirtecini eşle" kısayolunu öğrenir; test/çıkarım metninde belirteç olmadığından kısayol testte doğrudan işlemez (bulgu 7), ancak sektör eşleşmesine dayanan test metriği etiketlerden öğrenilen sektör yanlılığını ödüllendirir |
+| 6 | **"HARD_NEG"ler aslında kolay negatif** | %100 farklı sektör, ortalama sim = −0,05 | Kontrastif anlamda zor negatif yok (benzerlikle seçilmiş görünen SOFT_NEG'ler yumuşak hedefle regresyona giriyor) |
 | 7 | **Train/serve uyumsuzluğu:** Eğitimdeki ilan metni `Sektör:` ve `Pozisyon Seviyesi:` alanlarını içeriyor, test/çıkarım metni içermiyor | `sbertmodel.py` / `train.csv` ile `test.py` / `match_candidate.py` karşılaştırması | Dağılım kayması |
-| 8 | **Şablon sızıntısı (entity değil):** ID kesişimi 0; neredeyse-kopya (cos ≥ 0,8) 0. Ancak test CV'lerinin **%54'ü** en az bir uzun cümleyi train CV'leriyle **birebir** paylaşıyor, **%30,9**'unun unvanı train'de birebir var | `reports/figures/faz1_test_train_max_cos.png` | Ezber riski; yeni bölmede unvan grupları ayrık |
+| 8 | **Şablon sızıntısı (entity değil):** ID kesişimi 0; neredeyse-kopya (cos ≥ 0,8) 0. Ancak test CV'lerinin **%54'ü** en az bir uzun cümleyi train CV'leriyle **birebir** paylaşıyor, **%30,9**'unun unvanı train'de birebir var | `reports/faz1_audit.json → C_eski_split` (bkz. bölüm C); cos dağılımı: `reports/figures/faz1_test_train_max_cos.png` | Ezber riski; yeni bölmede unvan grupları ayrık |
 | 9 | Uydurma ve **tutarsız** çarpanlar | Sektör: rehber 0,50, `match_candidate.py` 0,85, `test.py` 'soft_rerank'te hiç yok; yaka: 0,0 ve 0,75; kıdem: 0,95^(fark−1) ve rehberde "0,70–1,00" | Literatür karşılığı yok, dosyalar arasında bile tutarsız |
 | 10 | Doküman–veri tutarsızlığı | Rehberde "10042 = Kıdemli Java Geliştirici" yazıyor; veride 10042 **"Kontrolör"** (OFFICE_ADMIN_MGMT). Rehberde "boş açıklamalı Distribütör ilanı" geçiyor; SQL'de boş açıklama 0, "Distribütör ve Bayi Yöneticisi" 1.466 karakter | Vaka analizleri yeniden üretilemiyor |
 | 11 | Güvenlik / taşınabilirlik | Kodda açık veritabanı parolası (`postgresql://postgres:denemeamacli@localhost`), sabit Windows yolları | Yeniden üretilebilirlik ve güvenlik açığı |
@@ -41,8 +43,9 @@ Yani eski metrikle ince ayarlı model, eğitimsiz bir anahtar kelime aramasında
 ### A.1 `veriseti/tum_ilanlar.sql` → yapılandırılmış tablo
 * 3.000 `INSERT` ifadesi PostgreSQL olmadan, karakter düzeyinde bir ayrıştırıcıyla okundu (`''` kaçışı ve
   `'…'::jsonb` desteklenir). `raw_data` JSON'u düz sütunlara açıldı. Çıktı: `work/tum_ilanlar.parquet` / `.csv`.
-* `industry == raw_data.category` ve `title == raw_data.title` %100 tutarlı. Toplam **2.973 tekil unvan** var
-  (27 tekrar).
+* `industry == raw_data.category` %100 tutarlı (`faz1_audit.json → A_profil.job_industry_raw_category_esit`);
+  `title == raw_data.title` de %100 tutarlı *(ayrıca kontrol edildi: `work/tum_ilanlar.parquet` üzerinde
+  `title == raw_title`; betik çıktısında yok)*. Toplam **2.973 tekil unvan** var (27 tekrar).
 
 | Alan | Dağılım |
 |---|---|
@@ -56,7 +59,9 @@ Yani eski metrikle ince ayarlı model, eğitimsiz bir anahtar kelime aramasında
 | Maskeleme | 1.837 açıklamada `[şehir]` maskesi |
 
 > **Not:** `position_level` 17 farklı yazımla geliyor (ENTRY / ENTRY_LEVEL / NEW_GRADUATE, MID / MID_LEVEL /
-> SPECIALIST …). Yeni sistemde bunlar 0–5 ölçeğine eşlenir (`match_candidate_sota.JOB_LEVEL_MAP`).
+> SPECIALIST …). Yeni sistemde UNSPECIFIED dışındaki 16 yazım 0–5 ölçeğine eşlenir
+> (`match_candidate_sota.JOB_LEVEL_MAP`); UNSPECIFIED (59 ilan) eşlenmez, kıdem bilinmiyor sayılır
+> ("Belirtilmemiş"; sıralama özniteliklerinde `job_seniority_missing` = 1).
 
 ### A.2 `veriseti/tum_cvler.csv`
 * 3.043 CV (ID 10000–21043, tekil), 2.486 tekil unvan. Yaka: BEYAZ 2.035 / MAVİ 1.008. Lokasyon: 34 şehir
@@ -66,7 +71,10 @@ Yani eski metrikle ince ayarlı model, eğitimsiz bir anahtar kelime aramasında
   `cv_text`'teki özetle **aynı değil**. Birincil kaynak olarak `cv_text` kullanıldı.
 * Eksikler: deneyim bölümü yok 51, sertifika yok 545. Maskeler: `[TARİH]` 1.952, `[ŞİRKET]` 1.928, `[ÜNİVERSİTE]` 304,
   `[OKUL]` 312 CV'de. 285 CV ağırlıklı olarak İngilizce.
-* Metinden çıkarılan kıdem (0–5): yalnızca unvan ve deneyim yılından; etiket kullanılmadan hesaplanır.
+* Metinden çıkarılan kıdem (0–5): önce unvan anahtar kelimelerinden, yoksa deneyim yılından, o da yoksa metindeki
+  "son sınıf / öğrencisiyim / staj imkânı" gibi ifadelerden (0) hesaplanır; hiçbiri yoksa varsayılan 2 atanır
+  (3.043 CV'de sırasıyla 753 / 577 / 24 / 1.689; *ayrıca kontrol edildi*). Etiket kullanılmaz
+  (`common.parse_seniority_text`).
 * **Sektör dengesizliği:** CUSTOMER_SERVICE 8 CV'ye karşılık 53 ilan (oran 0,15). Diğer sektörlerde CV/ilan
   oranı 0,5–1,5 arasında. Tam tablo `faz1_audit.json → A_profil.sektor_cv_ilan_orani` içinde,
   grafik `reports/figures/faz1_sektor_cv_ilan.png`.
@@ -75,7 +83,10 @@ Yani eski metrikle ince ayarlı model, eğitimsiz bir anahtar kelime aramasında
 * `train.csv`: 25.906 çift, 2.593 CV, 2.853 ilan. `match_type`: HARD_NEG 12.836, SOFT_POS 6.485, SOFT_NEG 5.100,
   EXACT_POS 1.485.
 * `test.csv`: 450 CV (yalnız CV; ilan çifti yok).
-* Bölme, ardışık ID aralıklarından oluşan 10 grupla yapılmış (`train_groups_summary.json`).
+* `train_groups_summary.json` bölmeyi değil, yalnız train'deki 2.593 CV'yi ardışık ID aralıklarıyla 10 grupta
+  özetler (`group_count` = 10; 283/284 CV'lik 9 grup + 43 stajyer CV). 450 test CV'sinin 448'i bu aralıkların
+  içindedir *(ayrıca kontrol edildi: `veriseti/test.csv`)*; yani gruplar bölme birimi değildir, eski bölme grup
+  düzeyinde değil, yalnızca CV kimliği düzeyinde ayrıktır.
 
 ## B. Şablon tekrarı
 
@@ -88,7 +99,9 @@ Yani eski metrikle ince ayarlı model, eğitimsiz bir anahtar kelime aramasında
 
 Sonuç: Kopya CV yok, ancak metinlerin önemli bir kısmı **sentetik şablon cümleleri** taşıyor. Bunlar meslek
 bilgisi taşımayan "gürültü" cümleleri. Model bunlara değil, meslek içeriğine odaklanmalı. Yeni sistemin
-yapılandırılmış metin şablonu bu yüzden **Pozisyon, Kıdem, Yetkinlikler, Deneyim** bölümlerini öne alır.
+yapılandırılmış metin şablonu (`build_cv_struct`) bu yüzden **Pozisyon** ve metinden çıkarılan **Kıdem** bilgisini
+başa ekler, **Yetkinlikler**'i de Özet'in önüne alır (sıra: Pozisyon, Kıdem, Konum, Yetkinlikler, Özet, Deneyim,
+Eğitim, …). Şablon cümlelerini taşıyan Özet ise Deneyim'den önce kalır.
 
 ## C. Eski train/test ayrımında sızıntı
 
@@ -103,10 +116,11 @@ yapılandırılmış metin şablonu bu yüzden **Pozisyon, Kıdem, Yetkinlikler,
 | Test CV'leri için "doğru" sayılan (aynı sektör) ilanların train'de **pozitif** görülme oranı | **%70,67** | Değerlendirmede ödüllendirilen ilanların çoğu eğitimde pozitif etiketle ezberlenmiş |
 
 **Matematiksel sonuç:** $\text{ID}_{train} \cap \text{ID}_{test} = \emptyset$ olduğu için klasik entity leakage yok.
-Ancak (i) test sorgularının %54'ü train ile birebir şablon cümle paylaşıyor ve (ii) test metriğinin "doğru" saydığı
+Ancak (i) test sorgularının %54'ü train ile ≥ 8 kelimelik en az bir cümleyi birebir paylaşıyor (B'deki ≥ 5 CV'lik
+şablon cümlelerle sınırlanınca %36,7; *ayrıca kontrol edildi*) ve (ii) test metriğinin "doğru" saydığı
 ilanların %70,7'si eğitimde pozitif etiketle görüldü. Yani eski protokol, *aynı ilanlara aynı şablonlu CV'ler*
 üzerinden **transdüktif** (eğitimde görülmüş öğelerle) bir değerlendirme yapıyor. Yeni protokolde:
-(1) normalize unvan ve neredeyse-kopya grupları bölümler arasında ayrıktır (unvan kesişimi = 0),
+(1) normalize unvan ve neredeyse-kopya grupları bölümler arasında ayrıktır (unvan kesişimi = 0; `reports/faz2_veri_ozeti.json`),
 (2) ilanların %10'u (*cold*) hiçbir eğitim sinyalinde kullanılmaz ve ayrıca raporlanır.
 
 ## D. `train.csv` etiketlerinin kaynağı
@@ -124,14 +138,18 @@ Doğrusal uyum: SOFT_NEG için `label = 0,2502·sim + 0,1624` (**R² = 0,9991**)
 **Sonuç:** "Yumuşak" etiketler, bir modelin kosinüs benzerliğinin doğrusal dönüşümü. `CosineSimilarityLoss`
 ile bu hedeflere regresyon yapmak, öğretmen modelin hatalarını öğrenciye kopyalamak (*confirmation bias /
 self-training drift*) demek. "HARD_NEG" adlı örneklerin tamamı farklı sektörden ve neredeyse sıfır benzerlikli,
-yani literatürdeki anlamıyla **kolay** negatif. Zor negatif madenciliği (Karpukhin vd., 2020; Xiong vd., 2021)
-hiç yapılmamış.
+yani literatürdeki anlamıyla **kolay** negatif. Benzerliğe göre seçilmiş görünen tek negatifler SOFT_NEG'ler: aday
+başına tam 2 (2.550 CV), sim ≤ 0,55 eşiğinin hemen altında (medyan 0,541), %65,9'u aynı sektör; SOFT_POS'lar 0,60'ta
+başlıyor (EXACT_POS'ların yalnızca 17/1.485'i 0,60'ın altında) *(ayrıca kontrol edildi: `veriseti/train.csv`)*. Ancak SOFT_NEG'ler `CosineSimilarityLoss` ile 0,23–0,30 yumuşak
+hedeflere regresyonla öğretildiği ve batch-içi negatif olmadığı için kontrastif anlamda zor negatif
+(Karpukhin vd., 2020; Xiong vd., 2021) işlevi görmüyor.
 
 Ek olarak, eğitim ilan metinlerinin **%100'ü** `Sektör: <ETİKET>` belirtecini içeriyor. Pozitiflerin %94'ü aynı
 sektörden, negatiflerin %81,3'ü farklı sektörden (HARD_NEG'lerin %100'ü, SOFT_NEG'lerin yalnızca %34,1'i) olduğu
 için model sektör belirtecini eşleyen bir **kısayol** öğrenir
-(Geirhos vd., 2020). Test metriği de sektör eşleşmesi olduğundan kısayol doğrudan ödüllenir. Çıkarım metni bu
-belirteci içermediği için de ayrıca bir **train/serve uyumsuzluğu** var.
+(Geirhos vd., 2020). Test metriği de sektör eşleşmesi olduğundan etiketlerden öğrenilen sektör yanlılığı
+ödüllenir. Ancak değerlendirme ve çıkarım ilan metni (`test.py`, `match_candidate.py`) bu belirteci içermez:
+belirteç kısayolu testte doğrudan kullanılamaz ve ayrıca bir **train/serve uyumsuzluğu** var.
 
 ## E. `test.py` değerlendirmesindeki metodolojik hatalar
 
@@ -156,7 +174,12 @@ Canlı sıralama (`match_candidate.py`): `skor = ham × … × ind_m`, burada `i
 sektörde `0,85` (kod; eski rehberin metninde `0,50`). `ind_m`, **etiketin kendisinden** (adayın altın `Category`
 alanı) hesaplanıyor.
 
-**Analitik kanıt.** E5 kosinüsleri anizotropi nedeniyle dar bir aralıkta toplanır: $s \in [a,b] \approx [0{,}70; 0{,}90]$.
+**Analitik kanıt.** Varsayım: kosinüsler dar bir aralıkta toplanır; burada $s \in [a,b] \approx [0{,}70; 0{,}90]$ alınmıştır
+(taban E5 modellerinde kosinüslerin, düşük InfoNCE sıcaklığı (0,01) nedeniyle yaklaşık 0,7–1,0 bandında toplandığı
+bilinir; üst sınır 0,90 simülasyonun kendi varsayımıdır). Eski ince ayarlı modelin aralığı
+ölçülmedi (ağırlıkları yok); `CosineSimilarityLoss` HARD_NEG çiftlerini 0'a ittiği için gerçek aralık daha geniş
+olabilir (eski rehberdeki 0,9049 ham benzerlik zaten $b$'nin üstünde); bu durumda aşağıdaki analitik koşul garanti
+değildir.
 Çarpan $c$ için $c\cdot b < a$ ise hiçbir farklı sektör ilanı herhangi bir aynı sektör ilanının önüne geçemez. Aday
 başına aynı sektör ilan sayısı medyan 194, minimum 8 olduğundan P@10 ≈ 1 olur. $c=0{,}50$ için
 $0{,}45 < 0{,}70$ ✔. $c = 0{,}85$ için koşul kesin sağlanmaz ($0{,}765 > 0{,}70$), ancak pratikte yine sağlanır (aşağıda).
@@ -191,7 +214,11 @@ Gerçek bir modelde, skor dağılımı keskinleştikçe bu fark büyür.
 ### E4. Regex yaka sınıflandırıcısı hem filtrede hem alakada
 `run_evaluation(filter_mode="collar")`: sıralama `collar_mult` ile cezalandırılıyor ve **aynı** regex sonucu
 alakanın parçası (`rel = sektör eşit VE yaka eşit`). Rastgele skorla P@5 %6,27'den %9,38'e çıkıyor; artış modelden
-değil, tanım değişikliğinden geliyor. Ayrıca regex yaka sınıflandırıcısı, veri setindeki yaka etiketiyle CV'lerin
+değil, yaka filtresinden geliyor. Skor 0,70–0,90 aralığında olduğundan 0,75 çarpanı (0,90 × 0,75 = 0,675 < 0,70)
+top-5'i tamamen adayla aynı yakadaki ilanlara kısıtlar; ilan yakası filtrede ve alakada aynı regex'ten geldiği için
+alakaya eklenen "yaka eşit" koşulu kendiliğinden sağlanır ve sonuca katkısı sıfırdır (filtre + yalnız sektör alakası
+da %9,38 verir; filtresiz "sektör ve yaka" alakası %4,49'a düşer; *ayrıca kontrol edildi*, aynı tohumla). Artış,
+aynı yakadaki ilanlar arasında aynı sektör oranının daha yüksek olmasından kaynaklanır. Ayrıca regex yaka sınıflandırıcısı, veri setindeki yaka etiketiyle CV'lerin
 %1,97'sinde çelişiyor.
 
 ### E5. Ek gözlemler
@@ -206,8 +233,8 @@ değil, tanım değişikliğinden geliyor. Ayrıca regex yaka sınıflandırıc�
 |---|---|
 | Etiketten türetilen çarpanlar (E2) | Çarpan yok. Sıralamayı **LambdaMART** öğrenir. Sektör/yaka uyumu yalnızca **train'de eğitilmiş metin sınıflandırıcılarının tahmin olasılıklarıdır**; öznitelikler yalnızca CV metninden ve ilanın kendi meta verisinden üretilir. `assert_no_gold_columns` buna ek olarak sütun adı düzeyinde bir şema korumasıdır (altın/etiket sütunu adlarını reddeder, değerleri denetlemez) |
 | Yerel IDCG (E1) | IDCG tüm havuzdaki derecelerden (`match_candidate_sota.ndcg_at_k`) |
-| Kendine referanslı CMQ (E3) | Ground truth, modelden bağımsız **ISCO-08 meslek kodu + uzmanlık + yaka + kıdem + lokasyon** kurallarından üretilir. Tüm 3.043 × 3.000 çift için tam yargı vardır |
+| Kendine referanslı CMQ (E3) | Ground truth, modelden bağımsız **ISCO-08 meslek kodu + uzmanlık + yaka + kıdem + lokasyon** (grade 1 için ana sektör) kurallarından üretilir. Tüm 3.043 × 3.000 çift için tam yargı vardır |
 | Model-türevi etiketler (D) | Etiketler hiçbir sıralama modelinin skorundan türetilmez. LLM destekli meslek anotasyonu + IAA (Cohen κ) + çift düzeyi doğrulama |
 | Kolay "hard negative"ler (D) | 4 tür gerçek zor negatif: leksikal tuzak, kıdem/yaka tuzağı, BM25, qrels-filtreli yoğun madencilik. Hepsi qrels'e göre grade 0 (kıdem/yaka tuzağı ≤ 1); en benzer grade-0 ilanlar seçildiği için bir kısmı gerçekte yakın-alakalı olabilir (kural kaynaklı yanlış negatif nadir ama sıfır değil) |
-| Etiket belirteci kısayolu (D) | CV metninde altın etiket yok. İlan metnindeki "Sektör" yalnızca ilanın kendi meta verisi; alaka sektöre değil mesleğe dayanır |
+| Etiket belirteci kısayolu (D) | CV metninde altın etiket yok. İlan metnindeki "Sektör" ilanın kendi meta verisi; ikili metriklerin alaka eşiği (grade ≥ 2) mesleğe (ISCO-08 birim grubu / uzmanlık) dayanır. Sektör yalnızca grade 1'de rol oynar (kısmi alaka: yaka uyumu + aynı ana sektör) ve kademeli NDCG@10'a kazanç 1 ile girer |
 | Şablon sızıntısı (C) | Normalize unvan ve neredeyse-kopya grupları bölümler arasında ayrık; ayrıca %10 soğuk-başlangıç ilan havuzu |

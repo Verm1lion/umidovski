@@ -1,8 +1,8 @@
 # CV ↔ İş İlanı Eşleştirme — Akademik Savunma ve Kurulum Rehberi
 
-> Bu doküman dört bölümden oluşur: (1) Colab A100 kurulumu ve çalıştırma, (2) eski sistemin bilimsel eleştirisi,
+> Bu doküman altı bölümden oluşur: (1) Colab A100 kurulumu ve çalıştırma, (2) eski sistemin bilimsel eleştirisi,
 > (3) yeni mimarideki her bileşenin teorik ve matematiksel gerekçesi, (4) jüriden gelebilecek en zor 10 soru ve
-> cevapları. Rehberdeki her ölçüm ve istatistik, depodaki scriptlerle ve kayıtlı ara çıktılarla yeniden üretilebilir
+> cevapları, (5) sınırlılıklar, (6) yeniden üretim. Rehberdeki her ölçüm ve istatistik, depodaki scriptlerle ve kayıtlı ara çıktılarla yeniden üretilebilir
 > (BÖLÜM 6). İki istisna vardır: BÖLÜM 1'deki süreler A100'de **ölçülmemiş tahminlerdir**; nöral modellerin
 > (Aşama 1/2) sonuçları ise henüz yoktur ve notebook'un Colab A100'de çalıştırılmasıyla üretilecektir. Kaynakça en sondadır.
 
@@ -18,7 +18,7 @@
 | `reports/*.json`, `reports/figures/` | Ham ölçümler: `faz1_audit`, `faz2_veri_ozeti`, `annotation_iaa`, `annotation_stats`, `synthetic_cv_stats`, `qrels_validation`, `local_bm25_test`, `local_lexical_ltr`, `notebook_dogrulama`; Faz 1 grafikleri |
 | `reports/dry_run_executed_notebook.ipynb` | Notebook'un CPU duman testindeki çalıştırılmış kopyası (çıktıları anlamsız, yalnız akış kanıtı) |
 | `annotation/` | Kılavuz (`GUIDELINES.md`), anotasyon girdileri (`items.jsonl`, `chunks/`, `iaa_chunks/`), kayıtlı LLM çıktıları (`raw/`, `iaa_raw/`, `consolidation_raw/`, `synthetic/gen`, `synthetic/verify`, `qrels_validation/judged_*.json`), nihai etiketler (`occupation_labels.parquet`), çift düzeyi doğrulama anahtarı ve rubriği, biçim doğrulayıcıları (`validate_*.py`) |
-| `scripts/01…11_*.py` (+ `common.py`) | Verinin, raporların ve notebook'un tamamını yeniden üreten scriptler (sıra: BÖLÜM 6) |
+| `scripts/01…11_*.py` (+ `common.py`) | Verinin, notebook'un ve `reports/` altındaki ölçüm çıktılarının (JSON'lar, Faz 1 grafikleri, `FAZ2_VERI_RAPORU.md`, duman testi kopyası) tamamını yeniden üreten scriptler (sıra: BÖLÜM 6); `FAZ1_ADLI_DENETIM_RAPORU.md` ise elle yazılmıştır (sayı kaynakları: BÖLÜM 6 sonu) |
 | `veriseti/`, `match_candidate.py`, `test.py`, `sbertmodel.py`, `MODEL_VE_TEST_REHBERI.md` | Eski projenin verisi, kodu ve rehberi (Faz 1'de denetlenen girdiler) |
 
 ---
@@ -53,9 +53,10 @@
 
 7. **Sonuçları alın.** Son hücreler `export_model_bundle.zip`'i üretir (model ağırlıkları fp16; tahminen ≈2,5 GB) ve
    Drive'a kopyalar; paket 1,5 GB'tan küçükse tarayıcı indirmesini de başlatır. Grafikler, CSV tabloları ve
-   `metrics.json` paketin içindedir (`figures/`, `ablation_test.csv`, `cold_start_test.csv`). Son hücre paketi
-   sıfırdan yükleyip notebook sonuçlarıyla **eşitliğini** (30 test sorgusunda Top-10 örtüşme ve Top-1 eşitliği) ve
-   `fastapi` kuruluysa FastAPI uç noktasını test eder.
+   `metrics.json` paketin içindedir (`figures/`, `ablation_test.csv`, `cold_start_test.csv`). §13'ün son hücresi
+   (notebook'un sondan bir önceki kod hücresi) paketi sıfırdan yükleyip notebook sonuçlarıyla **uyumunu** ölçer (30 test
+   sorgusunda ortalama Top-10 örtüşme ve Top-1 aynılık oranı yazdırılır; fp16 yuvarlaması küçük farklar
+   yaratabileceğinden eşitlik zorunlu tutulmaz) ve `fastapi` kuruluysa FastAPI uç noktasını test eder.
 8. **Canlıda kullanım (arkadaşınız için):** Kurulum satırı, paketteki `README_INFERENCE.md`'nin yazdığı satırla
    aynıdır. `attribute_models.joblib` ve `title_sim.joblib` scikit-learn nesnelerinin pickle'ları olduğundan
    scikit-learn, eğitimdeki sürüme sabitlenir (sürüm `config.json → sklearn_version` alanındadır); `--serve` için
@@ -77,7 +78,7 @@
 | A100 yerine T4/L4/V100 geldi | Çalışır ama yavaştır. Notebook GPU neslini algılar: bf16/TF32 yalnız Ampere+ (A100/L4) üzerinde açılır, T4/V100'de otomatik fp16 kullanılır; batch boyutlarını düşürün |
 | Drive bağlamak istemiyorum | `CFG["USE_DRIVE"]=False`; sonuçlar yalnız Colab diskinde kalır (oturum kapanınca silinir) |
 | Kurulum sonrası "restart runtime" uyarısı | *Çalışma zamanı → Yeniden başlat*, ardından tekrar *Tümünü çalıştır* (kurulum hızlıca atlanır) |
-| Hugging Face indirmesi yavaş | Colab ağına bağlıdır. Model adları `CFG` içinde değiştirilebilir (ör. `intfloat/multilingual-e5-large`) |
+| Hugging Face indirmesi yavaş | Colab ağına bağlıdır; modeller oturumda bir kez iner. Model adları `CFG` içinde değiştirilebilir, ancak koddaki alternatif `intfloat/multilingual-e5-large` (≈ 2,2 GB) BGE-M3 ile hemen hemen aynı boyuttadır ve indirmeyi hızlandırmaz (bge-reranker-v2-m3 ≈ 2,3 GB yine iner). Daha küçük bir model indirmeyi kısaltır ama sonuçları değiştirir |
 | Hızlı bir deneme isteniyor | `CFG`'de `BI_EPOCHS=1`, `TUNE_TEMPERATURE=False`, `LEGACY_EPOCHS=1`, `CE_EPOCHS=1`, `LTR_TRIALS=10` yapın (yukarıdaki tablodan türetilen tahmin ≈ 40–60 dk; ölçülmedi) |
 
 **Doğrulama:** Notebook bu depoda CPU üzerinde `DRY_RUN` modunda uçtan uca çalıştırılmıştır:
@@ -105,16 +106,19 @@ Burada $c_{\text{sektör}}=\mathbb{1}[\text{Cat}(cv)=\text{Ind}(ilan)] + 0{,}85\
 **Canlı sıralama fonksiyonu, doğru cevap fonksiyonunun kendisini içeriyor.** Kaufman vd. (2012) bunu *leakage*
 olarak tanımlar: tahmin anında meşru olarak bulunmayacak, hedefle aynı bilgiyi taşıyan bir girdinin modele verilmesi.
 
-**Analitik kanıt.** E5 kosinüsleri dar bir bantta toplanır, $s\in[a,b]\approx[0{,}70;0{,}90]$. Farklı sektördeki bir
-ilanın skoru en fazla $c\cdot b$, aynı sektördeki bir ilanınki en az $a$ olur. $c\cdot b<a$ ise hiçbir farklı sektör
+**Analitik kanıt.** E5 kosinüsleri dar bir bantta toplanır, $s\in[a,b]\approx[0{,}70;0{,}90]$. Yalnız sektör çarpanı
+ele alındığında (diğer çarpanlar 1 alınarak) farklı sektördeki bir ilanın skoru en fazla $c\cdot b$, aynı sektördeki
+bir ilanınki en az $a$ olur (tam formülde $c_{\text{yaka}}\in\{0,1\}$ olduğundan aynı sektör ilanının skoru 0'a kadar
+düşebilir; aşağıdaki simülasyon da yalnız sektör çarpanını uygular). $c\cdot b<a$ ise hiçbir farklı sektör
 ilanı bir aynı sektör ilanının önüne geçemez ve aday başına en az 10 aynı sektör ilanı varsa $\text{P@10}=1$ olur
 (aday başına aynı sektör ilan sayısı medyan 194, minimum 8; dolayısıyla $\text{P@10}\approx 1$). Bu koşul eski
 rehberdeki $c=0{,}50$ için sağlanır ($0{,}45<0{,}70$). Yukarıdaki formüldeki $c=0{,}85$ için ise **sağlanmaz**
 ($0{,}765>0{,}70$): bu değerde analitik garanti yoktur ve sonuç aşağıdaki ampirik kanıta dayanır.
 
-**Ampirik kanıt.** Hiçbir bilgi içermeyen **rastgele** skorlar `match_candidate.py`'nin sektör çarpanıyla (0,85)
-çarpılıp `test.py`'nin "aynı sektör" metriğiyle ölçüldüğünde, 450 test CV'sinde **P@10 = %99,84, Top-1 = %100** elde
-ediliyor (0,50 ile P@10 = %99,91). Yani canlı sıralama bu metrikle değerlendirilirse metrik modelin değil, sızdırılan
+**Ampirik kanıt.** Hiçbir bilgi içermeyen **rastgele** skorlar (yukarıdaki bant varsayımıyla $U(0{,}70;\,0{,}90)$;
+kesin değerler bu varsayıma bağlıdır) `match_candidate.py`'nin sektör çarpanıyla (0,85) çarpılıp `test.py`'nin "aynı
+sektör" metriğiyle ölçüldüğünde, 450 test CV'sinde **P@10 = %99,84, Top-1 = %100** elde ediliyor (0,50 ile P@10 =
+%99,91). Yani canlı sıralama bu metrikle değerlendirilirse metrik modelin değil, sızdırılan
 etiketin başarısını ölçer.
 
 **Kapsam notu.** Bu simülasyon, eski rehberde bildirilen sayıların nasıl üretildiğini **anlatmaz**. Rehberdeki
@@ -140,7 +144,9 @@ bu kendine referans sayesinde +3,3 puan kazanıyor.
 * Eğitim ilan metinlerinin %100'ü `Sektör: <ETİKET>` belirtecini içeriyor; pozitiflerin %94'ü aynı sektörden,
   negatiflerin ise %81,3'ü farklı sektörden (HARD_NEG'lerin %100'ü, SOFT_NEG'lerin yalnızca %34,1'i).
   Model "etiket belirtecini eşle" kısayolunu öğrenir (Geirhos vd., 2020).
-  Değerlendirme de sektör eşleşmesi olduğu için kısayol ödüllendirilir.
+  Değerlendirme de yalnızca sektör eşleşmesine baktığından sektör düzeyindeki eşleştirme ödüllendirilir; ancak
+  `test.py` ve `match_candidate.py`'nin ilan metni `Sektör:` belirtecini içermez, yani belirteç kısayolu testte
+  doğrudan işleyemez ve ayrıca bir train/serve uyumsuzluğu doğar.
 * "HARD_NEG" etiketli 12.836 örneğin %100'ü farklı sektörden ve ortalama benzerliği −0,05. Bunlar **kolay** negatif.
   Zor negatif yokluğu, Karpukhin vd. (2020) ve Xiong vd. (2021) tarafından gösterilen başlıca performans
   kayıplarından biridir.
@@ -200,7 +206,10 @@ kullanılır.
   uzmanlık, yaka, kıdem) **görmedi**, yalnızca CV ve ilan metnini okudu; ancak derece tanımları kendilerine rubrik
   olarak verildi (`annotation/qrels_validation/RUBRIC.txt`) ve bu rubrik kuralların sözel karşılığıdır. Bu ölçüm bu
   yüzden kuralların bağımsız bir alaka tanımıyla değil, metinden uygulanmalarıyla tutarlılığını sınar. Örneklem: her
-  kural derecesinden 90 çift olmak üzere 360 çift, yalnızca gerçek val/test CV'leri; yargılar hiçbir eğitimde
+  kural derecesinden 90 çift olmak üzere 360 çift, yalnızca gerçek (sentetik olmayan) CV'ler. Örneklem, bölmenin
+  önceki bir sürümündeki val/test CV'lerinden çekildi; güncel bölmede 360 çiftin 244'ü train, 69'u test, 47'si val
+  CV'lerine düşer. Kural dereceleri bölmeden bağımsızdır ve 360 çiftin tümünde güncel qrels ile birebir aynıdır; bu
+  yüzden doğrulama kurallar için geçerlidir, ancak artık held-out bir ölçüm değildir. Yargılar hiçbir eğitimde
   kullanılmaz. Sonuç: **ikinci dereceden ağırlıklı κ = 0,836**, Spearman ρ = 0,875, \|fark\| ≤ 1 oranı %97,8,
   ikili (grade ≥ 2) uyum %86,1 (κ = 0,722); birebir uyum ise %68,1'dir. 115 ayrışmanın 97'si (%84) **bir kademe
   aşağı**, 8'i iki kademe aşağı, 10'u yukarı yöndedir. Yargıçlar kural grade-3 çiftlerinin 47/90'ını (%52) 2, kural
@@ -221,7 +230,7 @@ kullanılır.
   TREC tarzı *pooling*'in yarattığı "yargılanmamış = alakasız" yanlılığı (Buckley & Voorhees, 2004) burada yoktur.
   Zor negatif madenciliğinde negatifin kural derecesi bilinir, tahmin edilmez; bu yüzden **qrels'e göre** yanlış
   negatif yoktur (leksikal, BM25 ve yoğun negatifler grade 0, kıdem/yaka tuzakları grade ≤ 1). Gerçek alakaya göre
-  ise yanlış negatif nadirdir ama **imkânsız değildir**: madencilik bilerek en benzer grade-0 ilanları seçtiği için
+  ise yanlış negatif **imkânsız değildir** ve oranı ölçülmedi: madencilik bilerek en benzer grade-0 ilanları seçtiği için
   kural hataları tam bu slotlarda yoğunlaşabilir. Train triplet'lerinde `neg_lexical`'in 291/4.883'ü (%6,0) ve
   `neg_bm25`'in 279/4.883'ü (%5,7) anchor ile aynı ISCO-08 alt grubunda (3 hane), aynı yakada ve \|Δkıdem\| ≤ 1'dir;
   bunlar yalnızca 4 haneli birim grubu ve ana sektör farklı olduğu için grade 0 almıştır ve bir kısmı muhtemelen
@@ -259,12 +268,15 @@ $$\mathcal{L}_{\text{MNRL}}=-\frac{1}{|B|}\sum_{i\in B}\log\frac{\exp(s(q_i,d_i^
 * $\mathcal{H}_i$: her satıra eklenen **4 zor negatif**:
   (i) **leksikal tuzak**: unvan karakter n-gram'ı çok benzeyen ama farklı sektörden grade-0 ilan
   (*Baklava Ustası* ↔ *Sıva Ustası*);
-  (ii) **kıdem/yaka tuzağı**: aynı sektör veya ISCO grubundan, yakası zıt ya da \|Δkıdem\| ≥ 3 olan ilan
-  (*Java stajyeri* ↔ *Kıdemli mimar / direktör*);
+  (ii) **kıdem/yaka tuzağı**: aynı sektörden veya aynı ISCO-08 alt-ana grubundan (2 hane), yakası zıt ya da
+  \|Δkıdem\| ≥ 3 olan grade ≤ 1 ilan (*Java stajyeri* ↔ *Kıdemli mimar / direktör*); böyle ilan yoksa BM25 negatif
+  adaylarının 4.–10.'sundan grade-0 ilan konur (train'de 19 anchor / 29 satır);
   (iii) **BM25 negatifi**: kelime kesişimi en yüksek ama grade-0 olan ilan;
   (iv) **yoğun madencilik**: eğitimsiz base modelin üst sıralara koyduğu grade-0 ilan
-  (ANCE, Xiong vd., 2021; RocketQA, Qu vd., 2021). Tam yargı sayesinde bu negatifler qrels'e göre kesin grade-0'dır;
-  gerçek alakaya göre kural kaynaklı yanlış negatif ise nadirdir ama sıfır değildir (bkz. §3.2).
+  (ANCE, Xiong vd., 2021; RocketQA, Qu vd., 2021). Tam yargı sayesinde bu negatiflerin kural derecesi
+  kesin bilinir: qrels'e göre (i), (iii) ve (iv) grade 0, (ii) kıdem/yaka tuzakları grade ≤ 1'dir (train'de 4.883
+  tuzağın 1.730'u grade 1); gerçek alakaya göre kural kaynaklı yanlış negatif ise imkânsız değildir ve oranı ölçülmedi
+  (bkz. §3.2).
 * **Sıcaklık** $\tau$ ($\text{scale}=1/\tau$) {0,05; 0,02} ızgarasında (`TEMP_GRID=[20, 50]`; her değer eğitim
   satırlarının yarısıyla 1 epoch), doğrulama NDCG@10'una göre seçilir.
 * **GradCache** (Cached MNRL; Gao vd., 2021): Gradyanlar mini-batch'lere bölünerek hesaplanır. Böylece bellek sabit
@@ -272,19 +284,23 @@ $$\mathcal{L}_{\text{MNRL}}=-\frac{1}{|B|}\sum_{i\in B}\log\frac{\exp(s(q_i,d_i^
 * **Tekrarsız örnekleyici (NO_DUPLICATES):** Bir batch'te anchor ve pozitif metinleri tekildir ve hiçbir satırın
   pozitifi başka bir satırın negatifi olarak yer almaz (aynı zor negatifin birden çok satırda paylaşılması zararsızdır);
   en bariz yanlış negatif bu sayede oluşmaz. ST 6.1'in örnekleyicisinde iki sessiz hata vardı ve notebook bunları
-  düzeltir. (i) Batch sayısının yalnızca bir üst-sınır tahmini olması nedeniyle bazı satırlar hiç eğitilmiyordu.
+  düzeltir. (i) Örnekleyicinin `__len__` değeri (⌈N/B⌉) gerçek batch sayısından küçüktü: çakışan satırlar sonraki,
+  eksik dolu batch'lere ertelendiği için gerçekte daha fazla batch üretiliyordu. Trainer epoch başına yalnızca
+  `__len__` kadar batch çektiğinden fazladaki batch'lerin satırları hiç eğitilmiyordu.
   (ii) Çoklu-veri modunda epoch tohumu iletilmediği için her epoch aynı batch'ler tekrarlanıyordu.
   Kalan batch-içi yanlış-negatif oranını notebook rastgele batch'ler üzerinden **tahmin eder** ve üç parça hâlinde
   raporlar: başka satırların pozitifleri, başka satırların zor negatifleri ve satırın kendi zor negatifleri (sonuncusu,
-  kendi negatiflerin kural derecesi ≤ 1 olduğundan tanım gereği 0). Tam veriyle GPU eğitiminden ölçülmüş bir oran henüz yoktur; CPU duman
-  testinde (60 anchor'lık alt örneklem, $|B|=16$) bu üç oran sırasıyla %1,78, %0,91 ve %0,00 çıkmıştır.
+  kendi negatiflerin kural derecesi ≤ 1 olduğundan tanım gereği 0). Tam veriyle (A100) hesaplanmış bir oran henüz
+  yoktur. CPU duman testinde (60 anchor'lık alt örneklem, $|B|=16$) hücre %1,78, %0,91 ve %0,00 yazdırmıştır; bu
+  yalnız akış kanıtıdır. Tanı hücresi, NO_DUPLICATES örnekleyicisinin hiç aynı batch'e koymadığı aynı anchor'a ait
+  satır çiftlerini atlamadığından ilk oran (özellikle küçük alt örneklemde) olduğundan yüksek çıkar.
 * **CoSENT çoklu-görev kaybı** (Su, 2022; AnglE: Li & Li, 2023): kademeli sıralamayı doğrudan öğretir:
   $$\mathcal{L}_{\text{CoSENT}}=\log\Big(1+\sum_{r(i)>r(j)}\exp\big(\lambda\,(s_j-s_i)\big)\Big)$$
   Grade-2 bir çift grade-1 bir çiftten, grade-1 de grade-0'dan yüksek skorlanmalıdır. MNRL yalnızca "pozitif mi
   değil mi" öğretir; CoSENT kademeyi öğretir.
 * **Yapılandırılmış girdi şablonu:** `Pozisyon / Kıdem (metinden) / Konum / Yetkinlikler / Özet / Deneyim / Eğitim /
-  Sertifikalar`. CV tarafında **altın etiket (sektör/yaka/ISCO) yoktur**. İlan tarafındaki *Sektör* ve *Kıdem*,
-  ilanın **kendi** meta verisidir (işverenin girdiği alan).
+  Sertifikalar / Projeler / Diller` (boş bölümler yazılmaz). CV tarafında **altın etiket (sektör/yaka/ISCO) yoktur**.
+  İlan tarafındaki *Sektör* ve *Kıdem*, ilanın **kendi** meta verisidir (işverenin girdiği alan).
 
 ### 3.5 Aşama 1b — BM25 (Robertson & Zaragoza, 2009)
 $$\mathrm{BM25}(q,d)=\sum_{t\in q}\mathrm{idf}(t)\cdot\frac{f(t,d)(k_1+1)}{f(t,d)+k_1\big(1-b+b\frac{|d|}{\mathrm{avgdl}}\big)},\quad k_1=1{,}5,\ b=0{,}75$$
@@ -329,9 +345,11 @@ unvan karakter n-gram benzerliği · deneyim yılı …
    TF-IDF + lojistik regresyon sınıflandırıcılarının **tahmin olasılıklarıdır**. Bu sınıflandırıcıların
    val doğruluğu %100 değildir ve bu notebook'ta raporlanır: öznitelik altın etiketin kopyası değil, gerçek bir tahmindir.
 2. Öznitelikler yapısal olarak altın etiketsizdir: `build_pair_features` girdi olarak yalnızca
-   `QueryMeta.from_text` çıktısını (CV metni + train'de eğitilmiş sınıflandırıcıların olasılıkları) ve ilanın kendi
-   meta verisini alır; çıktısı daima `FEATURE_COLUMNS` ile sınırlıdır. `assert_no_gold_columns` bunun üstünde
-   yalnızca bir **şema korumasıdır**: öznitelik tablosunda `gold_`/`legacy_` önekli ya da `grade`, `label`,
+   `QueryMeta.from_text` çıktısını (CV metni + train'de eğitilmiş sınıflandırıcıların olasılıkları), `JobTable`'ı
+   (ilanın kendi metni ve meta verisi + train'de eğitilmiş yaka sınıflandırıcısının ilan unvanından tahmini), unvan benzerliği
+   modelini ve Aşama 1/2 skorları ile sıralarını (dense, BM25, RRF, CE; yalnızca CV ve ilan metninden hesaplanır)
+   alır; bunların hiçbiri altın etiket değildir ve çıktısı daima `FEATURE_COLUMNS` ile sınırlıdır.
+   `assert_no_gold_columns` bunun üstünde yalnızca bir **şema korumasıdır**: öznitelik tablosunda `gold_`/`legacy_` önekli ya da `grade`, `label`,
    `Category`, `collar`, `occ_key`, `isco4`, `specialty` adlı bir sütun varsa hata verir. Notebook'ta LTR eğitim/test
    tablolarında, soğuk-başlangıç ve hata analizi tablolarında; ayrıca `scripts/11_local_lexical_ltr.py`'de ve
    çıkarımda (`SOTAMatcher.match`) çağrılır. Etiket sütunlarının yanlışlıkla öznitelik olarak verilmesini engeller;
@@ -356,8 +374,9 @@ unvan karakter n-gram benzerliği · deneyim yılı …
   Smucker vd. (2007) IR karşılaştırmalarında bu testi önerir.
 
 ### 3.10 Sentetik zenginleştirme
-Train'de hiç (ya da yalnızca 1) CV'si olmayan 868 uzmanlık için, **yalnızca WARM ilanların meslek bilgisinden**
-uzmanlık başına bir gerçekçi Türkçe CV üretildi. Bu, ilanlardan sorgu üretme fikridir (InPars: Bonifacio vd., 2022; Promptagator:
+Hedeflerin seçildiği andaki (önceki) bölmede train'de hiç (ya da yalnızca 1) gerçek CV'si olmayan 868 WARM uzmanlık
+için (nihai bölmede bu koşulu 890 uzmanlık sağlar; 868 hedefin 61'inin artık train'de ≥ 2 gerçek CV'si vardır),
+**yalnızca WARM ilanların meslek bilgisinden** uzmanlık başına bir gerçekçi Türkçe CV üretildi. Bu, ilanlardan sorgu üretme fikridir (InPars: Bonifacio vd., 2022; Promptagator:
 Dai vd., 2023). **Gidiş-dönüş tutarlılık filtresi** uygulandı: üretilen CV, hedefi bilmeyen bağımsız bir anotatörce
 kodlandı; ISCO kodu, yaka ve kıdem (±1) hedefle uyuşmayan CV atıldı. 868 CV'nin **710'u** kabul edildi; 157'si
 gidiş-dönüş filtresiyle, 1'i başlığı bir val/test CV'siyle çakıştığı için reddedildi. Sentetik CV'ler **yalnızca
@@ -383,7 +402,7 @@ olarak yer alır). Notebook'taki tam boru hattı bu iki sistemin üstüne ince a
 onların sayıları henüz yoktur.
 
 **Aynı BM25 sıralamasının eski metrikle ölçümü:** "aynı sektör" ölçütüyle P@10 = %64,12, Top-1 = %78,09. Eski metrik
-aynı sıralamayı kademeli metriğe göre P@10'da 25,7 puan (38,37 → 64,12; P@10_capped'e göre 15,6 puan), Top-1'de
+aynı sıralamayı kademeli metriğe göre P@10'da 25,8 puan (38,37 → 64,12; P@10_capped'e göre 15,6 puan), Top-1'de
 13,4 puan (64,68 → 78,09) daha yüksek gösteriyor (eski metrik 461 test CV'sinin tamamında, kademeli metrikler alakalı
 ilanı olan 453 sorguda ortalanır). Faz 1'de eski 450 test CV'si üzerinde de aynı karşılaştırma yapıldı: eski metrikle
 eğitimsiz BM25 Top-1 = %76,44 alıyor. Eski projenin ince ayarlı model için bildirdiği (çarpansız, ham benzerlikle
@@ -396,10 +415,11 @@ eğitimsiz BM25 Top-1 = %76,44 alıyor. Eski projenin ince ayarlı model için b
 **S1. "Ground truth'unuzu da siz ürettiniz. Bu da döngüsel değil mi?"**
 Hayır. Döngüsellik, *sıralama fonksiyonunun* doğru cevabı girdi olarak görmesidir. Bizde doğru cevap (qrels),
 modellerden **bağımsız** bir süreçle, meslek kodları ve yazılı kurallarla bir kez üretilir. Hiçbir model qrels'i
-veya altın meslek kodlarını öznitelik olarak görmez: öznitelikler yalnızca CV metninden ve ilanın kendi meta
-verisinden üretilir (§3.8 kural 1–2; `assert_no_gold_columns` bunu sütun adı düzeyinde ayrıca denetler). Eski canlı
-sıralamada (`match_candidate.py`) ise $c_{\text{sektör}}$, $\text{rel}$ ile **aynı** alandan (adayın altın
-`Category`'si) türetiliyordu; bu sıralama aynı metrikle ölçülürse rastgele skorlar bile %100 Top-1 alır (§2.1).
+veya altın meslek kodlarını öznitelik olarak görmez: öznitelikler yalnızca CV metninden ve ilanın kendi metni
+ile meta verisinden üretilir (§3.8 kural 1–2; `assert_no_gold_columns` bunu sütun adı düzeyinde ayrıca denetler).
+Eski canlı sıralamada (`match_candidate.py`) ise $c_{\text{sektör}}$, $\text{rel}$ ile **aynı** alandan (adayın altın
+`Category`'si) türetiliyordu; rastgele skorlar yalnızca bu sektör çarpanıyla (0,85) çarpılıp aynı metrikle
+ölçüldüğünde bile %100 Top-1 alır (§2.1).
 Eski rehberdeki sayılar ise çarpansız üretildi; onların sorunu döngüsellik değil, yerel IDCG ve zayıf "aynı sektör"
 alaka tanımıdır. Bizim sistemde rastgele skorlar bu düzeye ulaşamaz. Etiketlerin geçerliliği ayrıca IAA (Cohen κ)
 ve çift düzeyi doğrulamayla ölçüldü. Etiketlerin bir "gümüş standart" (silver standard) olduğunu açıkça kabul ediyoruz.
@@ -434,9 +454,9 @@ p-değerleriyle doğrudan ölçer. Bu değerler A100 çalıştırmasından gelec
 **S5. "LambdaMART'a neden ihtiyaç var? Cross-encoder skoru yetmez mi?"**
 Cross-encoder yalnızca metin benzerliğini görür. Kıdem farkı, lokasyon/remote uyumu ve yaka uyumu gibi yapısal
 kısıtlar metinde örtük ya da zayıf temsil edilir. Eski sistem bunları **elle seçilmiş çarpanlarla** birleştiriyordu.
-LambdaMART ise bu sinyallerin ağırlıklarını ve aralarındaki doğrusal olmayan etkileşimleri (ör. "mavi yakada şehir
-farkı beyaz yakadakinden daha önemli") **veriden**, doğrudan NDCG'yi optimize ederek öğrenir. Hangi sinyalin ne
-kadar katkı verdiği SHAP katkılarıyla açıklanır. Notebook §11'deki "Bileşen katkıları" tablosu
+LambdaMART ise bu sinyallerin ağırlıklarını ve aralarındaki doğrusal olmayan etkileşimleri (ör. kıdem farkının ve
+lokasyon uyumunun ancak meslek ve yaka uyuştuğunda dereceyi değiştirmesi) **veriden**, doğrudan NDCG'yi optimize
+ederek öğrenir. Hangi sinyalin ne kadar katkı verdiği SHAP katkılarıyla açıklanır. Notebook §11'deki "Bileşen katkıları" tablosu
 (`ablation_component_tests.csv`) her bileşeni ayrı ayrı, aynı test sorgularında ΔNDCG@10, ΔTop-1 ve iki yönlü
 eşleştirilmiş randomizasyon p-değerleriyle test eder: ince ayar (fine-tuned dense vs zero-shot base), BM25 füzyonu
 (S1 vs fine-tuned dense), cross-encoder (Hybrid+CE vs S1), **LambdaMART (S2 vs Hybrid+CE)** ve toplam (S2 vs B1 ile
@@ -444,8 +464,8 @@ S2 vs B3). LambdaMART'ın cross-encoder üzerindeki katkısı bu tablonun "Lambd
 ablation tablosundaki "önceki satıra göre" p-değeri ise S2'yi S1 ile karşılaştırdığından cross-encoder ve LambdaMART'ı
 birlikte ölçer. Bu tablonun değerleri A100 çalıştırmasından gelecektir; bu depoda henüz yoktur. Nöral bileşenler
 olmadan yerelde ölçülen karşılaştırma ise LambdaMART'ın ham BM25 üzerindeki katkısıdır (cross-encoder üzerindeki
-değil): BM25 → BM25 + LambdaMART geçişi NDCG@10'u %53,66'dan %66,05'e, Top-1'i %64,68'den %72,85'e çıkarıyor
-(p ≈ 0,0001; §3.11).
+değil): BM25 → BM25 + LambdaMART geçişi NDCG@10'u %53,66'dan %66,05'e (NDCG@10 farkı için p ≈ 0,0001; §3.11),
+Top-1'i %64,68'den %72,85'e çıkarıyor.
 
 **S6. "LambdaMART'ı val kümesinde eğittiniz. Val'i hem model seçimi hem eğitim için kullanmak sızıntı değil mi?"**
 Test kümesine hiç dokunulmaz; test yalnızca en sonda ölçüm için kullanılır ve hiçbir seçim test üzerinde yapılmaz.
@@ -469,8 +489,10 @@ henüz yoktur. Notebook hedefleri gerçek sonuçlarla otomatik ve dürüstçe ka
 karşılanmadı"). Bu depoda yerelde ölçülen en iyi sistem, nöral bileşen içermeyen BM25 + LambdaMART'tır: NDCG@10 =
 %66,05, Top-1 = %72,85, P@10 = %45,01 (P@10_capped = %56,35). İki metodolojik not gerekir.
 (i) Bizim alaka tanımımız eskisinden çok daha **katıdır**: "aynı sektör" değil, "aynı meslek + yaka + kıdem
-(+ lokasyon)". Eski metriğin %80'i ile bizim metriğin sayısı doğrudan karşılaştırılamaz. Eski modelin gerçek
-performansı aynı katı metrikle Baseline 3 satırında ölçülür.
+(+ lokasyon)". Eski metriğin %80'i ile bizim metriğin sayısı doğrudan karşılaştırılamaz. Eski yaklaşımın
+(e5-small + `CosineSimilarityLoss`) aynı katı metrikle sızıntısız ölçümü Baseline 3 satırındadır; bu satır eski modelin
+kendisi değil, eski çiftlerin yalnız yeni train CV'lerine ve WARM ilanlara düşen kısmıyla (16.206 / 25.906 çift)
+yeniden eğitilmiş kopyasıdır ve sayısı A100 çalıştırmasından gelecektir.
 (ii) Standart P@10, alakalı ilan sayısı 10'dan az olan sorgularda yapısal olarak 1'e ulaşamaz; bu yüzden
 $P@10_{capped}$ de raporlanır. Hedef bir sayıya ulaşmak için metriği gevşetmedik. Ulaşılamadıysa bu
 tabloda açıkça görünür.
@@ -488,7 +510,7 @@ Dört bağımsız kanıt sunuyoruz:
 farklı sektörden grade-0 ilanlar.
 (2) Vitrin adayları **test** kümesinde ve eğitimde hiç görülmedi.
 (3) §12'deki tuzak tablosu, her vitrin adayı için unvanı karakter n-gram olarak en çok benzeyen beş grade-0 ilanın
-eski sistemde (B3) ve bizim sistemde **kaçıncı sırada** çıktığını yan yana verir. Unvan benzerliği modelden bağımsız
+eski yaklaşımda (B3) ve bizim sistemde **kaçıncı sırada** çıktığını yan yana verir. Unvan benzerliği modelden bağımsız
 ve deterministik olduğundan bu liste varsayılan `CFG` ile her çalıştırmada aynıdır (duman testi çıktısında da
 böyledir); 20951 için *Gemi Montaj Ustası, Zemin Şap Ustası, Kalıp ve Demir Ustası, Kaba ve İnce Sıva Ustası, Isı ve
 Ses Yalıtım Ustası*. §12.1 ise doğru ilan ile unvanı en çok benzeyen grade-0 tuzak ilan çifti için (20951'de bu
@@ -522,8 +544,9 @@ Kekäläinen, 2002).
 2. **Teknoloji yığını ayrımı yapılmadı.** Kılavuz gereği "Java backend" ile ".NET backend" aynı uzmanlıktır (grade 3
    olabilir). Teknoloji uyumu etikette değil öznitelikte (beceri kesişimi) yer alır; jüri isterse uzmanlık tanımı
    inceltilerek qrels yeniden üretilebilir.
-3. **Veri setinin doğası.** CV ve ilanların önemli kısmı sentetik ya da şablonludur (bkz. Faz 1 §B). Gerçek
-   platform verisinde mutlak sayıların farklı çıkması beklenir.
+3. **Veri setinin doğası.** CV'lerin önemli kısmı şablon cümleler taşır (CV'lerin %38,3'ü en az bir şablon cümle
+   içerir; bkz. Faz 1 §B) ve train'deki 710 CV sentetiktir (§3.10). İlanlardaki şablon tekrarı Faz 1'de ölçülmedi.
+   Gerçek platform verisinde mutlak sayıların farklı çıkması beklenir.
 4. **Kural tabanlı dereceler.** Kurallar İK pratiğini yansıtır ama tek doğru değildir (ör. kıdem toleransı ±1).
    Dereceler `scripts/05_build_dataset.py → grade_matrix()` içinde hesaplanır (kıdem toleransları `sd <= 1` /
    `sd <= 2`, yaka ve lokasyon koşulları). Aynı dosyadaki `GRADE_RULES` yalnızca bu kuralların `metadata.json`'a
@@ -553,16 +576,20 @@ python scripts/04_consolidate_annotations.py prepare  # -> annotation/merged_raw
 #   kayıtlı LLM konsolidasyonu: annotation/consolidation_raw/ (43 ISCO grubu)
 python scripts/04_consolidate_annotations.py finalize # -> annotation/occupation_labels.parquet, reports/annotation_stats.json
 #   kayıtlı sentetik CV hedefleri, üretim ve kör doğrulama: annotation/synthetic/{specs,gen,verify}/
-#   (06 ... targets YALNIZCA sentetik CV'ler yeniden üretilecekse çalıştırılır: specs/'i silip yeniden yazar,
-#    varsayılan --per-batch 25 --max 900 -> 868 hedef, 35 parti; ardından gen/ ve verify/ yeniden üretilmelidir)
+#   (06 ... targets YALNIZCA sentetik CV'ler yeniden üretilecekse çalıştırılır: specs/'i silip yeniden yazar.
+#    Kayıtlı specs/ (868 hedef, 35 parti) önceki bir bölmeyle üretildi; mevcut bölmeyle varsayılan --per-batch 25
+#    --max 900 -> 890 hedef, 36 parti verir ve kayıtlı gen/, verify/ ile eşleşmez; ardından gen/ ve verify/ yeniden
+#    üretilmelidir)
 python scripts/06_synthetic_cvs.py merge              # gidiş-dönüş filtresi -> annotation/synthetic/synthetic_cvs.json,
                                                       #    reports/synthetic_cv_stats.json (868 hedef, 710 kabul)
 python scripts/05_build_dataset.py                    # split, qrels, triplet, sızıntı kontrolleri -> data_bundle/,
                                                       #    data_bundle.zip, reports/faz2_veri_ozeti.json
 #   (06 merge bölmeyi etiketlerden kendisi hesaplar; 05'ten önce çalışır. synthetic_cvs.json değişirse 05 yeniden çalıştırılır.)
 #   kayıtlı çift düzeyi LLM yargıları: annotation/qrels_validation/judged_*.json + annotation/qrels_validation_key.json
-#   (09 ... sample YALNIZCA yeniden yargılanacaksa çalıştırılır: anahtarı ve pairs_*.json'u data_bundle'dan yeniden
-#    çizer; kayıtlı judged_*.json yalnız mevcut anahtarla eşleşir, veri değiştiyse yeniden yargılama gerekir)
+#   (09 ... sample YALNIZCA yeniden yargılanacaksa çalıştırılır: anahtarı ve pairs_*.json'u mevcut data_bundle'dan
+#    yeniden çizer. Kayıtlı anahtar önceki bir bölmeden çekildiği için mevcut veriden yeniden üretilmez (kural
+#    dereceleri mevcut qrels ile aynıdır, score geçerlidir); sample çalıştırılırsa kayıtlı judged_*.json geçersiz
+#    olur, yeniden yargılama gerekir)
 python scripts/09_qrels_validation.py score           # -> reports/qrels_validation.json
 python scripts/03_forensic_audit.py                   # Faz 1 -> reports/faz1_audit.json, reports/figures/faz1_*.png
 python scripts/11_local_lexical_ltr.py                # BM25 vs BM25+LambdaMART -> reports/local_lexical_ltr.json
@@ -575,8 +602,11 @@ python scripts/08_dry_run_notebook.py --bundle data_bundle.zip --workdir work/dr
 ```
 
 `03_forensic_audit.py` yalnızca 01'in çıktısına, `veriseti/`'ye ve eski `test.py`'ye bağlıdır ve 01'den sonra
-herhangi bir noktada çalıştırılabilir. Markdown raporu yazmaz; `reports/FAZ1_ADLI_DENETIM_RAPORU.md` sayılarını
-`faz1_audit.json`'dan alır. Nöral sonuçlar bu tarifle değil, notebook'un Colab A100'de çalıştırılmasıyla üretilir
+herhangi bir noktada çalıştırılabilir. Markdown raporu yazmaz; elle yazılan `reports/FAZ1_ADLI_DENETIM_RAPORU.md`
+ölçüm sayılarının çoğunu `faz1_audit.json`'dan alır. Birkaç statik gözlem (eski rehberin metrikleri ve çarpanları,
+eski bölme özetindeki train grup sayısı ve büyüklükleri, "Distribütör ve Bayi Yöneticisi" ilanının açıklama uzunluğu)
+doğrudan kaynak dosyalardan okunmuştur; betik çıktısında yer almayan birkaç ek kontrol de metinde *(ayrıca kontrol
+edildi)* diye işaretlenmiştir (raporun başındaki nota bakın). Nöral sonuçlar bu tarifle değil, notebook'un Colab A100'de çalıştırılmasıyla üretilir
 (BÖLÜM 1).
 
 ---

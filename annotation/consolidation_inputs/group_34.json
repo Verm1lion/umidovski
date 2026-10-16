@@ -1,0 +1,411 @@
+[
+{
+"specialty": "Adliye Takip Görevlisi",
+"isco4": "3411",
+"isco_title": "Legal and related associate professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Adliye Takip Görevlisi"
+],
+"sektorler": [
+"LEGAL"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İcra Takip Elemanı",
+"isco4": "3411",
+"isco_title": "Legal and related associate professionals",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"İcra Takip Elemanı"
+],
+"sektorler": [
+"LEGAL"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tüketici Şikayet Yönetimi Uzmanı",
+"isco4": "3411",
+"isco_title": "Legal and related associate professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"E-Ticaret Şikayet Yönetimi ve Hakem Heyeti Uzmanı"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Basketbol Antrenörü",
+"isco4": "3422",
+"isco_title": "Sports coaches, instructors and officials",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Basketbol Antrenörü"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cimnastik Antrenörü",
+"isco4": "3422",
+"isco_title": "Sports coaches, instructors and officials",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Cimnastik Antrenörü"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Futbol Antrenörü",
+"isco4": "3422",
+"isco_title": "Sports coaches, instructors and officials",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Football Coach"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kondisyoner",
+"isco4": "3422",
+"isco_title": "Sports coaches, instructors and officials",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kondisyoner / Atletik Performans Antrenörü"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tenis Antrenörü",
+"isco4": "3422",
+"isco_title": "Sports coaches, instructors and officials",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tenis Antrenörü"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yüzme Antrenörü",
+"isco4": "3422",
+"isco_title": "Sports coaches, instructors and officials",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Yüzme Antrenörü",
+"Yüzme Antrenörü / Cankurtaran",
+"Yüzme ve Su Jimnastiği Eğitmeni"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Animatör",
+"isco4": "3423",
+"isco_title": "Fitness and recreation instructors and program leaders",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Animatör - Otel / Tatil Köyü",
+"Otel Eğlence ve Spor Animatörü"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Crossfit Antrenörü",
+"isco4": "3423",
+"isco_title": "Fitness and recreation instructors and program leaders",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Crossfit ve Fonksiyonel Antrenman Koçu"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fitness Antrenörü",
+"isco4": "3423",
+"isco_title": "Fitness and recreation instructors and program leaders",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fitness Antrenörü"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fitness Eğitmeni",
+"isco4": "3423",
+"isco_title": "Fitness and recreation instructors and program leaders",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Fitness Eğitmeni / Gym Trainer",
+"Personal Trainer (Özel Ders Eğitmeni)"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Grup Egzersiz Eğitmeni",
+"isco4": "3423",
+"isco_title": "Fitness and recreation instructors and program leaders",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Grup Dersleri Eğitmeni (Spinning/Zumba)"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pilates Eğitmeni",
+"isco4": "3423",
+"isco_title": "Fitness and recreation instructors and program leaders",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Reform Pilates ve Fonksiyonel Egzersiz Eğitmeni",
+"Reformer Pilates Eğitmeni"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fotoğrafçı",
+"isco4": "3431",
+"isco_title": "Photographers",
+"n_cv": 6,
+"n_job": 1,
+"ornek_unvanlar": [
+"Fotoğrafçı",
+"Photographer",
+"Profesyonel Ürün ve Moda Fotoğrafçısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fuar Standı Tasarımcısı",
+"isco4": "3432",
+"isco_title": "Interior designers and decorators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Fuar Standı ve Deneyimsel Mekan Tasarımcısı (3ds Max / SketchUp)",
+"Fuar Standı ve Mağaza Konsept Tasarımcısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müze ve Sergi Tasarımcısı",
+"isco4": "3432",
+"isco_title": "Interior designers and decorators",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Museum & Exhibition Space Designer",
+"Müze ve Sergi Mekanları Tasarım Mimarı (Aydınlatma & Ziyaretçi Deneyimi)",
+"Müze ve Sergi Tasarımcısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yat İç ve Dış Mekan Tasarımcısı",
+"isco4": "3432",
+"isco_title": "Interior designers and decorators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yacht & Mega Yacht Interior"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sergi Koordinatörü",
+"isco4": "3433",
+"isco_title": "Gallery, museum and library technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sanat Galerisi Sergi Koordinatörü"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Menü Geliştirme Şefi",
+"isco4": "3434",
+"isco_title": "Chefs",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gastronomi ve Menü Geliştirme (R&D) Direktörü"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mutfak Şefi",
+"isco4": "3434",
+"isco_title": "Chefs",
+"n_cv": 0,
+"n_job": 11,
+"ornek_unvanlar": [
+"Aşçıbaşı Yardımcısı (Sous Chef - 5 Yıldızlı Otel)",
+"Endüstriyel Toplu Yemek ve Catering Mutfak Direktörü",
+"Executive Chef (Aşçıbaşı)",
+"Kurumsal Executive Chef (Ulusal Restoran Zinciri)",
+"Kıdemli Alakart Restoran Başaşçısı (Head Chef)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pastacı",
+"isco4": "3434",
+"isco_title": "Chefs",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Pastane Başşefi (Head Pastry Chef)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": [
+"75"
+]
+},
+{
+"specialty": "Suşi Şefi",
+"isco4": "3434",
+"isco_title": "Chefs",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Suşi ve Uzakdoğu Restoran Başşefi (Head Sushi Chef)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Figüran Koordinatörü",
+"isco4": "3435",
+"isco_title": "Other artistic and cultural associate professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dizi ve Reklam Figüran / Yardımcı Oyuncu Koordinatörü"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sahne Işık ve Dekor Teknisyeni",
+"isco4": "3435",
+"isco_title": "Other artistic and cultural associate professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Sahne Işık ve Dekor Teknisyeni",
+"Sahne ve Işık Tasarım Asistanı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sahne Kurulum İşçisi",
+"isco4": "3435",
+"isco_title": "Other artistic and cultural associate professionals",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sahne Kurulum İşçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "TV Programı Konuk Koordinatörü",
+"isco4": "3435",
+"isco_title": "Other artistic and cultural associate professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Konuk Koordinatörü (TV Programı)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+}
+]

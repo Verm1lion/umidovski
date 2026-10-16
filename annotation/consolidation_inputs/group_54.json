@@ -1,0 +1,206 @@
+[
+{
+"specialty": "Endüstriyel Tesis İtfaiyecisi",
+"isco4": "5411",
+"isco_title": "Fire-fighters",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Endüstriyel Tesis İtfaiye ve Yangın Güvenlik Elemanı",
+"Endüstriyel Tesis İtfaiye ve Yangın Güvenlik Personeli"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İtfaiyeci",
+"isco4": "5411",
+"isco_title": "Fire-fighters",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tesis İtfaiye Personeli",
+"İtfaiye Eri"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Alarm İzleme Operatörü",
+"isco4": "5414",
+"isco_title": "Security guards",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Entegre Yangın ve Hırsız Alarm İzleme Operatörü",
+"Güvenlik Operasyon Merkezi (SOC) Analisti"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gece Bekçisi",
+"isco4": "5414",
+"isco_title": "Security guards",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gece Bekçisi / Tesis Koruma Elemanı"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güvenlik Görevlisi",
+"isco4": "5414",
+"isco_title": "Security guards",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bölge İdari İşler ve Güvenlik Sorumlusu"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güvenlik Kamera Operatörü",
+"isco4": "5414",
+"isco_title": "Security guards",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"CCTV Kamera Kontrol Odası Operatörü",
+"CCTV ve Güvenlik Kamera Operatörü",
+"Lojistik Depo & Saha Güvenlik Kamera Operatörü"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güvenlik ve Temizlik Görevlisi",
+"isco4": "5414",
+"isco_title": "Security guards",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"GÜVENLİK VE TEMİZLİK PERSONELİ"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havalimanı Güvenlik Görevlisi",
+"isco4": "5414",
+"isco_title": "Security guards",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Havalimanı Güvenlik Görevlisi",
+"Havalimanı Güvenlik Görevlisi (X-Ray ve Kapı Kontrol)",
+"Havalimanı Terminal ve Bagaj Tarama Güvenliği"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Özel Güvenlik Görevlisi",
+"isco4": "5414",
+"isco_title": "Security guards",
+"n_cv": 11,
+"n_job": 9,
+"ornek_unvanlar": [
+"AVM X-Ray ve Kapı Dedektörü Güvenlik Görevlisi",
+"Fabrika ve Endüstriyel Tesis Güvenlik Amiri",
+"GÜVENLİK GÖREVLİSİ",
+"Güvenlik Görevlisi - AVM / Plaza",
+"Güvenlik Vardiya Amiri"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Para Nakil Güvenlik Görevlisi",
+"isco4": "5414",
+"isco_title": "Security guards",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Zırhlı Araç Para ve Değerli Maden Nakil Görevlisi"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Silahlı Özel Güvenlik Görevlisi",
+"isco4": "5414",
+"isco_title": "Security guards",
+"n_cv": 5,
+"n_job": 1,
+"ornek_unvanlar": [
+"Silahlı Banka Şube Güvenlik Görevlisi",
+"Silahlı Enerji Santrali & Baraj Koruma Görevlisi",
+"Silahlı Konsolosluk & Diplomatik Tesis Güvenliği",
+"Silahlı Liman & Gümrüklü Saha Güvenlik Görevlisi (ISPS)",
+"Silahlı Organize Sanayi & Fabrika Güvenlik Görevlisi"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yakın Koruma Görevlisi",
+"isco4": "5414",
+"isco_title": "Security guards",
+"n_cv": 4,
+"n_job": 4,
+"ornek_unvanlar": [
+"Koruma Görevlisi / Korumalık",
+"Kıdemli VIP Koruma ve Güvenlik Koordinatörü",
+"Silahlı Yakın Koruma (VIP Bodyguard)",
+"Yakın Koruma Uzmanı (VIP Protection Specialist)",
+"Yakın Koruma ve Güvenlik Elemanı"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cankurtaran",
+"isco4": "5419",
+"isco_title": "Protective services workers not elsewhere classified",
+"n_cv": 6,
+"n_job": 2,
+"ornek_unvanlar": [
+"Cankurtaran",
+"Cankurtaran - Havuz / Plaj",
+"Havuz ve Plaj Cankurtaranı",
+"Sertifikalı Cankurtaran (Bronz / Gümüş)"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+}
+]

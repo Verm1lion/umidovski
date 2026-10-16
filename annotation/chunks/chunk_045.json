@@ -1,0 +1,1311 @@
+[
+{
+"id": "J1638",
+"kind": "JOB",
+"title": "Lead DevSecOps Engineer",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Finansal teknoloji ürünlerimizin güvenli yazılım yaşam döngüsünü yönetecek, 8 kişilik DevSecOps ekibine teknik liderlik edecek mimar arayışındayız. Neler Yapacaksınız? - Banka regülasyonlarına uygun güvenli CI/CD standartlarını ve kurumsal yol haritasını kurgulamak - Uygulama güvenlik testlerinin otomatikleştirilmesini ve false-positive oranlarının düşürülmesini sağlamak - Üst düzey güvenlik denetimlerinde teknik lider olarak banka müfettişleriyle görüşmek - Ekip üyelerine teknik koçluk yapmak ve sürekli öğrenme kültürünü canlı tutmak Nitelikl…"
+}
+},
+{
+"id": "J1499",
+"kind": "JOB",
+"title": "Lead Frontend Architect (Design System & Micro-frontends)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Birden fazla ülkede hizmet veren Getir web ekosisteminin tüm frontend mimarisini ve kurumsal UI tasarım sistemini yönetecek vizyoner bir Lead Frontend Architect arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Mikro-frontend mimarisi (Module Federation / Single-SPA) vizyonunu ve teknik yol haritasını kurgulamak - Tüm şirkette kullanılan UI Design System kütüphanesinin mimarisini, erişilebilirlik (WCAG) standartlarını ve sürümlemesini yönetmek - 20+ kişilik frontend mühendislik kadrosuna teknik rehberlik etmek, mimari prensipleri belirlemek - Ürün…"
+}
+},
+{
+"id": "J1508",
+"kind": "JOB",
+"title": "Lead Frontend Engineer (Vue 3 / TypeScript)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "E-ticaret web platformlarımızın ve omnichannel mağaza içi dijital kanallarımızın frontend mimarisini kurgulayacak, 8 kişilik ekibe liderlik edecek Lead Frontend Engineer arıyoruz. Neler Yapacaksınız? - Vue 3, Vite ve TypeScript tabanlı kurumsal frontend mimarisinin standartlarını belirlemek - Tüm markalarımız için ortak UI bileşen kütüphanesini ve mikro-frontend altyapısını yönetmek - Teknik borcu azaltıcı refactoring projelerini planlamak ve önceliklendirmek - Ekip içi mühendislik kültürünü, kod kalitesini ve test disiplinini güçlendirmek Nit…"
+}
+},
+{
+"id": "J1567",
+"kind": "JOB",
+"title": "Lead Fullstack Architect (Java / Kotlin + Modern Web)",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Yapı Kredi dijital kanallarının kurumsal web portalleri ve backend mimarisini harmonize edecek Lead Fullstack Architect arıyoruz. Rol ve Sorumluluklar: - Banka genelinde fullstack mimari standartları ve teknoloji yol haritasını yönetmek - Java/Kotlin backend mikroservisleri ile Angular/React ön yüz katmanının entegrasyon kurallarını belirlemek - Yüksek güvenlikli açık bankacılık (Open Banking) ve kurumsal portal mimarilerini onaylamak - Geliştirici ekiplerinin teknik yetkinliğini artıracak mimari çalıştaylar düzenlemek Kimleri Arıyoruz? - Yazı…"
+}
+},
+{
+"id": "J1558",
+"kind": "JOB",
+"title": "Lead Fullstack Engineer (.NET & Cloud Architecture)",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Banka içi kredi değerlendirme ve operasyon portallarımızın .NET ve modern web teknolojileri ile dönüşümünü yönetecek Lead Fullstack Engineer arıyoruz. Görev ve Sorumluluklar: - Fullstack mühendislik takımının teknik liderliğini yürütmek ve mimari kararları onaylamak - Bulut yerel (Cloud-native) mikroservis ve mikro-frontend entegrasyonlarını kurgulamak - Kod standartlarını, statik kod analiz süreçlerini ve güvenlik testlerini denetlemek - İş birimleri ve ürün yöneticileri ile mimari gereksinimleri hizalamak Aranan Nitelikler: - En az 8 yıl ful…"
+}
+},
+{
+"id": "J1458",
+"kind": "JOB",
+"title": "Lead Golang Engineer (Microservices Architecture)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Remote",
+"context": {
+"aciklama": "Büyüyen küresel AI destekli pazarlama platformumuzda milyarlarca kullanıcı etkileşimini gerçek zamanlı işleyen Go mikroservis ekibimize teknik vizyon kazandıracak Lead Engineer arıyoruz. Pozisyonun Temel Görevleri: - 10+ kişilik Go geliştirici takımının teknik liderliğini yürütmek ve mimari kararları belirlemek - Multi-region AWS altyapısında yüksek erişilebilirlik (high availability) ve felaket kurtarma (disaster recovery) standartlarını oturtmak - Teknik borç (technical debt) yönetimi yaparak kod kalitesi ve servis sürdürülebilirliğini güven…"
+}
+},
+{
+"id": "J1538",
+"kind": "JOB",
+"title": "Lead iOS Engineer (Core Mobile Architecture)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Midas kullanıcılarının borsa işlemlerini anlık olarak güvenle gerçekleştirdiği iOS uygulamasının çekirdek mimarisini yönetecek, mobil ekibe liderlik edecek Lead iOS Engineer arıyoruz. Neler Yapacaksınız? - 10+ kişilik iOS mühendislik takımının teknik liderliğini ve mimari yol haritasını yönetmek - Borsa canlı veri akışlarını 60 FPS akıcılıkta ve sıfır gecikmeyle ekrana yansıtan özel çizim ve önbellek katmanları kurgulamak - Mobil güvenlik (biometrics, secure enclave, jailbreak detection, SSL pinning) standartlarını belirlemek - Ürün yönetimi v…"
+}
+},
+{
+"id": "J1697",
+"kind": "JOB",
+"title": "Lead Machine Learning Engineer (Autonomous Delivery)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "OnSite",
+"context": {
+"aciklama": "Mikro-mobilite filomuzun rota optimizasyonu, dinamik talep tahmini ve akıllı araç yerleştirme yapay zeka motorunu yönetecek Lead ML Engineer arıyoruz. Rol ve Sorumluluklar: - Coğrafi veriler (Geospatial data) ve zaman serisi tahminleme modelleriyle şehir içi talep tahmin motorunu tasarlamak - Pekiştirmeli öğrenme (Reinforcement Learning) ve yöneylem araştırması algoritmalarıyla filo dağıtımını optimize etmek - Yapay zeka ekibine teknik liderlik yapmak ve algoritmik yol haritasını yönetmek - Saha operasyon liderleri ile optimizasyon çıktılarını…"
+}
+},
+{
+"id": "J1478",
+"kind": "JOB",
+"title": "Lead Node.js / NestJS Backend Architect",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Global havayolları ve büyük bankalar için geliştirdiğimiz yeni nesil dijital ürünlerin backend mimarisini kurgulayacak ve 10+ kişilik Node.js takımını yönetecek mimar arıyoruz. Neler Yapacaksınız? - Çok kiracılı (multi-tenant) kurumsal platformlar için Node.js ve NestJS mimari şablonlarını oluşturmak - Mikroservisler, API Gateway ve servis ağı (service mesh) altyapı kararlarını yönlendirmek - Müşteri teknik direktörleri ve ürün sahipleri ile mimari çalıştayları yönetmek - Teknik borcu yönetmek ve takımın sürekli öğrenme kültürünü canlı tutmak …"
+}
+},
+{
+"id": "J1628",
+"kind": "JOB",
+"title": "Lead Offensive Security Specialist (Red Team Manager)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Garanti BBVA dijital kanalları ve temel bankacılık altyapısının ofansif güvenlik testlerini, Red Team operasyonlarını ve güvenlik ekibini yönetecek Lider arıyoruz. Görev ve Sorumluluklar: - Banka genelinde yıllık sızma testi takvimini ve Red Team operasyonel yol haritasını yönetmek - BDDK regülatif sızma testlerini ve bağımsız denetimleri koordine etmek - Ofansif güvenlik ekibine teknik liderlik yapmak ve yetkinlik gelişimlerini yönlendirmek - Üst yönetim komitelerine bankanın siber saldırılara direnç seviyesini raporlamak Aranan Nitelikler: -…"
+}
+},
+{
+"id": "J1591",
+"kind": "JOB",
+"title": "Lead Platform Engineer (Kubernetes Operator & Bare-Metal)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Özel veri merkezlerimizde koşan binlerce bare-metal sunucunun ve Kubernetes altyapımızın Platform Mühendisliği ekibine teknik liderlik edecek mimar arıyoruz. Temel İş ve Sorumluluk Alanları: - Bare-metal sunucuların otomatik işletim sistemi kurulumu (PXE boot, MAAS) ve provizyon süreçlerini yönetmek - Özel ihtiyaçlar için Go diliyle Kubernetes Operator ve CRD (Custom Resource Definition) geliştirmek - Ağ anahtarları ve sunucular arasında BGP, EVPN ve yüksek hızlı veri yolu entegrasyonlarını kurgulamak - Platform ekibinin teknik mimari standart…"
+}
+},
+{
+"id": "J1471",
+"kind": "JOB",
+"title": "Lead Python Engineer (Backend & ETL Altyapısı)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Banka genelinde çalışan analitik ve fraud tespiti servislerinin arkasındaki Python mikroservis ve veri işleme ekibine teknik liderlik yapacak Lead Python Engineer arıyoruz. Rol ve Sorumluluklar: - Yüksek güvenlikli bankacılık ortamında Python mikroservis mimarisinin teknik standartlarını oluşturmak - Airflow veya Prefect tabanlı veri boru hatlarının tasarımını denetlemek ve mimarisini onaylamak - Takım üyelerinin teknik gelişimlerini desteklemek, kod standartlarını kurumsallaştırmak - Kurumsal mimari kurulları ve güvenlik ekipleri ile uyumlu ç…"
+}
+},
+{
+"id": "J1488",
+"kind": "JOB",
+"title": "Lead Rust / C++ Backend Engineer (Yüksek Performanslı İşlem Motorları)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "BtcTurk borsa eşleme motoru (matching engine) ve emir defteri çekirdek mimarisini yönetmek üzere, Rust veya C++ ile ultra düşük gecikmeli sistemlerde uzmanlaşmış Lead Engineer arıyoruz. Pozisyonun Temel Görevleri: - Milyonlarca emri mikrosaniyeler altında eşleştiren emir motorunun mimari kararlarını vermek - Lock-free veri yapıları, bellek hizalama ve işlemci önbellek optimizasyonlarını yönlendirmek - Kritik çekirdek ekibe teknik liderlik ve rehberlik yapmak - Sistem dayanıklılığı ve regülasyon uyumluluğunu en üst düzeyde güvence altına almak …"
+}
+},
+{
+"id": "J1534",
+"kind": "JOB",
+"title": "Lead Web Technologies Architect",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Vodafone Yanımda web ve e-ticaret kanallarının ön yüz mimarisini, web güvenliğini ve çok kanallı dijital vizyonunu yönetecek Lead Web Architect arıyoruz. Görev ve Sorumluluklar: - Milyonlarca abonenin kullandığı web portallarının genel ön yüz mimari standartlarını oluşturmak - Performans, SEO ve güvenlik denetimlerini şirket çapında kurumsallaştırmak - Farklı dijital departmanların kullandığı ortak arayüz altyapılarını harmonize etmek - Üst yönetim ve teknoloji liderleri ile stratejik dijital dönüşüm kararlarını yönlendirmek Aranan Nitelikler:…"
+}
+},
+{
+"id": "C11111",
+"kind": "CV",
+"title": "Linux Depolama ve Dosya Sistemleri Mühendisi (Ceph / NFS)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Petabayt ölçeğinde dağıtık depolama kümeleri (Ceph, GlusterFS) ve kurumsal NAS/SAN sistemleri (NFS, iSCSI) kuran depolama mühendisiyim. Blok depolama, nesne depolama (S3 uyumlu) ve performans ayarlamalarında uzmanım.",
+"beceriler": "Ceph Distributed Storage (RBD / RGW), iSCSI & NFS Multipathing, ZFS File System Tuning, RAID Controllers & NVMe-oF, Linux Kernel IO, Prometheus Storage Exporters",
+"deneyim": [
+"Linux Depolama ve Dosya Sistemleri Mühendisi (Ceph / NFS) ([TARİH]): Bulut bilişim veri merkezinde 3 Petabayt kapasiteli Ceph depolama kümesi kurarak sanal makineler ve …"
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Yazılım Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C10644",
+"kind": "CV",
+"title": "Linux Sistem Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Linux Sistem Mühendisi olarak 1 yıllık profesyonel deneyime sahibim. Linux / Bash, CI/CD Pipeline ve RESTful API alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüksek bir uzmanım.",
+"beceriler": "Linux / Bash, CI/CD Pipeline, RESTful API, Mikroservis Mimarisi, Docker & Kubernetes, SQL & NoSQL",
+"deneyim": [
+"Linux Sistem Mühendisi (2024 - Günümüz): CI/CD otomasyon boru hatlarını yapılandırarak birim ve entegrasyon testlerinin otomatik koşulmasını ve kesintisiz sürüm dağıtımı…",
+"Stajyer (Ağustos 2023 - Eylül 2023): Birim içi süreç iyileştirme projelerinde literatür ve mevzuat araştırmaları yürüterek üst yönetime sunulan özet brifinglerin hazırla…"
+],
+"egitim": [
+"Yeditepe Üniversitesi - Lisans (Bilgisayar Mühendisliği) 2020 - 2024"
+]
+}
+},
+{
+"id": "J0637",
+"kind": "JOB",
+"title": "Linux Systems Engineer",
+"industry": "IT_SOFTWARE",
+"city": "Antalya",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "We are looking for a qualified Linux Systems Engineer to join our Information Technology & Software operations in [şehir]. Key Responsibilities & Qualifications: - Execute end-to-end deliverables leveraging Microservices Architecture. - Collaborate with multi-disciplinary stakeholders utilizing Clean Code & Design Patterns. - Optimize workflows, data integrity, and compliance across Performance Tuning. - Drive continuous technical excellence and proactive problem resolution."
+}
+},
+{
+"id": "C11043",
+"kind": "CV",
+"title": "Linux Yedekleme ve Felaket Kurtarma (Disaster Recovery) Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Veeam Backup, Bacula ve Restic araçlarıyla kurumsal sunucu ve veritabanı yedekleme politikalarını tasarlayan, fidye yazılımlarına (ransomware) karşı değiştirilemez (immutable) yedekleme kuran uzmanım.",
+"beceriler": "Veeam Backup & Replication, Immutable Linux Repositories, Bacula / Bareos, Ransomware Protection, Disaster Recovery Testing, Tape & Cloud Archiving",
+"deneyim": [
+"Linux Yedekleme ve Felaket Kurtarma (Disaster Recovery) Mühendisi ([TARİH]): Sanayi holdinginde Linux tabanlı değiştirilemez (immutable) S3 yedekleme havuzları kurarak f…"
+],
+"egitim": [
+"Marmara Üniversitesi - Lisans (Bilişim Sistemleri) [TARİH]"
+]
+}
+},
+{
+"id": "C11238",
+"kind": "CV",
+"title": "LLM Güvenliği, Jailbreak Koruması ve Kırmızı Takım (Red Teaming) Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Büyük dil modellerinde prompt injection, jailbreak, halüsinasyon ve hassas veri sızıntılarını önleyen güvenlik politikaları tasarlayan LLM güvenlik mühendisiyim. NeMo Guardrails ve Llama Guard araçlarına hakimim.",
+"beceriler": "LLM Security (OWASP LLM Top 10), Prompt Injection Defense, NeMo Guardrails & Llama Guard, LLM Red Teaming, Hallucination Mitigation, PII Redaction",
+"deneyim": [
+"LLM Güvenliği, Jailbreak Koruması ve Kırmızı Takım (Red Teaming) Uzmanı ([TARİH]): Banka müşteri hizmetleri sanal asistanına NeMo Guardrails entegre ederek kötü niyetli …",
+"Veri Bilimi Stajyeri ([TARİH]): Müşteri segmentasyonu projesinde kayıp veri analizi (missing value handling) ve aykırı değer temizleme scriptlerini Python (Pandas/Scikit…"
+],
+"egitim": [
+"Bilkent Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11145",
+"kind": "CV",
+"title": "LLM İnce Ayar (Fine-Tuning) ve Açık Kaynak Model Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Açık kaynak dil modellerini (Llama, Mistral, Gemma) sektöre özel verilerle LoRA, QLoRA ve PEFT yöntemleri kullanarak ince ayar (fine-tuning) yapan ve vLLM ile yüksek throughput'lu servis eden yapay zeka mühendisiyim.",
+"beceriler": "LLM Fine-Tuning (LoRA / QLoRA), Hugging Face PEFT / TRL, vLLM & TGI Model Serving, Unsloth Optimization, GPU Cluster Setup (A100/H100), Dataset Preparation",
+"deneyim": [
+"LLM İnce Ayar (Fine-Tuning) ve Açık Kaynak Model Uzmanı ([TARİH]): Hukuk metinleri için Llama-3 8B modelini Türk mevzuat külliyatı üzerinde QLoRA ile fine-tune ederek sö…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11153",
+"kind": "CV",
+"title": "Looker & Modern Veri Yığını (MDS) BI Geliştiricisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Google Cloud Looker platformunda LookML ile merkezi veri modelleri, boyutlar (dimensions), ölçümler (measures) ve self-servis analitik ortamları kurgulayan modern BI mühendisiyim. BigQuery ve dbt entegrasyonunda uzmanım.",
+"beceriler": "Looker & LookML, Google BigQuery, dbt Integration, Self-Service Analytics, Git Version Control for BI, SQL Data Modeling",
+"deneyim": [
+"Looker & Modern Veri Yığını (MDS) BI Geliştiricisi ([TARİH]): B2B SaaS şirketinde tüm şirket çalışanlarının kendi raporlarını üretebileceği merkezi LookML modelini kurdu…",
+"Veri Analizi Stajyeri ([TARİH]): İş birimlerinin talep ettiği haftalık ve aylık satış metriklerini SQL sorguları ile kurumsal veritabanından çekerek Excel özet tabloları…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Endüstri Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1696",
+"kind": "JOB",
+"title": "Machine Learning Engineer (NLP & Metin Madenciliği)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Remote",
+"context": {
+"aciklama": "Milyonlarca web içeriğinin anlamsal analizini, duygu durumunu ve arama niyetini tespit eden NLP modelleri geliştirecek Machine Learning Engineer arıyoruz. Pozisyonun Temel Görevleri: - Türkçe ve İngilizce metinler için varlık tanıma (NER), konu modelleme ve metin sınıflandırma modelleri eğitmek - BERT ve RoBERTa tabanlı modelleri alan verileriyle özelleştirmek - Büyük metin veri setlerini işleyen asenkron veri hatları oluşturmak - Modellerin doğruluk metriklerini düzenli olarak test etmek ve raporlamak Beklenen Deneyim ve Yetenekler: - En az 3…"
+}
+},
+{
+"id": "J1686",
+"kind": "JOB",
+"title": "Machine Learning Engineer (Recommendation Systems)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Remote",
+"context": {
+"aciklama": "On milyonlarca müşteriye kişiselleştirilmiş ürün, kategori ve kampanya önerileri sunan devasa ölçekli tavsiye motorlarımızı geliştirecek Machine Learning Engineer arıyoruz. Neler Yapacaksınız? - Collaborative Filtering, Graph Neural Networks (GNN) ve Two-Tower modelleri tasarlamak ve optimize etmek - Milisaniyeler mertebesinde yanıt veren model çıkarım (inference) servislerini kurgulamak - Geniş ölçekli vektör benzerlik arama motorlarını (Milvus, FAISS, Qdrant) yönetmek - A/B test deneylerini tasarlayarak dönüşüm oranlarını (conversion rate) m…"
+}
+},
+{
+"id": "J1009",
+"kind": "JOB",
+"title": "Mainframe Sistem Programcısı (z/OS)",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Türkiye İş Bankası Bilgi Teknolojileri bünyesinde, [şehir] Veri Merkezimizde temel bankacılık ana makine altyapımızı yönetecek 'Mainframe Sistem Programcısı (z/OS)' aramaktayız. Rol ve Şirket Hakkında: İş Bankası; Türkiye'nin en büyük işlem hacmine sahip çekirdek bankacılık operasyonlarını IBM zEnterprise Mainframe altyapısı üzerinde 7/24 kesintisiz ve yüksek güvenlik standartlarında yürütmektedir. Görev ve Sorumluluklar: - IBM z/OS işletim sisteminin, alt sistemlerinin ve üçüncü parti yazılımların kurulumu, bakımı ve SMP/E ile güncellenmesi, …"
+}
+},
+{
+"id": "C10928",
+"kind": "CV",
+"title": "Mainframe Systems Programmer (z",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Final-year undergraduate student at Middle East Technical University majoring in Computer Engineering, graduating at the end of this academic year. Passionate about launching a career in Mainframe Systems Programmer (z/OS), backed by strong academic coursework and hands-on projects involving Performance Tuning, Docker & Kubernetes and CI/CD Pipeli…",
+"beceriler": "Performance Tuning, Docker & Kubernetes, CI/CD Pipelines, Microservices Architecture, RESTful APIs, Agile / Scrum",
+"deneyim": [
+"Intern (August 2025 - September 2025): Assisted senior project leads in tracking departmental milestones, documenting process workflows, and organizing technical meeting…"
+],
+"egitim": [
+"Middle East Technical University - Bachelor's Degree (Computer Engineering) 2022 - Devam Ediyor"
+]
+}
+},
+{
+"id": "J0342",
+"kind": "JOB",
+"title": "Makine Öğrenimi Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Antalya",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Getir bünyesinde, [şehir] ofisimizde veya hibrit çalışma düzeninde görev alarak talep tahmini ve rota optimizasyonu modelleri geliştirecek 'Makine Öğrenimi Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Getir; dakikalar içinde teslimat modelini milyonlarca anlık veri noktası, karmaşık yapay zeka modelleri ve gerçek zamanlı tahmin algoritmalarıyla yöneten küresel bir teknoloji şirketidir. Görev ve Sorumluluklar: - Büyük ölçekli veri setleri üzerinde makine öğrenimi modellerinin (tahminleme, dinamik fiyatlandırma, kurye atama) araştırılması, eğ…"
+}
+},
+{
+"id": "C11198",
+"kind": "CV",
+"title": "Medikal Görüntü Analizi ve Radyoloji Yapay Zekası Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Manyetik Rezonans (MR), Bilgisayarlı Tomografi (BT) ve Röntgen görüntülerinde tümör, lezyon ve kırık tespiti yapan 3D U-Net ve Vision Transformer modelleri geliştiren medikal AI uzmanıyım. DICOM formatı ve MONAI framework'ünde yetkinim.",
+"beceriler": "Medical Imaging (DICOM / NIfTI), MONAI Framework, 3D Segmentation (3D U-Net), PyTorch, Radiology AI Workflows, Medical Device CE/FDA Compliance",
+"deneyim": [
+"Medikal Görüntü Analizi ve Radyoloji Yapay Zekası Mühendisi ([TARİH]): Akciğer BT taramalarında nodül tespiti yapan 3D derin öğrenme modelini MONAI ile eğiterek radyolog…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Yüksek Lisans (Biyomedikal Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J0896",
+"kind": "JOB",
+"title": "Mekatronik ve Gömülü Sistemler Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Endüstriyel robotik kollar ve otonom taşıma araçlarımız için C/C++ ile mikrodenetleyici (STM32, ARM) programlama, CAN-bus haberleşme protokolleri ve motor sürücü entegrasyonu yapacak Elektrik-Elektronik veya Mekatronik Mühendisi arıyoruz."
+}
+},
+{
+"id": "J0958",
+"kind": "JOB",
+"title": "MEMS Sensör Tasarım ve Üretim Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Bursa",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "ASELSAN MGEO Sektör Başkanlığı bünyesinde, [şehir] yerleşkemizde milli ataletsel navigasyon ve güdüm sistemlerinde kullanılacak mikro-elektro-mekanik sistemleri tasarlayacak 'MEMS Sensör Tasarım ve Üretim Mühendisi' aramaktayız. Rol ve Şirket Hakkında: ASELSAN MGEO; Türk Silahlı Kuvvetleri ve müttefik ülkeler için milli navigasyon, füze güdüm, aviyonik ve elektro-optik sistemlerinde kullanılan kritik MEMS algılayıcıları tasarlayıp temiz oda ortamında üreten teknoloji merkezidir. Görev ve Sorumluluklar: - MEMS tabanlı ivmeölçer, jiroskop ve bas…"
+}
+},
+{
+"id": "J0061",
+"kind": "JOB",
+"title": "Mid Yazılım Geliştirici",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Mid Yazılım Geliştirici 2–4 yıl deneyimli yazılım geliştiriciler için Quanticst Teknoloji olarak büyüyen ekibimize deneyimli bir yazılım geliştirici arıyoruz. Gerçek ve ölçeklenebilir projelerde söz sahibi olmak, modern teknolojilerle çalışmak ve kariyer yolculuğunda bir adım öteye geçmek istiyorsan bu pozisyon tam sana göre! Biz Kimiz? .NET Core & React.js ile kurumsal ölçekte uygulamalar geliştiriyoruz React Native ile çapraz platform mobil çözümler üretiyoruz Kubernetes & DevOps altyapısıyla sağlam ve ölçeklenebilir sistemler yönetiyoruz Te…"
+}
+},
+{
+"id": "C10847",
+"kind": "CV",
+"title": "MLOps Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "MLOps Mühendisi olarak 1 yıllık profesyonel deneyime sahibim. Makine Öğrenimi (Scikit-Learn), SQL & PostgreSQL ve A/B Testi alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüksek bir uzmanım.",
+"beceriler": "Makine Öğrenimi (Scikit-Learn), SQL & PostgreSQL, A/B Testi, İstatistiksel Modelleme, Derin Öğrenme (PyTorch / TensorFlow), Python (Pandas, NumPy)",
+"deneyim": [
+"MLOps Mühendisi (2023 - Günümüz): Bulut altyapısı üzerinde kaynak ölçekleme politikalarını belirleyerek sistem güvenliği ve izleme altyapılarını yapılandırdım.",
+"Stajyer (Ağustos 2023 - Eylül 2023): Test senaryolarının koşturulması, tespit edilen anomalilerin hata takip sistemine girilmesi ve kullanıcı geri bildirimlerinin sınıfl…"
+],
+"egitim": [
+"Bahçeşehir Üniversitesi - Lisans (Yapay Zeka ve Veri Mühendisliği) 2020 - 2024"
+]
+}
+},
+{
+"id": "J1367",
+"kind": "JOB",
+"title": "MLOps Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Antalya",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Trendyol AI Labs bünyesinde, [şehir] ofisimizde veya uzaktan çalışma modelinde görev alacak, makine öğrenimi modellerimizin üretim döngüsünü otomatikleştirecek 'MLOps Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Trendyol AI Labs; her gün milyonlarca müşteriye kişiselleştirilmiş öneriler, görsel arama ve dinamik lojistik tahminleri sunan onlarca derin öğrenme modelini bulut ortamında canlıya alan elit bir mühendislik ekibidir. Görev ve Sorumluluklar: - Uçtan uca makine öğrenimi boru hatlarının (ML pipelines) Kubeflow, MLflow, Airflow veya Ar…"
+}
+},
+{
+"id": "J1689",
+"kind": "JOB",
+"title": "MLOps Mühendisi (Model Dağıtımı & Kubeflow)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Veri bilimcilerimizin geliştirdiği makine öğrenimi modellerinin sürekli eğitim, sürümleme ve Kubernetes üzerinde canlıya alınma hatlarını yönetecek MLOps mühendisi arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Kubeflow veya MLflow üzerinde uçtan uca otomatik model eğitim boru hatları (ML pipelines) inşa etmek - Triton Inference Server veya TorchServe ile modelleri yüksek verimli API servislerine dönüştürmek - Model performansını ve veri kaymasını (Data/Concept Drift) canlı ortamda izleyen altyapılar kurmak - GPU kaynaklarının verimli paylaştır…"
+}
+},
+{
+"id": "C11162",
+"kind": "CV",
+"title": "Mobil Test Otomasyon Mühendisi (Appium & BrowserStack)",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"context": {
+"ozet": "iOS ve Android yerel uygulamalarının farklı cihaz ve ekran çözünürlüklerinde Appium, Python/Java ve BrowserStack/SauceLabs cihaz çiftlikleri üzerinde test otomasyonunu gerçekleştiren mobil QA uzmanıyım.",
+"beceriler": "Mobile Test Automation, Appium Framework, BrowserStack / SauceLabs, Page Object Model (POM), Python / Java, Android ADB & iOS Simulator, Jira & Xray",
+"deneyim": [
+"Mobil Test Otomasyon Mühendisi (Appium & BrowserStack) ([TARİH]): Süper-app mobil uygulamasında 20 farklı gerçek Android ve iOS cihaz üzerinde koşan 180 Appium test sena…",
+"Yazılım Test Stajyeri ([TARİH]): Web uygulaması kullanıcı kabul testleri (UAT) için manuel test senaryolarını koşturdum, Jira üzerinde ekran görüntüleriyle birlikte hata…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11039",
+"kind": "CV",
+"title": "Mobil Ürün Yöneticisi (Mobile Product Manager)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "iOS ve Android mobil uygulamalarında kullanıcı edinimi, onboarding akışları, uygulama içi satın alma (IAP) ve kullanıcı tutma (retention) metriklerini yöneten ürün uzmanıyım. UX araştırmaları ve hızlı prototiplemede yetkinim.",
+"beceriler": "Mobile Product Lifecycle, App Store Optimization (ASO), In-App Purchases & Monetization, Figma & Wireframing, Amplitude / Firebase Analytics, Sprint Planning",
+"deneyim": [
+"Mobil Ürün Yöneticisi (Mobile Product Manager) ([TARİH]): Mobil bankacılık uygulamasında kredi başvuru akışını yeniden tasarlayan ürün ekibine liderlik ederek başvuru ta…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (İşletme Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J0869",
+"kind": "JOB",
+"title": "Mobil Uygulama Geliştirici",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"position_level": "MID_LEVEL",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Papara bünyesinde, [şehir] ofisimizde veya uzaktan (remote) modelde milyonlarca kullanıcının finansal deneyimini şekillendirecek 'Mobil Uygulama Geliştirici' aramaktayız. Rol ve Şirket Hakkında: Papara; Türkiye'nin lider FinTech kuruluşu olup finansal hizmetleri hızlı, kolay ve herkes için erişilebilir kılan yenilikçi mobil uygulamalar geliştirmektedir. Görev ve Sorumluluklar: - iOS (Swift) veya Android (Kotlin) platformlarında yüksek performanslı, akıcı ve güvenli native mobil kullanıcı arayüzlerinin geliştirilmesi, - MVVM, Clean Architecture…"
+}
+},
+{
+"id": "J1629",
+"kind": "JOB",
+"title": "Mobil Uygulama Güvenliği Uzmanı (iOS & Android Pentest)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Milyonlarca kullanıcının finansal işlemlerini gerçekleştirdiği Papara iOS ve Android mobil uygulamalarının güvenlik analizlerini yapacak uzman arıyoruz. İş Tanımı ve Temel Sorumluluklar: - OWASP Mobile Top 10 standartlarına göre statik ve dinamik mobil sızma testleri yürütmek - Frida, Objection ve MobSF kullanarak SSL pinning, root/jailbreak detection atlatma testleri yapmak - Mobil API uç noktalarında yetkilendirme ve iş mantığı (business logic) açıklarını araştırmak - Mobil geliştirici takımlarına güvenli kodlama konularında rehberlik etmek …"
+}
+},
+{
+"id": "C11169",
+"kind": "CV",
+"title": "Mobil Uygulama Güvenlik ve Sızma Testi Uzmanı (Mobile Pentester)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "iOS ve Android uygulamalarında statik (SAST) ve dinamik (DAST) güvenlik testleri, tersine mühendislik (Frida, Ghidra, Jadx), SSL Pinning atlatma ve yerel veri güvenliği testlerinde uzmanlaşmış siber güvenlik mühendisiyim.",
+"beceriler": "Mobile Pentesting (iOS / Android), Frida Dynamic Instrumentation, Reverse Engineering (Ghidra / Jadx), Bypassing Root/Jailbreak & SSL Pinning, OWASP MASVS, Burp Suite",
+"deneyim": [
+"Mobil Uygulama Güvenlik ve Sızma Testi Uzmanı (Mobile Pentester) ([TARİH]): Mobil cüzdan uygulamasında Frida betikleri ile SSL pinning ve biyometrik doğrulamayı atlatma …"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J0780",
+"kind": "JOB",
+"title": "Mobil Uygulama Mühendisi (Flutter / Dart)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "'Mobil Uygulama Mühendisi (Flutter / Dart)' istihdam edilecektir. Sorumluluk Alanları: iOS ve Android platformlarında tek kod tabanıyla çalışan, finansal güvenlik standartlarına uygun mobil uygulama geliştiren. Aranan Yetkinlik ve Beceriler: - Problem çözme, hata ayıklama (debugging) ve sistem performansı optimizasyonunda analitik yaklaşan - Mikroservisler, REST API, WebSocket ve ilişkisel/NoSQL veritabanı tasarımında yetkin - Clean Code, SOLID prensipleri ve birim test (Unit Test) yazma alışkanlığı olan - Gerektiğinde esnek çalışma saatlerine…"
+}
+},
+{
+"id": "J1554",
+"kind": "JOB",
+"title": "Mobile Application Developer (React Native & Redux)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Remote",
+"context": {
+"aciklama": "Öğrencilerin eğitimde fırsat eşitliği yakalamasını sağlayan Kunduz mobil uygulamasında soru gönderme ve anlık bildirim özelliklerini React Native ile geliştirecek yazılımcı arıyoruz. Pozisyonun Temel Görevleri: - React Native ile kamera entegrasyonu, görsel kırpma ve soru yükleme akışlarını geliştirmek - Anlık mesajlaşma ve eğitmen yanıt bildirimlerini yönetmek - Farklı Android ve iOS cihazlarda UI/UX tutarlılığını sağlamak - Kullanıcı etkileşim analizlerine göre A/B test ekranları hazırlamak Beklenen Deneyim ve Yetenekler: - En az 2-3 yıl Rea…"
+}
+},
+{
+"id": "J1553",
+"kind": "JOB",
+"title": "Mobile Software Engineer (Android & Kotlin)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "LC Waikiki e-ticaret mobil uygulamasının ürün arama, sepet ve ödeme adımlarını Kotlin ile geliştirecek, müşteri deneyimini iyileştirecek mühendis arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Kotlin ile modern Android Jetpack bileşenlerini kullanarak yeni modüller kodlamak - Ödeme geçitleri (Masterpass, BKM Express) entegrasyonlarını gerçekleştirmek - Uygulama çökme oranlarını azaltmak ve performans darboğazlarını gidermek - Agile sprint koşularında görevleri eksiksiz tamamlamak Adayda Aranan Yetkinlikler: - En az 3 yıl profesyonel Kotlin ve A…"
+}
+},
+{
+"id": "J1062",
+"kind": "JOB",
+"title": "Müşteri Analitiği Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Hepsiburada bünyesinde, [şehir] ofisimizde veya hibrit çalışma modelinde müşteri davranışlarını veriye dayalı stratejilere dönüştürecek 'Müşteri Analitiği Uzmanı' aramaktayız. Rol ve Şirket Hakkında: Hepsiburada; on milyonlarca aktif müşterisine kişiselleştirilmiş alışveriş deneyimi sunmak için büyük veri ve ileri analitik modellerinden faydalanan e-ticaret platformudur. Görev ve Sorumluluklar: - Müşteri Yaşam Boyu Değeri (CLTV), Müşteri Kaybı (Churn) ve Segmentasyon (RFM, K-Means) modellerinin kurgulanması ve analiz edilmesi, - SQL ve Python …"
+}
+},
+{
+"id": "C10662",
+"kind": "CV",
+"title": "Natural Language Processing (NLP) Engineer",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Results-oriented Natural Language Processing (NLP) Engineer with 2+ years of enterprise experience and a solid educational foundation in Industrial Engineering. Proven track record in optimizing operational workflows, delivering scalable initiatives, and leveraging Data Visualization (Power BI / Tableau), ETL & Data Pipelines and Python (Pandas, N…",
+"beceriler": "Data Visualization (Power BI / Tableau), ETL & Data Pipelines, Python (Pandas, NumPy), A/B Testing, SQL & PostgreSQL, Machine Learning (Scikit-Learn)",
+"deneyim": [
+"Natural Language Processing (NLP) Engineer (2024 - Present): Optimized complex SQL and NoSQL queries, dramatically reducing latency and improving overall data throughput…",
+"Natural Language Processing (NLP) Engineer (2021 - 2024): Refactored legacy codebases adhering strictly to SOLID design patterns, leading cross-functional code reviews t…",
+"Intern (June 2022 - August 2022): Participated in automated test runs, logged detected anomalies into issue trackers, and assisted with user acceptance validation proced…"
+],
+"egitim": [
+"TOBB ETU - Bachelor's Degree (Industrial Engineering) 2019 - 2023"
+]
+}
+},
+{
+"id": "C11199",
+"kind": "CV",
+"title": "Nedensel Çıkarım (Causal Inference) ve Deney Tasarımı Veri Bilimcisi",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"context": {
+"ozet": "Korelasyonun ötesine geçerek nedensel etkileri (causal impact) ölçen, Farkların Farkı (Diff-in-Diff), Propensity Score Matching ve karmaşık A/B test analizleri yapan deneysel veri bilimciyim.",
+"beceriler": "Causal Inference (DoWhy, CausalImpact), Propensity Score Matching, A/B Testing Experimentation, Hypothesis Testing, Python & R, Econometrics",
+"deneyim": [
+"Nedensel Çıkarım (Causal Inference) ve Deney Tasarımı Veri Bilimcisi ([TARİH]): Sadakat programının satışlar üzerindeki gerçek nedensel etkisini Diff-in-Diff analiziyle …"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (İktisat & İstatistik) [TARİH]"
+]
+}
+},
+{
+"id": "C11093",
+"kind": "CV",
+"title": "Next.js & Jamstack Web Geliştiricisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Headless CMS (Strapi, Contentful, Sanity) ve Next.js entegrasyonuyla ultra hızlı, statik üretilmiş (SSG) ve artımlı statik yenilemeli (ISR) kurumsal web siteleri inşa eden frontend geliştiricisiyim. Vercel deployment ve edge fonksiyonlarında tecrübeliyim.",
+"beceriler": "Next.js (ISR/SSG), Headless CMS (Sanity/Strapi), GraphQL, Tailwind CSS, Vercel Edge Functions, SEO Optimizasyonu",
+"deneyim": [
+"Next.js & Jamstack Web Geliştiricisi ([TARİH]): Uluslararası medya sitesinde 100.000 makaleyi Next.js ISR altyapısı ve Sanity CMS ile statik servis ederek sunucu maliyet…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11100",
+"kind": "CV",
+"title": "Node.js & Finans / Ödeme Ağ Geçidi Geliştiricisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "İyzico, Stripe ve banka sanal POS API'leri ile güvenli ödeme alma, 3D Secure akışları, otomatik iade/iptal ve abonelik ödeme motorları kuran kıdemli Node.js mühendisiyim. Güvenlik standartları ve idempotent istek mimarilerinde uzmanım.",
+"beceriler": "Node.js, TypeScript, Stripe / İyzico API Entegrasyonu, PostgreSQL, Idempotency Architecture, Docker, Jest",
+"deneyim": [
+"Node.js & Finans / Ödeme Ağ Geçidi Geliştiricisi ([TARİH]): Uluslararası abonelik platformunda çok para birimli Stripe ve yerel POS ödeme motorunu TypeScript ile inşa ed…",
+"Yazılım Stajyeri ([TARİH]): Lisans eğitimi sürecinde yazılım ekibine katılarak mevcut REST API uç noktalarının hata ayıklama (bug fixing) süreçlerine destek verdim, Post…"
+],
+"egitim": [
+"Dokuz Eylül Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11052",
+"kind": "CV",
+"title": "Node.js / Express & NoSQL Veri Mimarı",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Yüksek yazma hacmine sahip platformlarda Node.js, Express.js ve MongoDB/Mongoose ile esnek veri modelleri ve REST API servisleri tasarlayan kıdemli yazılımcıyım. Veri tabanı indeksleme, aggregation pipeline optimizasyonu ve JWT yetkilendirmede uzmanım.",
+"beceriler": "Node.js, Express.js, TypeScript, MongoDB / Mongoose, Aggregation Pipeline, Redis Caching, Docker",
+"deneyim": [
+"Node.js / Express & NoSQL Veri Mimarı ([TARİH]): Sosyal içerik platformunda günlük 5 milyon görüntülenme alan içeriklerin API servislerini Express ve MongoDB aggregation…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Yazılım Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11119",
+"kind": "CV",
+"title": "Node.js / NestJS & GraphQL API Geliştiricisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "NestJS ve Apollo Server ile kurumsal ölçekte code-first GraphQL API'leri tasarlayan backend mühendisiyim. GraphQL Federation, karmaşık sorgu optimizasyonu, DataLoader ile N+1 önleme ve mikroservis entegrasyonlarında uzmanım.",
+"beceriler": "Node.js, NestJS, TypeScript, GraphQL & Apollo Federation, DataLoader, PostgreSQL, TypeORM, Docker",
+"deneyim": [
+"Node.js / NestJS & GraphQL API Geliştiricisi ([TARİH]): Pazaryeri web ve mobil istemcileri için 6 farklı departman servisini Apollo Federation ile tek bir GraphQL süper-…",
+"Aday Mühendis (Yazılım) ([TARİH]): Haftada 2 gün aday mühendislik programı kapsamında mikroservis mimarisindeki loglama kütüphanelerinin incelenmesi, ELK stack log forma…"
+],
+"egitim": [
+"Marmara Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1483",
+"kind": "JOB",
+"title": "Node.js / TypeScript Backend Developer",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Canlı bahis ve maç bülteni servislerinde maç anındaki yüksek trafik dalgalanmalarını kaldırabilecek, TypeScript ve Node.js ile dayanıklı backend geliştirecek yazılımcı arayışındayız. Rol ve Sorumluluklar: - Canlı skor ve oran değişikliklerini işleyen Node.js servislerini kodlamak - Redis Pub/Sub ve Kafka kullanarak anlık bildirimleri kullanıcı kuyruklarına iletmek - Kritik API uç noktalarının birim ve entegrasyon testlerini eksiksiz yazmak - Personel servisi hizmetimiz bulunmaktadır. Kimleri Arıyoruz? - En az 3 yıl profesyonel Node.js ve TypeS…"
+}
+},
+{
+"id": "J1481",
+"kind": "JOB",
+"title": "Node.js API Geliştiricisi (Microservices)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Mikro-mobilite ve araç paylaşım filomuzun operasyonel servislerinde Node.js ile çalışacak, sahadan gelen telemetri verilerini işleyecek dinamik genç mühendisler arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Filo yönetimi ve kilit açma/kapama operasyonları için Node.js mikroservisleri kodlamak - PostGIS ve PostgreSQL üzerinde konum bazlı coğrafi sorguların yazılmasına destek olmak - API loglarını inceleyerek servis sağlığını takip etmek - Saha operasyon ekiplerinin ihtiyaç duyduğu iç araç API'lerini geliştirmek Adayda Aranan Yetkinlikler: - Müh…"
+}
+},
+{
+"id": "C11167",
+"kind": "CV",
+"title": "Node.js Backend & Gerçek Zamanlı Socket Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Elazığ",
+"context": {
+"ozet": "Socket.io ve WebSockets kullanarak anlık mesajlaşma, canlı müzayede ve işbirlikçi çalışma (collaborative tools) backend sistemleri geliştiren Node.js uzmanıyım. Redis pub/sub adaptörü ile çok sunuculu soket kümeleme ve mesaj kuyruklarında deneyimliyim.",
+"beceriler": "Node.js, Socket.io & WebSockets, Redis Pub/Sub, Express.js, MongoDB, RabbitMQ, Docker",
+"deneyim": [
+"Node.js Backend & Gerçek Zamanlı Socket Mühendisi ([TARİH]): Kurumsal anlık mesajlaşma ve dosya paylaşım uygulamasında 40.000 eşzamanlı aktif kullanıcının soket bağlantı…",
+"Yazılım Stajyeri ([TARİH]): Lisans eğitimi sürecinde yazılım ekibine katılarak mevcut REST API uç noktalarının hata ayıklama (bug fixing) süreçlerine destek verdim, Post…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11251",
+"kind": "CV",
+"title": "Node.js Backend & Mikroservis Güvenlik Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Node.js mikroservislerinde Helmet, CORS, rate-limiting, veri doğrulama (Zod/Joi), JWT ve rol bazlı erişim denetimi (RBAC) kuran backend güvenlik mühendisiyim. Bağımlılık güvenlik açığı taramaları (Snyk, npm audit) ve güvenli kodlama disiplini uygularım.",
+"beceriler": "Node.js, TypeScript, NestJS Security, Zod Validation, Snyk Vulnerability Scanning, Docker Security, PostgreSQL",
+"deneyim": [
+"Node.js Backend & Mikroservis Güvenlik Uzmanı ([TARİH]): Kurumsal SaaS platformunda tüm API uç noktalarını Zod şemaları ve JWT RBAC ile güçlendirdim; Snyk otomasyonu ile…"
+],
+"egitim": [
+"İstanbul Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11136",
+"kind": "CV",
+"title": "Node.js Backend & Mikroservis Kuyruk Mimarı (BullMQ)",
+"industry": "IT_SOFTWARE",
+"city": "Adana",
+"context": {
+"ozet": "Yoğun arka plan işleri, PDF/rapor üretimi, e-posta gönderimi ve veri işleme kuyruklarında BullMQ ve Redis kullanan uzman Node.js geliştiricisiyim. İş önceliklendirme, gecikmeli işler, retry stratejileri ve worker kümeleme konularına hakimim.",
+"beceriler": "Node.js, TypeScript, BullMQ & Redis, PostgreSQL, Puppeteer PDF İmalatı, Docker, Winston Logging",
+"deneyim": [
+"Node.js Backend & Mikroservis Kuyruk Mimarı (BullMQ) ([TARİH]): B2B fatura platformunda aylık 500.000 resmi e-arşiv faturanın PDF üretimi ve imzalanmasını BullMQ iş kuyr…"
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Yazılım Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1476",
+"kind": "JOB",
+"title": "Node.js Backend Developer (NestJS & PostgreSQL)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Remote",
+"context": {
+"aciklama": "Dünyaca ünlü perakende markalarının dijital mağazalarını çalıştıran omnichannel e-ticaret platformumuzda NestJS ile kurumsal backend servisleri geliştirecek yazılımcı arayışındayız. Pozisyonun Temel Görevleri: - NestJS framework'ü kullanarak modüler, bakımı kolay ve ölçeklenebilir backend mimarileri geliştirmek - TypeORM / Prisma ile PostgreSQL veritabanı şemalarını tasarlamak ve sorguları optimize etmek - Redis ile sepet ve ürün katalog önbellekleme süreçlerini yönetmek - Mikroservisler arası asenkron iletişimde RabbitMQ entegrasyonlarını kur…"
+}
+},
+{
+"id": "C10744",
+"kind": "CV",
+"title": "Node.js Geliştirici",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Node.js Geliştirici olarak 2 yıllık profesyonel deneyime sahibim. Agile & Scrum, Linux / Bash ve Mikroservis Mimarisi alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüksek bir uzmanım.",
+"beceriler": "Agile & Scrum, Linux / Bash, Mikroservis Mimarisi, Docker & Kubernetes, CI/CD Pipeline, Birim Testi (Unit Testing)",
+"deneyim": [
+"Node.js Geliştirici (2024 - Günümüz): Yazılım yaşam döngüsü boyunca temiz kod ve SOLID prensiplerine bağlı kalarak kod incelemelerini yürüttüm ve mimari borçları azalttı…",
+"Node.js Geliştirici (2021 - 2024): Bulut altyapısı üzerinde kaynak ölçekleme politikalarını belirleyerek sistem güvenliği ve izleme altyapılarını yapılandırdım.",
+"Stajyer (Şubat 2022 - Mayıs 2022): Departman bünyesinde haftalık operasyonel veri setlerinin derlenmesi ve analistlerin hazırladığı teknik raporların ön inceleme süreçle…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Matematik Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "J1384",
+"kind": "JOB",
+"title": "Node.js Geliştirici",
+"industry": "IT_SOFTWARE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Hepsiburada Tech bünyesinde, [şehir] ofisimizde veya uzaktan (remote) modelde yüksek eşzamanlı servisler geliştirecek 'Node.js Geliştirici' aramaktayız. Rol ve Şirket Hakkında: Hepsiburada Tech; devasa sipariş hacimlerini ve anlık kampanya trafiklerini modern asenkron mikroservis mimarileriyle karşılayan lider e-ticaret mühendislik ekibidir. Görev ve Sorumluluklar: - Node.js ve TypeScript kullanarak ölçeklenebilir, test edilebilir ve dayanıklı mikroservislerin tasarlanması ve kodlanması, - NestJS veya Express framework'leri ile RESTful API ve …"
+}
+},
+{
+"id": "C11225",
+"kind": "CV",
+"title": "NoSQL Veritabanı Yöneticisi (MongoDB & Cassandra)",
+"industry": "IT_SOFTWARE",
+"city": "Adana",
+"context": {
+"ozet": "MongoDB Replica Set ve Sharded Cluster mimarileri ile Apache Cassandra halka (ring) topolojilerini yöneten NoSQL veritabanı uzmanıyım. Veri modelleme, shard anahtarı seçimi, kompaktlaştırma ve yedekleme stratejilerinde uzmanım.",
+"beceriler": "MongoDB Sharding & Replication, Apache Cassandra, Redis Cluster, OpsManager / nodetool, NoSQL Data Modeling, Linux Storage Performance",
+"deneyim": [
+"NoSQL Veritabanı Yöneticisi (MongoDB & Cassandra) ([TARİH]): Global mesajlaşma altyapısında 10 düğümlü MongoDB sharded cluster kümesini kurarak saniyede 40.000 belge yaz…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11163",
+"kind": "CV",
+"title": "Nuxt.js & E-Ticaret Frontend Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Headless e-ticaret altyapılarında Nuxt 3, Vue Storefront ve GraphQL kullanarak ultra hızlı alışveriş deneyimleri inşa eden frontend mühendisiyim. PWA desteği, sepet ve ödeme optimizasyonlarında uzmanım.",
+"beceriler": "Nuxt 3, Vue.js, PWA (Progressive Web App), GraphQL, Tailwind CSS, Pinia, Google Tag Manager",
+"deneyim": [
+"Nuxt.js & E-Ticaret Frontend Uzmanı ([TARİH]): Moda markasının e-ticaret mağazasını Nuxt 3 ile PWA olarak yeniden kodlayarak mobil cihazlarda çevrimdışı sepet deneyimi v…"
+],
+"egitim": [
+"Marmara Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11083",
+"kind": "CV",
+"title": "Öneri Sistemleri (Recommendation Systems) ML Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Balıkesir",
+"context": {
+"ozet": "E-ticaret ve medya platformlarında kullanıcı etkileşimini artıran kişiselleştirilmiş öneri motorları (collaborative filtering, deep neural recommendation, vector search) geliştiren ML mühendisiyim. İki aşamalı geri getirme ve sıralama (retrieval & ranking) modellerinde tecrübeliyim.",
+"beceriler": "Recommendation Algorithms, Two-Stage Retrieval & Ranking, PyTorch / TensorFlow Recommenders, Vector Search (Milvus / Pinecone), Feature Store (Feast), Python & SQL",
+"deneyim": [
+"Öneri Sistemleri (Recommendation Systems) ML Mühendisi ([TARİH]): Pazaryeri ürün tavsiye motorunu derin öğrenme ve vektör arama mimarisiyle yeniden tasarlayarak anasayfa…",
+"Makine Öğrenimi Stajyeri ([TARİH]): Doğal dil işleme (NLP) model eğitimleri öncesinde Türkçe metinlerin temizlenmesi, kök bulma (stemming/lemmatization) ve stop-word fil…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1027",
+"kind": "JOB",
+"title": "Öneri Sistemleri ve Arama Motoru Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Bursa",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Trendyol bünyesinde, [şehir] ofisimizde veya uzaktan çalışma düzeninde her gün milyonlarca kullanıcıya en alakalı ürünleri sunacak 'Öneri Sistemleri ve Arama Motoru Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Trendyol Arama ve Öneri Ekibi; platformdaki yüz milyonlarca ürün arasından kullanıcının niyetine en uygun sonuçları milisaniyeler içinde getiren yüksek ölçekli arama ve kişiselleştirme algoritmalarını yönetir. Görev ve Sorumluluklar: - Elasticsearch / OpenSearch ve vektör veri tabanları (Milvus, Qdrant) üzerinde arama altyapısının tas…"
+}
+},
+{
+"id": "C11262",
+"kind": "CV",
+"title": "OpenShift & Kurumsal Konteyner Platform Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Bankacılık ve sigortacılıkta Red Hat OpenShift Container Platform (OCP) kurulumu, küme yönetimi, OpenShift Virtualization ve kurumsal operatör entegrasyonlarında uzman sistem mühendisiyim.",
+"beceriler": "Red Hat OpenShift (OCP 4), Kubernetes, Red Hat Enterprise Linux (RHEL), Ansible Automation Platform, Ceph Storage, Prometheus",
+"deneyim": [
+"OpenShift & Kurumsal Konteyner Platform Mühendisi ([TARİH]): Kamu bankasında 8 düğümlü yüksek güvenlikli OpenShift kümesinin kurulumunu tamamladım; geliştirici ekipler i…"
+],
+"egitim": [
+"Marmara Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C10831",
+"kind": "CV",
+"title": "Operasyonel Veri Analisti",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Matematik alanındaki güçlü akademik temelim ve 4 yılı aşkın sektör deneyimimle, Operasyonel Veri Analisti rolünde uçtan uca başarılı projeler yürütmekteyim. SQL & PostgreSQL, A/B Testi ve Veri Görselleştirme (Power BI / Tableau) başta olmak üzere modern araç ve metodolojilere hakimim. Süreç verimliliğini artıran, veri odaklı karar alabilen ve ekip…",
+"beceriler": "SQL & PostgreSQL, A/B Testi, Veri Görselleştirme (Power BI / Tableau), Python (Pandas, NumPy), Derin Öğrenme (PyTorch / TensorFlow), İstatistiksel Modelleme",
+"deneyim": [
+"Operasyonel Veri Analisti (2023 - Günümüz): İş birimlerinin analitik ihtiyaçlarını belirleyerek Power BI ve Tableau üzerinde interaktif KPI yönetim panoları ve veri mode…",
+"Stajyer (Ağustos 2021 - Eylül 2021): Sektörel pazar araştırmaları yaparak rakip analiz tablolarının oluşturulması ve haftalık ilerleme sunumlarının hazırlanmasına yardım…"
+],
+"egitim": [
+"Ondokuz Mayıs Üniversitesi - Lisans (Matematik) 2018 - 2022"
+]
+}
+},
+{
+"id": "J0779",
+"kind": "JOB",
+"title": "Operational Data Analyst",
+"industry": "IT_SOFTWARE",
+"city": "Eskişehir",
+"position_level": "MID_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "We are looking for a qualified Operational Data Analyst to join our Data Science & Artificial Intelligence operations in [şehir]. Key Responsibilities & Qualifications: - Execute end-to-end deliverables leveraging SQL & PostgreSQL. - Collaborate with multi-disciplinary stakeholders utilizing Data Visualization (Power BI / Tableau). - Optimize workflows, data integrity, and compliance across Deep Learning (PyTorch / TensorFlow). - Drive continuous technical excellence and proactive problem resolution. - Minimum 4+ years of proven professional e…"
+}
+},
+{
+"id": "C11028",
+"kind": "CV",
+"title": "Optik Karakter Tanıma (OCR) ve Belge İşleme Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Optik Karakter Tanıma (OCR) ve Belge İşleme Mühendisi olarak 4 yıllık profesyonel deneyime sahibim. Makine Öğrenimi (Scikit-Learn), İstatistiksel Modelleme ve SQL & PostgreSQL alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumlulu…",
+"beceriler": "Makine Öğrenimi (Scikit-Learn), İstatistiksel Modelleme, SQL & PostgreSQL, A/B Testi, Python (Pandas, NumPy)",
+"deneyim": [
+"Optik Karakter Tanıma (OCR) ve Belge İşleme Mühendisi (2024 - Günümüz): Yazılım yaşam döngüsü boyunca temiz kod ve SOLID prensiplerine bağlı kalarak kod incelemelerini y…",
+"Optik Karakter Tanıma (OCR) ve Belge İşleme Mühendisi (2022 - 2024): Bulut altyapısı üzerinde kaynak ölçekleme politikalarını belirleyerek sistem güvenliği ve izleme alt…",
+"Stajyer (Ocak 2021 - Şubat 2021): Zorunlu staj kapsamında departman iş akışlarını gözlemledim, uzman ekiple birlikte saha/ofis denetimlerine katılarak teknik dokümantasy…"
+],
+"egitim": [
+"Bahçeşehir Üniversitesi - Lisans (Endüstri Mühendisliği) 2018 - 2022"
+]
+}
+},
+{
+"id": "J1333",
+"kind": "JOB",
+"title": "Optik Karakter Tanıma (OCR) ve Belge İşleme Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Papara Ar-Ge Merkezi bünyesinde, [şehir] ofisimizde veya uzaktan modelde dijital müşteri edinimi (KYC) ve kimlik doğrulama akışlarında görev alacak 'Optik Karakter Tanıma (OCR) ve Belge İşleme Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Papara; kimlik kartları, pasaportlar, faturalar ve finansal belgelerin saniyeler içinde yüksek doğrulukla dijitalleştirilmesini sağlayan yerli yapay zeka ve bilgisayarlı görü çözümleri geliştirmektedir. Görev ve Sorumluluklar: - Kimlik, sürücü belgesi ve finansal dökümanlardan metin, MRZ ve özel alanları çı…"
+}
+},
+{
+"id": "C11120",
+"kind": "CV",
+"title": "Optik Karakter Tanıma (OCR) ve Belge Zekası Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Konya",
+"context": {
+"ozet": "Taranmış faturalar, kimlikler, tapular ve karmaşık el yazısı belgelerden veri çıkaran Tesseract, TrOCR ve LayoutLM tabanlı çok modlu (multimodal) belge anlama sistemleri kuran görüntü işleme uzmanıyım.",
+"beceriler": "Optical Character Recognition (OCR), LayoutLM & TrOCR, Document Information Extraction, OpenCV Pre-processing, Python & PyTorch, FastAPI",
+"deneyim": [
+"Optik Karakter Tanıma (OCR) ve Belge Zekası Mühendisi ([TARİH]): Gümrük ve lojistik faturalarındaki tablo ve metinleri LayoutLM ile yapılandırılmış JSON verisine dönüştü…",
+"Veri Bilimi Stajyeri ([TARİH]): Müşteri segmentasyonu projesinde kayıp veri analizi (missing value handling) ve aykırı değer temizleme scriptlerini Python (Pandas/Scikit…"
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Yazılım Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J0854",
+"kind": "JOB",
+"title": "Optoelektronik ve Fotonik Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "ASELSAN Elektro-Optik Sistemler Sektör Başkanlığı bünyesinde, [şehir] yerleşkemizde milli elektro-optik keşif, gözetleme ve hedefleme sistemlerinde görev alacak 'Optoelektronik ve Fotonik Mühendisi' aramaktayız. Rol ve Şirket Hakkında: ASELSAN Elektro-Optik Sistemler; kara, hava ve deniz platformları için termal kameralar, lazer mesafe ölçerler, hedef işaretleyiciler ve fotonik sistemler üreten dünya çapında bir savunma sanayii lideridir. Görev ve Sorumluluklar: - Lazer, fotodetektör, fiber optik ve optoelektronik alt sistemlerin tasarımı, ana…"
+}
+},
+{
+"id": "J0374",
+"kind": "JOB",
+"title": "Otonom Sürüş Algoritma Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Togg Teknoloji Kampüsü bünyesinde, [şehir] Ar-Ge merkezimizde yeni nesil akıllı elektrikli araçlarımızın gelişmiş sürüş destek (ADAS) ve otonom sürüş sistemlerini geliştirecek 'Otonom Sürüş Algoritma Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Togg; mobilite ekosistemini yeniden tanımlayan, bağlantılı, elektrikli ve yüksek otonomi kabiliyetine sahip akıllı cihazlar üreten Türkiye'nin küresel mobilite markasıdır. Görev ve Sorumluluklar: - Kamera, LiDAR, Radar ve ultrasonik sensör verilerini birleştiren çoklu sensör füzyonu algoritmalarının …"
+}
+},
+{
+"id": "C11074",
+"kind": "CV",
+"title": "Otonom Sürüş ve Çevre Algılama (Perception) Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Otonom araçlar ve robotik sistemler için LiDAR nokta bulutu işleme, şerit tespiti, kamera-radar sensör füzyonu ve 3D sınırlayıcı kutu (3D Bounding Box) tespiti yapan algılama mühendisiyim. ROS 2 ve C++ kullanırım.",
+"beceriler": "Sensor Fusion (LiDAR + Camera), ROS 2 (Robot Operating System), C++ 17 & Python, Point Cloud Library (PCL), 3D Object Detection, Kalman Filtering",
+"deneyim": [
+"Otonom Sürüş ve Çevre Algılama (Perception) Mühendisi ([TARİH]): Otonom fabrika içi taşıma aracının (AGV) engel algılama ve haritalama (SLAM) yazılımını ROS 2 ve LiDAR s…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Mekatronik / Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1178",
+"kind": "JOB",
+"title": "Oyun Fizik Motoru Geliştiricisi",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "TaleWorlds Entertainment bünyesinde, [şehir] stüdyomuzda kendi tescilli oyun motorumuzun fizik ve simülasyon sistemlerini geliştirecek 'Oyun Fizik Motoru Geliştiricisi' aramaktayız. Rol ve Şirket Hakkında: TaleWorlds; yüzlerce savaşçının aynı anda çarpıştığı devasa orta çağ muharebelerini gerçekçi fizik dinamikleri ve ragdoll sistemleriyle hayata geçiren küresel oyun geliştiricisidir. Görev ve Sorumluluklar: - Katı cisim mekaniği (rigid body dynamics), kısıt çözücüler (constraint solvers) ve çarpışma algılama (collision detection - GJK, EPA, B…"
+}
+},
+{
+"id": "J0867",
+"kind": "JOB",
+"title": "Oyun Geliştirici (Unity / C#)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Dream Games bünyesinde, [şehir] ofisimizde veya hibrit modelde küresel ölçekte yüz milyonlarca oyuncuya ulaşan mobil hit oyunlarımızın mekaniklerini geliştirecek 'Oyun Geliştirici (Unity / C#)' aramaktayız. Rol ve Şirket Hakkında: Dream Games; Royal Match ve Royal Kingdom gibi dünya çapında en çok gelir elde eden ve sevilen mobil bulmaca oyunlarını yaratan lider teknoloji ve oyun şirketidir. Görev ve Sorumluluklar: - Unity oyun motoru ve modern C# kullanarak yüksek performanslı, akıcı ve bağımlılık yaratan oynanış (gameplay) mekaniklerinin gel…"
+}
+},
+{
+"id": "C10474",
+"kind": "CV",
+"title": "Oyun Geliştirici (Unreal Engine",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Yönetim Bilişim Sistemleri (YBS) alanındaki güçlü akademik temelim ve 2 yılı aşkın sektör deneyimimle, Oyun Geliştirici (Unreal Engine / C++) rolünde uçtan uca başarılı projeler yürütmekteyim. Birim Testi (Unit Testing), Performans Optimizasyonu ve Linux / Bash başta olmak üzere modern araç ve metodolojilere hakimim. Süreç verimliliğini artıran, v…",
+"beceriler": "Birim Testi (Unit Testing), Performans Optimizasyonu, Linux / Bash, Agile & Scrum, Git & GitHub, Mikroservis Mimarisi",
+"deneyim": [
+"Oyun Geliştirici (Unreal Engine (2024 - Günümüz): İlişkisel ve NoSQL veri tabanlarında sorgu optimizasyonu yaparak sistem yanıt sürelerini önemli ölçüde düşürdüm ve veri…",
+"Stajyer (Ağustos 2022 - Eylül 2022): Proje toplantı tutanaklarının tutulması, departmanlar arası veri akışının takibi ve kurumsal arşiv sisteminin güncellenmesi görevler…"
+],
+"egitim": [
+"Çankaya Üniversitesi - Lisans (Yönetim Bilişim Sistemleri) 2019 - 2023"
+]
+}
+},
+{
+"id": "J1014",
+"kind": "JOB",
+"title": "Oyun Geliştirici (Unreal Engine / C++)",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Tiplay Studio bünyesinde, [şehir] stüdyomuzda konsol ve PC platformlarına yönelik iddialı projelerimizde görev alacak 'Oyun Geliştirici (Unreal Engine / C++)' aramaktayız. Rol ve Şirket Hakkında: Tiplay Studio; küresel oyuncu kitlesi için yüksek prodüksiyon kalitesine sahip, yenilikçi oynanış mekanikleri barındıran PC ve konsol oyunları geliştiren dinamik bir oyun stüdyosudur. Görev ve Sorumluluklar: - Unreal Engine 5 üzerinde modern C++ ve optimize Blueprints kullanarak temel oynanış sistemleri, karakter kontrolleri ve yapay zeka davranışları…"
+}
+},
+{
+"id": "C11005",
+"kind": "CV",
+"title": "Oyun Sunucu ve Ağ Mühendisi (Game Networking)",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"context": {
+"ozet": "Oyun Sunucu ve Ağ Mühendisi (Game Networking) olarak 2 yıllık profesyonel deneyime sahibim. CI/CD Pipeline, Birim Testi (Unit Testing) ve Git & GitHub alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüksek bir uzma…",
+"beceriler": "CI/CD Pipeline, Birim Testi (Unit Testing), Git & GitHub, RESTful API, Clean Code & Refactoring, Agile & Scrum",
+"deneyim": [
+"Oyun Sunucu ve Ağ Mühendisi (Game Networking) (2023 - Günümüz): İlişkisel ve NoSQL veri tabanlarında sorgu optimizasyonu yaparak sistem yanıt sürelerini önemli ölçüde dü…",
+"Stajyer (Ocak 2022 - Şubat 2022): Sektörel pazar araştırmaları yaparak rakip analiz tablolarının oluşturulması ve haftalık ilerleme sunumlarının hazırlanmasına yardımcı …"
+],
+"egitim": [
+"İzmir Yüksek Teknoloji Enstitüsü - Lisans (Bilgisayar Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "J0907",
+"kind": "JOB",
+"title": "Oyun Sunucu ve Ağ Mühendisi (Game Networking)",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Peak bünyesinde, [şehir] ofisimizde yüz binlerce anlık oyuncunun rekabet ettiği oyunlarımızın sunucu ve ağ omurgasını inşa edecek 'Oyun Sunucu ve Ağ Mühendisi (Game Networking)' aramaktayız. Rol ve Şirket Hakkında: Peak; küresel mobil oyun pazarında Toon Blast ve Toy Blast gibi efsanevi hitlere imza atan, yüksek eşzamanlı ve sıfır gecikmeli sunucu mimarileri üreten teknoloji devidir. Görev ve Sorumluluklar: - Düşük gecikmeli, gerçek zamanlı ve yüksek eşzamanlı (high-concurrency) oyun sunucusu mimarilerinin Go veya C++ ile tasarlanması, - UDP, …"
+}
+},
+{
+"id": "C11116",
+"kind": "CV",
+"title": "Pazarlama ve Müşteri Analitiği Veri Bilimcisi",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"context": {
+"ozet": "Müşteri segmentasyonu (RFM, K-Means), pazarlama karması modellemesi (Marketing Mix Modeling - MMM) ve çok kanallı atıf (Multi-Touch Attribution) modelleri tasarlayan veri bilimciyim. Kampanya bütçe dağıtımını optimize ederim.",
+"beceriler": "Customer Segmentation (K-Means / RFM), Marketing Mix Modeling (MMM), Multi-Touch Attribution, Causal Inference, Python, Tableau",
+"deneyim": [
+"Pazarlama ve Müşteri Analitiği Veri Bilimcisi ([TARİH]): E-ticaret şirketinde Meta ve Google reklam bütçesi için MMM modeli geliştirerek pazarlama harcaması getirisini (…",
+"Makine Öğrenimi Stajyeri ([TARİH]): Doğal dil işleme (NLP) model eğitimleri öncesinde Türkçe metinlerin temizlenmesi, kök bulma (stemming/lemmatization) ve stop-word fil…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (İstatistik / Matematik) [TARİH]"
+]
+}
+},
+{
+"id": "C10449",
+"kind": "CV",
+"title": "Pazarlama Veri Analisti",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Pazarlama Veri Analisti olarak 3 yıllık profesyonel deneyime sahibim. A/B Testi, Makine Öğrenimi (Scikit-Learn) ve Büyük Veri (Apache Spark) alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüksek bir uzmanım.",
+"beceriler": "A/B Testi, Makine Öğrenimi (Scikit-Learn), Büyük Veri (Apache Spark), SQL & PostgreSQL, Python (Pandas, NumPy)",
+"deneyim": [
+"Pazarlama Veri Analisti (2024 - Günümüz): İş birimlerinin analitik ihtiyaçlarını belirleyerek Power BI ve Tableau üzerinde interaktif KPI yönetim panoları ve veri modell…",
+"Stajyer (Haziran 2022 - Ağustos 2022): ERP ve veri tabanı sistemlerine veri girişi sağlayarak raporlama öncesi veri tutarlılık ve doğrulama kontrollerini gerçekleştirdim."
+],
+"egitim": [
+"Pamukkale Üniversitesi - Lisans (İstatistik) 2019 - 2023"
+]
+}
+},
+{
+"id": "C10739",
+"kind": "CV",
+"title": "Pazarlama Veri Analisti",
+"industry": "IT_SOFTWARE",
+"city": "Antalya",
+"context": {
+"ozet": "Akdeniz Üniversitesi Bilgisayar Mühendisliği bölümünden başarıyla mezun oldum. Pazarlama Veri Analisti alanında kariyer hedefim doğrultusunda teorik bilgi birikimimi ve Derin Öğrenme (PyTorch / TensorFlow), Python (Pandas, NumPy) ve SQL & PostgreSQL konularındaki staj/proje tecrübelerimi iş hayatına aktarmak istiyorum. Öğrenmeye açık, analitik düş…",
+"beceriler": "Derin Öğrenme (PyTorch / TensorFlow), Python (Pandas, NumPy), SQL & PostgreSQL, A/B Testi, İstatistiksel Modelleme, Makine Öğrenimi (Scikit-Learn)",
+"deneyim": [
+"Stajyer (Ocak 2022 - Şubat 2022): Departman bünyesinde haftalık operasyonel veri setlerinin derlenmesi ve analistlerin hazırladığı teknik raporların ön inceleme süreçler…"
+],
+"egitim": [
+"Akdeniz Üniversitesi - Lisans (Bilgisayar Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "J1229",
+"kind": "JOB",
+"title": "Pazarlama Veri Analisti",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "Remote",
+"context": {
+"aciklama": "Getir bünyesinde, [şehir] ofisimizde veya hibrit çalışma modelinde büyüme ve pazarlama yatırımlarımızı veriye dayalı olarak yönlendirecek 'Pazarlama Veri Analisti' aramaktayız. Rol ve Şirket Hakkında: Getir; dijital pazarlama, kullanıcı edinimi ve performans kanallarında harcanan bütçelerin geri dönüşünü en üst düzeye çıkarmak için ileri analitik modelleri ve büyük veri altyapısını kullanır. Görev ve Sorumluluklar: - Performans pazarlaması metriklerinin (CAC, ROAS, LTV, Dönüşüm Oranları) analizi ve kampanya verimliliğinin optimize edilmesi, - …"
+}
+},
+{
+"id": "C10494",
+"kind": "CV",
+"title": "Penetrasyon Testi (Pentest) Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Penetrasyon Testi (Pentest) Uzmanı olarak 4 yıllık profesyonel deneyime sahibim. Performans Optimizasyonu, CI/CD Pipeline ve Docker & Kubernetes alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüksek bir uzmanım.",
+"beceriler": "Performans Optimizasyonu, CI/CD Pipeline, Docker & Kubernetes, Clean Code & Refactoring, RESTful API, Linux / Bash",
+"deneyim": [
+"Penetrasyon Testi (Pentest) Uzmanı (2024 - Günümüz): CAD/CAM yazılımları ile teknik resim ve parça tasarım süreçlerini yürüterek imalat toleranslarını ve malzeme dayanım…",
+"Stajyer (Ocak 2021 - Şubat 2021): ERP ve veri tabanı sistemlerine veri girişi sağlayarak raporlama öncesi veri tutarlılık ve doğrulama kontrollerini gerçekleştirdim."
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Matematik Mühendisliği) 2018 - 2022"
+]
+}
+},
+{
+"id": "J1288",
+"kind": "JOB",
+"title": "Penetrasyon Testi (Pentest) Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Bursa",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Barikat Siber Güvenlik bünyesinde, [şehir] ofisimizde veya uzaktan çalışma düzeninde kritik kurumsal müşterilerimize etik korsanlık hizmeti sunacak 'Penetrasyon Testi (Pentest) Uzmanı' aramaktayız. Rol ve Şirket Hakkında: Barikat Siber Güvenlik; Türkiye'nin lider siber güvenlik entegratörü olup kamu, finans, telekomünikasyon ve savunma sektörlerindeki kuruluşlara uçtan uca güvenlik denetimleri ve sızma testleri sağlamaktadır. Görev ve Sorumluluklar: - Web uygulamaları, mobil uygulamalar (iOS / Android) ve kurumsal ağ altyapılarına yönelik sızm…"
+}
+},
+{
+"id": "C11185",
+"kind": "CV",
+"title": "Performans ve Yük Testi Mühendisi (JMeter & k6)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Apache JMeter, k6 ve Gatling ile kurumsal web ve API servislerinin yüksek eşzamanlı kullanıcı (concurrency) altındaki TPS (Transactions Per Second), gecikme ve hata oranlarını analiz eden performans mühendisiyim.",
+"beceriler": "Performance & Load Testing, Apache JMeter, k6 Load Testing, Gatling (Scala), Distributed Load Generation, Server Resource Monitoring, Dynatrace / APM",
+"deneyim": [
+"Performans ve Yük Testi Mühendisi (JMeter & k6) ([TARİH]): Black Friday indirimleri öncesinde e-ticaret altyapısını 200.000 sanal kullanıcı ile JMeter üzerinden test ede…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1611",
+"kind": "JOB",
+"title": "Platform Engineer (GitOps & Crossplane)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "E-ticaret ve depo yönetim servislerimizin bulut altyapısını Crossplane ve GitOps yaklaşımıyla doğrudan Kubernetes üzerinden yönetecek Platform Mühendisi arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Crossplane kullanarak bulut kaynaklarını (veritabanı, kuyruk, depolama) Kubernetes özel kaynakları (CRD) olarak tanımlamak - ArgoCD ile GitOps prensiplerini altyapı yönetimine uygulamak - Geliştiricilere ihtiyaç duydukları servisleri tek bir bildirimle (manifest) sağlayan platform katmanları inşa etmek - Platform metriklerini ve kullanım istatistik…"
+}
+},
+{
+"id": "J1588",
+"kind": "JOB",
+"title": "Platform Mühendisi (Developer Experience & Internal Tooling)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Yazılım geliştiricilerimizin daha hızlı, kaliteli ve otonom kod geliştirmesini sağlayacak Dahili Geliştirici Platformunu (IDP) inşa edecek Platform Mühendisi arıyoruz. Pozisyonun Temel Görevleri: - Backstage veya benzeri portallar üzerinde şirket içi geliştirici portalını (Internal Developer Portal) kurmak - Yeni mikroservis oluşturma süreçlerini şablonlaştırarak (service scaffolding) süreyi dakikalara indirmek - Geçici geliştirme ortamlarını (ephemeral environments) otomatik ayağa kaldıran araçlar geliştirmek - Geliştirici verimlilik metrikle…"
+}
+},
+{
+"id": "C10947",
+"kind": "CV",
+"title": "Product Owner",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Recent graduate in Computer Engineering from Kadir Has University, seeking to launch a professional career as a Product Owner. Equipped with solid academic foundations and practical project experience in Linux Administration, Microservices Architecture and CI/CD Pipelines. Highly motivated, detail-oriented, and eager to deliver value in an entry-l…",
+"beceriler": "Linux Administration, Microservices Architecture, CI/CD Pipelines, Agile / Scrum, RESTful APIs, Git & GitHub",
+"deneyim": [
+"Intern (July 2022 - September 2022): Participated in automated test runs, logged detected anomalies into issue trackers, and assisted with user acceptance validation pro…"
+],
+"egitim": [
+"Kadir Has University - Bachelor's Degree (Computer Engineering) 2019 - 2023"
+]
+}
+},
+{
+"id": "C10269",
+"kind": "CV",
+"title": "Proje Lideri",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"context": {
+"ozet": "Farklı disiplinlerden gelen uzmanların potansiyellerini aynı hedefe kilitlemek bir sanat gibidir. Agile felsefesini benimsemiş bir lider olarak, belirsizliklerle dolu ortamlarda net vizyonlar çizerek projeleri bütçe ve zaman kısıtlarına uygun şekilde teslim etmeyi sağlıyorum. Takımımın önündeki engelleri kaldıran bir hizmetkâr lider (servant leade…",
+"beceriler": "Jira, Scrum, Proje Yönetimi, Risk Yönetimi, Liderlik",
+"deneyim": [
+"Yazılım Proje Lideri (2018-01 - Devam Ediyor): E-ticaret platformlarının altyapı dönüşüm projelerinde Scrum süreçlerinin yönetimi, 12 kişilik ekibin liderliği.",
+"İş Analisti (2014-05 - 2017-12): Müşteri gereksinimlerinin toplanması ve geliştirme ekiplerine aktarılması."
+],
+"egitim": [
+"Dokuz Eylül Üniversitesi - Yüksek Lisans (Yönetim Bilişim Sistemleri) 2015-09 - 2017-06",
+"Dokuz Eylül Üniversitesi - Lisans (Endüstri Mühendisliği) 2010-09 - 2014-06"
+]
+}
+},
+{
+"id": "C10727",
+"kind": "CV",
+"title": "Python",
+"industry": "IT_SOFTWARE",
+"city": "Antalya",
+"context": {
+"ozet": "Akdeniz Üniversitesi Matematik Mühendisliği bölümünden başarıyla mezun oldum. Python / Django Geliştirici alanında kariyer hedefim doğrultusunda teorik bilgi birikimimi ve Agile & Scrum, Performans Optimizasyonu ve Docker & Kubernetes konularındaki staj/proje tecrübelerimi iş hayatına aktarmak istiyorum. Öğrenmeye açık, analitik düşünme yeteneğine…",
+"beceriler": "Agile & Scrum, Performans Optimizasyonu, Docker & Kubernetes, RESTful API, Git & GitHub, CI/CD Pipeline",
+"deneyim": [
+"Stajyer (Ağustos 2022 - Eylül 2022): Test senaryolarının koşturulması, tespit edilen anomalilerin hata takip sistemine girilmesi ve kullanıcı geri bildirimlerinin sınıfl…"
+],
+"egitim": [
+"Akdeniz Üniversitesi - Lisans (Matematik Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "J1491",
+"kind": "JOB",
+"title": "Python & Go Backend Developer (Hibrit Mikroservisler)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Mobil ödeme ve dijital kart servislerimizin backend katmanında, hem Python veri servisleri hem de yüksek hızlı Go mikroservisleri ile çalışacak çok yönlü bir mühendis arıyoruz. Temel İş ve Sorumluluk Alanları: - Go ile yüksek hacimli kart bakiye sorgulama ve işlem geçidi servislerini geliştirmek - Python ile arka plan raporlama ve analitik veri hazırlama betiklerini yazmak - Mikroservisler arası iletişimi Kafka ve gRPC üzerinden koordine etmek - Banka mutabakat süreçlerindeki veri tutarsızlıklarını otomatik tespit eden mekanizmalar kurmak Gere…"
+}
+},
+{
+"id": "C11109",
+"kind": "CV",
+"title": "Python & GraphQL Backend Geliştiricisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Gelişmiş mobil ve web istemcileri için Strawberry ve Graphene ile esnek GraphQL API'leri tasarlayan backend mühendisiyim. N+1 sorgu problemleri çözümü (DataLoader), şema dikişi (schema stitching) ve caching katmanlarında uzmanım.",
+"beceriler": "Python, Strawberry GraphQL, DataLoader, PostgreSQL, Redis, Apollo Federation, Docker",
+"deneyim": [
+"Python & GraphQL Backend Geliştiricisi ([TARİH]): Medya yayıncılığı platformunda mobil uygulama için REST'ten GraphQL'e geçişi yönettim; veri transfer boyutunu %60 azalt…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Matematik Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J0853",
+"kind": "JOB",
+"title": "Python / Django Geliştirici",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"position_level": "MID_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Trendyol Tech bünyesinde, [şehir] ofisimizde veya uzaktan (remote/hybrid) modelde ölçeklenebilir iç platformlar ve servisler geliştirecek 'Python / Django Geliştirici' aramaktayız. Rol ve Şirket Hakkında: Trendyol Tech; yüz binlerce satıcının operasyonlarını yönettiği satıcı panelleri ve arka ofis sistemlerini modern Python servisleri ve mikroservis mimarileriyle destekleyen dev teknoloji ekibidir. Görev ve Sorumluluklar: - Python 3.11+ ve Django / Django REST Framework (DRF) kullanarak yüksek performanslı RESTful API servislerinin tasarlanmas…"
+}
+}
+]

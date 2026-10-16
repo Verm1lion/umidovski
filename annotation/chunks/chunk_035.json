@@ -1,0 +1,1344 @@
+[
+{
+"id": "J1759",
+"kind": "JOB",
+"title": "Kıdemli Talaşlı İmalat ve CAM Mühendisi (5 Eksen CNC)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Büyük boyutlu iş makinesi şasi ve hidrolik bloklarının 5 eksen CNC yatay işleme merkezlerinde işleme stratejilerini ve CAM programlarını yönetecek kıdemli mühendis arıyoruz. Görev ve Sorumluluklar: - Siemens NX CAM veya Mastercam kullanarak karmaşık döküm ve kaynaklı parçaların 5 eksen CNC programlarını yapmak - VERICUT ile çarpışma simülasyonlarını gerçekleştirerek sıfır hatalı tezgah operasyonu sağlamak - Kesici takım seçimi, kesme hızları ve bağlama fikstürü tasarımlarını optimize ederek çevrim sürelerini düşürmek - Talaşlı imalat operatörl…"
+}
+},
+{
+"id": "J1857",
+"kind": "JOB",
+"title": "Kıdemli Tedarik Zinciri ve Üretim Çizelgeleme Yöneticisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İzmir",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Alüminyum jant döküm ve talaşlı işleme fabrikalarımızda entegre tedarik zinciri, döküm pota planlaması ve OEM sevkiyat çizelgeleme operasyonlarını yönetecek kıdemli lider arıyoruz. Pozisyonun Temel Görevleri: - Döküm, ısıl işlem, talaşlı imalat ve boyahane tesisleri arasındaki entegre üretim programını yönetmek - Global OEM müşterilerinin (Audi, BMW, Ford vb.) haftalık teslimat takvimlerine tam uyumu koordine etmek - Tedarik zinciri maliyetlerini ve stok devir hızını optimize edecek stratejik S&OP süreçlerini yürütmek - Planlama departmanı eki…"
+}
+},
+{
+"id": "J1924",
+"kind": "JOB",
+"title": "Kıdemli Tel ve Dalma Erozyon Ustası",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Hassas savunma sanayi mekanizmaları ve progresif kesme kalıplarının tüm elektroerozyon operasyonlarını sevk ve idare edecek Kıdemli Erozyon Ustası arıyoruz. Görev ve Sorumluluklar: - Tel erozyon ve dalma erozyon tezgah parkurunun haftalık iş yükü planlamasını ve tezgah atamalarını yapmak - Karmaşık zımba maça boşlukları için elektrot tasarım kriterlerini ve tel kesim açınım toleranslarını belirlemek - 5 mikron altı tolerans gerektiren kritik havacılık parçalarında mikro kesim parametrelerini optimize etmek - Genç erozyon operatörlerinin yetişt…"
+}
+},
+{
+"id": "J1743",
+"kind": "JOB",
+"title": "Kıdemli Termal Yönetim ve Soğutma Sistemleri Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Isı pompası sistemleri, çevre dostu soğutucu akışkanlar (R290) ve kompresör termal optimizasyonu projelerimizi yönetecek kıdemli araştırmacı arıyoruz. Pozisyonun Temel Görevleri: - Termodinamik soğutma çevrimlerini (1D sistem simülasyonu - Amesim/EES) modellemek ve test etmek - Buharlaştırıcı ve yoğuşturucu ısı eşanjörlerinin ısı transfer katsayılarını maksimize etmek - Düşük küresel ısınma potansiyelli (GWP) soğutucu gazların güvenlik ve performans testlerini yürütmek - Genç Ar-Ge mühendislerine termodinamik modelleme konularında mentorluk et…"
+}
+},
+{
+"id": "J1764",
+"kind": "JOB",
+"title": "Kıdemli Titreşim ve Dayanıklılık Doğrulama Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Ticari araç prototiplerimizin özel yol test pistlerinde ve 4-aktüatörlü hidrolik sarsıcı kulelerde (4-Poster) gövde yorulma doğrulamasını yönetecek kıdemli mühendis arıyoruz. Temel İş ve Sorumluluk Alanları: - Test pistlerinden toplanan ivme ve gerinim verilerini sarsıcı kule simülasyon profillerine dönüştürmek - Araç şasi ve kabininin 1 milyon km eşdeğer hızlandırılmış yorulma ömür testlerini yürütmek - Oluşan yapısal hasarları metalografik ve kırılma mekaniği yöntemleriyle incelemek - Tasarım ekiplerine parça güçlendirme ve kaynak kalitesi i…"
+}
+},
+{
+"id": "J1791",
+"kind": "JOB",
+"title": "Kıdemli Titreşim Yalıtımı ve Elastomer Mühendisi (Engine Mounts)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "İçten yanmalı ve elektrik motorlarının gövdeye ilettiği titreşimleri sönümleyen hidrolik motor kulakları ve kauçuk-metal burçları tasarlayacak kıdemli uzman arıyoruz. Pozisyonun Temel Görevleri: - Kauçuk ve hidrolik sönümlemeli motor takozlarının (Hydromounts) 3D tasarımını yapmak - Hiperelastik kauçuk malzeme modelleriyle (Mooney-Rivlin, Ogden) FEA gerilme ve sönümleme analizleri yürütmek - Dinamik karakterizasyon test kulesinde takozların dinamik yay rijitliğini (Kd) ve faz açısını ölçmek - OEM araç geliştirme ekipleriyle motor askı sistemi …"
+}
+},
+{
+"id": "J2008",
+"kind": "JOB",
+"title": "Kıdemli Treyler Şasi Başkaynakçısı ve Kaynak Ayarcısı",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Treyler şasi kaynak hatlarımızda kaynak makinesi parametrelerini belirleyecek, fikstür kontrollerini yapacak ve kritik şasi birleşimlerini kaynatacak Başkaynakçı arıyoruz. Görev ve Sorumluluklar: - Yüksek mukavemetli çelik kirişlerde çok pasolu gazaltı kaynak parametrelerini (WPS) sahada denetlemek - Kaynak aparat ve fikstürlerinin gönyesini kontrol etmek ve şasi eksen kaçıklıklarını engellemek - Kaynak dikiş görsel kontrollerini (VT) yaparak kaynak kalitesini onaylamak - Genç kaynakçıların kaynak el becerilerini ve EN ISO 9606-1 sınav hazırlı…"
+}
+},
+{
+"id": "J1798",
+"kind": "JOB",
+"title": "Kıdemli Turboşarj ve Aşırı Doldurma Mühendisi (Turbocharger Systems)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Ticari araç motorlarımızın değişken geometrili turboşarj (VGT) eşleştirmesini, kompresör haritalarını ve turbo yatak yağlama sistemlerini yönetecek kıdemli uzman arıyoruz. Rol ve Sorumluluklar: - Motor çalışma rejimlerine göre turboşarj kompresör ve türbin haritası eşleştirmelerini (Matching) yapmak - Turbo gecikmesini (turbo lag) en aza indiren aerodinamik salyangoz gövde optimizasyonlarını yürütmek - Turbo mil yatağı yağlama ve su soğutma kanallarının aşırı sıcaklık dayanımlarını modellemek - Global turboşarj tedarikçileriyle (Garrett, BorgW…"
+}
+},
+{
+"id": "J1845",
+"kind": "JOB",
+"title": "Kıdemli UDS Diyagnostik ve FOTA Yazılım Mühendisi (Firmware Over The Air)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Bağlantılı araçlarımızın uzaktan kablosuz yazılım güncelleme (FOTA) ve ISO 14229 UDS arıza teşhis mimarisini yönetecek kıdemli mühendis arıyoruz. Pozisyonun Temel Görevleri: - UDS protokolü (ISO 14229) ve DoIP (Diagnostics over IP - ISO 13400) servislerini tasarlamak - FOTA süreçlerinde ikili fark (delta compression), geri alma (rollback) ve şifreleme mekanizmalarını kurmak - Araç kontrol ünitelerinde Flash Bootloader mimarilerini yapılandırmak - BM/ECE R156 yazılım güncelleme yönetim sistemi regülasyonuna uyumluluğu yönetmek Beklenen Deneyim …"
+}
+},
+{
+"id": "C11295",
+"kind": "CV",
+"title": "Kıdemli Yalın Üretim ve Operasyonel Mükemmellik Uzmanı (Six Sigma Black Belt)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"context": {
+"ozet": "Otomotiv ve beyaz eşya ana sanayisinde Değer Akış Haritalama (VSM), Kaizen çalıştayları, SMED kalıp değişim süresi kısaltma ve OEE artırma projelerinde 8 yıllık Black Belt tecrübesine sahibim.",
+"beceriler": "Lean Manufacturing, Six Sigma Black Belt, Değer Akış Haritalama (VSM), SMED, Kaizen & 5S, OEE İyileştirme, Kök Neden Analizi (A3 / 8D)",
+"deneyim": [
+"Kıdemli Yalın Üretim ve Operasyonel Mükemmellik Uzmanı (Six Sigma Black Belt) ([TARİH]): Tier-1 pres ve kaynak fabrikasında yürüttüğüm VSM projesi ile değer katmayan ope…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Endüstri Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "J1766",
+"kind": "JOB",
+"title": "Kıdemli Yanma Odası ve Termal Tasarım Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Eskişehir",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Milli gaz türbinli havacılık motorlarımızın yanma odası (combustor) hava akışı, yakıt püskürtme nozülleri ve termal koruma kaplamalarını tasarlayacak kıdemli araştırmacı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Yanma odası aerotermal tasarımlarını ve reaktif akış CFD simülasyonlarını (ANSYS Fluent / CFX) yürütmek - Alev kararlılığı, yakıt atomizasyonu ve emisyon (NOx, CO) azaltıcı nozül geometrileri geliştirmek - Süperalaşım gövde üzerinde seramik termal bariyer kaplamaların (TBC) ısı iletim analizlerini yapmak - Yüksek basınçlı yanma tes…"
+}
+},
+{
+"id": "C20676",
+"kind": "CV",
+"title": "Kombi & Isıtma Cihazları Montaj Elemanı",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"context": {
+"ozet": "Duvar tipi yoğuşmalı kombi ve termosifon montaj bandında ana eşanjör, sirkülasyon pompası, gaz valfi ve genleşme tankının şasiye montajında görev yapmaktayım. Torklu vidalama, O-ring conta sızdırmazlığı ve gaz sızdırmazlık test odası kontrollerinde uzmanım.",
+"beceriler": "Kombi Şasi İçi Mekanik Montaj, Gaz Valfi ve Brülör Montajı, Plakalı Eşanjör ve Sirkülasyon Pompası, O-ring Sızdırmazlık Geçme Klipsleri, Gaz Kaçak Dedektörü (Sniffer) Kontrolü",
+"deneyim": [
+"Kombi & Isıtma Cihazları Montaj Elemanı ([TARİH]): Yoğuşmalı kombi ana gövdesine paslanmaz çelik spiral eşanjör ve modülasyonlu gaz valfi tork tabancasıyla sabitlendi. E…"
+],
+"egitim": [
+"Manisa Mesleki ve Teknik Anadolu Lisesi - Lise (Tesisat Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20525",
+"kind": "CV",
+"title": "Kombi ve Doğalgaz Bakım Teknisyeni",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Samsun",
+"context": {
+"ozet": "Saha bakım ve teknik servis alanında 2 yıllık deneyimli teknikerim. Kombi ve Doğalgaz Bakım Teknisyeni olarak arıza tespiti, tesisat onarımları ve önleyici bakım prosedürlerini iş güvenliği kurallarına uygun olarak eksiksiz tamamlarım.",
+"beceriler": "Kombi Arıza Teşhis ve Onarım, Gaz Kaçak Dedektörü Kullanımı, Eşanjör ve Brülör Temizliği, Genleşme Tankı Basınç Ayarı",
+"deneyim": [
+"Kombi ve Doğalgaz Bakım Teknisyeni ([TARİH]): [ŞİRKET] yetkili servisinde yoğuşmalı ve konvansiyonel kombilerin yıllık periyodik bakımlarını, brülör temizliğini ve genle…",
+"Kombi ve Doğalgaz Bakım Teknisyeni ([TARİH]): [ŞİRKET] bünyesinde kimyasal petek temizleme makinelerinin kurulumu ve doğalgaz kaçak dedektörü testlerinde teknisyene eşli…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Gaz ve Tesisatı Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C11292",
+"kind": "CV",
+"title": "Kompozit Malzeme Mekanik Tasarım Mühendisi (Havacılık / Catia CPD)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Karbon fiber takviyeli polimer (CFRP) ve cam elyaf havacılık parçalarının katman yerleşimi (ply lay-up), çekirdek malzeme entegrasyonu ve otoklav kürleme simülasyonlarında uzmanım.",
+"beceriler": "Catia CPD (Composite Part Design), FiberSIM, Abaqus Composites, Karbon Elyaf / CFRP, Katman Tasarımı (Ply Book), Hasar Kriterleri (Tsai-Wu / Hashin)",
+"deneyim": [
+"Kompozit Malzeme Mekanik Tasarım Mühendisi (Havacılık / Catia CPD) ([TARİH]): İHA kanat ve kontrol yüzeyi parçalarının kompozit katman tasarımlarını Catia CPD ile oluştu…",
+"Kalıphane Stajyeri ([TARİH]): Plastik enjeksiyon ve sac kalıplarının periyodik söküm-temizlik-parlatma bakımlarına refakat ettim; kalıp maça ve itici pimlerinin tolerans…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Uçak Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C10422",
+"kind": "CV",
+"title": "Kompozit Malzeme Üretim Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Kompozit Malzeme Üretim Mühendisi olarak 4 yıllık profesyonel deneyime sahibim. Üretim Planlama & MRP, Maliyet Düşürme & Verimlilik ve Yalın Üretim & Kaizen alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüksek bi…",
+"beceriler": "Üretim Planlama & MRP, Maliyet Düşürme & Verimlilik, Yalın Üretim & Kaizen, Kök Neden Analizi (8D / 5 Why), Sonlu Elemanlar Analizi (FEA / ANSYS), Teknik Resim & CAD (SolidWorks, AutoCAD)",
+"deneyim": [
+"Kompozit Malzeme Üretim Mühendisi (2024 - Günümüz): CAD/CAM yazılımları ile teknik resim ve parça tasarım süreçlerini yürüterek imalat toleranslarını ve malzeme dayanımı…",
+"Stajyer (Eylül 2020 - Aralık 2020): Test senaryolarının koşturulması, tespit edilen anomalilerin hata takip sistemine girilmesi ve kullanıcı geri bildirimlerinin sınıfla…"
+],
+"egitim": [
+"Eskişehir Osmangazi Üniversitesi - Lisans (Makine Mühendisliği) 2018 - 2022"
+]
+}
+},
+{
+"id": "J1313",
+"kind": "JOB",
+"title": "Kompozit Malzeme Üretim Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "TUSAŞ bünyesinde, [şehir] Kompozit İmalat Tesislerimizde beşinci nesil savaş uçaklarımızın ve İHA'larımızın karbon fiber gövde panellerinin imalatını yönetecek 'Kompozit Malzeme Üretim Mühendisi' aramaktayız. Rol ve Şirket Hakkında: TUSAŞ Kompozit Tesisi; dünyanın tek çatı altındaki en büyük kompozit üretim tesislerinden biri olup tam otomasyonlu fiber serme robotları ve dev otoklav filosuyla ileri havacılık parçaları üretir. Görev ve Sorumluluklar: - Otomatik Fiber Serme (AFP) ve Otomatik Bant Serme (ATL) robotik tezgahlarında karbon fiber pr…"
+}
+},
+{
+"id": "J2040",
+"kind": "JOB",
+"title": "Kompozit Parça Kalıplama ve Otoklav Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Havacılık ve otomotiv karbon fiber kompozit parçalarının prepreg serimi, vakum torbalama ve otoklav fırınında kürlenmesini yapacak operatör arıyoruz. Pozisyonun Temel Görevleri: - Temiz oda (cleanroom) ortamında karbon fiber prepreg katmanlarını kalıp üzerine katman açısına uygun sermek - Vakum naylonu, keçe ve sızdırmazlık bandı ile kalıbı vakum torbasına alarak kaçak testini yapmak - Otoklav fırınına kalıpları yükleyerek sıcaklık, basınç ve vakum kürlenme döngülerini başlatmak - Kalıptan çıkan kompozit parçaların ultrasonik tahribatsız muaye…"
+}
+},
+{
+"id": "C11269",
+"kind": "CV",
+"title": "Kompozit Parça Ultrasonik C-Scan Tahribatsız Muayene Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"context": {
+"ozet": "Havacılık karbon elyaf kompozit panellerinin su daldırmalı ve hava temaslı ultrasonik C-Scan tarama sistemleri ile delaminasyon ve gözeneklilik muayenesinde uzmanım.",
+"beceriler": "Ultrasonik C-Scan Muayenesi, Kompozit Hasar Tespiti (Delaminasyon, Porozite), EN 4179 / NAS 410 Havacılık NDT Seviye II, Faz Dizili Ultrasonik (PAUT), A-Scan / B-Scan / C-Scan Veri Yorumlama, Havacılık Kabul Kriterleri",
+"deneyim": [
+"Kompozit Parça Ultrasonik C-Scan Tahribatsız Muayene Mühendisi ([TARİH]): İnsansız hava aracı karbon elyaf gövde kabuğunun su daldırmalı C-Scan ultrasonik taramasını yap…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Uçak / Malzeme Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "J1903",
+"kind": "JOB",
+"title": "Konvansiyonel Torna & Matkap Elemanı (Başlangıç Düzeyi)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ağır döküm parçalarının kaba işleme, delik delme, kılavuz çekme ve punta açma işlerinde görev alacak, konvansiyonel tezgahlarda tecrübe kazanmak isteyen çalışma arkadaşları arıyoruz. Rol ve Sorumluluklar: - Sütunlu ve radyal matkap tezgahlarında parça delme ve diş çekme işlemlerini gerçekleştirmek - Üniversal torna tezgahında ustaların kontrolünde kaba silindirik paso alma ve alın tornalama yapmak - İş parçalarını mengene ve pabuçlarla matkap tablasına güvenli şekilde sabitlemek - Kullanılan matkap uçlarını ve kılavuzları düzenli olarak bileme…"
+}
+},
+{
+"id": "J1912",
+"kind": "JOB",
+"title": "Konvansiyonel Torna ve Freze Ustası (Bakım & Onarım)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sanayi tipi santrifüj pompa imalatı ve test atölyemizde ar-ge prototipleri, aparatlar ve revizyon parçalarının üniversal torna ve frezede tek parça imalatını yapacak deneyimli usta arıyoruz. Görev ve Sorumluluklar: - Üniversal torna tezgahında mil, burç, kaplin ve çark parçalarının kaba ve hassas tornalamasını yapmak - Metrik ve Withworth vida adımlarını şanzıman dişli ayarlarıyla hatasız çekmek - Üniversal frezede divizör kullanarak kama kanalı açma ve altıköşe işleme işlemlerini yürütmek - Aşınmış mil ve yatakların dolgu sonrası revizyon tor…"
+}
+},
+{
+"id": "C20630",
+"kind": "CV",
+"title": "Konveyör & Üretim Hattı Mekanikeri",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Eskişehir",
+"context": {
+"ozet": "Lojistik aktarma merkezleri, kargo ayırma tesisleri ve fabrika içi rulo/bant konveyör hatlarının mekanik arıza ve revizyon ustasıyım. Bant ekleme (soğuk/sıcak vulkanizasyon veya mekanik raptiye), tambur kauçuk kaplama ve bant kayma ayarlarında uzmanım.",
+"beceriler": "Bantlı Konveyör Ekleme ve Ayarı, Rulolu Konveyör Rulman Değişimi, Tahrik Tamburu ve Gergi Tamburu Ayarı, Bant Kayma Şalterleri ve Güvenlik Teli, Modüler Plastik Hasır Bant Tamiri",
+"deneyim": [
+"Konveyör & Üretim Hattı Mekanikeri ([TARİH]): Kargo dağıtım merkezinde kopan 800 mm enindeki PVC konveyör bandı mekanik zımba raptiye sistemiyle 45 dakikada onarılarak h…"
+],
+"egitim": [
+"Ankara Sincan Mesleki ve Teknik Anadolu Lisesi - Lise (Makine Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20687",
+"kind": "CV",
+"title": "Konveyör & Üretim Hattı Mekanikeri",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Şişeleme ve konserve fabrikalarında paslanmaz hasır bantlar, asetat zincirli (slat chain) konveyörler ve palet sarma makinelerinin mekanik bakımcısıyım. Virajlı konveyör zincir aşınmaları ve tahrik motor kaplinlerinin bakımında tecrübeliyim.",
+"beceriler": "Asetat ve Paslanmaz Zincir Konveyör, Aşınma Profilleri (PE1000) Değişimi, Tahrik Dişlisi Açı ve Gerginlik Ayarı, Otomatik Hat Yıkama Uyumu, Vardiya Arıza Takibi",
+"deneyim": [
+"Konveyör & Üretim Hattı Mekanikeri ([TARİH]): Cam şişe taşıma hattında uzayan ve diş atlayan paslanmaz baklalı zincirlerin bakla eksiltme ve gergi tambur ayarları yapıld…"
+],
+"egitim": [
+"Balıkesir Mesleki Eğitim Merkezi - Ustalık Belgesi (Makine Bakım) [TARİH]"
+]
+}
+},
+{
+"id": "C10869",
+"kind": "CV",
+"title": "Konveyör ve Malzeme İletim Sistemleri Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Konveyör ve Malzeme İletim Sistemleri Mühendisi olarak 2 yıllık profesyonel deneyime sahibim. Sonlu Elemanlar Analizi (FEA / ANSYS), Maliyet Düşürme & Verimlilik ve Kök Neden Analizi (8D / 5 Why) alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte o…",
+"beceriler": "Sonlu Elemanlar Analizi (FEA / ANSYS), Maliyet Düşürme & Verimlilik, Kök Neden Analizi (8D / 5 Why), ISO 9001 / IATF 16949, Yalın Üretim & Kaizen",
+"deneyim": [
+"Konveyör ve Malzeme İletim Sistemleri Mühendisi (2024 - Günümüz): CAD/CAM yazılımları ile teknik resim ve parça tasarım süreçlerini yürüterek imalat toleranslarını ve ma…",
+"Stajyer (Temmuz 2022 - Eylül 2022): Birim içi süreç iyileştirme projelerinde literatür ve mevzuat araştırmaları yürüterek üst yönetime sunulan özet brifinglerin hazırlan…"
+],
+"egitim": [
+"Bilkent Üniversitesi - Lisans (Mekatronik Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "C11365",
+"kind": "CV",
+"title": "Konveyör ve Malzeme Taşıma Sistemleri Tasarım Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Lojistik depolar ve üretim tesisleri için rulo, bantlı ve zincirli konveyör hatları, asansörler ve yönlendirici (diverter) mekanizmalarının 3D tasarımı ve tahrik hesaplarında uzmanım.",
+"beceriler": "SolidWorks, Bantlı & Rulolu Konveyörler, Motor-Redüktör Boyutlandırma, Zincir & Kayış Tahriki, Statik Şasi Hesapları, Fabrika Yerleşim (Layout)",
+"deneyim": [
+"Konveyör ve Malzeme Taşıma Sistemleri Tasarım Mühendisi ([TARİH]): E-ticaret dağıtım merkezi için saatte 6000 koli kapasiteli 450 metre rulo konveyör ve akıllı yönlendir…",
+"Aday Mühendis (Mekanik Tasarım) ([TARİH]): Son sınıf aday mühendislik programında haftada 2 gün konstrüksiyon ekibine katılarak standart cıvata-somun ve rulman kütüphane…"
+],
+"egitim": [
+"Sakarya Üniversitesi - Lisans (Makine Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11024",
+"kind": "CV",
+"title": "Korozyon ve Katodik Koruma Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İzmir",
+"context": {
+"ozet": "İstanbul Teknik Üniversitesi Endüstri Mühendisliği bölümünden başarıyla mezun oldum. Korozyon ve Katodik Koruma Mühendisi alanında kariyer hedefim doğrultusunda teorik bilgi birikimimi ve ISO 9001 / IATF 16949, Kök Neden Analizi (8D / 5 Why) ve Yalın Üretim & Kaizen konularındaki staj/proje tecrübelerimi iş hayatına aktarmak istiyorum. Öğrenmeye a…",
+"beceriler": "ISO 9001 / IATF 16949, Kök Neden Analizi (8D / 5 Why), Yalın Üretim & Kaizen, Sonlu Elemanlar Analizi (FEA / ANSYS), Teknik Resim & CAD (SolidWorks, AutoCAD), Maliyet Düşürme & Verimlilik",
+"deneyim": [
+"Stajyer (Ağustos 2022 - Eylül 2022): Zorunlu staj kapsamında departman iş akışlarını gözlemledim, uzman ekiple birlikte saha/ofis denetimlerine katılarak teknik dokümant…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Endüstri Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "J0487",
+"kind": "JOB",
+"title": "Korozyon ve Katodik Koruma Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Tüpraş bünyesinde, [şehir] Rafinerimizde proses ünitelerimizin, tank sahalarımızın ve deniz terminallerimizin korozyon izleme ve katodik koruma sistemlerini yönetecek 'Korozyon ve Katodik Koruma Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Tüpraş Korozyon ve Malzeme Mühendisliği; yüksek sıcaklık, kükürt, klorür ve asidik ortamların metalurjik etkilerini en gelişmiş korozyon önleme teknolojileriyle kontrol altında tutan uzman rafineri ekibidir. Görev ve Sorumluluklar: - Ham petrol distilasyon, nafta hidrodesülfürizasyon ve kükürt geri kazanı…"
+}
+},
+{
+"id": "C11367",
+"kind": "CV",
+"title": "Kriyojenik ve Düşük Sıcaklık Ekipmanları Mekanik Tasarım Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Sıvılaştırılmış doğal gaz (LNG), sıvı oksijen ve azot için vakum ceketli kriyojenik tanklar, transfer hatları ve genleşme kompansatörlerinin mekanik tasarımında uzmanım.",
+"beceriler": "SolidWorks, EN 13458 Kriyojenik Tanklar, Vakum İzolasyon Tasarımı, Termal Büzülme Analizi, Kriyojenik Çelik Malzemeler (304L/316L), Sızıntı Helyum Testleri",
+"deneyim": [
+"Kriyojenik ve Düşük Sıcaklık Ekipmanları Mekanik Tasarım Mühendisi ([TARİH]): 50 m³ kapasiteli sıvı argon kriyojenik depolama tankının iç tank ve vakumlu dış ceket mekan…",
+"Talaşlı İmalat Stajyeri ([TARİH]): Fabrika talaşlı imalat atölyesinde CNC torna ve dik işleme merkezlerinde parça bağlama, sıfırlama süreçlerini gözlemledim; kumpas ve m…"
+],
+"egitim": [
+"Kocaeli Üniversitesi - Lisans (Makine Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C20078",
+"kind": "CV",
+"title": "Kumlama / Sandblast Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Gaziantep",
+"context": {
+"ozet": "Metal, ahşap veya beton yüzeylerdeki pas, boya ve korozyonu basınçlı kum püskürtme yöntemiyle temizleyen ve yüzeyi yeni kaplamaya hazırlayan uzman bir kumlama operatörüyüm. İşlem sırasında oluşan yoğun toza karşı kişisel koruyucu donanımlarımı eksiksiz kullanarak emniyetle çalışırım.",
+"beceriler": "Aşındırıcı Püskürtme, Boyaya Hazırlık, Kumlama Ekipman Bakımı, Yüzey Pürüzlülük Ölçümü, Basınçlı Hava Sistemleri",
+"deneyim": [
+"Kumlama / Sandblast Operatörü ([TARİH]): Kumlama / Sandblast Operatörü olarak çeşitli üretim ve imalat projelerinde aktif görev aldım. İş güvenliği kuralları çerçevesind…",
+"Stajyer ([TARİH]): Üretim hattında genel süreçleri gözlemleme ve ustalara Kumlama / Sandblast Operatörü konusunda yardımcı olma görevleri gerçekleştirildi."
+],
+"egitim": [
+"[OKUL] - Lise (Metal Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20085",
+"kind": "CV",
+"title": "Lazer / Plazma Kesim Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Ağır sanayide CNC plazma kesim işlemlerini yürüten, kalın zırh veya siyah sacların ısıdan deforme olmadan kesilmesini sağlayan tecrübeli bir makine kullanıcısıyım. Seri üretim hedeflerine ulaşırken iş parçalarının son kontrollerini titizlikle gerçekleştiririm.",
+"beceriler": "Lazer Kesim Parametre Ayarı, Nesting (Yerleşim) Optimizasyonu, Malzeme Fire Kontrolü, CNC Sac Kesim Programları",
+"deneyim": [
+"Lazer / Plazma Kesim Operatörü ([TARİH]): Lazer / Plazma Kesim Operatörü olarak çeşitli üretim ve imalat projelerinde aktif görev aldım. İş güvenliği kuralları çerçevesi…"
+],
+"egitim": [
+"[OKUL] - Lise (Makine Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20095",
+"kind": "CV",
+"title": "Lazer / Plazma Kesim Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Samsun",
+"context": {
+"ozet": "Sac levhaların bilgisayar destekli programlar kullanılarak lazer veya plazma tezgahlarda yüksek hızda ve çapaksız olarak kesilmesini sağlayan uzman bir operatörüm. Gaz basıncı, odak uzaklığı ve kesme hızı parametrelerini malzeme kalınlığına göre en iyi şekilde ayarlarım.",
+"beceriler": "Malzeme Fire Kontrolü, CNC Sac Kesim Programları, Lazer Kesim Parametre Ayarı, Plazma Kesim, Nesting (Yerleşim) Optimizasyonu",
+"deneyim": [
+"Lazer / Plazma Kesim Operatörü ([TARİH]): Lazer / Plazma Kesim Operatörü olarak çeşitli üretim ve imalat projelerinde aktif görev aldım. İş güvenliği kuralları çerçevesi…"
+],
+"egitim": [
+"[OKUL] - Lise (Makine Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20116",
+"kind": "CV",
+"title": "Lazer / Plazma Kesim Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Lazer kesim makinesinin günlük lens temizliği ve nozul değişimini yaparak kesim kalitesini koruyan, fireyi azaltmak için sac yerleşimini optimize eden deneyimli bir kesim elemanıyım. Teknik çizimleri okuyarak imalata hazırlık sürecini hızla ve hatasız bir şekilde tamamlarım.",
+"beceriler": "Lazer Kesim Parametre Ayarı, CNC Sac Kesim Programları",
+"deneyim": [
+"Lazer / Plazma Kesim Operatörü ([TARİH]): Lazer / Plazma Kesim Operatörü olarak çeşitli üretim ve imalat projelerinde aktif görev aldım. İş güvenliği kuralları çerçevesi…",
+"Stajyer ([TARİH]): Üretim hattında genel süreçleri gözlemleme ve ustalara Lazer / Plazma Kesim Operatörü konusunda yardımcı olma görevleri gerçekleştirildi."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Makine Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20661",
+"kind": "CV",
+"title": "Lazer Kaynak Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Hassas medikal aletler, paslanmaz filtre gövdeleri ve batarya hücre bağlantılarında fiber lazer kaynak makinelerini kullanmaktayım. Mikron mertebesinde lazer odaklama, koruma gazı nozulu ayarı ve darbe frekansı kontrollerinde uzmanım.",
+"beceriler": "Fiber Lazer Kaynak, Optik Odaklama & Kolimatör Ayarı, CNC Lazer Koordinat Girişi, Hassas Fikstürleme, Mikroskop Altı Kaynak Kontrolü",
+"deneyim": [
+"Lazer Kaynak Operatörü ([TARİH]): Paslanmaz çelik sıvı filtre kartuşlarının kapak birleşimlerinde 0.5 mm saçlara sıfır deformasyonla fiber lazer kaynağı uygulandı. Lazer…"
+],
+"egitim": [
+"İstanbul İkitelli OSB Mesleki ve Teknik Anadolu Lisesi - Lise (Mekatronik / Lazer Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20725",
+"kind": "CV",
+"title": "Lazer Kaynak Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Tokat",
+"context": {
+"ozet": "Otomotiv batarya paketleri ve sensör gövdelerinde lazer ışın kaynağı operatörüyüm. Bakır ve alüminyum gibi yüksek iletkenlikli metallerin lazerle birleştirilmesinde dalga boyu ve güç parametrelerini optimize ederim.",
+"beceriler": "Lazer Işın Kaynağı (LBW), Bakır ve Alüminyum Lazer Birleştirme, Wobble (Salınım) Kaynak Kafası, Gaz Altı Lazer Koruma (Argon/Helyum), Kalite Testleri",
+"deneyim": [
+"Lazer Kaynak Operatörü ([TARİH]): Elektrikli araç batarya modüllerinde busbar bağlantılarına wobble lazer kafası ile yüksek iletkenlikli birleştirme yapıldı. Numune kayn…"
+],
+"egitim": [
+"Kocaeli Üniversitesi Hereke MYO - Ön Lisans (Mekatronik) [TARİH]"
+]
+}
+},
+{
+"id": "J1975",
+"kind": "JOB",
+"title": "Lazer Kesim ve Abkant Büküm Vardiya Amiri",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "LEAD",
+"mode": "OnSite",
+"context": {
+"aciklama": "### Hakkımızda 1956 yılında temelleri atılan Durmazlar, Türkiye'nin ilk sac işleme makineleri üreticisidir. Bugün 120 ülkeye ihraç edilen yüksek teknolojili lazer, abkant ve plazma makinelerimizin sac komponentlerini modern tesislerimizde hassasiyetle üretiyoruz. Pozisyon Özeti: Lazer kesim ve abkant büküm hatlarımızın vardiya operasyonel liderliğini üstlenecek Vardiya Amiri arıyoruz. Rol ve Sorumluluklar: - Vardiyasındaki lazer kesim ve abkant büküm operatörlerinin iş emirlerine göre tezgah dağılımlarını yapmak - Kesim ve büküm parçalarının t…"
+}
+},
+{
+"id": "C20625",
+"kind": "CV",
+"title": "Lazerli Şaft & Kaplin Ayar Teknisyeni",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"context": {
+"ozet": "Büyük pompalar, fanlar, kompresörler ve elektrik motorlarında şaft eksen kaçıklıklarını (radyal ve açısal) lazerli hizalama cihazları (Prüftechnik / SKF) ile gideren uzman teknisyenim. Şim (ayar sacı) hesabı, yumuşak ayak (soft foot) tespiti ve termal büyüme kompanzasyonunu profesyonelce yaparım.",
+"beceriler": "Lazerli Kaplin Hizalama (Shaft Alignment), Yumuşak Ayak (Soft Foot) Tespiti ve Giderilmesi, Paslanmaz Hassas Şim Paketleri, Termal Büyüme Değer Girişi, Titreşim Seviyesi İncelemesi",
+"deneyim": [
+"Lazerli Şaft & Kaplin Ayar Teknisyeni ([TARİH]): Rafineri 250 kW kazan besleme pompası ve elektrik motoru kaplini lazer cihazı ile 0.03 mm sınır toleransında eksenlendi.…"
+],
+"egitim": [
+"Kocaeli Üniversitesi Karamürsel MYO - Ön Lisans (Makine) [TARİH]"
+]
+}
+},
+{
+"id": "C20652",
+"kind": "CV",
+"title": "Lazerli Şaft & Kaplin Ayar Teknisyeni",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"context": {
+"ozet": "Endüstriyel santrifüj fanlar, soğutma kuleleri ve konveyör tahrik gruplarında lazerli kaplin ve kayış-kasnak hizalama uzmanıyım. Eksenel açısal sapmalar ve paralel kaçıklıkları sıfırlayarak kayış ve rulman ömürlerini iki katına çıkarırım.",
+"beceriler": "Lazerli Kayış-Kasnak Hizalama, V Kayış Gerginlik Frekans Ölçümü, Kaplin Lastiği ve Pimi Değişimi, Dinamik Yerinde Balans Alma, Bakım Raporlama",
+"deneyim": [
+"Lazerli Şaft & Kaplin Ayar Teknisyeni ([TARİH]): Çimento fabrikası ana egzoz fanının kasnakları lazer optik vericilerle hizalanarak kayış aşınması ve yalpalaması önlendi…"
+],
+"egitim": [
+"İzmir Konak Mesleki ve Teknik Anadolu Lisesi - Lise (Endüstriyel Bakım) [TARİH]"
+]
+}
+},
+{
+"id": "J1745",
+"kind": "JOB",
+"title": "Lead CAE & Simülasyon Yöneticisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Elektrikli ve otonom toplu taşıma araçlarımızın tüm yapısal dayanım, çarpışma ve aerodinamik simülasyon ekibine liderlik edecek CAE Yöneticisi arıyoruz. Neler Yapacaksınız? - Tüm sanal analiz (CAE) takvimini, yazılım lisans yatırımlarını ve yüksek başarımlı hesaplama (HPC) kaynaklarını yönetmek - FEA, CFD, NVH ve Çarpışma ekiplerinin metodolojilerini onaylamak ve tasarım kararlarına yön vermek - Tip onay ve homolagasyon süreçlerinde simülasyon raporlarının doğruluğunu yasal kurumlara belgelemek - 12+ kişilik simülasyon mühendisliği ekibinin ye…"
+}
+},
+{
+"id": "J1787",
+"kind": "JOB",
+"title": "Lead Chassis & Vehicle Dynamics Engineer",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Gelecek nesil ticari araç platformlarımızın tüm şasi sistemleri, süspansiyon, fren ve direksiyon mühendisliği organizasyonuna teknik liderlik yapacak Lead Engineer arıyoruz. Neler Yapacaksınız? - Şasi mimari platform stratejisini, ağırlık hedeflerini ve K&C performans kriterlerini belirlemek - Elektrifikasyon geçişinde şasi ve aks modülerliğini güvence altına almak - 20 kişilik şasi tasarım, analiz ve test ekiplerinin teknik yol haritasını yönetmek - Ford Motor Company küresel şasi mühendisliği direktörleri ile eşzamanlı kararları yürütmek Nit…"
+}
+},
+{
+"id": "J1775",
+"kind": "JOB",
+"title": "Lead Electrification & Battery Systems Architect",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Ağır vasıta elektrikli kamyon ve otobüslerimizin yüksek gerilimli batarya paketleme, güç dağıtım ve şarj altyapısı mimarisini yönetecek Lead Architect arıyoruz. Neler Yapacaksınız? - Ağır ticari elektrikli araçların 800V yüksek gerilim batarya ve şarj sistemleri mimarisini yönetmek - BM/ECE R100 ve küresel batarya güvenlik regülasyonlarına tam uyumluluğu koordine etmek - Stuttgart Daimler Truck merkez mühendislik ekipleriyle ortak geliştirme platformlarına liderlik etmek - 20+ kişilik batarya ve elektrifikasyon mühendisliği takımının teknik vi…"
+}
+},
+{
+"id": "J1817",
+"kind": "JOB",
+"title": "Lead Embedded Systems Architect (Defense & Avionics)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Havacılık ve radar aviyonik görev bilgisayarlarımızın gerçek zamanlı gömülü yazılım ve donanım mimarisini yönetecek Baş Mimar / Lead Embedded Architect arıyoruz. Neler Yapacaksınız? - Çok çekirdekli emniyet-kritik işlemci (ARM, PowerPC) mimarilerinde yazılım mimari standartlarını belirlemek - DO-178C DAL-A standartlarına uygun sertifikasyon süreçlerini ve yazılım yaşam döngüsünü yönetmek - 20+ kişilik gömülü yazılım mühendisliği takımının teknik yol haritasını ve gelişimini yönetmek - Sistem mühendisliği ve donanım tasarım direktörleri ile eşz…"
+}
+},
+{
+"id": "J1826",
+"kind": "JOB",
+"title": "Lead Industrial Automation & Smart Factory Architect (Industry 4.0)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Tüm üretim kampüslerimizin Endüstri 4.0 akıllı fabrika otomasyonunu, SCADA/MES entegrasyonlarını ve otonom taşıma sistemlerini (AGV/AMR) yönetecek Lead Architect arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Kurumsal PLC, SCADA, DCS ve MES mimari standartlarını ve siber-fiziksel sistemler yol haritasını belirlemek - Üretim makinelerinden OPC-UA ve MQTT ile veri toplayan IoT ağ geçidi altyapısını tasarlamak - Fabrika içi otonom mobil robot (AMR) filolarının filo yönetim yazılımlarıyla entegrasyonunu yönetmek - 25+ kişilik otomasyon ve mekatroni…"
+}
+},
+{
+"id": "J1734",
+"kind": "JOB",
+"title": "Lead Mechanical Systems Architect",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Soğutma ve pişirme ürün gruplarımızın mekanik Ar-Ge vizyonunu yönetecek, 15 kişilik mekanik tasarım ekibine teknik liderlik yapacak Lead Architect arıyoruz. Temel İş ve Sorumluluk Alanları: - Mekanik tasarım standartlarını, platform modülerizasyonunu ve küresel regülasyon uyumluluğunu belirlemek - Tasarım süreçlerinde dijital ikiz ve otomasyon araçlarının benimsenmesini sağlamak - Yeni ürün geliştirme kapı onaylarında (Gate Reviews) mekanik tasarım risklerini onaylamak - Ar-Ge Direktörlüğü ve Ürün Yönetimi ile stratejik ürün yol haritasını hiz…"
+}
+},
+{
+"id": "J1799",
+"kind": "JOB",
+"title": "Lead Powertrain Integration & NVH Engineer",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Askeri ve ticari araçlarımızın motor, şanzıman ve tahrik millerinin araç şasisine mekanik ve akustik entegrasyon ekibine teknik liderlik yapacak Lead Engineer arıyoruz. Görev ve Sorumluluklar: - Tüm güç aktarma organları montaj stratejisini, şaft açılarını ve aktarma rijitliğini belirlemek - Tahrik hattı burulma titreşimi ve gövdeye iletilen aktarma gürültüsünü optimize etmek - Çok disiplinli mühendislik takımlarına (mekanik, termal, elektrik) entegrasyon liderliği yapmak - Ar-Ge Direktörlüğü ve program yöneticileri ile proje kapı teslimlerini…"
+}
+},
+{
+"id": "C10757",
+"kind": "CV",
+"title": "Machining & Manufacturing Engineer",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"context": {
+"ozet": "Recent graduate in Mechatronics Engineering from Bahcesehir University, seeking to launch a professional career as a Machining & Manufacturing Engineer. Equipped with solid academic foundations and practical project experience in Production Planning & MRP, Root Cause Analysis (8D / 5 Why) and Cost Reduction & Efficiency. Highly motivated, detail-o…",
+"beceriler": "Production Planning & MRP, Root Cause Analysis (8D / 5 Why), Cost Reduction & Efficiency, Technical Drawing & CAD (SolidWorks, AutoCAD), Lean Manufacturing & Kaizen, ISO 9001 / IATF 16949 Standards",
+"deneyim": [
+"Intern (July 2022 - September 2022): Assisted senior project leads in tracking departmental milestones, documenting process workflows, and organizing technical meeting m…"
+],
+"egitim": [
+"Bahcesehir University - Bachelor's Degree (Mechatronics Engineering) 2019 - 2023"
+]
+}
+},
+{
+"id": "C10520",
+"kind": "CV",
+"title": "Maden Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Antalya",
+"context": {
+"ozet": "Maden Mühendisi olarak 3 yıllık profesyonel deneyime sahibim. Üretim Planlama & MRP, Teknik Resim & CAD (SolidWorks, AutoCAD) ve PLC & Otomasyon alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüksek bir uzmanım.",
+"beceriler": "Üretim Planlama & MRP, Teknik Resim & CAD (SolidWorks, AutoCAD), PLC & Otomasyon, Sonlu Elemanlar Analizi (FEA / ANSYS), ISO 9001 / IATF 16949, Maliyet Düşürme & Verimlilik",
+"deneyim": [
+"Maden Mühendisi (2024 - Günümüz): CAD/CAM yazılımları ile teknik resim ve parça tasarım süreçlerini yürüterek imalat toleranslarını ve malzeme dayanımını doğruladım.",
+"Maden Mühendisi (2022 - 2024): Yalın üretim ve Kaizen araçlarını devreye alarak hat dengesizliklerini giderdim ve üretim döngü sürelerinde ölçülebilir verimlilik artışı …",
+"Stajyer (Ocak 2022 - Şubat 2022): Sektörel pazar araştırmaları yaparak rakip analiz tablolarının oluşturulması ve haftalık ilerleme sunumlarının hazırlanmasına yardımcı …"
+],
+"egitim": [
+"Akdeniz Üniversitesi - Lisans (Metalurji ve Malzeme Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "C10222",
+"kind": "CV",
+"title": "Makine Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Gaziantep",
+"context": {
+"ozet": "İmalat sektöründe mekanik tasarım ve üretim planlama süreçlerinde görev almış, dinamik bir makine mühendisiyim. Ekip çalışmasına yatkınım ve üretim hatlarındaki dar boğazları çözmekten keyif alırım.",
+"beceriler": "SolidWorks, AutoCAD, CAM Yazılımları, ANSYS",
+"deneyim": [
+"Üretim Mühendisi (2019-09 - 2023-01): Talaşlı imalat süreçlerinin planlanması ve CNC tezgahlarının verimlilik takibi yapıldı."
+],
+"egitim": [
+"Gaziantep Üniversitesi - Lisans (Makine Mühendisliği) 2014-09 - 2018-06"
+]
+}
+},
+{
+"id": "J0560",
+"kind": "JOB",
+"title": "Makine Mühendisi (Tasarım & CAD/CAM)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ekibimizi güçlendirmek amacıyla aramıza katılacak çalışma arkadaşları arıyoruz: 'Makine Mühendisi (Tasarım & CAD/CAM)' rolünde çalışacak profesyoneller aranmaktadır. Neler Yapacaksınız? Catia ve SolidWorks kullanarak sac ve plastik kalıp parçaları tasarlayacak, sonlu elemanlar analizi (FEA) yapacak mühendis. Gereksinimler: - İyi derecede teknik İngilizce bilen ve yurtdışı tedarikçilerle yazışabilecek - Fabrika üretim süreçlerinde Kaizen, 5S, 8D veya Yalın Üretim tekniklerini uygulayabilen - Üniversitelerin Makine, Elektrik, Endüstri, Kimya vey…"
+}
+},
+{
+"id": "C21025",
+"kind": "CV",
+"title": "Makine Mühendisliği CAD Tasarım Stajyeri",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"context": {
+"ozet": "Yıldız Teknik Üniversitesi Makine Mühendisliği 4. sınıf öğrencisiyim. SolidWorks, mekanik montaj ve teknik resim hazırlama konularında Formula Student tecrübesine sahibim.",
+"beceriler": "SolidWorks, AutoCAD, Mekanik Tasarım, Teknik Resim, MATLAB, GD&T",
+"deneyim": [
+"Tasarım Ekip Üyesi (2023): Pedal kutusu montajı ve SolidWorks modellemesi."
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Makine Mühendisliği) 2021-Devam Ediyor"
+]
+}
+},
+{
+"id": "C20077",
+"kind": "CV",
+"title": "Makine Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Hatay",
+"context": {
+"ozet": "Üretim hatlarındaki endüstriyel makinelerin ayarlarını yapan, hammadde girişini sağlayarak üretimin kesintisiz ve standartlara uygun ilerlemesini kontrol eden dikkatli bir operatörüm. Makine panellerini iyi okur, olası arıza sinyallerinde hızlıca müdahale ederek fire oranını düşürürüm.",
+"beceriler": "Üretim Hattı Takibi, Makine Ayarı ve Bakımı, Üretim Verimliliği, Hat İçi Kalite Kontrol",
+"deneyim": [
+"Makine Operatörü ([TARİH]): Makine Operatörü olarak çeşitli üretim ve imalat projelerinde aktif görev aldım. İş güvenliği kuralları çerçevesinde kalite standartlarını sa…",
+"Stajyer ([TARİH]): Üretim hattında genel süreçleri gözlemleme ve ustalara Makine Operatörü konusunda yardımcı olma görevleri gerçekleştirildi."
+],
+"egitim": [
+"[OKUL] - Lise (Makine Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20103",
+"kind": "CV",
+"title": "Makine Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"context": {
+"ozet": "Fabrika ortamında vardiyalı sistemde yüksek konsantrasyonla çalışabilen, kullandığı makinenin günlük yağlama ve temizlik bakımlarını üstlenen sorumlu bir makine kullanıcısıyım. Üretim kotalarını iş güvenliğinden ödün vermeden yakalamayı hedeflerim.",
+"beceriler": "Üretim Verimliliği, Hat İçi Kalite Kontrol",
+"deneyim": [
+"Makine Operatörü ([TARİH]): Makine Operatörü olarak çeşitli üretim ve imalat projelerinde aktif görev aldım. İş güvenliği kuralları çerçevesinde kalite standartlarını sa…"
+],
+"egitim": [
+"[OKUL] - Lise (Makine Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20109",
+"kind": "CV",
+"title": "Makine Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Gaziantep",
+"context": {
+"ozet": "İşlem parametrelerini kalite yönergelerine göre ayarlayan ve çıkan ürünlerin kalite kontrolünü eş zamanlı yapan tecrübeli bir üretim hattı operatörüyüm. Ekip çalışmasına yatkın yapımla vardiya amirleri ve bakım ekibiyle sürekli iletişim halinde verimliliği artırırım.",
+"beceriler": "Üretim Verimliliği, Makine Ayarı ve Bakımı, Hat İçi Kalite Kontrol, Üretim Hattı Takibi",
+"deneyim": [
+"Makine Operatörü ([TARİH]): Makine Operatörü olarak çeşitli üretim ve imalat projelerinde aktif görev aldım. İş güvenliği kuralları çerçevesinde kalite standartlarını sa…",
+"Stajyer ([TARİH]): Üretim hattında genel süreçleri gözlemleme ve ustalara Makine Operatörü konusunda yardımcı olma görevleri gerçekleştirildi."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Maliye) [TARİH]"
+]
+}
+},
+{
+"id": "J0524",
+"kind": "JOB",
+"title": "Makine Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Balıkesir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren Öz [şehir] Saha ve Lojistik Hizmetleri ekibimize değer katacak dinamik 'Makine Operatörü' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Üretim hattında bulunan makinelerin günlük çalıştırma talimatlarına göre devreye alınması. - Hammadde ve yarı mamullerin makine besleme haznelerine emniyetle yüklenmesi. - Üretim esnasında makine devir, basınç ve sıcaklık göstergelerinin periyodik kontrolü. - Üretilen mamullerin ilk parça ve periyodik ölçü kontrollerinin kalite formlarına işlenmesi. Arana…"
+}
+},
+{
+"id": "C20329",
+"kind": "CV",
+"title": "Matbaa İşçisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Balıkesir",
+"context": {
+"ozet": "Dijital baskı merkezlerinde ve ciltleme departmanlarında kesim giyotinleri kullanan dikkatli bir matbaa çalışanıyım. Siparişlerin sayım, paketleme ve sevkıyat hazırlıklarını eksiksiz şekilde yönetirim. Temiz ve düzenli çalışma prensibimle matbaa atölyesinde üretim kalitesini desteklerim.",
+"beceriler": "Baskı Sonrası İşlemler, Giyotin Kesim, Makine Bakımı",
+"deneyim": [
+"Matbaa İşçisi ([TARİH]): CREATIVE_DESIGN sektöründe Matbaa İşçisi olarak günlük operasyonları yürüttüm. Sorumluluk alanıma giren işleri eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Basım ve Yayım Teknolojileri) [TARİH]"
+]
+}
+},
+{
+"id": "C20330",
+"kind": "CV",
+"title": "Matbaa İşçisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Van",
+"context": {
+"ozet": "Baskı öncesi kalıp hazırlama ve baskı sonrası kırım-katlama makinelerinde pratik el becerisine sahip bir üretim elemanıyım. Kimyasal solüsyonlar ve mürekkeplerle çalışırken iş güvenliği standartlarına harfiyen uyarım. Matbaa ortamının temposuna ayak uyduran, mesai arkadaşlarıyla iletişimi kuvvetli biriyim.",
+"beceriler": "Renk Ayarı, Giyotin Kesim, Ofset Baskı",
+"deneyim": [
+"Matbaa İşçisi ([TARİH]): CREATIVE_DESIGN sektöründe Matbaa İşçisi olarak günlük operasyonları yürüttüm. Sorumluluk alanıma giren işleri eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Grafik ve Fotoğraf) [TARİH]"
+]
+}
+},
+{
+"id": "C20352",
+"kind": "CV",
+"title": "Matbaa İşçisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Diyarbakır",
+"context": {
+"ozet": "Ofset baskı makinelerinin kağıt besleme, mürekkep ayarı ve temizlik süreçlerinde görev alan tecrübeli bir matbaa işçisiyim. Baskı sırasında renk kaymalarını anında fark ederek operatöre destek olur, fire oranını azaltırım. Yoğun üretim zamanlarında makinelerin aralıksız ve sorunsuz çalışmasını sağlarım.",
+"beceriler": "Baskı Sonrası İşlemler, Giyotin Kesim, Makine Bakımı",
+"deneyim": [
+"Matbaa İşçisi ([TARİH]): Ofset baskı makinelerine kağıt paletlerini yükleyerek mürekkep haznelerinin dolumunu ve kalıp bağlama işlemlerini gerçekleştirdim. Baskı sonrası…",
+"Stajyer ([TARİH]): Matbaa atölyesinde ofset kalıplarının yıkanması, kırım-katlama makinesinde harmanlama ve tutkal kırma süreçlerinde çıraklık eğitimi aldım."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Matbaa Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C10213",
+"kind": "CV",
+"title": "Mechanical Engineer",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"context": {
+"ozet": "I am a mechanical engineer with a strong passion for automation and optimizing manufacturing processes. I thrive in dynamic environments where problem-solving and efficiency are key priorities.",
+"beceriler": "AutoCAD, SolidWorks, ANSYS, MATLAB",
+"deneyim": [
+"Mechanical Engineer (2020-01 - Present): Designed and tested mechanical components for automated assembly lines."
+],
+"egitim": [
+"Istanbul Technical University - Lisans (Mechanical Engineering) 2015-09 - 2019-06"
+]
+}
+},
+{
+"id": "C11471",
+"kind": "CV",
+"title": "Medikal Cihaz Kalite Güvence ve Regülasyon Uzmanı (ISO 13485 / MDR)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Manisa",
+"context": {
+"ozet": "Tıbbi cihaz üretiminde ISO 13485:2016, AB Tıbbi Cihaz Regülasyonu (MDR 2017/745), risk yönetimi (ISO 14971), sterilizasyon validasyonu ve teknik dosya hazırlığında uzmanım.",
+"beceriler": "ISO 13485:2016 Baş Denetçi, MDR 2017/745 Teknik Dosya, ISO 14971 Risk Yönetimi, Biyouyumluluk (ISO 10993), Temiz Oda Çevre İzleme (ISO 14644), CAPA Süreçleri",
+"deneyim": [
+"Medikal Cihaz Kalite Güvence ve Regülasyon Uzmanı (ISO 13485 / MDR) ([TARİH]): Sınıf IIa ortopedik cerrahi aletler için MDR 2017/745 uyumlu klinik değerlendirme ve tekni…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Biyomedikal / Kimya Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11463",
+"kind": "CV",
+"title": "Medikal Cihaz Mekanik Tasarım Mühendisi (ISO 13485 / SolidWorks)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"context": {
+"ozet": "İnfüzyon pompaları, cerrahi el aletleri ve hasta başı monitörlerinin biyouyumlu malzeme seçimi, mikro mekanizmalar ve regülatif tasarım doğrulama süreçlerinde deneyimliyim.",
+"beceriler": "SolidWorks Medical CAD, ISO 13485, Biyouyumlu Malzemeler (USP Class VI), Mikro Mekanizma Tasarımı, MDR 2017/745 Uyumluluğu, Risk Analizi (ISO 14971)",
+"deneyim": [
+"Medikal Cihaz Mekanik Tasarım Mühendisi (ISO 13485 / SolidWorks) ([TARİH]): Portatif infüzyon pompası lineer peristaltik basma mekanizmasını SolidWorks ile tasarlayıp ak…",
+"Talaşlı İmalat Stajyeri ([TARİH]): Fabrika talaşlı imalat atölyesinde CNC torna ve dik işleme merkezlerinde parça bağlama, sıfırlama süreçlerini gözlemledim; kumpas ve m…"
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Biyomedikal Mühendisliği) 2016 - 2020"
+]
+}
+},
+{
+"id": "C11288",
+"kind": "CV",
+"title": "Medikal Elektronik Donanım ve Yaşam Destek Sistemleri Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"context": {
+"ozet": "Solunum cihazları, defibrilatörler ve hasta monitörlerinin analog ön uç (AFE) devreleri, kaçak akım izolasyonu (IEC 60601-1) ve hasta güvenliği tasarımında uzmanım.",
+"beceriler": "IEC 60601-1 Medikal Güvenlik, Analog Ön Uç (AFE), Hasta İzolasyonu (MOPP / MOOP), Düşük Kaçak Akım Devreleri, Altium Designer, Defibrilasyon Koruması",
+"deneyim": [
+"Medikal Elektronik Donanım ve Yaşam Destek Sistemleri Mühendisi ([TARİH]): Yoğun bakım mekanik ventilatörünün basınç/akış sensörü arayüz analog kartını tasarladım; 5 kV …"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Elektrik-Elektronik Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C20635",
+"kind": "CV",
+"title": "Mekanik Bakım & Onarım Ustası",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Gıda ve ambalaj fabrikası seri üretim hatlarında mekanik bakım ustasıyım. Yüksek hızlı dolum ve paketleme makinelerinde zincir-dişli senkronizasyonu, kam mili ayarları ve pnömatik piston mekaniklerinin revizyonunda titiz çalışırım.",
+"beceriler": "Gıda Fabrikası Mekanik Bakım, Zincir ve Triger Kayış Gergi Ayarları, Kam Mekanizması Senkronizasyonu, Paslanmaz Rulman ve Yataklama, Yağlama ve Önleyici Bakım",
+"deneyim": [
+"Mekanik Bakım & Onarım Ustası ([TARİH]): Yüksek hızlı şişe dolum monoblok ünitesinde yıldız dişli ve kılavuz raylarının aşınma revizyonu planlı duruşta 6 saatte tamamlan…"
+],
+"egitim": [
+"Bursa Hürriyet Mesleki ve Teknik Anadolu Lisesi - Lise (Makine Bakım Onarım) [TARİH]"
+]
+}
+},
+{
+"id": "C20641",
+"kind": "CV",
+"title": "Mekanik Bakım & Onarım Ustası",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Adana",
+"context": {
+"ozet": "Ağır sanayi, çimento ve haddehane tesislerinde 9 yıllık mekanik bakım tecrübesine sahibim. Rulman çektirme, kaplin sökme-takma, redüktör dişli revizyonu ve şanzıman keçelerinin değişiminde uzmanım. Arıza durumunda soğukkanlılıkla kök nedene iner, duruş süresini minimuma indiririm.",
+"beceriler": "Ağır Sanayi Mekanik Bakımı, Rulman Montajı ve İndüksiyonla Isıtma, Redüktör ve Şanzıman Revizyonu, Mekanik Salmastra ve Keçe Değişimi, Arıza Teşhis ve Kök Neden Analizi",
+"deneyim": [
+"Mekanik Bakım & Onarım Ustası ([TARİH]): Hadde hattı ana tahrik redüktörünün planet dişli ve konik rulmanlarının değişimi yapılarak diş temas yüzeyleri kontrol edildi. İ…"
+],
+"egitim": [
+"Kocaeli Mesleki ve Teknik Anadolu Lisesi - Lise (Endüstriyel Bakım Onarım) [TARİH]"
+]
+}
+},
+{
+"id": "C20739",
+"kind": "CV",
+"title": "Mekanik Bakım & Onarım Ustası",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Gaziantep",
+"context": {
+"ozet": "Tekstil fabrikası dokuma ve terbiye makinelerinin mekanik arıza ve periyodik bakımlarından sorumluyum. Yüksek devirli miller, çözgü ve mekik hareket mekanizmalarında aşınan bronz burçların değişimi ve şaft boşluklarının giderilmesinde ustayım.",
+"beceriler": "Tekstil Makineleri Mekaniği, Bronz Burç Raybalama ve Alıştırma, Eksantrik Mil ve Biyel Kolu Ayarı, Santrifüj Pompa Revizyonu, Periyodik Bakım Formları",
+"deneyim": [
+"Mekanik Bakım & Onarım Ustası ([TARİH]): Dokuma tezgahlarının ana tahrik krank milindeki boşluklar bronz yatakların raspalanıp alıştırılmasıyla sıfırlandı. Kumaş boyama …"
+],
+"egitim": [
+"Gaziantep Şehitkamil Mesleki Eğitim Merkezi - Ustalık Belgesi (Makine Bakım) [TARİH]"
+]
+}
+},
+{
+"id": "J1765",
+"kind": "JOB",
+"title": "Mekanik Bakım Planlama Mühendisi (TPM & OEE)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Büyük tonajlı hidrolik ve mekanik preslerimizin Toplam Verimli Bakım (TPM) ve OEE oranlarını yönetecek Mekanik Bakım Mühendisi arıyoruz. Görev ve Sorumluluklar: - Pres hatlarının otonom ve planlı bakım talimatlarını hazırlamak ve uygulanmasını denetlemek - Ekipman duruş sürelerini (MTTR, MTBF) analiz ederek kronik arızaları ortadan kaldıracak projeler üretmek - Kritik mekanik yedek parça bütçesini ve tedarik sürelerini yönetmek - Bakım ekibinin iş güvenliği kurallarına tam uyumunu sağlamak Aranan Nitelikler: - Makine Mühendisliği lisans derece…"
+}
+},
+{
+"id": "C20416",
+"kind": "CV",
+"title": "Mekanik Bakım Teknisyeni",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İzmir",
+"context": {
+"ozet": "Metal imalat sektöründe 1 yıllık deneyime sahibim. Mekanik Bakım Teknisyeni ustası olarak pozisyonlu kaynak çekiminde, kaynak ağzı açma ve taşlama işlemlerinde uzmanım. İş güvenliği kurallarına titizlikle uyarım.",
+"beceriler": "Rulman ve Keçe Değişimi, Pompa ve Redüktör Bakımı, Hidrolik ve Pnömatik Hat Onarımı, Periyodik Mekanik Önleyici Bakım",
+"deneyim": [
+"Mekanik Bakım Teknisyeni ([TARİH]): [ŞİRKET] fabrikasında konveyör bantlarının kayış-kasnak gergi kontrollerini, rulman yağlamalarını ve pompa keçelerinin değişimini ger…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "J0256",
+"kind": "JOB",
+"title": "Mekanik Bakım Teknisyeni",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] (Hizmet & Gastronomi Bölgesi) yerleşkemizde tam zamanlı görev alacak Mekanik Bakım Teknisyeni aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde mekanik bakım teknisyeni operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması."
+}
+},
+{
+"id": "J1738",
+"kind": "JOB",
+"title": "Mekanik Bakım ve Güvenilirlik Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ağır sanayi imalat hatlarımızdaki presler, köprülü vinçler ve talaşlı imalat tezgahlarının kestirimci ve periyodik bakımlarını yönetecek mühendis arıyoruz. Rol ve Sorumluluklar: - Kritik ekipmanların titreşim analizi, termal kamera ve yağ analizi verilerini inceleyerek arızaları önceden öngörmek - Planlı bakım takvimlerini ve yedek parça kritik stok seviyelerini SAP PM modülü üzerinden yönetmek - Tekrarlayan mekanik arızalarda kök neden analizi (RCA / 5 Neden) yürütmek - Mekanik bakım teknisyen ekibinin günlük iş dağılımını koordine etmek Kiml…"
+}
+},
+{
+"id": "C11372",
+"kind": "CV",
+"title": "Mekanik Bakım ve Güvenilirlik Mühendisi (Çimento & Ağır Sanayi)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"context": {
+"ozet": "Döner fırın, değirmen ve kırıcılarda kestirimci bakım, titreşim analizi (vibration analysis), termografi ve rulman arıza teşhisinde ISO Seviye II sertifikalı uzmanım.",
+"beceriler": "Vibration Analysis (Kategori II), Lazerli Kaplin Ayarı, Rulman Teşhisi, Kestirimci Bakım (PdM), SAP PM, Yağlama Yönetimi, Kök Neden Analizi (RCFA)",
+"deneyim": [
+"Mekanik Bakım ve Güvenilirlik Mühendisi (Çimento & Ağır Sanayi) ([TARİH]): Entegre çimento fabrikasında 80 kritik döner ekipmanın titreşim spektrumlarını aylık analiz ed…",
+"Kalıphane Stajyeri ([TARİH]): Plastik enjeksiyon ve sac kalıplarının periyodik söküm-temizlik-parlatma bakımlarına refakat ettim; kalıp maça ve itici pimlerinin tolerans…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Makine Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C20599",
+"kind": "CV",
+"title": "Mekanik Bakımcı (Millwright)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Metal imalat sektöründe 1 yıllık deneyime sahibim. Mekanik Bakımcı (Millwright) ustası olarak pozisyonlu kaynak çekiminde, kaynak ağzı açma ve taşlama işlemlerinde uzmanım. İş güvenliği kurallarına titizlikle uyarım.",
+"beceriler": "Pompa, Redüktör ve Rulman Değişimi, Şaft Hizalama ve Kaplin Ayarı, Hidrolik ve Pnömatik Devre Onarımı, Önleyici ve Kestirimci Bakım",
+"deneyim": [
+"Mekanik Bakımcı (Millwright) ([TARİH]): [ŞİRKET] üretim tesisinde ağır sanayi makinelerinin konveyör hatları, dişli kutuları ve hidrolik ünitelerindeki arızaları tespit …"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İktisat) [TARİH]"
+]
+}
+},
+{
+"id": "J0992",
+"kind": "JOB",
+"title": "Mekanik Bakımcı (Millwright)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Avrasya Engineering Çözümleri ailesi olarak, [şehir] sahasındaki projelerimizde tam zamanlı istihdam edilmek üzere 'Mekanik Bakımcı (Millwright)' alımı yapılacaktır. İş Tanımı ve Temel Sorumluluklar: - Ağır sanayi makinelerinin ve üretim hatlarının mekanik montaj, demontaj ve revizyonunun yapılması. - Lazerli hizalama cihazları ile şaft ve kaplin ayarlarının hassas şekilde yapılması. - Rulmanların ısıtılarak takılması, dişli kutularının ve yağlama sistemlerinin bakımı. - Titreşim analizi ve mekanik ses dinleme yöntemleriyle arızaların önceden …"
+}
+},
+{
+"id": "J1768",
+"kind": "JOB",
+"title": "Mekanik Güç Aktarma ve Dişli Tasarım Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Manuel ve otomatik şanzıman dişli kutularının helisel dişli geometrisi, diferansiyel dişlileri ve yağlama kanallarını tasarlayacak Makine Mühendisi arıyoruz. Rol ve Sorumluluklar: - KISSsoft veya RomaxDesigner ile dişli mukavemet, temas gerilmesi ve mikro-geometri hesapları yapmak - Dişli temas desenlerini (Tooth Contact Analysis) simüle ederek gürültüyü (dişli uğultusu / whine) minimize etmek - Diferansiyel ve aks millerinin burulma yorulması analizlerini yürütmek - Şanzıman test standında dayanıklılık testlerini denetlemek Kimleri Arıyoruz? …"
+}
+},
+{
+"id": "J0583",
+"kind": "JOB",
+"title": "Mekanik İmalat ve Bakım Onarım Teknisyeni",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] / Honaz ([şehir] Makine Sanayi OSB) yerleşkemizde tam zamanlı görev alacak İmalat ve Bakım Ustası aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde i̇malat ve bakım ustası operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması. - Servis hizmetimiz vardır."
+}
+},
+{
+"id": "J0603",
+"kind": "JOB",
+"title": "Mekanik Montaj Elemanı",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] (Hizmet & Gastronomi Bölgesi) yerleşkemizde tam zamanlı görev alacak Mekanik Montaj Elemanı aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde mekanik montaj elemanı operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması."
+}
+},
+{
+"id": "J2059",
+"kind": "JOB",
+"title": "Mekanik Montaj Hattı Vardiya Postabaşısı",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "LEAD",
+"mode": "OnSite",
+"context": {
+"aciklama": "Fren servo ve hidrolik silindir montaj hatlarımızda çalışan montaj operatörlerinin hat dengesini ve montaj kalitesini sahada sevk edecek Montaj Postabaşısı arıyoruz. Rol ve Sorumluluklar: - Montaj hatlarının parça besleme, torklama ve test istasyonları arasındaki akış senkronizasyonunu yönetmek - İstasyonlarda oluşan çevrim süresi sapmalarını ve darboğazları anında çözerek hat duruşlarını engellemek - Hat içi tork ve sızdırmazlık kalite kontrol sonuçlarını izlemek, uygunsuzluklarda hattı durdurup müdahale etmek - Yeni başlayan montaj personeli…"
+}
+},
+{
+"id": "J1755",
+"kind": "JOB",
+"title": "Mekanik Proje Mühendisi (Yeni Ürün Devreye Alma - APQP)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İzmir",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "OEM otomotiv müşterilerimizin yeni jant projelerinin tasarımdan seri üretime geçiş (APQP/PPAP) sürecini yönetecek Mekanik Proje Mühendisi arıyoruz. Pozisyonun Temel Görevleri: - Proje zaman planını, kalıp imalatını ve numune döküm süreçlerini koordine etmek - Müşteri teknik şartnamelerine uygunluk matrislerini hazırlamak ve tasarım onaylarını almak - Tasarım ve Proses FMEA oturumlarını ilgili departmanlarla yürütmek - İlk parça onay (PPAP) dosyasını hazırlayarak müşteriye teslim etmek Beklenen Deneyim ve Yetenekler: - Makine, Otomotiv veya End…"
+}
+},
+{
+"id": "J1732",
+"kind": "JOB",
+"title": "Mekanik Tasarım Mühendisi (CATIA V5 / Plastik Parça Tasarımı)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Global otomobil markaları için far ve stop lambalarının opto-mekanik plastik bileşenlerini tasarlayacak deneyimli Mekanik Tasarım Mühendisi arıyoruz. Rol ve Sorumluluklar: - CATIA V5 ile otomotiv aydınlatma gövde, reflektör ve lens plastik parçalarının 3D tasarımlarını yapmak - Plastik enjeksiyon kalıplama gereksinimlerine (Draft açısı, et kalınlığı, çöküntü riskleri) uygun formlar üretmek - Optik tasarım ve elektronik mühendisliği ekipleriyle arayüz entegrasyonlarını koordine etmek - OEM müşteri teknik toplantılarına katılarak tasarım onay sü…"
+}
+},
+{
+"id": "C11309",
+"kind": "CV",
+"title": "Mekanik Tasarım ve Konstrüksiyon Mühendisi (SolidWorks CSWE)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Özel makine imalatı, fikstür ve aparat tasarımı ile otomasyon hatları konstrüksiyonunda uzmanım. Pnömatik, hidrolik tahrik sistemleri ve statik mukavemet hesapları konusunda yetkinim.",
+"beceriler": "SolidWorks, CSWE Sertifikalı, Özel Makine İmalatı, Pnömatik & Hidrolik Sistemler, Kaynaklı Konstrüksiyon, Statik Mukavemet, BOM & ERP Entegrasyonu",
+"deneyim": [
+"Mekanik Tasarım ve Konstrüksiyon Mühendisi (SolidWorks CSWE) ([TARİH]): Endüstriyel montaj hatları için 12 adet anahtar teslim özel montaj istasyonu ve kaynak fikstürünü…",
+"Aday Mühendis (Mekanik Tasarım) ([TARİH]): Son sınıf aday mühendislik programında haftada 2 gün konstrüksiyon ekibine katılarak standart cıvata-somun ve rulman kütüphane…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Makine Mühendisliği) 2016 - 2020"
+]
+}
+},
+{
+"id": "C10738",
+"kind": "CV",
+"title": "Mekanik Tesisat (HVAC) Proje Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"context": {
+"ozet": "Mekanik Tesisat (HVAC) Proje Mühendisi olarak 4 yıllık profesyonel deneyime sahibim. Yalın Üretim & Kaizen, Sonlu Elemanlar Analizi (FEA / ANSYS) ve Teknik Resim & CAD (SolidWorks, AutoCAD) alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabile…",
+"beceriler": "Yalın Üretim & Kaizen, Sonlu Elemanlar Analizi (FEA / ANSYS), Teknik Resim & CAD (SolidWorks, AutoCAD), Kök Neden Analizi (8D / 5 Why), Maliyet Düşürme & Verimlilik, Üretim Planlama & MRP",
+"deneyim": [
+"Mekanik Tesisat (HVAC) Proje Mühendisi (2023 - Günümüz): CAD/CAM yazılımları ile teknik resim ve parça tasarım süreçlerini yürüterek imalat toleranslarını ve malzeme day…",
+"Mekanik Tesisat (HVAC) Proje Mühendisi (2021 - 2023): Yalın üretim ve Kaizen araçlarını devreye alarak hat dengesizliklerini giderdim ve üretim döngü sürelerinde ölçüleb…",
+"Stajyer (Haziran 2021 - Temmuz 2021): Proje toplantı tutanaklarının tutulması, departmanlar arası veri akışının takibi ve kurumsal arşiv sisteminin güncellenmesi görevle…"
+],
+"egitim": [
+"Selçuk Üniversitesi - Yüksek Lisans (Endüstri Mühendisliği ve Yönetim) 2022 - 2024",
+"Selçuk Üniversitesi - Lisans (Endüstri Mühendisliği) 2018 - 2022"
+]
+}
+},
+{
+"id": "J1752",
+"kind": "JOB",
+"title": "Mekanik Test ve Doğrulama Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Yeni geliştirilen ekskavatör ve kazıcı-yükleyicilerin bom, arm ve şasi yapısal ömür testlerini hidrolik test kulelerinde gerçekleştirecek mühendis arıyoruz. Temel İş ve Sorumluluk Alanları: - Hidrolik servo aktüatörler ile çok eksenli mekanik yorulma test düzenekleri kurmak - Gerinim pulu (strain gauge), yer değiştirme sensörü ve basınç sensörlerini kalibre edip bağlamak - Test veri toplama sistemlerini (DAQ - HBM / Dewesoft) işletmek - Oluşan mekanik çatlak veya deformasyonları raporlayarak tasarım ekibine iletmek Gereksinimler ve Nitelikler:…"
+}
+},
+{
+"id": "J1748",
+"kind": "JOB",
+"title": "Mekanik Yorulma ve Ömür Tahmin Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Otomotiv montaj braketleri ve süspansiyon parçalarının dinamik yol yükleri altındaki yorulma ömrünü nCode ve FE-Safe ile tahminleyecek mühendis arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Gerinim pulu (strain gauge) ve tekerlek kuvvet dönüştürücülerinden gelen saha verilerini işlemek - nCode DesignLife veya FE-Safe yazılımları ile çok eksenli yorulma ömrü (Multiaxial Fatigue) hesaplamak - Kaynak dikişlerinin yorulma dayanımlarını (Weld Fatigue) analiz etmek - Tasarım ekiplerine parça ömrünü uzatıcı geometrik düzenlemeler önermek Adayda Arana…"
+}
+},
+{
+"id": "J1761",
+"kind": "JOB",
+"title": "Mekanizma ve Kinematik Tasarım Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Araç kapı kilitleri, menteşe sistemleri, cam kaldırma krikoları ve koltuk katlama mekanizmalarını tasarlayacak uzman mühendis arıyoruz. Pozisyonun Temel Görevleri: - CATIA DMU Kinematics ile mekanizma hareket serbestlik derecelerini ve çakışma analizlerini yapmak - Çalışma kuvvetlerini (ergonomi normlarına uygun) yay ve dişli tasarımlarıyla optimize etmek - Mekanizma ömür testlerini kurmak ve çevrim dayanımlarını denetlemek - Tedarikçilerle ortak parça geliştirme süreçlerini yürütmek Beklenen Deneyim ve Yetenekler: - Makine veya Otomotiv Mühen…"
+}
+},
+{
+"id": "C20622",
+"kind": "CV",
+"title": "Mekatronik & Pnömatik Montaj Elemanı",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"context": {
+"ozet": "Özel makine imalatı, montaj fikstürleri ve otomasyon hücrelerinin alüminyum sigma profiller, lineer ray/araba, pnömatik silindir ve sensör montajlarında 7 yıllık deneyimim var. Mekanik montajı yapıp hava hortumlamasını (etiketli poliüretan hortum) ve sensör kablolamasını çalışır vaziyette teslim ederim.",
+"beceriler": "Alüminyum Sigma Profil Konstrüksiyon, Lineer Kızak ve Vidalı Mil Montajı, Pnömatik Hortumlama ve Hız Ayar Valfleri, İndüktif / Optik Sensör Ayarı, Pnömatik Şema Takibi",
+"deneyim": [
+"Mekatronik & Pnömatik Montaj Elemanı ([TARİH]): Otomatik parça besleme istasyonunun sigma profil şasisi kurulup THK lineer kızaklar komparatör paralelliğinde gönyelenere…"
+],
+"egitim": [
+"Kocaeli Gebze Mesleki ve Teknik Anadolu Lisesi - Lise (Mekatronik) [TARİH]"
+]
+}
+},
+{
+"id": "C20633",
+"kind": "CV",
+"title": "Mekatronik & Pnömatik Montaj Elemanı",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Ankara",
+"context": {
+"ozet": "Robotik parça alma-bırakma (Pick & Place) modülleri, konveyör stoper mekanizmaları ve pnömatik indeks tablalarının montajında görev yapmaktayım. Mekanik boşlukların sıfırlanması, aşınma plakalarının alıştırılması ve pnömatik basınç regülasyonunda tecrübeliyim.",
+"beceriler": "Pick & Place Mekanizmaları, Pnömatik Tutucu (Gripper) Montajı, Şok Emici (Amortisör) Ayarları, Pnömatik Manifold ve Basınç Testi, Tork Anahtarı Kullanımı",
+"deneyim": [
+"Mekatronik & Pnömatik Montaj Elemanı ([TARİH]): Robot kolu ucu vakumlu ve pnömatik parmaklı tutucu gripper takımı montajı yapılarak hava kaçak testi yapıldı. Hızlı harek…"
+],
+"egitim": [
+"Bursa Tophane Mesleki Eğitim Merkezi - Ustalık Belgesi (Mekatronik / Otomasyon) [TARİH]"
+]
+}
+},
+{
+"id": "C10225",
+"kind": "CV",
+"title": "Mekatronik Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Samsun",
+"context": {
+"ozet": "Otomasyon sistemleri kurma ve PLC programlama süreçlerinde aktif rol alan, çok yönlü bir mekatronik teknikeriyim. Üretim bandı arızalarına hızlı müdahale ederek duruş sürelerini minimize etmeye odaklanırım.",
+"beceriler": "PLC Programlama, TIA Portal, SCADA, Pnömatik Sistemler",
+"deneyim": [
+"Otomasyon Teknikeri (2018-05 - 2022-09): Fabrika içi konveyör bantların otomasyon kurulumu ve bakımları yapıldı."
+],
+"egitim": [
+"Ondokuz Mayıs Üniversitesi - Ön Lisans (Mekatronik) 2015-09 - 2017-06"
+]
+}
+},
+{
+"id": "C10421",
+"kind": "CV",
+"title": "Mekatronik Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Antalya",
+"context": {
+"ozet": "Mekatronik Mühendisi olarak 2 yıllık profesyonel deneyime sahibim. Sonlu Elemanlar Analizi (FEA / ANSYS), Yalın Üretim & Kaizen ve Kök Neden Analizi (8D / 5 Why) alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüks…",
+"beceriler": "Sonlu Elemanlar Analizi (FEA / ANSYS), Yalın Üretim & Kaizen, Kök Neden Analizi (8D / 5 Why), ISO 9001 / IATF 16949, Teknik Resim & CAD (SolidWorks, AutoCAD), PLC & Otomasyon",
+"deneyim": [
+"Mekatronik Mühendisi (2024 - Günümüz): CAD/CAM yazılımları ile teknik resim ve parça tasarım süreçlerini yürüterek imalat toleranslarını ve malzeme dayanımını doğruladım.",
+"Stajyer (Ağustos 2022 - Eylül 2022): Zorunlu staj kapsamında departman iş akışlarını gözlemledim, uzman ekiple birlikte saha/ofis denetimlerine katılarak teknik dokümant…"
+],
+"egitim": [
+"Akdeniz Üniversitesi - Lisans (Endüstri Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "J0856",
+"kind": "JOB",
+"title": "Mekatronik Mühendisi (Robotik Sistemler)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Takımımıza dahil olacak profesyonelde aradığımız temel özellikler ve iş kapsamı: 'Mekatronik Mühendisi (Robotik Sistemler)' pozisyonu için başvurular değerlendirilecektir. Sorumluluk Alanları: 6 eksenli endüstriyel robotların otomotiv hatlarında devreye alımını ve PLC haberleşmelerini yapacak saha mühendisi. Aranan Yetkinlik ve Beceriler: - Saha problemlerinde kök neden analizi yapabilen, çözüm odaklı mühendis - Teknik dokümantasyon, FMEA, proses kontrol ve kalite planlarını hazırlayacak - Fabrika üretim süreçlerinde Kaizen, 5S, 8D veya Yalın …"
+}
+},
+{
+"id": "J1843",
+"kind": "JOB",
+"title": "Mekatronik Sistemler Entegrasyon Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Zırhlı araç kule mekanizmaları, elektro-optik yükseltme direkleri ve hidrolik kapı aktüatörlerinin elektronik kontrol kartlarıyla mekatronik entegrasyonunu yapacak mühendis arıyoruz. Görev ve Sorumluluklar: - Mekanik hareketli parçalar ile servo/step motorların tork-hız uyum analizlerini yapmak - Kablo tesisatı, röle panoları ve kontrol anahtarlarının şematik tasarımlarını hazırlamak - Araç üzeri entegrasyon aşamasında fonksiyonel kabul testlerini icra etmek - Mekanik ve yazılım tasarım grupları arasında teknik koordinasyonu sağlamak Aranan Ni…"
+}
+},
+{
+"id": "J0449",
+"kind": "JOB",
+"title": "Mekatronik ve Otomasyon Sistemleri Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Baykar bünyesinde, [şehir] Özdemir Bayraktar Milli Teknoloji Merkezi'nde insansız hava araçlarımızın elektro-mekanik eyleyici ve otonom sistemlerini geliştirecek 'Mekatronik ve Otomasyon Sistemleri Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Baykar; dünyanın en çok ihraç edilen SİHA platformlarını tasarlayan, yüksek güvenilirlikli servomotorlar, iniş takımı açma-kapama mekanizmaları ve otonom yer sistemleri üreten teknoloji devidir. Görev ve Sorumluluklar: - Uçuş kontrol yüzeylerini (kanatçık, irtifa dümeni) hareket ettiren fırçasız DC ser…"
+}
+},
+{
+"id": "C10432",
+"kind": "CV",
+"title": "MEMS Sensör Tasarım ve Üretim Mühendisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İzmir",
+"context": {
+"ozet": "Mekatronik Mühendisliği alanındaki güçlü akademik temelim ve 3 yılı aşkın sektör deneyimimle, MEMS Sensör Tasarım ve Üretim Mühendisi rolünde uçtan uca başarılı projeler yürütmekteyim. Yalın Üretim & Kaizen, Sonlu Elemanlar Analizi (FEA / ANSYS) ve PLC & Otomasyon başta olmak üzere modern araç ve metodolojilere hakimim. Süreç verimliliğini artıran…",
+"beceriler": "Yalın Üretim & Kaizen, Sonlu Elemanlar Analizi (FEA / ANSYS), PLC & Otomasyon, Üretim Planlama & MRP, ISO 9001 / IATF 16949, Maliyet Düşürme & Verimlilik",
+"deneyim": [
+"MEMS Sensör Tasarım ve Üretim Mühendisi (2024 - Günümüz): İlişkisel ve NoSQL veri tabanlarında sorgu optimizasyonu yaparak sistem yanıt sürelerini önemli ölçüde düşürdüm…",
+"Stajyer (Temmuz 2022 - Ağustos 2022): Zorunlu staj kapsamında departman iş akışlarını gözlemledim, uzman ekiple birlikte saha/ofis denetimlerine katılarak teknik doküman…"
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Mekatronik Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "C20508",
+"kind": "CV",
+"title": "Metal Döküm Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Denizli",
+"context": {
+"ozet": "Ağır sanayi sektöründe 2 yıllık deneyimim mevcut. Metal Döküm Operatörü olarak yüksek sıcaklık altında güvenle çalışır, hat boyu malzeme akışını ve kalite standartlarını titizlikle kontrol ederim.",
+"beceriler": "İndüksiyon Ocağı Ergitme, Kalıp Hazırlama ve Maça Yerleştirme, Sıvı Metal Sıcaklık Kontrolü, Pota ile Döküm ve Cüruf Alma",
+"deneyim": [
+"Metal Döküm Operatörü ([TARİH]): [ŞİRKET] dökümhanesinde indüksiyon ocaklarında sıvı metal ergitme, alaşımlama ve sıcaklık ölçüm süreçlerini yönettim. Vinçli döküm potal…",
+"Metal Döküm Operatörü ([TARİH]): [ŞİRKET] bünyesinde döküm kalıplarının kumlama ile temizliği, ocak şarjı için hurda besleme ve dökülen parçaların yolluk kesme işlerini …"
+],
+"egitim": [
+"[OKUL] - Lise (Metal Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J1264",
+"kind": "JOB",
+"title": "Metal Döküm Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Samsun",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ([şehir] Merkez OSB) yerleşkemizde tam zamanlı görev alacak Metal Döküm Operatörü aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde metal döküm operatörü operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması. - Personel servisi mevcuttur."
+}
+}
+]

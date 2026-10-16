@@ -1,0 +1,2000 @@
+[
+{
+"specialty": "Çözüm Mimarı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Solution Architect",
+"Çözüm Mimarı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "ERP Danışmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Dijital Dönüşüm ve ERP Danışmanı (SAP/Canias)",
+"ERP Consultant (Canias",
+"ERP Consultant (SAP SD",
+"ERP Consultant (SAP SD/MM)",
+"ERP Danışmanı (Canias / Logo)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "ERP Finans Danışmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"SAP FICO Çözüm Mimarı ve Maliyet Muhasebesi Danışmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finans Sistemleri ve ERP Entegrasyon Uzmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Finansal Sistemler ve ERP Entegrasyon Mühendisi (SAP S/4HANA Finance)",
+"Kıdemli E-Fatura ve Muhasebe Entegrasyon Yöneticisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal İş Zekası Uzmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Finansal İş Zekası ve Bütçe Raporlama Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Süreç Otomasyonu ve İş Zekası Uzmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Finansal Süreç Otomasyonu ve BI Modelleme Uzmanı (Finance Automation / Alteryx)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Veri Analisti",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Finansal Analitik ve Otomasyon Uzmanı (Python / Power BI / SQL)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları Analitiği Uzmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"HR Analytics & Reporting Specialist",
+"People Analytics ve İK Veri Analitiği Uzmanı (Visier / Churn Prediction)",
+"İK Analitiği ve Raporlama Uzmanı",
+"İK Analitiği ve Raporlama Uzmanı (People Analytics Specialist)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları Bilgi Sistemleri Uzmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"HR Digital Transformation Consultant",
+"İK Dijital Dönüşüm ve HRIS Uzmanı (SAP SuccessFactors / Workday)",
+"İK Operasyon ve Sistem Uzmanı (SAP SuccessFactors)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Analisti",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Analist",
+"BT İş Analisti",
+"IT Business Analyst"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Zekası Analisti",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tableau",
+"Tableau / Power BI Specialist",
+"Tedarik Zinciri ve Lojistik BI Analisti"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Zekası Geliştiricisi",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"BI & Data Visualization Developer",
+"BI ve Veri Görselleştirme Geliştiricisi",
+"Looker & Modern Veri Yığını (MDS) BI Geliştiricisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Zekası Mimarı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli İş Zekası ve Veri Ambarı Mimarı (BI Architect)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Zekası Uzmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 5,
+"n_job": 6,
+"ornek_unvanlar": [
+"Junior Raporlama ve BI Analisti",
+"Junior İş Zekası (BI) Uzmanı (Power BI & DAX)",
+"Kıdemli Tableau ve Veri Görselleştirme Uzmanı",
+"Kıdemli İş Zekası (BI) ve Power BI Geliştirici",
+"Lead Business Intelligence Engineer"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lojistik Bilgi Sistemleri Uzmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Logistics Systems Specialist (WMS",
+"Lojistik Bilgi Sistemleri (WMS/TMS) Uzmanı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Analitiği Uzmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Customer Analytics Specialist"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Operasyonel Veri Analisti",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Operasyonel Veri Analisti",
+"Operational Data Analyst"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pazarlama Veri Analisti",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Pazarlama Veri Analisti"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sağlık Bilişimi Uzmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sağlık Bilişimi ve HBYS Sistem Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Satış Operasyonları Analisti",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Sales Operations Analyst",
+"Satış Operasyonları Analisti",
+"Satış Verimlilik ve Prim Analisti"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üretim Verimlilik Analisti",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"OEE ve Hat Verimliliği Analisti (Tableau / Python)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ürün Sahibi",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Product Owner",
+"Ürün Sahibi (Product Owner)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ürün Yöneticisi",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kıdemli Teknik Ürün Yöneticisi (Technical Product Manager - TPM)",
+"Mobil Ürün Yöneticisi (Mobile Product Manager)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": [
+"13"
+]
+},
+{
+"specialty": "Vergi Teknolojisi Uzmanı",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Vergi Teknolojisi ve Vergi Süreçleri Otomasyon Lideri (Tax Technology)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Analisti",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 7,
+"n_job": 10,
+"ornek_unvanlar": [
+"Analist",
+"Junior FinOps & Bulut Veri Analisti",
+"Junior Finansal Raporlama ve Veri Analisti",
+"Junior Veri Analisti (Ürün & Büyüme Analitiği)",
+"Kullanıcı Deneyimi ve Ürün Analitiği Uzmanı (Product Analyst)"
+],
+"sektorler": [
+"CUSTOMER_SERVICE",
+"IT_SOFTWARE",
+"SCIENCE_RND",
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Kalitesi Analisti",
+"isco4": "2511",
+"isco_title": "Systems analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Veri Kalitesi Analisti"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aviyonik Yazılım Mühendisi",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Aviyonik Yazılım ve Seyrüsefer Mühendisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Backend Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 56,
+"n_job": 80,
+"ornek_unvanlar": [
+".NET Core & Dapper Yüksek Performans Backend Geliştiricisi",
+".NET Core & Event Sourcing / EventStoreDB Geliştiricisi",
+".NET Core & GraphQL / gRPC Backend Mühendisi",
+".NET Core & NoSQL / Redis Mimari Geliştiricisi",
+".NET Core / C# Geliştirici"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "BIM Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"BIM ve Hesaplamalı Tasarım Geliştiricisi (Dynamo / Revit API / Python)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyometrik Tanıma Sistemleri Uzmanı",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biometric Recognition Systems Specialist",
+"Biyometrik Tanıma Sistemleri Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dağıtık Sistemler Mühendisi",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dağıtık Sistemler ve Konsensüs Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Derleyici ve Sanal Makine Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Derleyici (Compiler) ve Sanal Makine Geliştirici"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Frontend Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 18,
+"n_job": 46,
+"ornek_unvanlar": [
+"Angular Frontend Developer (Enterprise Banking Solutions)",
+"Angular Frontend Uzmanı",
+"Angular Geliştirici",
+"Angular Web Geliştirici",
+"Frontend (Ön Yüz) Yazılım Stajyeri"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Full Stack Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 10,
+"n_job": 16,
+"ornek_unvanlar": [
+"Developer",
+"Full Stack E-Ticaret ve Pazar Yeri Mühendisi",
+"Full Stack Geliştirici",
+"Full Stack Geliştirici (.NET Core & Angular)",
+"Full Stack Jamstack & Serverless Geliştiricisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Full-Stack Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 0,
+"n_job": 6,
+"ornek_unvanlar": [
+"Lead Fullstack Architect (Java / Kotlin + Modern Web)",
+"Lead Fullstack Engineer (.NET & Cloud Architecture)",
+"Mid Yazılım Geliştirici",
+"Senior Fullstack Engineer (Java & React / Next.js)",
+"Senior Fullstack Engineer (Python FastAPI & Vue 3)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gömülü Sinyal İşleme Mühendisi",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gömülü Sinyal İşleme Mühendisi (DSP / Audio & Radar Algorithms)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gömülü Sistemler Mühendisi",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mekatronik ve Gömülü Sistemler Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gömülü Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 4,
+"n_job": 11,
+"ornek_unvanlar": [
+"Araç Kontrol Ünitesi (VCU) Algoritma ve Yazılım Mühendisi",
+"Gömülü Linux ve Çekirdek (Kernel) Sürücü Geliştirici (Yocto)",
+"Gömülü Sistemler ve Mekatronik Stajyeri",
+"Gömülü Yazılım Mühendisi",
+"Gömülü Yazılım Mühendisi (ARM Cortex-M / FreeRTOS / C++)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Grafik Motoru Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"3D Render Motoru ve Shader Geliştirici"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İHA Sürü Uçuş Algoritma Mühendisi",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Drone Swarm Flight Coordination Algorithm Architect",
+"İHA Sürü Uçuş Algoritma Mimarı"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobil Uygulama Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 0,
+"n_job": 5,
+"ornek_unvanlar": [
+"Lead iOS Engineer (Core Mobile Architecture)",
+"Mobil Uygulama Geliştirici",
+"Mobil Uygulama Mühendisi (Flutter / Dart)",
+"Mobile Application Developer (React Native & Redux)",
+"Mobile Software Engineer (Android & Kotlin)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobil Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 20,
+"n_job": 21,
+"ornek_unvanlar": [
+"Android Developer (Kotlin & Bluetooth LE / IoT)",
+"Android Developer (Kotlin / Coroutines / MVI)",
+"Android Geliştirici (Kotlin)",
+"Flutter & Donanım Entegrasyon (BLE / NFC) Mühendisi",
+"Flutter & E-Ticaret Mobil Uygulama Geliştiricisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otonom Sürüş Algoritma Mühendisi",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Otonom Sürüş Algoritmaları ve Sensör Füzyonu Mühendisi (ADAS)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": [
+"212"
+]
+},
+{
+"specialty": "Oyun Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Oyun Fizik Motoru Geliştiricisi",
+"Oyun Geliştirici (Unity / C#)",
+"Oyun Geliştirici (Unreal Engine",
+"Oyun Geliştirici (Unreal Engine / C++)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oyun Sunucu ve Ağ Mühendisi",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oyun Sunucu ve Ağ Mühendisi (Game Networking)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oyun Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Game Developer (Unity"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Robotik Süreç Otomasyonu Geliştiricisi",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"RPA (Robotik Süreç Otomasyonu) Geliştirici"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "RPA Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yazılım ve RPA Robotik Süreç Geliştiricisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Siber Güvenlik Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yazılımcı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sistem Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Junior Rust Geliştirici (Sistem & Ağ Programlama)",
+"Kernel and Device Driver Software Developer"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Web Yazılım Geliştirici",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yazılımcı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yazılım Mimarı",
+"isco4": "2512",
+"isco_title": "Software developers",
+"n_cv": 7,
+"n_job": 5,
+"ornek_unvanlar": [
+"Kıdemli .NET Backend Mimarı (Büyük Veri Akışı & Akıllı Şebekeler)",
+"Kıdemli .NET Backend Mimarı (Mikroservis & Cloud Native)",
+"Kıdemli .NET Core / C# Mikroservis Mimarı",
+"Kıdemli Backend Çözüm Mimarı (Java & Cloud Native)",
+"Kıdemli C# / .NET Çözüm Mimarı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aviyonik Yazılım Test Mühendisi",
+"isco4": "2519",
+"isco_title": "Software and applications developers and analysts not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Aviyonik Yazılım Doğrulama ve Test Mühendisi (DO-178C DAL-A)"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "ETL Test Mühendisi",
+"isco4": "2519",
+"isco_title": "Software and applications developers and analysts not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Veri Ambarı ve ETL Test Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gömülü Sistemler Test Mühendisi",
+"isco4": "2519",
+"isco_title": "Software and applications developers and analysts not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gömülü Sistemler Otomatik Test ve HIL Test Mühendisi (dSPACE / Python)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Performans Test Mühendisi",
+"isco4": "2519",
+"isco_title": "Software and applications developers and analysts not elsewhere classified",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Performans ve Yük Testi Mühendisi (JMeter & k6)",
+"SRE & Yük ve Dayanıklılık (Stress Testing) Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Test Otomasyon Mühendisi",
+"isco4": "2519",
+"isco_title": "Software and applications developers and analysts not elsewhere classified",
+"n_cv": 5,
+"n_job": 0,
+"ornek_unvanlar": [
+"API ve Mikroservis Test Otomasyon Mühendisi (Postman & RestAssured)",
+"Frontend Modern Test Otomasyon Mühendisi (Cypress & Playwright)",
+"Frontend Test Otomasyon Mühendisi (Cypress & Playwright)",
+"Kıdemli Yazılım Test Otomasyon Mimarı (SDET)",
+"Mobil Test Otomasyon Mühendisi (Appium & BrowserStack)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yazılım Kalite Güvence Mühendisi",
+"isco4": "2519",
+"isco_title": "Software and applications developers and analysts not elsewhere classified",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Havacılık Görev Yazılımı Güvence Mühendisi (DO-178C / DAL-A/B)",
+"Yazılım Kalite Güvence ve Süreç İyileştirme Mühendisi (Automotive SPICE / CMMI)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yazılım Test Mühendisi",
+"isco4": "2519",
+"isco_title": "Software and applications developers and analysts not elsewhere classified",
+"n_cv": 4,
+"n_job": 2,
+"ornek_unvanlar": [
+"Go Backend & Mikroservis Test ve Güvenilirlik Mühendisi",
+"Vue.js Test ve Kalite Güvence Mühendisi",
+"Yazılım Test ve Kalite Mühendisi",
+"Yazılım Test ve Otomasyon Mühendisi (QA)",
+"iOS Test Otomasyon & Kalite Mühendisi (XCTest)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yazılım Test Uzmanı",
+"isco4": "2519",
+"isco_title": "Software and applications developers and analysts not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Analist"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yazılım Test ve Kalite Mühendisi",
+"isco4": "2519",
+"isco_title": "Software and applications developers and analysts not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Otomotiv Gömülü Test ve Yazılım Kalite Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Analitik Mühendisi",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Analytics Engineer (dbt & Data Modeling)",
+"dbt (Data Build Tool) Analitik Mühendisi (Analytics Engineer)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyoinformatik Veri Mühendisi",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sağlık ve Genomik Veri Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klinik Veri Yöneticisi",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Klinik Veri Yöneticisi (Clinical Data Manager)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klinik Veri Yönetimi Uzmanı",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Klinik Veri Yönetimi (CDM) Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": [
+"212"
+]
+},
+{
+"specialty": "Veri Ambarı Mimarı",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Veri Ambarı (DWH) Mimarı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Ambarı Uzmanı",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kurumsal Veri Modelleme ve Boyutsal Veri Mimarı (Kimball)",
+"Kıdemli Snowflake Veri Ambarı Mimarı",
+"Kıdemli Veri Ambarı ve Modelleme Uzmanı (DWH / dbt)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Kalitesi Uzmanı",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Veri Kalitesi Uzmanı",
+"Veri Kalitesi ve Süreç Yöneticisi (Data Quality Lead)",
+"Veri Kalitesi ve Veri Doğrulama Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Mimarı",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Büyük Veri Çözüm Mimarı (Big Data Solutions Architect)",
+"Veri Ambarı (DWH) Mimarı",
+"Veri Gölü ve Lakehouse Mimarı (Databricks)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Mühendisi",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 16,
+"n_job": 15,
+"ornek_unvanlar": [
+"Akış Verisi (Streaming) ve Gerçek Zamanlı Veri Mühendisi (Flink)",
+"Analitik Veritabanı ve ClickHouse Mühendisi",
+"Azure Synapse Analytics & Data Factory Mühendisi",
+"Bulut Veri Mühendisi (AWS Glue & Redshift)",
+"Büyük Veri Mühendisi (Scala & Spark)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Yönetişimi Uzmanı",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Veri Yönetişimi (Data Governance) Uzmanı",
+"Veri Yönetişimi (Data Governance) ve Katalog Mimarı",
+"Veri Yönetişimi ve Kalitesi Uzmanı (Data Governance Specialist)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veritabanı Geliştirici",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Database Developer (PL/SQL)",
+"Veritabanı Geliştiricisi (PL"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veritabanı Mimarı",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Büyük Ölçekli Grafik (Graph) Veritabanı Mimarı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veritabanı Performans Uzmanı",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"SQL Performans İnce Ayar (SQL Tuning) Danışmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veritabanı Yöneticisi",
+"isco4": "2521",
+"isco_title": "Database designers and administrators",
+"n_cv": 11,
+"n_job": 5,
+"ornek_unvanlar": [
+"Bulut Veritabanı Operasyon Mühendisi (Cloud DBA - AWS / Azure)",
+"Bulut Veritabanı ve Depolama Altyapı Mühendisi",
+"Database Administrator (DBA)",
+"DevOps Uzmanı (PostgreSQL & Redis Altyapı Otomasyonu)",
+"Kıdemli Microsoft SQL Server Veritabanı Yöneticisi (MSSQL DBA)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "BT Altyapı Mimarı",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"BT Sistem ve Altyapı Mimarı",
+"IT Infrastructure Architect",
+"Kıdemli BT Altyapı ve Sistem Mimarı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "BT Felaket Kurtarma ve İş Sürekliliği Uzmanı",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"IT Disaster Recovery & Business Continuity Specialist"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bulut Mimarı",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 4,
+"n_job": 5,
+"ornek_unvanlar": [
+"Bulut Mimarı (AWS",
+"Bulut Mimarı (AWS / Azure)",
+"Cloud & DevOps Architect (Banking Core)",
+"Cloud Architect (AWS",
+"Kıdemli Bulut Çözüm Mimarı (Cloud Solutions Architect)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bulut Mühendisi",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 4,
+"n_job": 8,
+"ornek_unvanlar": [
+"Azure Cloud Platform & Hibrit Bulut Mühendisi",
+"Bulut Altyapı Uzmanı (Azure DevOps & Windows/Linux)",
+"Bulut Sistem Mühendisi (OpenShift & Kurumsal Altyapı)",
+"Cloud Infrastructure Specialist (AWS Serverless & IaC)",
+"Cloud Platform Engineer (Azure & AKS)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Depolama ve Yedekleme Mühendisi",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Linux Depolama ve Dosya Sistemleri Mühendisi (Ceph / NFS)",
+"Linux Yedekleme ve Felaket Kurtarma (Disaster Recovery) Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "DevOps Mühendisi",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 15,
+"n_job": 18,
+"ornek_unvanlar": [
+"Altyapı Kodlama (IaC) ve Terraform Mühendisi",
+"Ansible & Konfigürasyon Yönetim Mühendisi",
+"DevOps & Release Engineer (Mobil CI/CD - Fastlane)",
+"DevOps & Test Ortamı Otomasyonu (Ephemeral Environments) Mühendisi",
+"DevOps & İlerici Teslimat (Progressive Delivery) Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "FinOps Mühendisi",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Bulut Maliyet Optimizasyonu (FinOps) Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mainframe Sistem Programcısı",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mainframe Sistem Programcısı (z/OS)",
+"Mainframe Systems Programmer (z"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "MLOps Mühendisi",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"MLOps Mühendisi",
+"MLOps Mühendisi (Model Dağıtımı & Kubeflow)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": [
+"212"
+]
+},
+{
+"specialty": "Öğrenme Yönetim Sistemi Uzmanı",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Learning Management Systems (LMS) Administrator",
+"Öğrenme Yönetim Sistemleri (LMS) Uzmanı"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Platform Mühendisi",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Lead Platform Engineer (Kubernetes Operator & Bare-Metal)",
+"OpenShift & Kurumsal Konteyner Platform Mühendisi",
+"Platform Engineer (GitOps & Crossplane)",
+"Platform Mühendisi (Developer Experience & Internal Tooling)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sistem Altyapı Mühendisi",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sanal Masaüstü ve Veri Merkezi Sanallaştırma Mühendisi (VMware)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sistem Mühendisi",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Cloud Systems Engineer (Linux Kernel & Networking)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sistem ve Ağ Yöneticisi",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sistem ve Ağ Yöneticisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sistem Yöneticisi",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Junior Bulut Destek Mühendisi",
+"Junior Bulut Sistem Uzmanı (Linux & Shell Scripting)",
+"Junior Linux Sistem Yöneticisi",
+"Kıdemli Linux Sistem Yöneticisi (RHEL / Debian)",
+"Linux Sistem Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Site Güvenilirlik Mühendisi",
+"isco4": "2522",
+"isco_title": "Systems administrators",
+"n_cv": 7,
+"n_job": 6,
+"ornek_unvanlar": [
+"Junior SRE / Sistem İzleme Uzmanı",
+"Kıdemli SRE Mühendisi (Datadog & APM Optimizasyonu)",
+"Kıdemli Site Reliability Engineer (SRE)",
+"SRE & APM (Uygulama Performans Yönetimi) Mühendisi",
+"SRE & Kaos Mühendisliği (Chaos Engineering) Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağ Mühendisi",
+"isco4": "2523",
+"isco_title": "Computer network professionals",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ağ Otomasyon ve NetDevOps Mühendisi (Python & Netmiko)",
+"Ağ ve Altyapı Güvenlik Mühendisi (Cisco & Fortinet)",
+"DNS ve Alan Adı Altyapı Mühendisi (BIND & PowerDNS)",
+"Sistem ve Network Ağ Uzmanı (CCNA/CCNP)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Adli Bilişim Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Adli Bilişim (Digital Forensics) ve Olay İnceleme Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağ Güvenliği Mühendisi",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Siber Güvenlik Mühendisi (Ağ & Güvenlik Duvarı)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağ Güvenliği Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Sıfır Güven (Zero Trust) Ağ Güvenliği Mimarı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Akıllı Sözleşme Güvenlik Denetçisi",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Blockchain Smart Contract Security Auditor",
+"Blokzincir Akıllı Sözleşme Denetçisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilgi Güvenliği Danışmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"KVKK ve Bilgi Güvenliği Danışmanı (ISO 27001)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilgi Güvenliği ve Uyum Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bilgi Güvenliği ve Uyum Uzmanı (GRC Specialist)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilgi Sistemleri Denetçisi",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Bilgi Teknolojileri ve Siber Güvenlik Denetçisi (CISA / SOX ITGC / COBIT)",
+"Bilişim Sistemleri Baş Denetçisi (CISA)",
+"Certified Information Systems Auditor (CISA)",
+"Kıdemli BT Denetçisi ve Siber Risk Yöneticisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "BT Felaket Kurtarma Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bilişim Teknolojileri Felaket Kurtarma (DRP) Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bulut Güvenliği Mimarı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bulut Güvenliği Mimarı (DevSecOps)",
+"Cloud Security Architect (DevSecOps)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bulut Güvenliği Mühendisi",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Bulut Gizli Bilgi ve Anahtar Yönetimi (Vault) Uzmanı",
+"Bulut Güvenlik Uzmanı (Cloud Security Engineer)",
+"Bulut Güvenliği ve CSPM Mühendisi (AWS / Azure)",
+"Senior Cloud Security & Infrastructure Engineer"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bulut Güvenliği Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kubernetes Güvenlik ve Ağ Mühendisi (CKS)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "DevSecOps Mimarı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli DevSecOps Mimarı (Cloud-Native Security)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "DevSecOps Mühendisi",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"DevSecOps & Güvenlik Otomasyon Mühendisi",
+"DevSecOps Engineer (Shift-Left Security)",
+"DevSecOps Uzmanı (Konteyner & Altyapı Güvenliği)",
+"Lead DevSecOps Engineer"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Donanım Güvenliği Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Donanım & IoT Güvenlik Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Kontrol Sistemleri Güvenliği Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kritik Altyapı ve SCADA Güvenliği Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Siber Güvenlik Mühendisi",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Endüstriyel Haberleşme Ağları ve Siber Güvenlik Mühendisi (OT Security / ISA/IEC 62443)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gömülü Sistemler Siber Güvenlik Mühendisi",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gömülü Güvenlik ve Siber Güvenlik Mühendisi (Automotive Cybersecurity - ISO 21434)",
+"Gömülü Sistemler Siber Güvenlik Mühendisi (Hardware Security / HSM)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kimlik ve Erişim Yönetimi Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kimlik ve Erişim Yönetimi (IAM) Güvenlik Uzmanı",
+"Kimlik ve Erişim Yönetimi (IAM) Uzmanı",
+"Kıdemli Kimlik ve Erişim Yönetimi Uzmanı (IAM Specialist)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kırmızı Takım Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Red Team Operatörü (Adversary Emulation)",
+"Kırmızı Takım (Red Team) ve Siber Saldırı Simülasyonu Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kötü Amaçlı Yazılım Analisti",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tersine Mühendislik ve Kötü Amaçlı Yazılım Analisti"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kriptografi Mühendisi",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kriptografi ve Güvenlik Protokolü Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kriptografi ve Güvenlik Protokolleri Mühendisi",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Cryptography & Security Protocols Engineer"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kritik Altyapı ve SCADA Güvenliği Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Critical Infrastructure & SCADA Security Specialist"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobil Güvenlik Mühendisi",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Senior iOS & Mobile Security Engineer"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobil Uygulama Güvenliği Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Flutter Mobil Güvenlik ve Kod Koruma Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Olay Müdahale ve Adli Bilişim Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Olay Müdahale ve Adli Bilişim Uzmanı (DFIR)",
+"Siber Olay Müdahale ve Adli Bilişim (DFIR) Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Siber Güvenlik Analisti",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Analist",
+"Kıdemli SOC Analisti ve Tehdit Avcısı (Threat Hunter)",
+"Kıdemli Tehdit Avcısı (Senior Threat Hunter)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Siber Güvenlik Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 5,
+"n_job": 6,
+"ornek_unvanlar": [
+"Cyber Security Specialist",
+"Güvenlik Orkestrasyonu ve Otomasyonu (SOAR) Mühendisi",
+"Güvenlik Test Otomasyonu ve DAST Mühendisi",
+"Incident Response & Digital Forensics (DFIR) Specialist",
+"Information Security Engineer"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Siber Tehdit Analisti",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Siber Tehdit Analisti"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Siber Tehdit İstihbaratı Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Lead Cyber Threat Intelligence (CTI) Uzmanı",
+"Siber Tehdit İstihbaratı (CTI) Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "SIEM Mühendisi",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"SIEM & SOAR Mühendisi",
+"SIEM ve Güvenlik Olayları Entegrasyon Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sızma Testi Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 6,
+"n_job": 7,
+"ornek_unvanlar": [
+"Ağ ve Altyapı Sızma Testi Uzmanı (Network Pentester)",
+"Bulut Sızma Testi Uzmanı (Cloud Penetration Tester)",
+"Bulut Sızma Testi ve Zafiyet Uzmanı (AWS / Azure Pentester)",
+"Junior Sızma Testi Uzmanı (Web & Network Pentest)",
+"Kıdemli Sızma Testi ve Ofansif Güvenlik Lideri"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "SOC Analisti",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 4,
+"ornek_unvanlar": [
+"Junior SOC Analisti (L1 - Siber Güvenlik Operasyonları)",
+"SOC Analisti (L2 - Tehdit Avcılığı & Olay Müdahalesi)",
+"SOC Güvenlik Analisti",
+"SOC Security Analyst",
+"Siber Güvenlik ve SOC Analisti (Tier 2)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uygulama Güvenliği Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Application Security Specialist (AppSec Engineer)",
+"Kaynak Kod Güvenliği ve Statik Analiz (SAST) Uzmanı",
+"Kıdemli Web Uygulama Güvenliği Uzmanı (AppSec)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Güvenliği Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Veri Güvenliği ve Gizliliği Mimarı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veritabanı Güvenlik Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Veritabanı Güvenliği ve Uyumluluk Mühendisi (Database Security)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapay Zeka Güvenliği Uzmanı",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"LLM Güvenliği, Jailbreak Koruması ve Kırmızı Takım (Red Teaming) Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Zararlı Yazılım Analisti",
+"isco4": "2529",
+"isco_title": "Database and network professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Kötü Amaçlı Yazılım Analisti (Malware Analyst)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+}
+]

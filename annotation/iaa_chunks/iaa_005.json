@@ -1,0 +1,1469 @@
+[
+{
+"id": "J2475",
+"kind": "JOB",
+"title": "Banka Müşteri İletişim Merkezi Yetkilisi (Inbound)",
+"industry": "CUSTOMER_SERVICE",
+"city": "Kocaeli",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Akbank [şehir] Operasyon ve İletişim Merkezi'nde bireysel bankacılık müşterilerimizin kredi kartı, para transferi ve hesap işlemlerine telefonda rehberlik edecek müşteri temsilcileri arıyoruz. Pozisyonun Temel Görevleri: - 7/24 gelen çağrı akışında bankacılık güvenlik doğrulama adımlarını titizlikle uygulamak - Kayıp-çalıntı kart bildirimleri, şifre tanımlama ve limit artış taleplerini güvenle sonuçlandırmak - Mobil bankacılık ve dijital şifre aktivasyonlarında müşteriye adım adım yönlendirme yapmak - Görüşme esnasında müşteri ihtiyacına uygun…"
+}
+},
+{
+"id": "C10280",
+"kind": "CV",
+"title": "Administrative Assistant",
+"industry": "OFFICE_ADMIN_MGMT",
+"city": "İzmir",
+"context": {
+"ozet": "Highly organized and detail-oriented administrative professional with a knack for streamlining office workflows. Adept at coordinating complex schedules, managing sensitive correspondence, and organizing corporate events. I thrive in fast-paced environments where multitasking and proactive problem-solving are essential.",
+"beceriler": "MS Office, Event Planning, Data Entry, Time Management",
+"deneyim": [
+"Administrative Assistant (10/2020 - Present): Supported the C-level executive team by handling scheduling, travel arrangements, and daily office operations."
+],
+"egitim": [
+"Ege University - Lisans (English Language and Literature) 09/2015 - 06/2019"
+]
+}
+},
+{
+"id": "J2489",
+"kind": "JOB",
+"title": "Teknik Destek ve Çözüm Uzmanı (Tier 2 IT Support)",
+"industry": "CUSTOMER_SERVICE",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Endüstriyel otomasyon sistemleri ve bina teknolojileri ürünlerimizin kurumsal müşterilerinden gelen ileri seviye teknik hata bildirimlerini inceleyip uzaktan çözecek Tier 2 uzmanı arıyoruz. Neler Yapacaksınız? - Tier 1 destek biriminin çözemediği PLC, invertör ve scada yazılım hatalarını detaylı analiz etmek - Uzaktan bağlantı (TeamViewer/VPN) ile müşteri sistem loglarını ve parametre ayarlarını incelemek - Tekrarlayan ürün yazılım hatalarını global Ar-Ge ekiplerine hata kodu (bug ticket) olarak açmak - Teknik servis mühendisleri için hata gid…"
+}
+},
+{
+"id": "C10104",
+"kind": "CV",
+"title": "Physicist",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "A quantum physicist specializing in solid-state physics and nanomaterials. I am captivated by the bizarre and wonderful behavior of matter at the atomic level. My research focuses on developing next-generation semiconductor materials.",
+"beceriler": "Quantum Mechanics, Scanning Tunneling Microscopy, Cryogenics, Python, Nanofabrication",
+"deneyim": [
+"Senior Research Physicist (2019-01 - Present): Leading research initiatives on topological insulators, utilizing scanning tunneling microscopy and low-temperature measur…",
+"Postdoctoral Researcher (2016-09 - 2018-12): Investigated electronic properties of 2D materials."
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Doktora (Fizik) 2011-09 - 2016-06",
+"Bilkent Üniversitesi - Lisans (Fizik) 2006-09 - 2011-06"
+]
+}
+},
+{
+"id": "J0247",
+"kind": "JOB",
+"title": "Kurumsal Sözleşmeler ve Şirketler Hukuku Avukatı",
+"industry": "LEGAL",
+"city": "İzmir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Koç Holding bünyesinde, [şehir] Merkezimizde grup şirketlerimizin ticari sözleşmelerini ve kurumsal şirketler hukuku işlemlerini yürütecek 'Kurumsal Sözleşmeler ve Şirketler Hukuku Avukatı' aramaktayız. Rol ve Şirket Hakkında: Koç Holding Hukuk Müşavirliği; Türkiye'nin en büyük sanayi ve hizmetler topluluğunun kurumsal yönetim ilkelerine, Türk Ticaret Kanunu'na ve uluslararası standartlara tam uyumunu sağlayan merkez hukuk ofisidir. Görev ve Sorumluluklar: - Şirketler topluluğu bünyesindeki genel kurul, yönetim kurulu kararları, sermaye artırı…"
+}
+},
+{
+"id": "J2148",
+"kind": "JOB",
+"title": "Şantiye Harita ve Ölçme Mühendisi / Topograf",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Demiryolu ve metro istasyonu projemizde Total Station ve GPS cihazları ile kot alma, aks aplikasyonu ve röleve ölçümlerini yapacak Harita Mühendisi arıyoruz. Temel İş ve Sorumluluk Alanları: - Projedeki koordinatları sahaya aplike ederek kolon, perde ve tünel akslarını işaretlemek - Kalıp ve donatı kotlarını optik nivo ve Total Station ile milimetrik doğrulamak - Hafriyat kazı-dolgu alanlarının prizmatik rölevelerini alarak metraj hesaplarını yapmak - Şantiye poligon ağının periyodik sıfırlama ve kontrol ölçümlerini gerçekleştirmek Gereksiniml…"
+}
+},
+{
+"id": "C10514",
+"kind": "CV",
+"title": "Dalgakıran ve Deniz Tabanı Tarama Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Dalgakıran ve Deniz Tabanı Tarama Mühendisi olarak 3 yıllık profesyonel deneyime sahibim. Statik Hesaplama (SAP2000 / ETABS), Hakediş ve Metraj Çıkarma ve BIM Modelleme alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilin…",
+"beceriler": "Statik Hesaplama (SAP2000 / ETABS), Hakediş ve Metraj Çıkarma, BIM Modelleme, İhale Dosyası ve Şartname Hazırlama, Şantiye Saha Koordinasyonu, İş Programı (Primavera P6 / MS Project)",
+"deneyim": [
+"Dalgakıran ve Deniz Tabanı Tarama Mühendisi (2023 - Günümüz): Şantiye ilerleme programlarını takip ederek hakediş metrajlarını, taşeron sözleşmelerini ve malzeme sevkiya…",
+"Dalgakıran ve Deniz Tabanı Tarama Mühendisi (2020 - 2023): BIM modelleri üzerinden çakışma analizlerini yöneterek saha imalatı öncesinde tasarım revizyonlarını başarıyla…",
+"Stajyer (Haziran 2022 - Temmuz 2022): Sektörel pazar araştırmaları yaparak rakip analiz tablolarının oluşturulması ve haftalık ilerleme sunumlarının hazırlanmasına yardı…"
+],
+"egitim": [
+"Sabancı Üniversitesi - Lisans (İnşaat Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "C11750",
+"kind": "CV",
+"title": "Kredi Derecelendirme ve Finansal Tablolar Güvence Denetçisi",
+"industry": "FINANCE_ACCOUNTING",
+"city": "İstanbul",
+"context": {
+"ozet": "Finansal kurumlar ve büyük sanayi kuruluşlarının kredi derecelendirme (Credit Rating) süreçleri, finansal rasyoların bağımsız teyidi ve rating ajansı finansal model denetiminde uzmanım.",
+"beceriler": "Kredi Derecelendirme (Credit Rating) Metodolojisi, Finansal Rasyolar ve Kaldıraç Analitiği, Temerrüt Olasılığı (PD) ve LGD Modelleri, Rating Ajansı Veri Paketi Doğrulama, Nakit Akış Stres Testleri Güvencesi, Kredi Komit…",
+"deneyim": [
+"Kredi Derecelendirme ve Finansal Tablolar Güvence Denetçisi ([TARİH]): Uluslararası kredi derecelendirme ajanslarına sunulan 18 büyük kurumsal müşterinin finansal veri s…"
+],
+"egitim": [
+"Bilkent Üniversitesi - Lisans (İktisat) 2014 - 2018"
+]
+}
+},
+{
+"id": "J2367",
+"kind": "JOB",
+"title": "Restoran Şefi / Kaptan (Chef de Rang)",
+"industry": "CHEF_HORECA",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Yoğun brasserie şubemizde salon servis akışını koordine edecek, garson ve komilerin servis standartlarını denetleyecek Restoran Kaptanı arıyoruz. Temel İş ve Sorumluluk Alanları: - Restoran salonunun servis öncesi masa düzeni, kuver ve hijyen kontrollerini onaylamak - Yoğun saatlerde rezervasyonlu misafirleri karşılayıp masalarına yönlendirmek - Garsonların sipariş alma, servis süresi ve hesap kapatma aşamalarındaki aksaklıklarına anında müdahale etmek - VIP misafir masalarının özel servislerini bizzat yürütmek Gereksinimler ve Nitelikler: - T…"
+}
+},
+{
+"id": "J1673",
+"kind": "JOB",
+"title": "Analytics Engineer (dbt & Data Modeling)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Veri mühendisleri ile iş analistleri arasında köprü kurarak dbt ile temiz, test edilmiş ve analitiğe hazır veri modelleri inşa edecek Analytics Engineer arıyoruz. Rol ve Sorumluluklar: - dbt (data build tool) ile Snowflake üzerinde temiz analitik modeller (marts) geliştirmek - Veri modellerinin testlerini (schema tests, custom data tests) otomatikleştirmek - İş zekası panoları için optimize edilmiş tablolar ve view'lar hazırlamak - Veri sözlüğü ve dbt dokümantasyonunu sürekli güncel tutmak Kimleri Arıyoruz? - En az 3 yıl veri analitiği veya ve…"
+}
+},
+{
+"id": "J2460",
+"kind": "JOB",
+"title": "Kıdemli CRM ve Müşteri Sadakati Müdürü (Senior Retention Manager)",
+"industry": "MARKETING_MEDIA",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Omnichannel perakendede müşteri yaşam boyu değerini (CLV) maksimize edecek, churn risklerini azaltacak ve kişiselleştirilmiş sadakat programlarını yönetecek kıdemli lider arıyoruz. Temel İş ve Sorumluluk Alanları: - Müşteri segmentasyonu, mikro hedefleme ve tahminleme modellerini veri bilimi ekibiyle birlikte geliştirmek - Hopi ve kurumsal sadakat programları üzerinden kişiye özel teklif ve kupon stratejilerini hayata geçirmek - Pazarlama otomasyonu senaryolarının (SMS, e-posta, push) dönüşüm oranlarını ve net ciro katkısını yönetmek - CRM ana…"
+}
+},
+{
+"id": "J0029",
+"kind": "JOB",
+"title": "JOY GLOBAL GAYRİMENKUL DANIŞMANLIK EKİBİNİ BÜYÜTÜYOR!",
+"industry": "SALES",
+"city": "Antalya",
+"position_level": "UNSPECIFIED",
+"mode": "Hybrid",
+"context": {
+"aciklama": "JOY GLOBAL GAYRİMENKUL DANIŞMANLIK EKİBİNİ BÜYÜTÜYOR! [şehir] / Meydankavağı'nda bulunan ofisimize gayrimenkul danışmanları arıyoruz. Tecrübeli veya tecrübesiz olmanız fark etmez. Gayrimenkul sektöründe kariyer yapmak isteyen, gelişime açık ve kazancını kendi belirlemek isteyen adayları ekibimize bekliyoruz. Size Neler Sunuyoruz? ✅ Başlangıçta %75 yüksek komisyon oranı ✅ Çalışma modeline uygun adaylar için özel %100 komisyon sistemi ✅ Prim esaslı yüksek kazanç modeli ✅ Eğitim ve saha desteği ✅ Profesyonel ve kurumsal çalışma ortamı ✅ Kendi işi…"
+}
+},
+{
+"id": "C10440",
+"kind": "CV",
+"title": "BT Proje Yöneticisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "BT Proje Yöneticisi olarak 7 yıllık profesyonel deneyime sahibim. Git & GitHub, Mikroservis Mimarisi ve Clean Code & Refactoring alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüksek bir uzmanım.",
+"beceriler": "Git & GitHub, Mikroservis Mimarisi, Clean Code & Refactoring, Linux / Bash, Birim Testi (Unit Testing), Docker & Kubernetes",
+"deneyim": [
+"BT Proje Yöneticisi (2024 - Günümüz): Kullanıcı dostu ön yüz arayüzleri geliştirerek bileşen tabanlı modern kütüphaneler ile performans odaklı web çözümleri ürettim.",
+"BT Proje Yöneticisi (2022 - 2024): Agile ve Scrum prensipleriyle yazılım sprint döngülerini yöneterek paydaşlar ile geliştirme ekipleri arasındaki teslimat kilometre taş…",
+"BT Proje Yöneticisi (2020 - 2022): Siber güvenlik izleme merkezinde (SOC) güvenlik loglarını ve SIEM olaylarını analiz ederek tehdit algılama ve olay müdahale süreçlerin…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) 2017 - 2021"
+]
+}
+},
+{
+"id": "J0114",
+"kind": "JOB",
+"title": "BROŞÜR DAĞITACAK ELEMAN",
+"industry": "MARKETING_MEDIA",
+"city": "İstanbul",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] da bulunan Waffle işletmemizin açılış broşürlerini dağıtacak Üniversitese Öğrencisi Bay/Bayan Elamanlar alınacaktır. Çalışma Lokasyonu: [şehir]"
+}
+},
+{
+"id": "J0907",
+"kind": "JOB",
+"title": "Oyun Sunucu ve Ağ Mühendisi (Game Networking)",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Peak bünyesinde, [şehir] ofisimizde yüz binlerce anlık oyuncunun rekabet ettiği oyunlarımızın sunucu ve ağ omurgasını inşa edecek 'Oyun Sunucu ve Ağ Mühendisi (Game Networking)' aramaktayız. Rol ve Şirket Hakkında: Peak; küresel mobil oyun pazarında Toon Blast ve Toy Blast gibi efsanevi hitlere imza atan, yüksek eşzamanlı ve sıfır gecikmeli sunucu mimarileri üreten teknoloji devidir. Görev ve Sorumluluklar: - Düşük gecikmeli, gerçek zamanlı ve yüksek eşzamanlı (high-concurrency) oyun sunucusu mimarilerinin Go veya C++ ile tasarlanması, - UDP, …"
+}
+},
+{
+"id": "J0341",
+"kind": "JOB",
+"title": "Tesviyeci / Metal Tesviye Elemanı",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Mersin",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] tarım & sanayi bölgesi civarındaki işletmemize acil tesviyeci / metal tesviye elemanı arıyoruz iş ağır değildir düzenli çalışacak verilen işi yapacak eli çabuk arkadaş arıyoruz vardiya 08:00 - 18:00 pazar tatil yemek sgk servis gününde yatar ilgilenenlerin şahsen veya telefonla müracaatı rica olunur"
+}
+},
+{
+"id": "C10796",
+"kind": "CV",
+"title": "Creative Copywriter",
+"industry": "MARKETING_MEDIA",
+"city": "İstanbul",
+"context": {
+"ozet": "Dedicated Creative Copywriter with 9 years of demonstrated experience in Marketing, Digital Media & Communications. Skilled in Corporate Communications & PR, Email Marketing & CRM Automation and Meta Ads & Google Ads Campaign Management with a focus on project accuracy, process efficiency, and continuous improvement. A reliable team contributor co…",
+"beceriler": "Corporate Communications & PR, Email Marketing & CRM Automation, Meta Ads & Google Ads Campaign Management, Digital Marketing & Social Media Strategy, SEO & Content Marketing, Copywriting & Storytelling",
+"deneyim": [
+"Creative Copywriter (2024 - Present): Orchestrated cross-channel digital acquisition campaigns, continuously testing creative assets and lowering customer acquisition co…",
+"Creative Copywriter (2022 - 2024): Authored engaging brand narratives, corporate press releases, and technical whitepapers aligned with broader strategic market position…",
+"Intern (August 2019 - September 2019): Shadowed experienced consultants during client discovery workshops and compiled structured notes for requirement specifications."
+],
+"egitim": [
+"Middle East Technical University - Ph.D. (Advanced Public Relations & Advertising Studies) 2023 - 2027",
+"Middle East Technical University - Master's Degree (Public Relations & Advertising & Strategy) 2020 - 2022"
+]
+}
+},
+{
+"id": "C20185",
+"kind": "CV",
+"title": "Güvenlik Görevlisi - AVM / Plaza",
+"industry": "SECURITY_EMERGENCY",
+"city": "Bursa",
+"context": {
+"ozet": "Yaya trafiğinin çok yoğun olduğu alışveriş merkezleri ve plazalarda müşteri ilişkileri ile güvenlik konseptini başarıyla harmanlayan bir özel güvenlik görevlisiyim. X-Ray cihazları, el dedektörleri ve kartlı geçiş sistemlerinin kullanımında uzmanım. İnsanlara güler yüzle yardımcı olurken, aynı zamanda olası tehditleri önceden sezebilen analitik bi…",
+"beceriler": "X-Ray Cihazı, Ziyaretçi Kaydı, Çanta/Üst Araması, Turnike Yönetimi",
+"deneyim": [
+"Güvenlik Görevlisi - AVM / Plaza ([TARİH]): [ŞEHİR] bölgesinde Güvenlik Görevlisi - AVM / Plaza olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "J1792",
+"kind": "JOB",
+"title": "İçten Yanmalı Motor Mekanik Tasarım Mühendisi (Engine Mechanical)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "EcoBlue dizel motorlarımızın silindir kapağı, krank mili ve piston-biyel mekanik bileşenlerinin tasarımında görev alacak Motor Mühendisi arıyoruz. Rol ve Sorumluluklar: - Motor blok ve silindir kafası döküm parçalarının CATIA ile 3D katı modellemesini yapmak - Piston ve biyel kolunun yüksek tepe yanma basınçları altındaki yorulma ve gerilme analizlerini incelemek - Krank mili burulma titreşimi sönümleyicilerini (TVD) boyutlandırmak - Motor test odalarında (Dynamometer) dayanıklılık test verilerini değerlendirmek Kimleri Arıyoruz? - Makine veya…"
+}
+},
+{
+"id": "C10535",
+"kind": "CV",
+"title": "SEO & Content Manager",
+"industry": "MARKETING_MEDIA",
+"city": "İstanbul",
+"context": {
+"ozet": "Results-oriented SEO & Content Manager with 10+ years of enterprise experience and a solid educational foundation in New Media. Proven track record in optimizing operational workflows, delivering scalable initiatives, and leveraging Digital Marketing & Social Media Strategy, Brand Strategy & Positioning and Meta Ads & Google Ads Campaign Managemen…",
+"beceriler": "Digital Marketing & Social Media Strategy, Brand Strategy & Positioning, Meta Ads & Google Ads Campaign Management, Google Analytics 4 & Tag Manager, Corporate Communications & PR, Email Marketing & CRM Automation",
+"deneyim": [
+"SEO & Content Manager (2023 - Present): Conducted conversion rate optimization (CRO) and user onboarding funnel experiments, driving measurable improvements in retention.",
+"SEO & Content Manager (2020 - 2023): Leveraged web analytics platforms to track campaign attribution metrics and deliver actionable insights in executive marketing repor…",
+"SEO & Content Manager (2018 - 2020): Leveraged web analytics platforms to track campaign attribution metrics and deliver actionable insights in executive marketing repor…"
+],
+"egitim": [
+"Baskent University - Master's Degree (New Media & Strategy) 2019 - 2021",
+"Baskent University - Bachelor's Degree (New Media) 2015 - 2019"
+]
+}
+},
+{
+"id": "J1016",
+"kind": "JOB",
+"title": "Uluslararası Bakalorya (IB) Diploma Programı Koordinatörü",
+"industry": "EDUCATION",
+"city": "Bursa",
+"position_level": "MANAGER",
+"mode": "Hybrid",
+"context": {
+"aciklama": "VKV Koç Özel Lisesi bünyesinde [şehir] yerleşkemizde Uluslararası Bakalorya Diploma Programının (IBDP) akademik liderliğini ve küresel akreditasyon standartlarını yürütecek IBDP Koordinatörü arıyoruz. Görev Tanımı ve Sorumluluklar: - IBO (International Baccalaureate Organization) standartlarına uygun olarak lise 11 ve 12. sınıf IB Diploma Programının akademik takvimini ve ders müfredatını yönetmek. - IB öğretmen zümrelerine pedagojik liderlik yapmak; İç Değerlendirme (Internal Assessment - IA), Genişletilmiş Deneme (Extended Essay - EE), Bilgi…"
+}
+},
+{
+"id": "C20892",
+"kind": "CV",
+"title": "Dekoratif Mineral Sıva & Dış Cephe Kaplamacısı",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Mantolama yapılmış dış cephelerde son kat dekoratif tane dokulu mineral sıva, silikonlu elastik dış cephe boyası ve dekoratif fuga çıtası uygulamalarında uzmanım. Çelik mala ile eşit kalınlıkta sıva çekimi, plastik mala ile dairesel desen verme ve iskele geçiş izi bırakmadan cephe tamamlama ustalığına sahibim.",
+"beceriler": "Dekoratif Mineral Sıva (Tane Dokulu), Plastik Mala ile Desen ve Tirfil Uygulaması, Silikonlu Dış Cephe Koruyucu Boya, Dış Cephe Fuga Çıtası ve Söve Montajı, Ek Yeri ve Soğuk Derz İzi Bırakmama, Güneş ve Rüzgar Kuruma Ko…",
+"deneyim": [
+"Dekoratif Mineral Sıva & Dış Cephe Kaplamacısı ([TARİH]): Otel dış cephesinde 12.000 m² yüzeye 2 mm tane boyutlu dekoratif mineral sıva iskele izi olmadan çekildi ve üze…"
+],
+"egitim": [
+"Samsun Tekkeköy Mesleki Eğitim Merkezi - Ustalık Belgesi (Yapı Yüzey Kaplama ve Sıva) [TARİH]"
+]
+}
+},
+{
+"id": "C20222",
+"kind": "CV",
+"title": "Hastane Portörü / Sedye Görevlisi",
+"industry": "HEALTHCARE",
+"city": "Ankara",
+"context": {
+"ozet": "Hasta mahremiyetine ve haklarına azami saygı gösteren, güler yüzlü ve iletişim yeteneği güçlü bir taşıma görevlisiyim. Hastane içindeki yönlendirme süreçlerine hakimim ve tıbbi materyallerin, kan veya tahlil örneklerinin laboratuvarlara güvenli şekilde ulaştırılmasında da rol alırım. Enfeksiyon kontrol kurallarına uyarak kullandığım taşıma ekipman…",
+"beceriler": "Hasta Kabulde Yönlendirme, Klinik İçi Güzergah Bilgisi, Sedye ve Tekerlekli Sandalye Nakliyesi",
+"deneyim": [
+"Hastane Portörü / Sedye Görevlisi ([TARİH]): Yürüme güçlüğü çeken poliklinik ve taburcu hastalarını tekerlekli sandalye ile ilgili birimlere ve hastane çıkış kapısına ka…"
+],
+"egitim": [
+"[OKUL] - Lise (Sağlık Bakım Teknisyenliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1417",
+"kind": "JOB",
+"title": "Kıdemli Java Backend Mühendisi (Dağıtık Sistemler & Kubernetes)",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Global bankacılık müşterilerimiz için tasarlanan çok kiracılı (multi-tenant) çekirdek bankacılık platformumuzun dayanıklılığını ve ölçeklenebilirliğini yönetecek kıdemli mühendis arıyoruz. Rol ve Sorumluluklar: - Yüksek erişilebilirlik (high availability) gerektiren dağıtık sistem mimarisinin kodlama ve tasarım standartlarını belirlemek - Kubernetes kümeleri üzerinde koşan mikroservislerin kaynak tüketimini ve trafik yönlendirmelerini (Istio Service Mesh) optimize etmek - Genç mühendislerin kod kalitesini yükseltmek için düzenli kod incelemele…"
+}
+},
+{
+"id": "J1295",
+"kind": "JOB",
+"title": "Oyun Karakter Konsept Tasarımcısı",
+"industry": "CREATIVE_DESIGN",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "TaleWorlds Entertainment bünyesinde [şehir] stüdyomuzda küresel ölçekteki oyun projelerimizin kahramanlarını, fraksiyonlarını, zırh ve giysi tasarımlarını resmedecek Oyun Karakter Konsept Tasarımcısı arıyoruz. Görev Tanımı ve Sorumluluklar: - Projenin tarihi ve fantastik anlatısına uygun karakter silüetleri, yüz morfolojileri, kostüm katmanları ve ekipman tasarımları oluşturmak. - Hızlı eskizler (thumbnails) ve moodboard'lar ile farklı kültürel fraksiyonlara ait savaşçı, soylu ve sivil karakter arketipleri geliştirmek. - 3D karakter modelleme …"
+}
+},
+{
+"id": "C11585",
+"kind": "CV",
+"title": "Demiryolu Altyapı ve Üstyapı Geometri Mühendisi (Balastlı / Balastsız Yol)",
+"industry": "CONSTRUCTION",
+"city": "Trabzon",
+"context": {
+"ozet": "Yüksek hızlı tren (YHT) ve metro hatlarında balastsız beton plakalı (Slab Track) yol, dever, kurb yarıçapı, UIC 60 ray profili, genleşme derzleri ve makas yerleşiminde uzmanım.",
+"beceriler": "Demiryolu Hat Geometrisi, Balastsız Yol Sistemleri (Slab Track / Rheda), YHT Hız Standartları (250+ km/s), Dever & İvme Eksikliği Hesapları, Makas & Turnout Geometrisi, Ray Gerilmesi & CWR Kaynağı",
+"deneyim": [
+"Demiryolu Altyapı ve Üstyapı Geometri Mühendisi (Balastlı / Balastsız Yol) ([TARİH]): 200 km yüksek hızlı demiryolu kesiminde Rheda 2000 balastsız yol sisteminin yatay-d…"
+],
+"egitim": [
+"Eskişehir Osmangazi Üniversitesi - Lisans (İnşaat Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11252",
+"kind": "CV",
+"title": "iOS & Ses/Video Medya Akış Geliştiricisi (AVFoundation)",
+"industry": "IT_SOFTWARE",
+"city": "Van",
+"context": {
+"ozet": "Müzik akışı, podcast ve canlı yayın oynatıcıları geliştiren AVFoundation ve HLS (HTTP Live Streaming) uzmanı iOS mühendisiyim. Arka planda ses çalma, kilit ekranı kontrolleri (MPRemoteCommandCenter) ve önbelleklemede tecrübeliyim.",
+"beceriler": "Swift, AVFoundation & AVPlayer, HLS Live Streaming, Now Playing Info & Remote Controls, Core Data Caching, SwiftUI",
+"deneyim": [
+"iOS & Ses/Video Medya Akış Geliştiricisi (AVFoundation) ([TARİH]): Podcast ve sesli kitap platformunun iOS uygulamasında kesintisiz arka plan ses çalma ve çevrimdışı ind…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Elektrik-Elektronik Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J0291",
+"kind": "JOB",
+"title": "Ambalaj ve Paketleme Geliştirme Mühendisi",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Yıldız Holding bünyesindeki Ülker Ar-Ge ve Tedarik Zinciri Merkezi'nde [şehir] yerleşkemizde atıştırmalık ürünlerimizin ambalaj tasarımı, paketleme hat verimliliği ve sürdürülebilirlik projelerini yönetecek Ambalaj ve Paketleme Geliştirme Mühendisi arıyoruz. Görev Tanımı ve Sorumluluklar: - Bisküvi, çikolata ve kek kategorilerimiz için esnek ambalaj (OPP/CPP/BOPP), metalize filmler, karton kutu ve oluklu mukavva ambalaj yapılarını tasarlamak ve geliştirmek. - Ürün raf ömrünü koruyacak oksijen ve nem bariyer özelliklerini (WVTR, OTR testleri) l…"
+}
+},
+{
+"id": "J2382",
+"kind": "JOB",
+"title": "Baş Sommelier / İçecek Direktörü (Head Sommelier)",
+"industry": "CHEF_HORECA",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Grubumuzun bünyesindeki lüks restoranların tüm şarap kavlarını, içecek menü tasarımlarını ve şarap ithalat/tedarik stratejisini yönetecek Head Sommelier arıyoruz. Pozisyonun Temel Görevleri: - 1.000'i aşkın seçkin etiketten oluşan şarap kavının satın alma şartnamelerini ve fiyatlandırma politikasını yönetmek - Michelin rehberine aday menüler için şeflerle koordineli imza yemek-şarap eşleşmeleri (pairing) kurgulamak - Grubun sommelier ve servis ekiplerine düzenli kör tadım ve kav yönetimi eğitimleri vermek - Uluslararası şarap üreticileri ve di…"
+}
+},
+{
+"id": "C10897",
+"kind": "CV",
+"title": "Solar Power Plant (PV) Project Director",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"context": {
+"ozet": "Dedicated Solar Power Plant (PV) Project Director with 7 years of demonstrated experience in Engineering & Technical Services. Skilled in ISO 9001 / IATF 16949 Standards, Cost Reduction & Efficiency and PLC & Automation Systems with a focus on project accuracy, process efficiency, and continuous improvement. A reliable team contributor committed t…",
+"beceriler": "ISO 9001 / IATF 16949 Standards, Cost Reduction & Efficiency, PLC & Automation Systems, Root Cause Analysis (8D / 5 Why), Production Planning & MRP, Finite Element Analysis (FEA / ANSYS)",
+"deneyim": [
+"Solar Power Plant (PV) Project Director (2023 - Present): Created precision CAD/CAM component designs and ran finite element simulations to validate mechanical strength …",
+"Solar Power Plant (PV) Project Director (2021 - 2023): Implemented Lean manufacturing practices and Kaizen events that eliminated production bottlenecks and raised overa…",
+"Solar Power Plant (PV) Project Director (2018 - 2021): Updated quality control test plans in compliance with ISO 9001 and IATF 16949 standards, successfully reducing def…"
+],
+"egitim": [
+"Istanbul University - Bachelor's Degree (Metallurgical & Materials Engineering) 2017 - 2021"
+]
+}
+},
+{
+"id": "C11030",
+"kind": "CV",
+"title": "Agricultural Biotechnology & Seed Breeding Scientist",
+"industry": "AGRICULTURE",
+"city": "İstanbul",
+"context": {
+"ozet": "Results-oriented Agricultural Biotechnology & Seed Breeding Scientist with 4+ years of enterprise experience and a solid educational foundation in Chemical Engineering. Proven track record in optimizing operational workflows, delivering scalable initiatives, and leveraging Production Planning & MRP, PLC & Automation Systems and Lean Manufacturing …",
+"beceriler": "Production Planning & MRP, PLC & Automation Systems, Lean Manufacturing & Kaizen, Technical Drawing & CAD (SolidWorks, AutoCAD), Root Cause Analysis (8D / 5 Why), Cost Reduction & Efficiency",
+"deneyim": [
+"Agricultural Biotechnology & Seed Breeding Scientist (2024 - Present): Conducted seed hybridization trials and genomic marker analysis, optimizing crop yield resilience …",
+"Intern (July 2021 - September 2021): Conducted preliminary market benchmark studies and competitive intelligence gathering to support strategic planning initiatives."
+],
+"egitim": [
+"Kadir Has University - Bachelor's Degree (Chemical Engineering) 2018 - 2022"
+]
+}
+},
+{
+"id": "C10133",
+"kind": "CV",
+"title": "Corporate Trainer",
+"industry": "EDUCATION",
+"city": "Ankara",
+"context": {
+"ozet": "Dynamic corporate trainer with expertise in leadership development and emotional intelligence. I leverage interactive facilitation techniques to ensure knowledge retention and practical application in the workplace.",
+"beceriler": "Facilitation, Blackboard, Needs Assessment, Public Speaking, Canva",
+"deneyim": [
+"Corporate Trainer (2018-07 - 2023-12): Facilitated workshops on conflict resolution, time management, and effective communication."
+],
+"egitim": [
+"Bilkent Üniversitesi - Yüksek Lisans (İşletme (MBA)) 2016-09 - 2018-06",
+"Hacettepe Üniversitesi - Lisans (Psikoloji) 2011-09 - 2015-06"
+]
+}
+},
+{
+"id": "J2690",
+"kind": "JOB",
+"title": "Organizasyonel Gelişim ve Norm Kadro Uzmanı",
+"industry": "HR",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Holding ve grup şirketlerimizin iş analizi, unvan standartları, rol bazlı yetkinlik haritaları ve norm kadro optimizasyonunu yönetecek uzman arıyoruz. Neler Yapacaksınız? - Şirketlerin iş süreçlerini inceleyerek katma değersiz adımları ve kadro şişkinliklerini analiz etmek - Yıllık norm kadro planlama modellerini iş hacmi göstergelerine (headcount driver) göre hesaplamak - Pozisyon bazlı iş aileleri ve kariyer patikalarını (Career Path) tasarlamak - Organizasyon şeması değişikliklerini Yönetim Kurulu onayına sunmak Nitelikler ve Teknik Yetkinl…"
+}
+},
+{
+"id": "J2915",
+"kind": "JOB",
+"title": "Kıdemli Dava ve Arabuluculuk Müdürü",
+"industry": "LEGAL",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Bankamız aleyhine açılan tüketici, ticaret ve iş hukuku davalarının tüm Türkiye genelindeki stratejilerini ve arabuluculuk süreçlerini sevk ve idare edecek müdürler arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Türkiye genelinde 10.000'i aşkın aktif dava dosyasının hukuki stratejisini ve dış sözleşmeli avukat ağını yönetmek - Zorunlu ve ihtiyari arabuluculuk müzakerelerinde bankanın anlaşma/anlaşmama kriterlerini belirlemek ve onaylamak - Emsal nitelikteki Yargıtay ve Anayasa Mahkemesi kararlarını analiz ederek savunma şablonlarını revize etme…"
+}
+},
+{
+"id": "C20001",
+"kind": "CV",
+"title": "Gemici",
+"industry": "MARITIME",
+"city": "Kocaeli",
+"context": {
+"ozet": "Gemi içi günlük operasyonların ve bakım-onarım faaliyetlerinin aksamadan yürümesi için fiziksel efor gerektiren işleri üstleniyorum. Kendimi denizcilik alanında geliştirmeye hevesli, amirlerimin talimatlarını hızla uygulayan bir profesyonelim.",
+"beceriler": "STCW Güvenlik, Güverte Ekipman Bakımı, Deniz Bağı",
+"deneyim": [
+"Gemici ([TARİH]): Yanaşma ve kalkış operasyonlarında baş-kıç manevralarında halat istifleme ve bağlama süreçlerinde aktif rol alındı."
+],
+"egitim": [
+"[OKUL] - Lise (Denizcilik / Gemi Yapımı) [TARİH]"
+]
+}
+},
+{
+"id": "C10524",
+"kind": "CV",
+"title": "Free Trade Zone Operations Manager",
+"industry": "SALES",
+"city": "Ankara",
+"context": {
+"ozet": "Results-oriented Free Trade Zone Operations Manager with 11+ years of enterprise experience and a solid educational foundation in Business Administration. Proven track record in optimizing operational workflows, delivering scalable initiatives, and leveraging International Freight & Shipping Logistics, Global Market Research & Client Sourcing and …",
+"beceriler": "International Freight & Shipping Logistics, Global Market Research & Client Sourcing, Inward Processing Regime (DIR) Tracking, Letters of Credit (L/C) Management, Incoterms 2020 Rules, Customs Regulations & Free Zones",
+"deneyim": [
+"Free Trade Zone Operations Manager (2024 - Present): Expanded international client portfolios and negotiated export contracts adhering to Letters of Credit (L/C) and glo…",
+"Free Trade Zone Operations Manager (2021 - 2024): Coordinated customs compliance, ATR/EUR.1 certificates, and freight shipping documentation, preventing clearance delays…",
+"Intern (July 2018 - September 2018): Assisted senior project leads in tracking departmental milestones, documenting process workflows, and organizing technical meeting m…"
+],
+"egitim": [
+"Ankara University - Bachelor's Degree (Business Administration) 2015 - 2019"
+]
+}
+},
+{
+"id": "C20028",
+"kind": "CV",
+"title": "Hostes / Kabin Memuru",
+"industry": "AVIATION",
+"city": "Trabzon",
+"context": {
+"ozet": "Vardiyalı ve yoğun uçuş temposuna yüksek enerjiyle uyum sağlayan, ekip çalışmasına değer veren profesyonel bir kabin görevlisiyim. İlk yardım ve güvenlik konularındaki eğitimlerim sayesinde uçuş esnasında yaşanabilecek her türlü duruma hazırlıklıyım.",
+"beceriler": "Acil Tahliye Prosedürleri, İkram Servisi Protokolleri, İlk Yardım ve CPR",
+"deneyim": [
+"Stajyer ([TARİH]): Mock-up kabin simülatöründe acil durum kapıları, slide açma testleri ve yangın müdahale eğitimlerini başarıyla tamamladım. Uçuş öncesi brifinglerde ac…",
+"Hostes / Kabin Memuru ([TARİH]): Dar ve geniş gövdeli yolcu uçaklarında emniyet demoları sunumu, kalkış-iniş öncesi kabin güvenlik kontrolleri ve ikram trolley servisini…",
+"Hostes / Kabin Memuru ([TARİH]): Uluslararası uzun menzilli uçuşlarda kabin içi ekibi koordine ettim, UM ve transit yolcu evrak prosedürlerini eksiksiz takip ettim. Firs…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Havacılık Yönetimi) [TARİH]"
+]
+}
+},
+{
+"id": "C20221",
+"kind": "CV",
+"title": "Hastane Portörü / Sedye Görevlisi",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Sağlık kuruluşlarında hastaların servisler, ameliyathane ve görüntüleme merkezleri arasındaki transferini güvenli ve konforlu bir şekilde gerçekleştiren hastane portörüyüm. Sedye ve tekerlekli sandalye kullanımı konusunda tecrübeliyim, hastaları sarsmadan ve onlara zarar vermeden taşıma tekniklerine hakimim. Acil servis yoğunluğunda hızlı ve prati…",
+"beceriler": "Sedye ve Tekerlekli Sandalye Nakliyesi, Hasta Kabulde Yönlendirme, Klinik İçi Güzergah Bilgisi",
+"deneyim": [
+"Hastane Portörü / Sedye Görevlisi ([TARİH]): Ameliyathaneye gidecek ve operasyondan çıkan hastaların roller board ve kaydırma çarşafı kullanarak yatak ile sedye arasında…"
+],
+"egitim": [
+"[OKUL] - Ortaokul () [TARİH]"
+]
+}
+},
+{
+"id": "C20510",
+"kind": "CV",
+"title": "CNC Lazer Kesim Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Malatya",
+"context": {
+"ozet": "Talaşlı imalat sektöründe 1 yıllık deneyimim bulunuyor. CNC Lazer Kesim Operatörü olarak parça bağlama, sıfırlama, takım ofsetleri girme ve teknik resme uygun hassas işleme yapmaktayım. Kumpas ve mikrometre kullanımında yetkinim.",
+"beceriler": "Fiber Lazer Kesim Parametreleri, CypCut / Nesting Programlama, Teknik Resim Okuma, Nozul ve Optik Mercek Kalibrasyonu",
+"deneyim": [
+"CNC Lazer Kesim Operatörü ([TARİH]): [ŞİRKET] sac işleme tesisinde fiber lazer tezgahında DKP, paslanmaz ve alüminyum sacların teknik resme göre kesim programlarını yükl…"
+],
+"egitim": [
+"[OKUL] - Lise (Makine ve Tasarım Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J1868",
+"kind": "JOB",
+"title": "CMM & Kalite Laboratuvarı Yöneticisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İzmir",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Soğuk dövme ve talaşlı imalat bağlantı elemanları tesislerimizde metroloji, metalografi ve mekanik test laboratuvarlarını sevk ve idare edecek Kıdemli Laboratuvar Yöneticisi arıyoruz. İş Tanımı ve Temel Sorumluluklar: - CMM, optik ölçüm cihazları, profil projeksiyon ve yüzey pürüzlülük cihazlarının operasyonel planlamasını yapmak - ISO 17025 laboratuvar akreditasyonu gerekliliklerini tesis etmek ve denetimlerini başarıyla tamamlamak - Sertlik ölçüm, çekme-kopma testleri ve spektral analiz laboratuvar ekiplerinin çalışmalarını denetlemek - Tüm …"
+}
+},
+{
+"id": "C11133",
+"kind": "CV",
+"title": "Güvenlik Orkestrasyonu ve Otomasyonu (SOAR) Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Tekrarlayan güvenlik alarmlarını ve olay müdahale süreçlerini Cortex XSOAR, Splunk SOAR veya Swimlane kullanarak playbook'lar ile otomatikleştiren siber güvenlik otomasyon uzmanıyım. API entegrasyonları ve Python geliştirmede yetkinim.",
+"beceriler": "SOAR (Cortex XSOAR / Splunk SOAR), Python for Security, Playbook Design & Automation, REST API Security Integration, Firewall & EDR Automation, SOC Workflow Optimization",
+"deneyim": [
+"Güvenlik Orkestrasyonu ve Otomasyonu (SOAR) Mühendisi ([TARİH]): Oltalama (phishing) e-posta inceleme sürecini Cortex XSOAR playbook'u ile tamamen otomatikleştirerek ana…",
+"Siber Güvenlik Stajyeri ([TARİH]): Kurum içi ağda Nessus zafiyet tarama aracının çalıştırılmasına eşlik ettim, elde edilen açık port ve zafiyet raporlarını sınıflandırdı…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C10134",
+"kind": "CV",
+"title": "Yüzme Antrenörü",
+"industry": "SPORTS",
+"city": "Antalya",
+"context": {
+"ozet": "Suyla barışık nesiller yetiştirmeyi amaçlayan, hem çocuklarla hem de yetişkinlerle çalışma konusunda deneyimli bir yüzme antrenörüyüm. Sporcuların teknik kapasitelerini artırırken aynı zamanda su güvenliğini en üst planda tutarım.",
+"beceriler": "Stil Eğitimi, Cankurtaranlık, Performans Takibi, Çocuk Psikolojisi",
+"deneyim": [
+"Yüzme Antrenörü (2019-06 - Devam ediyor): Temel yüzme eğitimi ve altyapı takımı yarışlara hazırlık süreçleri."
+],
+"egitim": [
+"Akdeniz Üniversitesi - Ön Lisans (Spor Yönetimi) 2016-09 - 2018-06"
+]
+}
+},
+{
+"id": "J2829",
+"kind": "JOB",
+"title": "Kıdemli Analitik Metot Validasyon Uzmanı",
+"industry": "SCIENCE_RND",
+"city": "Kocaeli",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Analitik Ar-Ge laboratuvarlarımızda kromatografi metot geliştirme ve uluslararası validasyon projelerinin teknik liderliğini üstlenecek kıdemli uzmanlar arıyoruz. Pozisyonun Temel Görevleri: - Zorlayıcı bozundurma (stress testing / forced degradation) çalışmalarını planlamak ve kütle dengesi (mass balance) analizlerini yapmak - Bilinmeyen safsızlıkların izolasyonu ve LC-HRMS / NMR ile yapı tayini süreçlerini yönlendirmek - Metot validasyon protokol ve raporlarını ICH, FDA ve EMA regülasyonlarına göre onaylamak - Sağlık otoritelerinden gelen an…"
+}
+},
+{
+"id": "C20229",
+"kind": "CV",
+"title": "Morg Görevlisi / Gasilhane Hizmetlisi",
+"industry": "HEALTHCARE",
+"city": "Ankara",
+"context": {
+"ozet": "Cenaze hizmetleri ve gasilhane birimlerinde 2 yıllık profesyonel deneyime sahibim. Morg Görevlisi / Gasilhane Hizmetlisi olarak vefat eden kişilerin morga kabulü, sıhhi usullere uygun yıkanması, kefenlenmesi ve defin belgeleri takibi süreçlerini saygı ve ketumiyetle yürütürüm.",
+"beceriler": "Hijyen Kuralları, Cenaze Hazırlama, Resmi Evrak Takibi",
+"deneyim": [
+"Morg Görevlisi / Gasilhane Hizmetlisi ([TARİH]): Hastanede vefat eden kişilerin servislerden morga kabulünü kimlik bilekliği ve ölüm tutanağı kontrolleriyle sağlayarak s…"
+],
+"egitim": [
+"[OKUL] - Lise (Sağlık Bakım Teknisyenliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11172",
+"kind": "CV",
+"title": "Kenar Cihaz Yapay Zeka (Edge AI) Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Trabzon",
+"context": {
+"ozet": "NVIDIA Jetson, Raspberry Pi ve mobil cihazlar gibi kısıtlı donanımlarda düşük güç tüketimiyle çalışan yapay zeka modelleri dağıtan Edge AI mühendisiyim. ONNX, TensorRT ve TFLite model optimizasyonlarında tecrübeliyim.",
+"beceriler": "Edge AI Deployment, NVIDIA TensorRT, ONNX Runtime, TensorFlow Lite, NVIDIA Jetson / C++, Python, Embedded Vision",
+"deneyim": [
+"Kenar Cihaz Yapay Zeka (Edge AI) Mühendisi ([TARİH]): Akıllı tarım robotu üzerinde yabani ot tespiti yapan YOLO modelini TensorRT ile optimize ederek Jetson Nano üzerind…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Elektrik-Elektronik Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C10735",
+"kind": "CV",
+"title": "Medya İletişim Sözcüsü (Spokesperson)",
+"industry": "MARKETING_MEDIA",
+"city": "Bursa",
+"context": {
+"ozet": "Medya İletişim Sözcüsü (Spokesperson) olarak 3 yıllık profesyonel deneyime sahibim. Metin Yazarlığı & Hikaye Anlatımı, Meta Ads & Google Ads Yönetimi ve Dijital Pazarlama & Sosyal Medya Yönetimi alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte ol…",
+"beceriler": "Metin Yazarlığı & Hikaye Anlatımı, Meta Ads & Google Ads Yönetimi, Dijital Pazarlama & Sosyal Medya Yönetimi, Google Analytics 4 & Tag Manager, E-Mail Pazarlama & CRM, SEO & İçerik Stratejisi",
+"deneyim": [
+"Medya İletişim Sözcüsü (Spokesperson) (2024 - Günümüz): A/B testleri ve dönüşüm oranı optimizasyonu (CRO) çalışmalarıyla açılış sayfalarındaki form doldurma ve satış dön…",
+"Medya İletişim Sözcüsü (Spokesperson) (2022 - 2024): Google Analytics ve veri görselleştirme araçlarıyla kampanya performans metriklerini analiz ederek yönetim kurulu ra…",
+"Stajyer (Haziran 2022 - Temmuz 2022): Proje toplantı tutanaklarının tutulması, departmanlar arası veri akışının takibi ve kurumsal arşiv sisteminin güncellenmesi görevle…"
+],
+"egitim": [
+"Ondokuz Mayıs Üniversitesi - Yüksek Lisans (Yeni Medya ve Yönetim) 2023 - 2025",
+"Ondokuz Mayıs Üniversitesi - Lisans (Yeni Medya) 2019 - 2023"
+]
+}
+},
+{
+"id": "J1728",
+"kind": "JOB",
+"title": "Kıdemli Katalizör ve Proses Kimyageri",
+"industry": "SCIENCE_RND",
+"city": "Kocaeli",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Rafineri hidro-işleme ve biyo-yakıt dönüşüm reaktörlerinde kullanılan heterojen katalizörlerin sentezini ve pilot reaktör testlerini yönetecek kıdemli araştırmacı arıyoruz. Neler Yapacaksınız? - Zeolit, alümina ve metal oksit destekli katalizörlerin hidrotermal sentezini ve modifikasyonunu yapmak - Pilot ölçekli sabit yataklı reaktörlerde (Trickle-bed) katalizör aktivite ve deaktivasyon testlerini yürütmek - Fizikokimyasal karakterizasyon verilerini (NH3-TPD, N2 adsorpsiyon, H2-TPR) yorumlamak - Katalizör ömrünü uzatan rejenerasyon protokoller…"
+}
+},
+{
+"id": "J1053",
+"kind": "JOB",
+"title": "Fast Food Hazırlık Elemanı",
+"industry": "CHEF_HORECA",
+"city": "İstanbul",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ekibimizi güçlendirmek amacıyla aramıza katılacak çalışma arkadaşları arıyoruz: 'Fast Food Hazırlık Elemanı' kadromuza katılacaktır. Görev Kapsamı: Hızlı servis restoranımızda burger hazırlık, fritöz ve istasyon düzenini sağlayacak dinamik çalışma arkadaşları. Aday Kriterleri: - MEB onaylı Aşçılık / Ustalık Belgesi veya Gastronomi diplomasına sahip - Mutfak ekibiyle koordineli ve hızlı çalışabilen - Mutfak ekipmanlarını (bıçaklar, ocak, fırın, ızgara) doğru ve güvenli kullanan - Kişisel bakımına, önlük ve şapka temizliğine özen gösteren - Proj…"
+}
+},
+{
+"id": "J1926",
+"kind": "JOB",
+"title": "CNC Freze ve Yatay İşleme Ayarcısı (Doosan & Makino)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Otomotiv direksiyon kutusu ve hidrolik valf blokları talaşlı imalat hatlarımızda çok eksenli yatay ve dikey frezelerin ayarlarını yapacak Kıdemli Ayarcı arıyoruz. Pozisyonun Temel Görevleri: - Yatay ve dikey CNC frezelerin fikstür montajlarını ve hidrolik klemp basınç ayarlarını yapmak - Fanuc ve Professional 5/6 kontrol panellerinde takım ofsetlerini yüklemek ve prob ile takım boylarını ölçmek - Model değişim sürelerini (SMED) kısaltacak takım dizilim ve sıfırlama standartlarını oluşturmak - Seri imalat esnasında oluşan ölçü sapmalarına anınd…"
+}
+},
+{
+"id": "C10075",
+"kind": "CV",
+"title": "Eczacı",
+"industry": "HEALTHCARE",
+"city": "İzmir",
+"context": {
+"ozet": "Halk sağlığını merkeze alan, hastaların ilaç tedavilerini en verimli şekilde sürdürmeleri için danışmanlık yapan bir eczacıyım. Majistral ilaç yapımında özel bir ilgim ve tecrübem bulunuyor. Her gün yeni bir şeyler öğrenmeyi seviyorum.",
+"beceriler": "İlaç Takip Sistemi (İTS), Majistral Hazırlama, Fitoterapi, Medula",
+"deneyim": [
+"Mesul Müdür Eczacı (2018-2024): Eczanenin tüm operasyonel ve yasal süreçlerini yönettim."
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Eczacılık) 2013-2018"
+]
+}
+},
+{
+"id": "C11279",
+"kind": "CV",
+"title": "Gıda Güvenliği ve Kalite Güvence Mühendisi (HACCP / ISO 22000)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Manisa",
+"context": {
+"ozet": "Süt ürünleri, unlu mamuller ve ambalajlı gıda tesislerinde mikrobiyolojik laboratuvar testleri, alerjen yönetimi, izlenebilirlik sistemleri ve ISO 22000/FSSC 22000 denetimlerinde uzmanım.",
+"beceriler": "FSSC 22000 / ISO 22000, HACCP Planı & Tehlike Analizi, Alerjen Yönetimi & Çapraz Bulaşma, Gıda Mikrobiyolojisi (Patojen Testleri), İzlenebilirlik & Geri Çağırma Simülasyonu, Duyusal Analiz Paneli",
+"deneyim": [
+"Gıda Güvenliği ve Kalite Güvence Mühendisi (HACCP / ISO 22000) ([TARİH]): Bisküvi ve çikolata fabrikasında FSSC 22000 V5.1 sistemini sıfırdan kurup belgelendirdim; 4 saa…",
+"Kalite Güvence Stajyeri ([TARİH]): ISO 9001 ve IATF 16949 denetim hazırlıkları sürecinde kalite el kitabı prosedürlerinin arşivlenmesine ve iç tetkik soru listelerinin d…"
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Gıda Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "J0535",
+"kind": "JOB",
+"title": ".NET Core / C# Geliştirici",
+"industry": "IT_SOFTWARE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Hepsiburada Tech bünyesinde, [şehir] ofisimizde veya uzaktan (remote/hybrid) çalışma modelinde görev alacak '.NET Core / C# Geliştirici' aramaktayız. Rol ve Şirket Hakkında: Hepsiburada Tech; yüksek trafikli e-ticaret altyapısını mikroservis mimarisi, dağıtık sistemler ve modern bulut teknolojileriyle yöneten Türkiye'nin lider teknoloji ekiplerindendir. Görev ve Sorumluluklar: - .NET 8 / C# kullanarak yüksek performanslı, ölçeklenebilir ve dayanıklı RESTful mikroservislerin tasarlanması ve geliştirilmesi, - Entity Framework Core ve Dapper ile …"
+}
+},
+{
+"id": "J1635",
+"kind": "JOB",
+"title": "Junior DevSecOps Mühendisi (SAST / DAST Entegrasyonu)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "ENTRY",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Yazılım geliştirme boru hatlarına güvenlik test araçlarını entegre edecek, statik ve dinamik kod analizi sonuçlarını takip edecek junior DevSecOps mühendisi arıyoruz. İş Tanımı ve Temel Sorumluluklar: - GitLab CI ve GitHub Actions hatlarına SonarQube, Snyk ve OWASP ZAP araçlarını entegre etmek - Geliştiricilerin kod tarama sonuçlarını incelemesine ve yanlış pozitifleri (false-positive) elemesine destek olmak - Açık kaynak kütüphane bağımlılıklarını (SCA) lisans ve zafiyet yönünden izlemek - Güvenlik kapılarını (security gates) kurallara uygun …"
+}
+},
+{
+"id": "J2529",
+"kind": "JOB",
+"title": "Sanat Yönetmeni (Art Director)",
+"industry": "MARKETING_MEDIA",
+"city": "İzmir",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Vestel tüketici elektroniği ve beyaz eşya kampanyalarının görsel dilini oluşturacak, reklam filmi ve fotoğraf prodüksiyonlarında sanat yönetimi yapacak uzman arıyoruz. Pozisyonun Temel Görevleri: - Tüm pazarlama kanalları için tutarlı, modern ve etkileyici bir görsel konsept ve tasarım dili geliştirmek - Reklam filmi çekimleri ve fotoğraf prodüksiyonlarında yönetmen ve set ekibiyle görsel konsepti yönetmek - Dijital kampanya, açık hava (OOH), mağaza içi görsel ve katalog tasarımlarını denetlemek - Tasarım ekibindeki grafiker ve 3D görselleştir…"
+}
+},
+{
+"id": "C11423",
+"kind": "CV",
+"title": "Enstrümantasyon ve Proses Kontrol Mühendisi (HART / Fieldbus)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"context": {
+"ozet": "Rafineri, petrokimya ve enerji santrallerinde basınç, sıcaklık, debi ve seviye transmitterlerinin seçimi, SIL seviyeli emniyet enstrümantasyonu ve kalibrasyon yönetiminde uzmanım.",
+"beceriler": "HART Protokolü, Foundation Fieldbus, Proses Enstrümantasyonu, Fonksiyonel Güvenlik (SIL 2 / SIL 3 - IEC 61511), Kontrol Vanası Boyutlandırma, Loop Şemaları",
+"deneyim": [
+"Enstrümantasyon ve Proses Kontrol Mühendisi (HART / Fieldbus) ([TARİH]): Doğalgaz çevrim santralinde 250 adet proses enstrümanının loop bağlantılarını, HART iletişim kon…"
+],
+"egitim": [
+"İskenderun Teknik Üniversitesi - Lisans (Elektrik-Elektronik Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "C10389",
+"kind": "CV",
+"title": "Müşavir",
+"industry": "FINANCE_ACCOUNTING",
+"city": "İstanbul",
+"context": {
+"ozet": "As an in-house legal counsel, I excel at aligning legal risk management with commercial objectives. My focus is on ensuring corporate compliance without stifling innovation or slowing down business velocity.",
+"beceriler": "Corporate Governance, Compliance, Contract Law, Risk Management, UYAP",
+"deneyim": [
+"Legal Counsel (2018-09 - Present): Oversee corporate governance, draft software licensing agreements, and manage relationships with external law firms."
+],
+"egitim": [
+"Bilkent Üniversitesi - Lisans (Hukuk) 2013-09 - 2017-06"
+]
+}
+},
+{
+"id": "C11720",
+"kind": "CV",
+"title": "Kurumsal Finansman Analisti (Finansal Modelleme / DCF / Emsal Çarpanlar)",
+"industry": "FINANCE_ACCOUNTING",
+"city": "İstanbul",
+"context": {
+"ozet": "Yatırım bankacılığı ve kurumsal danışmanlıkta şirket değerleme modelleri (DCF, DDM, Trading Comps, Precedent Transactions), finansal fizibilite ve bilgi notu (Information Memorandum) hazırlığında uzmanım.",
+"beceriler": "Dinamik Finansal Modelleme (Excel), İndirgenmiş Nakit Akımları (DCF Analizi), Çarpan Analizleri (EV/EBITDA, P/E), Ağırlıklı Ortalama Sermaye Maliyeti (WACC), Bilgi Notu & Teaser Hazırlığı, Sektör & Pazar Araştırması",
+"deneyim": [
+"Kurumsal Finansman Analisti (Finansal Modelleme / DCF / Emsal Çarpanlar) ([TARİH]): 12 farklı sanayi ve teknoloji şirketinin şirket değerleme modellerini 5 yıllık serbes…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (İktisat) 2015 - 2019"
+]
+}
+},
+{
+"id": "J0438",
+"kind": "JOB",
+"title": "Kazan Dairesi ve Buhar Kazanı Elemanı",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren Öz [şehir] Saha ve Lojistik Hizmetleri ekibimize değer katacak dinamik 'Kazan Dairesi ve Buhar Kazanı Elemanı' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Sanayi tesisinde buhar kazanı, kızgın yağ kazanı ve basınçlı sıcak su sistemlerinin işletilmesi. - Kazan suyu yumuşatma ünitesi, degazör ve blöf sistemlerinin kimyasal kontrollerinin yapılması. - Kazan brülör alev boyu, gaz basıncı, buhar basıncı ve sıcaklık göstergelerinin takibi. - Emniyet ventilleri, su seviye elektrotları ve alarm…"
+}
+},
+{
+"id": "C10936",
+"kind": "CV",
+"title": "Karbon Ticareti ve Emisyon İzni Portföy Yöneticisi",
+"industry": "ENV_ESG",
+"city": "İstanbul",
+"context": {
+"ozet": "İş Sağlığı ve Güvenliği alanındaki güçlü akademik temelim ve 10 yılı aşkın sektör deneyimimle, Karbon Ticareti ve Emisyon İzni Portföy Yöneticisi rolünde uçtan uca başarılı projeler yürütmekteyim. Yenilenebilir Enerji (Güneş / Rüzgar) Fizibilite, Sürdürülebilirlik Raporlaması (GRI Standartları) ve Atık Yönetimi & Sıfır Atık Projeleri başta olmak ü…",
+"beceriler": "Yenilenebilir Enerji (Güneş / Rüzgar) Fizibilite, Sürdürülebilirlik Raporlaması (GRI Standartları), Atık Yönetimi & Sıfır Atık Projeleri, İSG Risk Değerlendirmesi & Acil Eylem Planı, Kurumsal Karbon Ayak İzi Hesaplama (…",
+"deneyim": [
+"Karbon Ticareti ve Emisyon İzni Portföy Yöneticisi (2024 - Günümüz): Yenilenebilir enerji fizibilite çalışmaları yürüterek tesislerin enerji verimliliği ve atık yönetimi…",
+"Karbon Ticareti ve Emisyon İzni Portföy Yöneticisi (2022 - 2024): Yenilenebilir enerji fizibilite çalışmaları yürüterek tesislerin enerji verimliliği ve atık yönetimi li…",
+"Stajyer (Haziran 2018 - Temmuz 2018): Departman bünyesinde haftalık operasyonel veri setlerinin derlenmesi ve analistlerin hazırladığı teknik raporların ön inceleme süre…"
+],
+"egitim": [
+"Yeditepe Üniversitesi - Lisans (İş Sağlığı ve Güvenliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C20029",
+"kind": "CV",
+"title": "Hostes / Kabin Memuru",
+"industry": "AVIATION",
+"city": "İzmir",
+"context": {
+"ozet": "Yolcuların konforlu ve güvenli bir seyahat geçirmesi için uçak içi ikram ve güvenlik brifinglerini titizlikle yürüten, dış görünümüne özen gösteren bir hostesim. Farklı kültürlerden gelen yolcularla etkili iletişim kurarak havayolunun marka değerini yükseltmeye odaklanıyorum.",
+"beceriler": "Uçuş Güvenlik Brifingleri, İkram Servisi Protokolleri, İlk Yardım ve CPR",
+"deneyim": [
+"Hostes / Kabin Memuru ([TARİH]): Tarifeli iç hat uçuşlarında yolcuların uçağa kabulü, el bagajlarının baş üstü dolaplarına dengeli yerleşimi ve uçak kapılarının kapatılm…"
+],
+"egitim": [
+"[OKUL] - Lise (Turizm / Havacılık) [TARİH]"
+]
+}
+},
+{
+"id": "J0814",
+"kind": "JOB",
+"title": "Forklift Operatörü",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] (Merkez & Şehir İçi) yerleşkemizde tam zamanlı görev alacak Forklift Operatörü aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde forklift operatörü operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması. - Geniş personel servis ağı."
+}
+},
+{
+"id": "C20196",
+"kind": "CV",
+"title": "Bina Görevlisi / Kapıcı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Mersin",
+"context": {
+"ozet": "Apartman ve sitelerin günlük temizlik, çöp toplama ve genel bakım işlerini üstlenen, güvenilir ve iletişimi kuvvetli bir bina görevlisiyim. Sakinlerin taleplerini güler yüzle karşılar, binanın ortak kullanım alanlarının düzenli ve hijyenik kalmasını sağlarım. Kalorifer kazanlarının yakılması veya merkezi ısıtma sistemlerinin periyodik kontrolleri …",
+"beceriler": "Çöp Toplama, Bina Giriş Yönetimi, Site Bakımı, Kargo Teslim Alma",
+"deneyim": [],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Beden Eğitimi) [TARİH]"
+]
+}
+},
+{
+"id": "C20081",
+"kind": "CV",
+"title": "Pres Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Hatay",
+"context": {
+"ozet": "Ağır sanayi ortamında gürültü ve tempoya uyum sağlayabilen, parça ölçü toleranslarını kumpas ile kontrol ederek hatalı üretimi engelleyen sorumlu bir makine operatörüyüm. Periyodik kalıp temizliği ve yağlama işlemlerini titizlikle takip ederim.",
+"beceriler": "Kalıp Bağlama ve Sökme, Metal Şekillendirme, Ölçüm Aletleri Kullanımı, Hidrolik/Pnömatik Pres Kullanımı",
+"deneyim": [
+"Pres Operatörü ([TARİH]): Pres Operatörü olarak çeşitli üretim ve imalat projelerinde aktif görev aldım. İş güvenliği kuralları çerçevesinde kalite standartlarını sağlay…"
+],
+"egitim": [
+"[OKUL] - Lise (Makine Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0563",
+"kind": "JOB",
+"title": "Akıllı Şehir Sistemleri Stratejisti",
+"industry": "CONSTRUCTION",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Türk Telekom bünyesinde, [şehir] ofisimizde büyükşehir belediyeleri ve kamu kurumları için akıllı ulaşım, akıllı enerji ve IoT şehir altyapılarını kurgulayacak 'Akıllı Şehir Sistemleri Stratejisti' aramaktayız. Rol ve Şirket Hakkında: Türk Telekom Akıllı Şehirler Grubu; Türkiye'nin dijital dönüşüm omurgası üzerinden akıllı kavşaklar, çevre izleme sensörleri ve büyük veri şehir yönetim platformları geliştiren lider teknoloji ekibidir. Görev ve Sorumluluklar: - Akıllı Ulaşım Sistemleri (AUS), dinamik sinyalizasyon, akıllı otopark ve toplu taşıma…"
+}
+},
+{
+"id": "J1954",
+"kind": "JOB",
+"title": "CNC Boru Büküm Operatörü (Mandrenli & Çok Katlı)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Otomotiv ayna kolları ve yapısal boru bileşenlerinin mandrenli CNC boru büküm tezgahlarında (Crippa, BLM) bükümünü yapacak operatör arıyoruz. Görev ve Sorumluluklar: - CNC boru büküm tezgahına büküm programını yüklemek ve eksen koordinatlarını girmek - Boru içine mandren milini yerleştirerek büküm bölgesinde et incelmesi ve ovallik bozulmalarını önlemek - Kaydırıcı kalıp, baskı kalıbı ve sıkma çenelerinin sıkma torklarını ayarlamak - Bükülen boruların açı ve mesafelerini 3D boru kontrol fikstürlerinde doğrulamak Aranan Nitelikler: - Meslek Lis…"
+}
+},
+{
+"id": "C20594",
+"kind": "CV",
+"title": "Maden Tahkimat Ustası",
+"industry": "CONSTRUCTION",
+"city": "Kahramanmaraş",
+"context": {
+"ozet": "İnşaat ve şantiye sektöründe 1 yıllık deneyime sahibim. Maden Tahkimat Ustası olarak sapanlama, yük kaldırma ve konumlandırma işlemlerini yüksek iş güvenliği standartlarında gerçekleştiririm.",
+"beceriler": "Çelik Bağ (TH Profil) Kurulumu, Kaya Saplaması ve Hasır Montajı, Püskürtme Beton (Shotcrete) Uygulaması, Tavan Basıncı ve Deformasyon Takibi",
+"deneyim": [
+"Maden Tahkimat Ustası ([TARİH]): [ŞİRKET] yeraltı ocağında tavan göçüklerini engellemek için çelik bağların kurulumunu, kamalama ve hidrolik direk montajlarını eksiksiz …"
+],
+"egitim": [
+"[OKUL] - Lise (Maden Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C10502",
+"kind": "CV",
+"title": "Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanı",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"context": {
+"ozet": "Tıp Fakültesi alanındaki güçlü akademik temelim ve 2 yılı aşkın sektör deneyimimle, Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanı rolünde uçtan uca başarılı projeler yürütmekteyim. Klinik Araştırma ve Faz Çalışmaları, Farmakovijilans Raporlaması ve İyi Klinik Uygulamaları (GCP) & GMP Standartları başta olmak üzere modern araç ve metodoloj…",
+"beceriler": "Klinik Araştırma ve Faz Çalışmaları, Farmakovijilans Raporlaması, İyi Klinik Uygulamaları (GCP) & GMP Standartları, İlaç Ruhsatlandırma & Mevzuat Takibi, Laboratuvar Analiz Cihazları (HPLC, GC-MS), Klinik Teşhis ve Teda…",
+"deneyim": [
+"Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanı (2023 - Günümüz): Farmakovijilans ve rasyonel ilaç kullanım ilkeleri doğrultusunda advers etki bildirimlerini ve k…",
+"Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanı (2021 - 2023): Farmakovijilans ve rasyonel ilaç kullanım ilkeleri doğrultusunda advers etki bildirimlerini ve klin…",
+"Stajyer (Haziran 2022 - Temmuz 2022): Proje toplantı tutanaklarının tutulması, departmanlar arası veri akışının takibi ve kurumsal arşiv sisteminin güncellenmesi görevle…"
+],
+"egitim": [
+"İstanbul Bilgi Üniversitesi - Lisans (Tıp Fakültesi) 2019 - 2023"
+]
+}
+},
+{
+"id": "C21003",
+"kind": "CV",
+"title": "İş Makineleri Bakım ve Onarım Stajyeri (MYO)",
+"industry": "CONSTRUCTION",
+"city": "Kocaeli",
+"context": {
+"ozet": "Hereke Asım Kocabıyık MYO İş Makineleri 2. sınıf öğrencisiyim. Ağır iş makinelerinin dizel motorları, hidrolik sistemleri ve periyodik bakım süreçlerine hakimim.",
+"beceriler": "Dizel Motor Bakımı, Hidrolik Devreler, El Aletleri, Periyodik Bakım, İSG",
+"deneyim": [
+"Atölye Öğrencisi (2023): Dizel motor söküm ve rektifiye çalışmaları."
+],
+"egitim": [
+"Kocaeli Üniversitesi Hereke Asım Kocabıyık MYO - Ön Lisans (İş Makineleri) 2022-2024"
+]
+}
+},
+{
+"id": "C20674",
+"kind": "CV",
+"title": "Tozaltı (SAW) Kaynak Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Konya",
+"context": {
+"ozet": "Rüzgar türbini kulesi, silindirik basınçlı kap ve köprü kirişlerinin imalatında tozaltı kaynak kolon-bom sistemlerini yönetiyorum. Fluks tozu geri kazanımı, kaynak teli sürme hızı ve voltaj parametrelerini otomatik hatta hassas ayarlarım.",
+"beceriler": "Tozaltı Kaynağı (SAW), Kolon-Bom Kaynak Sistemi, Çevirici (Rotatör) Ayarı, Fluks Tozu Besleme ve Geri Kazanım, Boyuna ve Dairesel Dikiş Kaynağı",
+"deneyim": [
+"Tozaltı (SAW) Kaynak Operatörü ([TARİH]): 30 mm et kalınlığındaki rüzgar kulesi sac segmanlarının çevirici üzerinde iç ve dış dairesel tozaltı kaynakları tamamlandı. Toz…"
+],
+"egitim": [
+"Balıkesir Bandırma Mesleki ve Teknik Anadolu Lisesi - Lise (Makine Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C11743",
+"kind": "CV",
+"title": "Vakıf, Dernek ve Sivil Toplum Kuruluşları Vergi ve Mali Denetçisi",
+"industry": "FINANCE_ACCOUNTING",
+"city": "İstanbul",
+"context": {
+"ozet": "Kamu yararına çalışan dernekler, vergi muafiyeti tanınan vakıflar, uluslararası hibe fonları (AB / BM) bütçe denetimi ve Vakıflar Genel Müdürlüğü teftiş süreçlerinde uzmanım.",
+"beceriler": "Vakıflar ve Dernekler Mevzuatı, Vergi Muafiyeti Tanınan Vakıf Şartları, AB & BM Hibe Projeleri Mali Denetimi, İktisadi İşletme Kurumlar Vergisi & KDV, Vakıf İktisadi Teşekkülü Raporlama, İçişleri & Vakıflar GM Teftiş Ha…",
+"deneyim": [
+"Vakıf, Dernek ve Sivil Toplum Kuruluşları Vergi ve Mali Denetçisi ([TARİH]): Büyük bir eğitim vakfının 150 milyon TL bütçeli faaliyetlerini ve iktisadi işletmelerini Vak…"
+],
+"egitim": [
+"Ankara Üniversitesi - Lisans (Siyasal Bilgiler / İktisat) 2014 - 2018"
+]
+}
+},
+{
+"id": "C20467",
+"kind": "CV",
+"title": "Usta Gemici",
+"industry": "MARITIME",
+"city": "Trabzon",
+"context": {
+"ozet": "Ticari gemilerde ve yatlarda 2 yıldır Usta Gemici olarak görev yapmaktayım. Güverte temizliği, raspa boya işleri, seyir vardiyası ve gözcülük nöbetlerinde yetkinim. STCW deniz emniyeti kurallarına tam hakim, uzun süreli seyir koşullarına dayanıklı bir gemi adamıyım.",
+"beceriler": "Seyir Vardiyası ve Gözcülük, Güverte Raspa ve Boya İşleri, Pürmeçe ve Halat Manevraları, Demirleme ve Irgat Kullanımı",
+"deneyim": [
+"Usta Gemici ([TARİH]): [ŞİRKET] filosundaki kuru yük gemisinde köprüüstü seyir vardiyası ve dümen tutma görevlerini icra ettim, liman yanaşma-kalkma manevralarında baş/k…",
+"Usta Gemici ([TARİH]): [ŞİRKET] gemisinde güverte yıkama, ambar temizliği ve deniz bağı bağlama işlerinde çalıştım. Seyir esnasında vardiyacı zabitin talimatları doğrult…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Deniz Ulaştırma ve İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "J1273",
+"kind": "JOB",
+"title": "Kimlik ve Erişim Yönetimi (IAM) Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Softtech Bilgi Güvenliği Direktörlüğünde, [şehir] kampüsümüzde veya hibrit modelde görev alacak 'IAM Uzmanı' aramaktayız. Rol ve Şirket Hakkında: Softtech; finansal sistemlerde kullanıcı, servis ve sistem kimliklerinin en yüksek güvenlik ve denetim standartlarında yönetilmesini sağlar. Görev ve Sorumluluklar: - Kurumsal Kimlik ve Erişim Yönetimi (IAM/IGA) platformlarının (SailPoint, Keycloak, Ping Identity) kurulum, entegrasyon ve yönetimi, - Ayrıcalıklı Hesap Yönetimi (PAM - CyberArk vb.) sistemlerinin yapılandırılması ve yönetici erişimlerin…"
+}
+},
+{
+"id": "J2038",
+"kind": "JOB",
+"title": "Otomotiv Cam Montaj ve Robotik Tutkallama Operatörü",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Araç ön ve arka camlarının robotik poliüretan tutkallama hattında hazırlanarak gövdeye montajını yapacak montaj operatörleri arıyoruz. Görev ve Sorumluluklar: - Oto camlarının kenar serigrafili yüzeylerine primer temizleyici ve aktivatör solüsyon uygulamak - Tutkal robotunun cam çevresine üçgen kesitli poliüretan mastiği homojen çekmesini denetlemek - Vakumlu taşıma manipülatörü ile camı alarak kaportadaki cam yuvasına milimetrik oturtmak - Cam sabitleme bantlarını yapıştırarak kuruma süresince kaymasını önlemek Aranan Nitelikler: - Meslek Lis…"
+}
+},
+{
+"id": "C10965",
+"kind": "CV",
+"title": "Dijital İllüstratör",
+"industry": "CREATIVE_DESIGN",
+"city": "Kocaeli",
+"context": {
+"ozet": "Kocaeli Üniversitesi Görsel İletişim Tasarımı bölümünden başarıyla mezun oldum. Dijital İllüstratör alanında kariyer hedefim doğrultusunda teorik bilgi birikimimi ve Figma & UI/UX Tasarım, Adobe After Effects & Premiere Pro ve Kreatif Fikir Geliştirme & Moodboard konularındaki staj/proje tecrübelerimi iş hayatına aktarmak istiyorum. Öğrenmeye açık…",
+"beceriler": "Figma & UI/UX Tasarım, Adobe After Effects & Premiere Pro, Kreatif Fikir Geliştirme & Moodboard, Tipografi & Renk Teorisi, 3D Modelleme (Blender / Maya / Cinema 4D), Marka Kimliği & Kurumsal Kimlik Rehberi",
+"deneyim": [
+"Stajyer (Ağustos 2022 - Eylül 2022): Birim içi süreç iyileştirme projelerinde literatür ve mevzuat araştırmaları yürüterek üst yönetime sunulan özet brifinglerin hazırla…"
+],
+"egitim": [
+"Kocaeli Üniversitesi - Lisans (Görsel İletişim Tasarımı) 2019 - 2023"
+]
+}
+},
+{
+"id": "J0796",
+"kind": "JOB",
+"title": "Tahkim ve Arabuluculuk Süreçleri Danışmanı",
+"industry": "LEGAL",
+"city": "Antalya",
+"position_level": "MID_LEVEL",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Çakmak bünyesinde, [şehir] ofisimizde büyük ölçekli ticari uyuşmazlıklar, uluslararası tahkim ve dava süreçlerinde görev alacak 'Tahkim ve Arabuluculuk Süreçleri Danışmanı' aramaktayız. Rol ve Şirket Hakkında: Çakmak; enerji, altyapı, inşaat ve sınır ötesi ticari sözleşmelerden doğan karmaşık uyuşmazlıkların çözümünde yerli ve yabancı şirketleri uluslararası tahkim divanlarında başarıyla temsil eden seçkin hukuk bürosudur. Görev ve Sorumluluklar: - ICC, ISTAC, LCIA ve ICSID tahkim kuralları uyarınca yürütülen tahkim yargılamalarında dilekçe ve…"
+}
+},
+{
+"id": "C10264",
+"kind": "CV",
+"title": "Marketing Specialist",
+"industry": "MARKETING_MEDIA",
+"city": "İstanbul",
+"context": {
+"ozet": "Driven by data, inspired by creativity. I have spent the last four years helping B2B software companies build strong brand presences and generate high-quality leads. I believe that a successful marketing campaign is a perfect blend of psychological insight and rigorous A/B testing.",
+"beceriler": "HubSpot, Marketo, B2B Marketing, Copywriting, Data Analysis",
+"deneyim": [
+"Marketing Specialist (2019-09 - Present): Lead generation, email marketing automation, and content strategy for B2B tech products."
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (İşletme) 2015-09 - 2019-06"
+]
+}
+},
+{
+"id": "J2059",
+"kind": "JOB",
+"title": "Mekanik Montaj Hattı Vardiya Postabaşısı",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Bursa",
+"position_level": "LEAD",
+"mode": "OnSite",
+"context": {
+"aciklama": "Fren servo ve hidrolik silindir montaj hatlarımızda çalışan montaj operatörlerinin hat dengesini ve montaj kalitesini sahada sevk edecek Montaj Postabaşısı arıyoruz. Rol ve Sorumluluklar: - Montaj hatlarının parça besleme, torklama ve test istasyonları arasındaki akış senkronizasyonunu yönetmek - İstasyonlarda oluşan çevrim süresi sapmalarını ve darboğazları anında çözerek hat duruşlarını engellemek - Hat içi tork ve sızdırmazlık kalite kontrol sonuçlarını izlemek, uygunsuzluklarda hattı durdurup müdahale etmek - Yeni başlayan montaj personeli…"
+}
+},
+{
+"id": "C11301",
+"kind": "CV",
+"title": "Deneysel Modal Analiz ve Saha Test Mühendisi (LMS Test.Lab / Strain Gauge)",
+"industry": "SCIENCE_RND",
+"city": "Eskişehir",
+"context": {
+"ozet": "Prototip araçlar ve savunma platformlarında ivmeölçer, gerinim pulu (strain gauge), darbe çekici ve sarsıcı (shaker) ile deneysel modal analiz (EMA) ve yorulma yük verisi toplama uzmanıyım.",
+"beceriler": "Siemens Simcenter Testlab (LMS), Deneysel Modal Analiz (EMA / OMA), Gerinim Pulu (Strain Gauge) Uygulamaları, Yol Yük Verisi Toplama (RLDA), Sensör Enstrümantasyonu, Veri İşleme & FFT",
+"deneyim": [
+"Deneysel Modal Analiz ve Saha Test Mühendisi (LMS Test.Lab / Strain Gauge) ([TARİH]): Zırhlı taktik araç süspansiyon kollarında 3 eksenli gerinim pulları ile zorlu arazi…"
+],
+"egitim": [
+"Gazi Üniversitesi - Lisans (Makine Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "J0897",
+"kind": "JOB",
+"title": "Tiyatro ve Sahne Sanatları Eğitmeni",
+"industry": "CREATIVE_DESIGN",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Büyüyen ve gelişen organizasyonumuzda aktif rol alacak takım arkadaşı arayışımız için genel profil: 'Tiyatro ve Sahne Sanatları Eğitmeni' bünyemize kazandırılacaktır. İşin Tanımı: Çocuk ve yetişkin gruplarına temel oyunculuk, diksiyon, beden dili ve sahne teknikleri dersleri verecek tiyatrocu. Beklenen Nitelikler: - Yaratıcı vizyonu geniş, estetik algısı yüksek ve özgün tasarımlar üretebilen - Güzel Sanatlar Fakültesi veya Konservatuvar mezunu ya da alanında kanıtlanmış portföy sahibi - İlgili sanat dalında (resim, heykel, seramik, tiyatro, fo…"
+}
+},
+{
+"id": "C11091",
+"kind": "CV",
+"title": "Siber Tehdit İstihbaratı (CTI) Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Samsun",
+"context": {
+"ozet": "Dark Web, siber yeraltı forumları ve açık kaynak istihbaratı (OSINT) tarayarak kuruma yönelik kimlik bilgisi sızıntıları, fidye yazılımı tehditleri ve hedefli saldırıları önceden raporlayan CTI analistiyim. MISP ve OpenCTI platformlarına hakimim.",
+"beceriler": "Cyber Threat Intelligence (CTI), OSINT & Dark Web Monitoring, MISP / OpenCTI, IoC (Indicators of Compromise) Sharing, STIX/TAXII Standards, Python Scripting for CTI",
+"deneyim": [
+"Siber Tehdit İstihbaratı (CTI) Uzmanı ([TARİH]): Holding için kurduğum tehdit istihbaratı erken uyarı sistemiyle sızdırılan 400 şirket içi e-posta kimlik bilgisini tespi…",
+"Proje Yönetimi Stajyeri ([TARİH]): Yazılım geliştirme ekibinin günlük Scrum toplantı notlarını tuttum, Jira sprint panosundaki görev kartlarının güncelliğini takip ettim…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilişim Sistemleri Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C10248",
+"kind": "CV",
+"title": "Müdür",
+"industry": "FINANCE_ACCOUNTING",
+"city": "Bursa",
+"context": {
+"ozet": "Yalın üretim teknikleri ve süreç optimizasyonu konusunda derin bilgi birikimine sahip fabrika müdürü. Kayıp zaman analizleri ve otomasyon yatırımları ile endüstriyel verimliliği sürekli yukarı taşımaya odaklanıyorum.",
+"beceriler": "SAP PP, Yalın Üretim, Kaizen, OEE Takibi",
+"deneyim": [
+"Üretim Müdürü (2014-03 - Present): Üretim hattındaki fire oranını Six Sigma metodolojileriyle %8 seviyesinden %2'ye düşürdüm."
+],
+"egitim": [
+"Uludağ Üniversitesi - Lisans (Makine Mühendisliği) 2006-09 - 2010-06"
+]
+}
+},
+{
+"id": "J0417",
+"kind": "JOB",
+"title": "İnsansız Hava Aracı (İHA) Sistem Mimarı",
+"industry": "AVIATION",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Baykar Teknoloji Sistem Mühendisliği Direktörlüğü bünyesinde [şehir] merkezimizde Bayraktar TB2/TB3 ve AKINCI gibi küresel çapta oyun değiştiren platformlarımızın uçtan uca sistem mimarisini tasarlayacak İHA Sistem Mimarı arıyoruz. Görev Tanımı ve Sorumluluklar: - Hava aracı gövdesi, itki, aviyonik, uçuş kontrol, faydalı yük (FLIR/SAR), haberleşme linkleri ve yer kontrol istasyonunu kapsayan üst seviye sistem mimarisini tanımlamak. - ARP4754A yönergelerine uygun olarak sistem gereksinimlerini oluşturmak, IBM DOORS üzerinde izlenebilirlik matri…"
+}
+},
+{
+"id": "C11377",
+"kind": "CV",
+"title": "Havacılık İtki Sistemi Entegrasyon ve Test Mühendisi (Turbofan / Turboprop)",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Gaz türbinli motorların hava alığı aerodinamiği, FADEC (Tam Yetkili Sayısal Motor Kontrolü) arayüzleri, motor test hücresi çalıştırmaları ve titreşim limitleri takibinde uzmanım.",
+"beceriler": "FADEC Motor Kontrolörü, Türbofan / Turboprop Test Hücresi, Hava Alığı Basınç Dağılımı & Bozulması (Distortion), Motor İtki ve Özgül Yakıt Tüketimi (SFC), Titreşim & Rulman Sıcaklık Limitleri, Uçuşa Elverişlilik Onayları",
+"deneyim": [
+"Havacılık İtki Sistemi Entegrasyon ve Test Mühendisi (Turbofan / Turboprop) ([TARİH]): İHA için geliştirilen yerli turboprop motorun yer test hücresinde 150 saatlik kesi…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Uçak / Makine Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "J2095",
+"kind": "JOB",
+"title": "Kıdemli Boya ve İnce Bitirme İşleri Başustası",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Konut projelerimizin son kat boya, dekoratif çıta, süpürgelik ve duvar kağıdı ekiplerinin kusursuz iş teslimini yönetecek Boya Başustası arıyoruz. Görev ve Sorumluluklar: - Daire içi boya ekiplerinin renk uyumunu, kenar kesme (kestirme) doğruluğunu ve kat kalınlıklarını denetlemek - Pencere ve kapı pervazı birleşimlerinde mastik ve derz çatlaklarını sıfıra indiren uygulamaları onaylamak - Daire kabul heyetine daireleri sunarak teslim öncesi en ince rötuşları ekibine yaptırmak - Boya ve astar sarfiyatlarını takip ederek malzeme israfını önlemek…"
+}
+},
+{
+"id": "C11943",
+"kind": "CV",
+"title": "Tekstil Kimyasalları ve Boyarmadde B2B Satış Mühendisi",
+"industry": "SALES",
+"city": "Ankara",
+"context": {
+"ozet": "Tekstil terbiye, boyahane ve baskı işletmelerine reaktif boyalar, dispers boyarmaddeler, enzimler ve su/yağ itici apre kimyasallarının teknik satışında uzmanım.",
+"beceriler": "Tekstil Kimyasalları ve Boyarmadde Satışı, Boyahane Reçete Maliyetlendirmesi, Sürdürülebilir Kimya (OEKO-TEX / ZDHC Uyum), Renk Haslığı ve Su/Enerji Tasarruflu Prosesler, Fabrika Numune Deneme (Trial) Yönetimi, İhracatç…",
+"deneyim": [
+"Tekstil Kimyasalları ve Boyarmadde B2B Satış Mühendisi ([TARİH]): Bursa ve Çorlu havzalarındaki 40 büyük tekstil boyahanesine yıllık 6.500 ton tekstil kimyasalı ve boyar…"
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Tekstil Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "J0473",
+"kind": "JOB",
+"title": "E-Mail Pazarlama ve Otomasyon Uzmanı",
+"industry": "MARKETING_MEDIA",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Boyner Büyük Mağazacılık Dijital Pazarlama ve CRM departmanında [şehir] merkezimizde milyonlarca müşteriye ulaşan e-posta pazarlama stratejimizi ve pazarlama otomasyon akışlarımızı yönetecek E-Mail Pazarlama ve Otomasyon Uzmanı arıyoruz. Görev Tanımı ve Sorumluluklar: - Boyner e-ticaret ve sadakat programı müşterilerine yönelik kitlesel ve tetiklemeli (lifecycle / trigger-based) e-posta kampanyaları kurgulamak. - Terk edilmiş sepet (abandoned cart), hoş geldin (onboarding), doğum günü, yeniden kazanım (win-back) ve kategori ilgisi otomasyon ak…"
+}
+},
+{
+"id": "J0631",
+"kind": "JOB",
+"title": "Ar-Ge Mühendisi (Tüpraş)",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Tüpraş bünyesinde, [şehir] Ar-Ge Merkezimizde sıfır karbon stratejimiz kapsamında sürdürülebilir havacılık yakıtları (SAF) ve yeşil hidrojen teknolojileri geliştirecek 'Ar-Ge Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Tüpraş Ar-Ge Merkezi; Türkiye'nin lider rafineri kuruluşunun stratejik dönüşüm vizyonu doğrultusunda biyoyakıtlar, karbon yakalama ve ileri katalitik prosesler geliştiren öncü araştırma üssüdür. Görev ve Sorumluluklar: - Biyokütle ve atık yağlardan Sürdürülebilir Havacılık Yakıtı (SAF) ve hidrojenize bitkisel yağ (HVO) üreti…"
+}
+},
+{
+"id": "J2949",
+"kind": "JOB",
+"title": "Kıdemli Ölçme ve Değerlendirme Müdürü",
+"industry": "EDUCATION",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Kampüsümüzün tüm akademik sınavlarının psikometrik analizlerini yapacak ve okul başarı göstergelerini yönetecek kıdemli müdürler arıyoruz. Temel İş ve Sorumluluk Alanları: - K12 seviyesindeki tüm ortak yazılı ve deneme sınavlarının soru analizlerini (madde güçlüğü, ayırt edicilik) yapmak - Okul çapında akademik kazanım takip yazılımını yönetmek ve öğrenme kayıpları erken uyarı raporlarını hazırlamak - Öğretmenlere madde yazım teknikleri ve rubrik (dereceli puanlama anahtarı) hazırlama eğitimleri vermek - Okul yönetim kurulu ve zümre başkanları…"
+}
+},
+{
+"id": "J1613",
+"kind": "JOB",
+"title": "Senior Infrastructure Engineer (Zero Downtime Deployments)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Global mağazacılık ve lojistik sistemlerimizin kesintisiz çalışması için sıfır kesintili (zero-downtime) dağıtım stratejilerini ve altyapı otomasyonunu yönetecek kıdemli mühendis arıyoruz. Rol ve Sorumluluklar: - Kubernetes ve yük dengeleyiciler üzerinde Canary ve Blue/Green dağıtım mekanizmalarını mükemmelleştirmek - Yüksek hacimli veritabanı şema geçişlerini (schema migrations) sıfır kesintiyle planlamak - Kritik lojistik servislerinin yüksek erişilebilirlik ve yük devretme senaryolarını test etmek - Mühendislik ekiplerine altyapı mimarisi v…"
+}
+},
+{
+"id": "J1032",
+"kind": "JOB",
+"title": "Performans ve Ücret Yönetimi Uzmanı",
+"industry": "HR",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Departmanımızda görev alarak operasyonel ve stratejik hedeflerimize katkı sağlayacak: 'Performans ve Ücret Yönetimi Uzmanı' pozisyonu için başvurular değerlendirilecektir. Sorumluluk Alanları: Hay Group iş değerlendirme metodolojisi ile unvan ve ücret baremlerini belirleyecek, yıllık prim sistemini kuracak. Aranan Yetkinlik ve Beceriler: - 4857 sayılı İş Kanunu ve 5510 sayılı SGK mevzuatındaki yasal süreçlere hakim - İletişim ve müzakere kabiliyeti güçlü, organizasyonel becerileri gelişmiş - Personel özlük dosyalarının arşivlenmesi ve puantaj …"
+}
+},
+{
+"id": "J0019",
+"kind": "JOB",
+"title": "Garson",
+"industry": "CHEF_HORECA",
+"city": "İstanbul",
+"position_level": "SENIOR_SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Aşağıdaki niteliklere sahip ve belirtilen süreçleri yönetecek adayların başvurularını bekliyoruz: misafir memnuniyetini ön planda tutan ve hizmet kalitesine önem veren Garson (Servis Elemanı) ekip arkadaşı arıyoruz. Aranan Nitelikler •⁠ ⁠En az lise mezunu •⁠ ⁠Otel veya restoran deneyimine sahip •⁠ ⁠İletişim becerileri güçlü •⁠ ⁠Misafir memnuniyeti odaklı •⁠ ⁠Vardiyalı çalışma sistemine uyum sağlayabilecek •⁠ ⁠Dış görünümüne özen gösteren •⁠ ⁠Takım çalışmasına yatkın Görev Tanımı •⁠ ⁠Misafirlerin siparişlerini almak ve servis etmek •⁠ ⁠Servis a…"
+}
+},
+{
+"id": "J1058",
+"kind": "JOB",
+"title": "Mevduat ve Yatırım Ürünleri Yöneticisi",
+"industry": "FINANCE_ACCOUNTING",
+"city": "Ankara",
+"position_level": "MANAGER",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Türkiye İş Bankası bünyesinde, [şehir] Genel Müdürlüğümüzde mevduat, fon ve tasarruf ürünlerimizin ürün yaşam döngüsüne, fiyatlama stratejilerine ve pazar payına liderlik edecek 'Mevduat ve Yatırım Ürünleri Yöneticisi' aramaktayız. Rol ve Şirket Hakkında: İş Bankası Bireysel Bankacılık; Türkiye'nin en büyük mevduat ve tasarruf tabanını yöneten, müşteri odaklı yenilikçi yatırım ve birikim ürünleriyle tasarruf sahiplerine değer katan öncü birimdir. Görev ve Sorumluluklar: - TL ve Döviz vadeli mevduat, Kur Korumalı Mevduat (KKM), birikim hesaplar…"
+}
+},
+{
+"id": "J0681",
+"kind": "JOB",
+"title": "Pano Montaj ve Tesisat Elektrikçisi",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "Mersin",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ([şehir] Tarım & Sanayi Bölgesi) yerleşkemizde tam zamanlı görev alacak Pano Montaj ve Tesisat Elektrikçisi aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde pano montaj ve tesisat elektrikçisi operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması."
+}
+},
+{
+"id": "J0843",
+"kind": "JOB",
+"title": "Hastane Kalite ve Mesul Müdürü",
+"industry": "HEALTHCARE",
+"city": "Bursa",
+"position_level": "MANAGER",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Medicana Sağlık Grubu bünyesinde, [şehir] hastanemizde idari ve yasal sorumlulukları üstlenecek 'Hastane Kalite ve Mesul Müdürü' aranmaktadır. Rol ve Kurum Hakkında: Medicana Sağlık Grubu; kaliteli sağlık hizmeti, hasta güvenliği ve etik tıbbi yaklaşımıyla Türkiye'nin öncü özel sağlık zincirlerindendir. Görev ve Sorumluluklar: - Özel Hastaneler Yönetmeliği kapsamında hastanenin yasal mesul müdürlük görevlerinin ve idari temsilinin yürütülmesi, - İl Sağlık Müdürlüğü, Sağlık Bakanlığı ve diğer resmi kurum denetimlerinin, ruhsatlandırma ve kadro …"
+}
+},
+{
+"id": "J2401",
+"kind": "JOB",
+"title": "İhracat Satış ve Pazar Geliştirme Uzmanı (MENA Bölgesi)",
+"industry": "SALES",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "### Biz Kimiz? Hızlı tüketim sektöründe Molfix, Molped ve Bingo gibi küresel markalarıyla 100'ü aşkın ülkeye ihracat yapan Hayat Kimya, çok uluslu üretim ve dağıtım ağıyla bölgenin en büyük sanayi güçlerindendir. Pozisyon Özeti: Orta Doğu ve Kuzey Afrika (MENA) ülkelerindeki distribütör ağımızı yönetecek, yeni pazar giriş stratejilerini kurgulayacak İhracat Satış Uzmanı arıyoruz. Görev ve Sorumluluklar: - Bölgedeki mevcut distribütörlerin aylık sipariş, stok ve satış hedeflerini (sell-in / sell-out) takip etmek - Hedef ülkelerde pazar araştırm…"
+}
+},
+{
+"id": "C20877",
+"kind": "CV",
+"title": "Mermer & Granit Basamak Ustası",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "İç ve dış mekan merdivenlerinde blok mermer ve granit basamak, rıht ve süpürgelik montaj ustasıyım. Harçlı teraziye alma, basamak damlalık kanalı açma, balıksırtı pah zımparalama, kaydırmaz bant yuvası açma ve renk damar takibi eşleştirme işlemlerinde yüksek işçilik hassasiyetine sahibim.",
+"beceriler": "Mermer Basamak ve Rıht Harçlı Montajı, Lazer Terazi ile Rıht Kotu Eşitleme, Balıksırtı ve Düz Pah Zımpara İşçiliği, Damlalık Kanalı ve Kaydırmaz Fitil Yuvası, Doğal Taş Damar Eşleştirme, Mermer Cilalama ve Silim",
+"deneyim": [
+"Mermer & Granit Basamak Ustası ([TARİH]): Kamu binası ana giriş anıtsal merdivenleri ile 6 katlı yangın merdivenlerinde 180 basamak bej mermer ve granit kaplama milimetr…"
+],
+"egitim": [
+"Balıkesir Mesleki Eğitim Merkezi - Ustalık Belgesi (Mermer ve Doğal Taş İşleme) [TARİH]"
+]
+}
+},
+{
+"id": "C11225",
+"kind": "CV",
+"title": "NoSQL Veritabanı Yöneticisi (MongoDB & Cassandra)",
+"industry": "IT_SOFTWARE",
+"city": "Adana",
+"context": {
+"ozet": "MongoDB Replica Set ve Sharded Cluster mimarileri ile Apache Cassandra halka (ring) topolojilerini yöneten NoSQL veritabanı uzmanıyım. Veri modelleme, shard anahtarı seçimi, kompaktlaştırma ve yedekleme stratejilerinde uzmanım.",
+"beceriler": "MongoDB Sharding & Replication, Apache Cassandra, Redis Cluster, OpsManager / nodetool, NoSQL Data Modeling, Linux Storage Performance",
+"deneyim": [
+"NoSQL Veritabanı Yöneticisi (MongoDB & Cassandra) ([TARİH]): Global mesajlaşma altyapısında 10 düğümlü MongoDB sharded cluster kümesini kurarak saniyede 40.000 belge yaz…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C20645",
+"kind": "CV",
+"title": "Oksijen (Oksi-Gaz) Kaynakçısı",
+"industry": "INDUSTRIAL_MANUFACTURING",
+"city": "İzmir",
+"context": {
+"ozet": "Oto radyatör, ısı eşanjörü ve soğutma serpantinlerinin tamir ve montajında alev kaynağı tecrübesine sahibim. İnce etli pirinç, bakır ve döküm parçaların çatlak tamirinde ısıyı malzemeye homojen yayarak kaynak yaparım.",
+"beceriler": "Sert Lehimleme (Brazing), Bakır-Demir Birleştirme, Çatlak Döküm Parça Tavı, Şaloma Ucu Temizleme, Kaçak Testi (Basınçlı Su/Hava)",
+"deneyim": [
+"Oksijen (Oksi-Gaz) Kaynakçısı ([TARİH]): Sanayi kompresör soğutma peteklerindeki delik ve çatlaklar gümüş alaşımlı kaynak teli ve boraks dekapanı ile sızdırmaz şekilde t…"
+],
+"egitim": [
+"Bursa Tophane Mesleki ve Teknik Anadolu Lisesi - Lise (Tesisat Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0126",
+"kind": "JOB",
+"title": "TÜRKİYE GENELİ EVDE ÇALIŞACAK CATI ANKETÖRÜ ARANIYOR",
+"industry": "MARKETING_MEDIA",
+"city": "Balıkesir",
+"position_level": "ENTRY_LEVEL",
+"mode": "Remote",
+"context": {
+"aciklama": "EVDE ÇALIŞACAK CATI ANKETÖRÜ ARANIYOR (Evden Çalışma | Proje Bazlı | ) Derece Araştırma Danışmanlık Ticaret Ltd. Şti. olarak, Türkiye genelinde yürüttüğümüz telefonla anket (CATI) projelerinde görev alacak anketörler arıyoruz. Aranan Nitelikler En az lise mezunu, Bilgisayar kullanabilen, Diksiyonu düzgün, iletişim becerisi yüksek, Sorumluluk sahibi ve disiplinli, Evden çalışmaya uygun sessiz bir çalışma ortamına sahip. Zorunlu Ekipman Bilgisayar (masaüstü veya dizüstü) Kesintisiz internet bağlantısı Mikrofonlu kulaklık Çalışma Şekli Çalışma mo…"
+}
+}
+]

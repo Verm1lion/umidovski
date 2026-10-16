@@ -1,0 +1,25 @@
+{
+  "oge": 6043,
+  "konsolidasyon_eslesmeyen": 0,
+  "isco4_sayisi": 298,
+  "occ_key_sayisi": 1630,
+  "isco4_degisen_oge": 171,
+  "specialty_degisen_oge": 1447,
+  "occ_key_hem_cv_hem_ilan": 877,
+  "isco4_hem_cv_hem_ilan": 236,
+  "conf_dagilimi": {
+    "3": 2991,
+    "2": 2752,
+    "1": 300
+  },
+  "collar": {
+    "BLUE": {
+      "CV": 1006,
+      "JOB": 919
+    },
+    "WHITE": {
+      "CV": 2037,
+      "JOB": 2081
+    }
+  }
+}

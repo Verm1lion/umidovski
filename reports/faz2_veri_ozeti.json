@@ -1,0 +1,402 @@
+{
+  "olusturma": "scripts/05_build_dataset.py",
+  "seed": 20261015,
+  "alaka_dereceleri": {
+    "3": "Tam eslesme: ayni uzmanlik (occ_key) + yaka uyumu + |kidem farki| <= 1 + lokasyon uyumu (ayni sehir veya Remote)",
+    "2": "Yuksek alaka: ayni ISCO-08 birim grubu (isco4) + yaka uyumu + |kidem farki| <= 2 (kidem/lokasyonda tolere edilebilir fark)",
+    "1": "Kismi alaka: yaka uyumu + (ayni ana sektor VEYA ayni isco4 fakat kidem farki >= 3)",
+    "0": "Alakasiz / uygunsuz: diger tum durumlar (farkli yaka, farkli sektor ve farkli meslek)"
+  },
+  "alakali_esigi_binary_metrikler": 2,
+  "split": {
+    "train": {
+      "cv": 2127,
+      "gercek": 2127,
+      "sentetik": 0,
+      "ort_grade3": 1.49,
+      "ort_grade2": 36.04,
+      "ort_grade1": 128.31,
+      "alakali(>=2)_ilani_olmayan_cv": 49,
+      "grade3_ilani_olan_cv_orani": 0.347,
+      "alakali_sayisi_medyan": 28.0,
+      "alakali_sayisi_lt10_orani": 0.315,
+      "kategori_dagilimi": {
+        "INDUSTRIAL_MANUFACTURING": 321,
+        "CONSTRUCTION": 288,
+        "IT_SOFTWARE": 258,
+        "FINANCE_ACCOUNTING": 177,
+        "SALES": 112,
+        "HEALTHCARE": 95,
+        "SUPPLY_CHAIN_LOGISTICS": 89,
+        "CHEF_HORECA": 80,
+        "MARKETING_MEDIA": 76,
+        "HR": 72,
+        "SCIENCE_RND": 61,
+        "LEGAL": 61,
+        "CREATIVE_DESIGN": 55,
+        "LOGISTICS_DRIVER": 53,
+        "MARITIME": 51,
+        "EDUCATION": 44,
+        "OFFICE_ADMIN_MGMT": 35,
+        "AVIATION": 32,
+        "JANITORIAL_FACILITY": 31,
+        "APPAREL_TEXTILE": 30,
+        "AGRICULTURE": 29,
+        "ENV_ESG": 22,
+        "SECURITY_EMERGENCY": 22,
+        "SPORTS": 15,
+        "BEAUTY_CARE": 12,
+        "CUSTOMER_SERVICE": 6
+      }
+    },
+    "val": {
+      "cv": 455,
+      "gercek": 455,
+      "sentetik": 0,
+      "ort_grade3": 1.19,
+      "ort_grade2": 37.91,
+      "ort_grade1": 127.06,
+      "alakali(>=2)_ilani_olmayan_cv": 10,
+      "grade3_ilani_olan_cv_orani": 0.3363,
+      "alakali_sayisi_medyan": 27.0,
+      "alakali_sayisi_lt10_orani": 0.3319,
+      "kategori_dagilimi": {
+        "INDUSTRIAL_MANUFACTURING": 68,
+        "CONSTRUCTION": 62,
+        "IT_SOFTWARE": 54,
+        "FINANCE_ACCOUNTING": 38,
+        "SALES": 23,
+        "SUPPLY_CHAIN_LOGISTICS": 23,
+        "HEALTHCARE": 18,
+        "MARKETING_MEDIA": 18,
+        "CHEF_HORECA": 18,
+        "HR": 15,
+        "OFFICE_ADMIN_MGMT": 14,
+        "SCIENCE_RND": 13,
+        "LEGAL": 13,
+        "LOGISTICS_DRIVER": 11,
+        "EDUCATION": 10,
+        "MARITIME": 10,
+        "CREATIVE_DESIGN": 9,
+        "AGRICULTURE": 7,
+        "JANITORIAL_FACILITY": 7,
+        "SECURITY_EMERGENCY": 6,
+        "APPAREL_TEXTILE": 6,
+        "AVIATION": 4,
+        "ENV_ESG": 4,
+        "SPORTS": 3,
+        "CUSTOMER_SERVICE": 1
+      }
+    },
+    "test": {
+      "cv": 461,
+      "gercek": 461,
+      "sentetik": 0,
+      "ort_grade3": 1.26,
+      "ort_grade2": 37.17,
+      "ort_grade1": 130.26,
+      "alakali(>=2)_ilani_olmayan_cv": 8,
+      "grade3_ilani_olan_cv_orani": 0.3774,
+      "alakali_sayisi_medyan": 27.0,
+      "alakali_sayisi_lt10_orani": 0.3167,
+      "kategori_dagilimi": {
+        "INDUSTRIAL_MANUFACTURING": 69,
+        "CONSTRUCTION": 63,
+        "IT_SOFTWARE": 57,
+        "FINANCE_ACCOUNTING": 39,
+        "SALES": 26,
+        "CHEF_HORECA": 19,
+        "HEALTHCARE": 18,
+        "SUPPLY_CHAIN_LOGISTICS": 18,
+        "LOGISTICS_DRIVER": 18,
+        "MARKETING_MEDIA": 17,
+        "HR": 15,
+        "LEGAL": 15,
+        "SCIENCE_RND": 14,
+        "CREATIVE_DESIGN": 12,
+        "MARITIME": 11,
+        "EDUCATION": 9,
+        "AVIATION": 7,
+        "JANITORIAL_FACILITY": 7,
+        "OFFICE_ADMIN_MGMT": 6,
+        "APPAREL_TEXTILE": 6,
+        "AGRICULTURE": 5,
+        "ENV_ESG": 4,
+        "SECURITY_EMERGENCY": 3,
+        "SPORTS": 2,
+        "CUSTOMER_SERVICE": 1
+      }
+    }
+  },
+  "ilan_havuzu": {
+    "warm": 2699,
+    "cold": 301
+  },
+  "vitrin_adaylari_test": [
+    20951,
+    10587,
+    10511,
+    21029
+  ],
+  "triplet": {
+    "train": 4085,
+    "val": 444,
+    "train_istatistik": {
+      "trap_fallback_bm25": 18,
+      "anchor_pozitifsiz_atlandi": 53,
+      "anchor": 2127
+    },
+    "val_istatistik": {
+      "trap_fallback_bm25": 1,
+      "anchor_pozitifsiz_atlandi": 11,
+      "anchor": 455
+    },
+    "negatif_turleri": {
+      "neg_lexical": "Ayni/benzer unvan sozcugu (karakter n-gram), FARKLI sektor, grade 0 (Baklava Ustasi ~ Siva Ustasi)",
+      "neg_seniority_collar": "Ayni sektor veya ayni ISCO alt-ana grubu; yaka zit veya |kidem farki|>=3, grade<=1",
+      "neg_bm25": "BM25 ile en yuksek skorlu fakat grade 0 ilanlar (kelime kesisimi yuksek, anlamca uyumsuz)"
+    },
+    "negatif_grade_dagilimi": {
+      "neg_lexical_grade": {
+        "0": 4085
+      },
+      "neg_seniority_collar_grade": {
+        "0": 2721,
+        "1": 1364
+      },
+      "neg_bm25_grade": {
+        "0": 4085
+      }
+    }
+  },
+  "qrels": {
+    "satir(grade>=1)": 506111,
+    "grade_dagilimi": {
+      "1": 390780,
+      "2": 111044,
+      "3": 4287
+    }
+  },
+  "legacy_train_pairs": {
+    "satir": 16163,
+    "cikarilan(val/test CV'leri)": 7867,
+    "cikarilan(cold ilanlar)": 1876
+  },
+  "sizinti_kontrolleri": {
+    "id_kesisim_train_val": 0,
+    "id_kesisim_train_test": 0,
+    "id_kesisim_val_test": 0,
+    "unvan_kesisim_train_test": 0,
+    "unvan_kesisim_gercek_train_test": 0,
+    "unvan_kesisim_train_val": 0,
+    "sentetik_val_test_te": 0,
+    "triplet_anchor_train_disi": 0,
+    "val_triplet_anchor_val_disi": 0,
+    "triplette_cold_ilan": 0,
+    "legacy_pairs_train_disi_cv": 0,
+    "legacy_pairs_cold_ilan": 0,
+    "test_train_max_cos_medyan": 0.247,
+    "test_train_max_cos_p90": 0.6,
+    "test_cv_cos_ge_0.8_trainde_ikizi": 0,
+    "TUM_KONTROLLER_GECTI": true
+  },
+  "vitrin_kontrol": {
+    "20951": {
+      "headline": "Gaziantep Baklava & Yufka Ustası",
+      "split": "test",
+      "gold_specialty": "Baklava Ustası",
+      "gold_isco4": "7512",
+      "gold_seniority": 3,
+      "n_grade3": 0,
+      "n_grade2": 16,
+      "ornek_alakali": [
+        "Taş Fırın Pide ve Lahmacun Ustası -> 2",
+        "Kol Böreği ve Boşnak Böreği Ustası -> 2",
+        "Geleneksel Şerbetli Tatlı Ustası -> 2",
+        "Taş Fırın ve Ekmek Pişirme Ustası -> 2",
+        "Gaziantep Usulü Baklava Ustası -> 2",
+        "Pide ve Lahmacun Ustası -> 2",
+        "Taş Fırın Simit Ustası -> 2",
+        "Unlu Mamuller ve Fırın Ustası (Baker) -> 2"
+      ],
+      "tuzak_ilan_dereceleri": {
+        "Tuğla ve Duvar Ustası": 0,
+        "CNC Torna ve Dik İşleme Operatörü": 0,
+        "CNC Abkant Büküm Ustası": 0,
+        "Distribütör ve Bayi Yöneticisi": 0,
+        "Medikal Direktör (İlaç Sektörü)": 0,
+        "İmalat ve Talaşlı Üretim Mühendisi (CNC)": 0,
+        "Kurumsal Risk Yönetimi (ERM) Direktörü": 0,
+        "CNC Lazer Kesim Operatörü": 0,
+        "Stratejik İşgücü Analitiği Direktörü": 0,
+        "Kaba ve İnce Sıva Ustası": 0,
+        "CNC Plazma Kesim Operatörü": 0,
+        "Öğrenci Kariyer Merkezi Direktörü": 0
+      }
+    },
+    "10587": {
+      "headline": "Flight Operations Dispatcher",
+      "split": "test",
+      "gold_specialty": "Uçuş Harekat Uzmanı (Dispeçer)",
+      "gold_isco4": "4323",
+      "gold_seniority": 1,
+      "n_grade3": 1,
+      "n_grade2": 11,
+      "ornek_alakali": [
+        "Uçuş Harekat Uzmanı (Flight Dispatcher) -> 3",
+        "Sevkiyat ve Lojistik Planlama Uzmanı -> 2",
+        "Konteyner Gemisi Yük Planlama ve Lashing Sorumlusu -> 2",
+        "Hava Kargo Operasyon ve Lojistik Görevlisi -> 2",
+        "Hava Trafik Kontrolörü / Uçuş Harekat Uzmanı (Dispatcher) -> 2",
+        "Uçuş Ekibi Planlama ve Otel Tahsis Uzmanı -> 2",
+        "Uçuş Harekat Uzmanı (Flight Dispatcher) -> 2",
+        "Lojistik Operasyon Uzmanı -> 2"
+      ],
+      "tuzak_ilan_dereceleri": {
+        "Tuğla ve Duvar Ustası": 0,
+        "CNC Torna ve Dik İşleme Operatörü": 0,
+        "CNC Abkant Büküm Ustası": 0,
+        "Distribütör ve Bayi Yöneticisi": 0,
+        "Medikal Direktör (İlaç Sektörü)": 0,
+        "İmalat ve Talaşlı Üretim Mühendisi (CNC)": 0,
+        "Kurumsal Risk Yönetimi (ERM) Direktörü": 0,
+        "CNC Lazer Kesim Operatörü": 0,
+        "Stratejik İşgücü Analitiği Direktörü": 0,
+        "Kaba ve İnce Sıva Ustası": 0,
+        "CNC Plazma Kesim Operatörü": 0,
+        "Öğrenci Kariyer Merkezi Direktörü": 0
+      }
+    },
+    "10511": {
+      "headline": "Java Spring Boot Geliştirici",
+      "split": "test",
+      "gold_specialty": "Backend Yazılım Geliştirici",
+      "gold_isco4": "2512",
+      "gold_seniority": 2,
+      "n_grade3": 23,
+      "n_grade2": 182,
+      "ornek_alakali": [
+        "Java Yazılım Uzmanı (Spring Boot / Kafka) -> 3",
+        "Kıdemli Java Backend Mühendisi (Dağıtık Sistemler & Kubernetes) -> 3",
+        "Backend Yazılım Mühendisi (Java 21 / Quarkus) -> 3",
+        "Kıdemli Java Yazılım Uzmanı (Büyük Veri & Event Streaming) -> 3",
+        ".NET Yazılım Uzmanı (.NET 8 / Web API / RabbitMQ) -> 3",
+        "Backend Geliştirici (.NET 8 / gRPC & Event-Driven) -> 3",
+        "Backend Yazılım Mühendisi (.NET Core & Dağıtık Caching) -> 3",
+        "Junior .NET Geliştirici (Bulut Tabanlı Muhasebe API'ları) -> 3"
+      ],
+      "tuzak_ilan_dereceleri": {
+        "Tuğla ve Duvar Ustası": 0,
+        "CNC Torna ve Dik İşleme Operatörü": 0,
+        "CNC Abkant Büküm Ustası": 0,
+        "Distribütör ve Bayi Yöneticisi": 0,
+        "Medikal Direktör (İlaç Sektörü)": 0,
+        "İmalat ve Talaşlı Üretim Mühendisi (CNC)": 0,
+        "Kurumsal Risk Yönetimi (ERM) Direktörü": 0,
+        "CNC Lazer Kesim Operatörü": 0,
+        "Stratejik İşgücü Analitiği Direktörü": 0,
+        "Kaba ve İnce Sıva Ustası": 0,
+        "CNC Plazma Kesim Operatörü": 0,
+        "Öğrenci Kariyer Merkezi Direktörü": 0
+      }
+    },
+    "21029": {
+      "headline": "Java ve Spring Boot Yazılım Stajyeri",
+      "split": "test",
+      "gold_specialty": "Backend Yazılım Geliştirici",
+      "gold_isco4": "2512",
+      "gold_seniority": 0,
+      "n_grade3": 15,
+      "n_grade2": 110,
+      "ornek_alakali": [
+        "Junior Java Geliştirici (Spring Boot / Mikroservis) -> 3",
+        "Java Yazılım Stajyeri (Spring Boot & Cloud - Yaz Dönemi) -> 3",
+        "Junior .NET Core Geliştirici (C# / Entity Framework) -> 3",
+        ".NET Yazılım Stajyeri (Ar-Ge Merkezi - Yaz & Kış Dönemi) -> 3",
+        "Junior Backend Geliştirici (C# / MSSQL - Kurumsal ERP) -> 3",
+        "Junior .NET Geliştirici (Bulut Tabanlı Muhasebe API'ları) -> 3",
+        "Junior Java Geliştirici (Mikroservis & Docker) -> 3",
+        "Junior Java Geliştirici (Açık Bankacılık & API Entegrasyonu) -> 3"
+      ],
+      "tuzak_ilan_dereceleri": {
+        "Tuğla ve Duvar Ustası": 0,
+        "CNC Torna ve Dik İşleme Operatörü": 0,
+        "CNC Abkant Büküm Ustası": 0,
+        "Distribütör ve Bayi Yöneticisi": 0,
+        "Medikal Direktör (İlaç Sektörü)": 0,
+        "İmalat ve Talaşlı Üretim Mühendisi (CNC)": 0,
+        "Kurumsal Risk Yönetimi (ERM) Direktörü": 0,
+        "CNC Lazer Kesim Operatörü": 0,
+        "Stratejik İşgücü Analitiği Direktörü": 0,
+        "Kaba ve İnce Sıva Ustası": 0,
+        "CNC Plazma Kesim Operatörü": 0,
+        "Öğrenci Kariyer Merkezi Direktörü": 0
+      }
+    }
+  },
+  "sutun_rolleri": {
+    "ozellik_kullanilabilir": [
+      "headline",
+      "cv_text",
+      "cv_struct",
+      "text_city",
+      "text_seniority",
+      "text_years_exp",
+      "ilan: title, company_name, description, industry, position_level, mode_of_operation, job_type, city, job_struct"
+    ],
+    "yalnizca_degerlendirme(gold_*)": [
+      "gold_city",
+      "gold_collar",
+      "gold_collar_dataset",
+      "gold_conf",
+      "gold_industry",
+      "gold_isco4",
+      "gold_isco_title",
+      "gold_occ_key",
+      "gold_seniority",
+      "gold_specialty"
+    ]
+  },
+  "dosyalar": {
+    "clean_cvs.parquet": {
+      "bayt": 3259335,
+      "sha256": "b4caeceeb421f93922e10989504f82f7f0c2cdec4bec128f08158d358f73a6f4"
+    },
+    "clean_jobs.parquet": {
+      "bayt": 7453667,
+      "sha256": "c6c7d073c802abf52aadf00d0ce8cf797007e24986e5688106c89ad365564001"
+    },
+    "legacy_train_pairs.parquet": {
+      "bayt": 74300,
+      "sha256": "b75994ad7d839af968af65198fc60f994b2330a052bae2aae04b10eb28cad143"
+    },
+    "match_candidate_sota.py": {
+      "bayt": 45541,
+      "sha256": "02b865f8240dd04d294812312be6d654f58cca193ccf0dc753b6ea97059ba331"
+    },
+    "qrels_ground_truth.parquet": {
+      "bayt": 286793,
+      "sha256": "e4da835d95153bd5c755391ef48ef5632d73c345ff1a69d866d6ffd94f4160ae"
+    },
+    "test_queries.parquet": {
+      "bayt": 258967,
+      "sha256": "7ab23c8a817c806b065e967be1207cc828da24163db9db76f85134be70d2cafd"
+    },
+    "train_queries.parquet": {
+      "bayt": 1143743,
+      "sha256": "5562c7af7f026ef744f0d45a9ed112fb0bacafa26e056695b64f2ceb8124fa3b"
+    },
+    "train_triplets.parquet": {
+      "bayt": 69112,
+      "sha256": "20e8610d8fffa3353609bef9bbe3a3ecf426ae390a7b2f3c56922ac74d824b1f"
+    },
+    "val_queries.parquet": {
+      "bayt": 256005,
+      "sha256": "d7366c1f2c6a2e2564338b561f61969307b66db6ff2d02a085ba275629ed5323"
+    },
+    "val_triplets.parquet": {
+      "bayt": 17306,
+      "sha256": "3fc5ac9a03483ecedbc42959799a5994b31ebc3435109a2aed184bb7e2c8ed7c"
+    }
+  }
+}

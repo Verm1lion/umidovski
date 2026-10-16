@@ -1,0 +1,1110 @@
+[
+{
+"specialty": "Aile Hekimi",
+"isco4": "2211",
+"isco_title": "Generalist medical practitioners",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Doktor"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pratisyen Hekim",
+"isco4": "2211",
+"isco_title": "Generalist medical practitioners",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Doktor",
+"General Practitioner (Physician)",
+"Pratisyen Hekim",
+"Pratisyen Hekim (Acil Servis)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Anesteziyoloji ve Reanimasyon Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Anestezi ve Reanimasyon Uzman Hekimi",
+"Anesteziyoloji ve Reanimasyon Uzmanı",
+"Doktor"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Beyin ve Sinir Cerrahisi Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Beyin ve Sinir Cerrahisi (Nöroşirürji) Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çocuk Sağlığı ve Hastalıkları Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Doktor",
+"Pediatrician (Child Health Specialist MD)",
+"Çocuk Sağlığı ve Hastalıkları (Pediatri) Uzmanı",
+"Çocuk Sağlığı ve Hastalıkları Uzmanı (Pediatrist)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dermatoloji Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dermatoloji (Cildiye) Uzmanı",
+"Doctor"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanı",
+"Infectious Diseases & Clinical Microbiology Specialist (MD)"
+],
+"sektorler": [
+"HEALTHCARE",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fiziksel Tıp ve Rehabilitasyon Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Doktor",
+"Fiziksel Tıp ve Rehabilitasyon Uzmanı",
+"Physical Medicine & Rehabilitation Specialist (MD)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Genel Cerrahi Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Cerrah",
+"Genel Cerrahi Uzman Hekimi",
+"Genel Cerrahi Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Göğüs Hastalıkları Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Göğüs Hastalıkları Uzman Hekimi",
+"Göğüs Hastalıkları Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Göz Hastalıkları Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Göz Hastalıkları (Oftalmoloji) Uzmanı",
+"Göz Hastalıkları Uzman Hekimi (Oftalmolog)",
+"Göz Hastalıkları Uzman Hekimi (Retina ve Vitrektomi Cerrahı)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İç Hastalıkları Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Dahiliye (İç Hastalıkları) Uzman Hekimi",
+"Doctor",
+"Uzman Hekim (İç Hastalıkları",
+"Uzman Hekim (İç Hastalıkları / Dahiliye)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kadın Hastalıkları ve Doğum Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Doktor",
+"Kadın Hastalıkları ve Doğum Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalp ve Damar Cerrahisi Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kardiyovasküler Cerrahi (KVC) Uzman Hekimi",
+"Surgeon"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kardiyoloji Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kardiyoloji Uzman Hekimi",
+"Uzman Hekim (Kardiyoloji)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klinik Biyokimya Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Klinik Biyokimya Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": [
+"213"
+]
+},
+{
+"specialty": "Kulak Burun Boğaz Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kulak Burun Boğaz (KBB) Uzman Hekimi",
+"Kulak Burun Boğaz (KBB) Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Nöroloji Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Nöroloji Uzman Hekimi",
+"Nöroloji Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ortopedi ve Travmatoloji Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Cerrah",
+"Orthopedic Surgeon (Physician)",
+"Ortopedi ve Travmatoloji Uzman Hekimi",
+"Uzman Hekim (Ortopedi ve Travmatoloji)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Patoloji Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Patoloji Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik, Rekonstrüktif ve Estetik Cerrahi Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Plastik, Rekonstrüktif ve Estetik Cerrahi Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Psikiyatri Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Doctor"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radyasyon Onkolojisi Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Radyasyon Onkolojisi Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radyoloji Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Doktor",
+"Radyoloji Uzman Hekimi",
+"Radyoloji ve Girişimsel Radyoloji Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Onkoloji Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tıbbi Onkoloji Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üroloji Uzmanı",
+"isco4": "2212",
+"isco_title": "Specialist medical practitioners",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Üroloji Uzman Hekimi",
+"Üroloji Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Acil Servis Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Acil Servis Hemşiresi (Junior ER Nurse)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ameliyathane Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ameliyathane Hemşiresi (Scrub/Circulating - Yetiştirilmek Üzere)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Diyaliz Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Diyaliz Ünitesi Hemşiresi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Enfeksiyon Kontrol Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Enfeksiyon Kontrol Hemşiresi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Evde Sağlık Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Evde Sağlık ve Bakım Hemşiresi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hemşire",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 9,
+"n_job": 6,
+"ornek_unvanlar": [
+"Hemşire",
+"Hemşirelik Fakültesi Stajyeri",
+"Kemik İliği Nakil Ünitesi Hemşiresi (BMT Nurse)",
+"Kıdemli Ameliyathane Sorumlu Hemşiresi",
+"Kıdemli Onkoloji ve Kemoterapi Sorumlu Hemşiresi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İşyeri Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İşyeri Hemşiresi / Diğer Sağlık Personeli (DSP)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Onkoloji Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Onkoloji ve Kemoterapi Ünitesi Hemşiresi (Junior)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Palyatif Bakım Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Palyatif Bakım ve Yaşlı Sağlığı Hemşiresi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pediatri Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Pediatri (Çocuk Sağlığı) Servis Hemşiresi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Poliklinik Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Poliklinik ve Konsültasyon Hemşiresi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Servis Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Servis Hemşiresi",
+"Servis Hemşiresi (Yetiştirilmek Üzere)",
+"Stajyer Hemşirelik ve Hasta Bakım Asistanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yenidoğan Yoğun Bakım Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Nurse",
+"Yenidoğan Yoğun Bakım Hemşiresi (NICU Nurse)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yoğun Bakım Hemşiresi",
+"isco4": "2221",
+"isco_title": "Nursing professionals",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Nurse",
+"Yoğun Bakım Hemşiresi",
+"Yoğun Bakım Hemşiresi (Erişkin KVC / Genel Yoğun Bakım)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veteriner Hekim",
+"isco4": "2250",
+"isco_title": "Veterinarians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Büyükbaş Çiftlik Veteriner Hekimi"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağız, Diş ve Çene Cerrahisi Uzmanı",
+"isco4": "2261",
+"isco_title": "Dentists",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Diş Hekimi",
+"Oral & Maxillofacial Surgeon"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Diş Hekimi",
+"isco4": "2261",
+"isco_title": "Dentists",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Dentist",
+"Diş Hekimi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endodonti Uzmanı",
+"isco4": "2261",
+"isco_title": "Dentists",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Diş Hekimi",
+"Endodonti (Kanal Tedavisi) Uzmanı (Diş Hekimi)",
+"Endodontist (Root Canal Dental Specialist)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ortodontist",
+"isco4": "2261",
+"isco_title": "Dentists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Orthodontist",
+"Ortodontist (Diş Hekimi)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pedodonti Uzmanı",
+"isco4": "2261",
+"isco_title": "Dentists",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dentist",
+"Pedodonti (Çocuk Diş Hekimi)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Periodontoloji Uzmanı",
+"isco4": "2261",
+"isco_title": "Dentists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Periodontoloji (Diş Eti Hastalıkları) Uzmanı",
+"Periodontoloji (Diş Eti Hastalıkları) Uzmanı (Diş Hekimi)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Protetik Diş Tedavisi Uzmanı",
+"isco4": "2261",
+"isco_title": "Dentists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Protetik Diş Tedavisi Uzmanı",
+"Protetik Diş Tedavisi Uzmanı (Diş Hekimi)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Eczacı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Chief Pharmacist",
+"Eczacı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Farmakovijilans Uzmanı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 1,
+"n_job": 4,
+"ornek_unvanlar": [
+"Farmakovijilans Uzmanı (QPPV Yardımcısı)",
+"Farmakovijilans ve İlaç Güvenliği Asistanı",
+"Farmakovijilans ve İlaç Güvenliği Uzmanı",
+"Kıdemli Farmakovijilans ve İlaç Güvenliği Lideri (QPPV)"
+],
+"sektorler": [
+"HEALTHCARE",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hastane Eczacısı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Hastane Eczacısı (Klinik Eczacı)",
+"Kıdemli Eczacılık Hizmetleri ve İlaç Lojistiği Müdürü",
+"Pharmacist"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaç Formülasyon Geliştirme Uzmanı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Farmasötik Teknoloji Asistanı",
+"Formülasyon Geliştirme Uzmanı (Solid Dozaj)",
+"Kıdemli Formülasyon Ar-Ge Uzmanı (Parenteral & İnhalasyon)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaç Formülasyon Uzmanı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Liyofilize ve Steril Ürün Formülasyon Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaç Kalite Güvence Uzmanı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Eczacı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": [
+"214"
+]
+},
+{
+"specialty": "İlaç Ruhsatlandırma Uzmanı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Medikal Ruhsatlandırma ve CTD Dosya Uzmanı",
+"Ruhsatlandırma Uzman Yardımcısı (Regulatory Affairs Assistant)",
+"Ruhsatlandırma Uzmanı (Regulatory Affairs Specialist)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": [
+"24"
+]
+},
+{
+"specialty": "İlaç Teknoloji Transfer Uzmanı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İlaç Formülasyon ve Ölçek Büyütme (Scale-Up) Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klinik Eczacı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Clinical Pharmacist (Hospital Inpatient Care)",
+"Hastaneler Klinik Eczacılık Uzmanı",
+"Pharmacist"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mesul Müdür Eczacı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Eczacı",
+"Eczacı (Mesul Müdür)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Onkoloji Eczacısı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oncology Pharmacy & Chemotherapy Preparation Lead",
+"Onkoloji Eczacılığı ve Kemoterapi Hazırlama Sorumlusu"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radyofarmasi Eczacısı",
+"isco4": "2262",
+"isco_title": "Pharmacists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Radyofarmasi ve Nükleer Tıp Eczacısı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "A Sınıfı İş Güvenliği Uzmanı",
+"isco4": "2263",
+"isco_title": "Environmental and occupational health and hygiene professionals",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"A Sınıfı İş Güvenliği Uzmanı",
+"Class A Occupational Health & Safety Specialist"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "B Sınıfı İş Güvenliği Uzmanı",
+"isco4": "2263",
+"isco_title": "Environmental and occupational health and hygiene professionals",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"B Sınıfı İş Güvenliği Uzmanı",
+"Class B Occupational Health & Safety Specialist"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çevre, İş Sağlığı ve Güvenliği Mühendisi",
+"isco4": "2263",
+"isco_title": "Environmental and occupational health and hygiene professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çevre ve İSG Entegre Yönetim Sistemleri Mühendisi (ISO 14001 / ISO 45001)",
+"Çevre, İş Sağlığı ve Güvenliği (İSG) & Tesis Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Güvenliği Uzmanı",
+"isco4": "2263",
+"isco_title": "Environmental and occupational health and hygiene professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ergonomi ve İş Güvenliği Mühendisliği Uzmanı (İSG A Sınıfı)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Sağlığı Güvenliği ve Çevre Müdürü",
+"isco4": "2263",
+"isco_title": "Environmental and occupational health and hygiene professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Şantiye İSG ve Çevre (HSE) Müdürü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": [
+"12"
+]
+},
+{
+"specialty": "İş Sağlığı ve Ergonomi Uzmanı",
+"isco4": "2263",
+"isco_title": "Environmental and occupational health and hygiene professionals",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Occupational Ergonomics & Health Specialist",
+"İş Sağlığı ve Ergonomi Uzmanı"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Sağlığı ve Güvenliği Koordinasyon Uzmanı",
+"isco4": "2263",
+"isco_title": "Environmental and occupational health and hygiene professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çalışan Sağlığı ve İSG Koordinasyon Uzmanı"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Sağlığı ve Güvenliği Uzmanı",
+"isco4": "2263",
+"isco_title": "Environmental and occupational health and hygiene professionals",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"İş Sağlığı ve Güvenliği Koordinatörü (İSG / İK)",
+"Şantiye İSG Uzmanı (A/B Sınıfı)",
+"Şantiye İSG Uzmanı (C Sınıfı)",
+"Şantiye İş Sağlığı ve Güvenliği Koordinatörü (A Sınıfı İSG Uzmanı)"
+],
+"sektorler": [
+"CONSTRUCTION",
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radyasyon Güvenliği ve Nükleer Ölçüm Uzmanı",
+"isco4": "2263",
+"isco_title": "Environmental and occupational health and hygiene professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Radyasyon Güvenliği ve Nükleer Ölçüm Uzmanı"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tehlikeli Madde Depolama Denetçisi",
+"isco4": "2263",
+"isco_title": "Environmental and occupational health and hygiene professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Tehlikeli Madde Depolama ve SEÇ-G Denetmeni"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tehlikeli Madde Güvenlik Danışmanı",
+"isco4": "2263",
+"isco_title": "Environmental and occupational health and hygiene professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tehlikeli Madde Lojistiği ve Güvenlik Danışmanı (ADR / IMDG / DGR)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fizyoterapist",
+"isco4": "2264",
+"isco_title": "Physiotherapists",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"Fizyoterapist",
+"Kıdemli Fizik Tedavi ve Rehabilitasyon Koordinatörü",
+"Uzman Fizyoterapist (Nörolojik ve Ortopedik Rehabilitasyon)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Diyetisyen",
+"isco4": "2265",
+"isco_title": "Dieticians and nutritionists",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"Beslenme ve Diyet Uzmanı",
+"Dietitian",
+"Diyetisyen",
+"Klinik Diyetisyen ve Beslenme Uzmanı",
+"Kıdemli Diyetetik ve Kurumsal Beslenme Hizmetleri Müdürü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+}
+]

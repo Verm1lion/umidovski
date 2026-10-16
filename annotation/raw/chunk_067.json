@@ -1,0 +1,15 @@
+[
+{"id": "C10534", "isco4": "3331", "isco_title": "Clearing and forwarding agents", "specialty": "Uluslararası Taşımacılık Uzmanı", "collar": "WHITE", "seniority": 1, "conf": 2},
+{"id": "J0501", "isco4": "3331", "isco_title": "Clearing and forwarding agents", "specialty": "Uluslararası Taşımacılık Uzmanı", "collar": "WHITE", "seniority": 2, "conf": 2},
+{"id": "J0134", "isco4": "9333", "isco_title": "Freight handlers", "specialty": "Yükleme Boşaltma İşçisi", "collar": "BLUE", "seniority": 1, "conf": 3},
+{"id": "J0133", "isco4": "9333", "isco_title": "Freight handlers", "specialty": "Yükleme Boşaltma İşçisi", "collar": "BLUE", "seniority": 1, "conf": 3},
+{"id": "J0750", "isco4": "2521", "isco_title": "Database designers and administrators", "specialty": "Veri Ambarı Mimarı", "collar": "WHITE", "seniority": 2, "conf": 3},
+{"id": "C10581", "isco4": "1324", "isco_title": "Supply, distribution and related managers", "specialty": "Depo ve Dağıtım Müdürü", "collar": "WHITE", "seniority": 4, "conf": 3},
+{"id": "J2280", "isco4": "4321", "isco_title": "Stock clerks", "specialty": "Envanter Kontrol Uzmanı", "collar": "WHITE", "seniority": 2, "conf": 2},
+{"id": "C20758", "isco4": "8344", "isco_title": "Lifting truck operators", "specialty": "Yaya Kumandalı Akülü İstifleyici Operatörü", "collar": "BLUE", "seniority": 2, "conf": 3},
+{"id": "C11980", "isco4": "2421", "isco_title": "Management and organization analysts", "specialty": "Yedek Parça Planlama Uzmanı", "collar": "WHITE", "seniority": 2, "conf": 1},
+{"id": "C11920", "isco4": "2133", "isco_title": "Environmental protection professionals", "specialty": "Yeşil Tedarik Zinciri ve Karbon Emisyonu Uzmanı", "collar": "WHITE", "seniority": 2, "conf": 2},
+{"id": "J0245", "isco4": "9333", "isco_title": "Freight handlers", "specialty": "Yükleme Boşaltma İşçisi", "collar": "BLUE", "seniority": 1, "conf": 3},
+{"id": "C20291", "isco4": "9333", "isco_title": "Freight handlers", "specialty": "Yükleme Boşaltma İşçisi", "collar": "BLUE", "seniority": 2, "conf": 3},
+{"id": "C20299", "isco4": "9333", "isco_title": "Freight handlers", "specialty": "Yükleme Boşaltma İşçisi", "collar": "BLUE", "seniority": 2, "conf": 3}
+]

@@ -1,0 +1,559 @@
+[
+{
+"specialty": "Astrofizik ve Uzay Bilimleri Araştırmacısı",
+"isco4": "2111",
+"isco_title": "Physicists and astronomers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Astrofizik ve Uzay Bilimleri Araştırmacısı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fizik Mühendisi",
+"isco4": "2111",
+"isco_title": "Physicists and astronomers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Fizik Mühendisi (Optik & Sensör Testleri)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fizikçi",
+"isco4": "2111",
+"isco_title": "Physicists and astronomers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fizikçi",
+"Physicist"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hesaplamalı Fizik Uzmanı",
+"isco4": "2111",
+"isco_title": "Physicists and astronomers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hesaplamalı Fizik ve Malzeme Simülasyon Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radyasyon Onkolojisi Medikal Fizikçisi",
+"isco4": "2111",
+"isco_title": "Physicists and astronomers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Radiation Oncology Medical Physicist",
+"Radyasyon Onkolojisi Medikal Fizikçisi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Meteoroloji Mühendisi",
+"isco4": "2112",
+"isco_title": "Meteorologists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Meteoroloji Mühendisi ve Sayısal Hava Tahmincisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Analitik Kimyager",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Chemist"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Analitik Metot Geliştirme Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kıdemli Analitik Metot Validasyon Uzmanı",
+"Kıdemli Kromatografi & Spektroskopi Analisti",
+"İlaç Analitik Geliştirme Kimyageri (HPLC / GC)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Analitik Metot Geliştirme Uzmanı",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Analitik Ar-Ge Kromatografi Uzmanı (LC-MS/MS)",
+"Analitik Geliştirme ve Validasyon Grup Lideri",
+"Analitik Metot Geliştirme ve Validasyon Uzmanı (HPLC/GC)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Analitik Metot Transfer Uzmanı",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Analitik Transfer ve Ar-Ge Koordinatörü"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aroma ve Lezzet Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Aroma ve Lezzet Kimyageri (Flavourist)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boya ve Kaplama Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Paint & Surface Coatings Chemistry Specialist"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boya ve Kaplama Kimyası Uzmanı",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Boya Pigmentleri ve Renk Kimyası Uzmanı",
+"Boya ve Kaplama Kimyası Ar-Ge Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrokimya ve Batarya Ar-Ge Uzmanı",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Elektrokimya ve Pil Teknolojileri Kimyageri",
+"Kıdemli Elektrokimya ve Batarya Ar-Ge Mühendisi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrokimya ve Batarya Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Electrochemistry & Battery Technologies Chemist"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Formülasyon Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Ar-Ge Formülasyon Kimyageri",
+"Kıdemli Zirai İlaç Formülasyon Kimyageri",
+"R&D Formulation Chemist",
+"Zirai İlaç Formülasyon Kimyageri"
+],
+"sektorler": [
+"AGRICULTURE",
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaç Analitik Kalite Kontrol Mühendisi",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İlaç Kalite Kontrol Analitik Kimya Mühendisi (HPLC / GC Validasyonu)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaç Kalite Kontrol Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kıdemli İlaç Kalite Kontrol (QC) Uzmanı",
+"İlaç Kalite Kontrol (QC) Kimyageri",
+"İlaç Kalite Kontrol (QC) Kimyageri (Yetiştirilmek Üzere)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaç Stabilite Uzmanı",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Stabilite ve Raf Ömrü Belirleme Uzmanı",
+"İlaç Stabilite Çalışmaları Uzmanı",
+"İlaç ve Tıbbi Ürünlerde Stabilite Kabinleri ve Raf Ömrü Kalite Uzmanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Kontrol Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kalite Kontrol Kimyageri"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Katalizör Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Katalizör ve Proses Kimyageri"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kimyager",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Junior Kimya Laboratuvar Analisti",
+"Junior Kimyager (Formülasyon & Kalite Analitiği)",
+"Kimya / Biyomühendislik Ar-Ge Laboratuvar Stajyeri",
+"Kimyager"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kromatografi Analisti",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kromatografi (HPLC",
+"Kromatografi (HPLC / GC-MS) Kıdemli Analisti"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kütle Spektrometrisi Uzmanı",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kütle Spektrometrisi (MS/MS) Uzmanı",
+"Mass Spectrometry (LC-MS"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Nanoteknoloji ve Yüzey Kimyası Araştırmacısı",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Nanoteknoloji ve Yüzey Kimyası Araştırmacısı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Nükleer Manyetik Rezonans Spektroskopisti",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Nükleer Manyetik Rezonans (NMR) Spektroskopisti"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Organik Sentez Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Organik Sentez ve İlaç Kimyası Araştırmacısı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Parfüm ve Esans Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fragrance & Essential Oils Chemist (Perfumer)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Parfümör",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Koku ve Esans Kimyacısı (Parfümör)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Polimer Karakterizasyon ve Reoloji Uzmanı",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Polymer Characterization & Rheology Specialist"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Proses Geliştirme Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli API Proses Geliştirme Kimyageri"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radyofarmasötik Kalite Kontrol Analisti",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Nükleer İlaç Radyofarmasi Kalite Kontrol Analisti"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sentez ve Proses Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"API (Aktif Farmasötik Madde) Sentez ve Proses Kimyageri"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Stabilite Uzmanı",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Stabilite Takip Uzman Yardımcısı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yakıt ve Madeni Yağ Formülasyon Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yakıt ve Madeni Yağ Formülasyon Kimyageri"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapıştırıcı ve Reçine Formülasyon Kimyageri",
+"isco4": "2113",
+"isco_title": "Chemists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Adhesives & Resins Formulation Chemist"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Jeoloji Mühendisi",
+"isco4": "2114",
+"isco_title": "Geologists and geophysicists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Geological Engineer",
+"Jeoloji Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oşinografi ve Deniz Bilimleri Uzmanı",
+"isco4": "2114",
+"isco_title": "Geologists and geophysicists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oşinografi ve Deniz Bilimleri Uzmanı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+}
+]

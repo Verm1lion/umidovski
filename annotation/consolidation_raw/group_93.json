@@ -1,0 +1,23 @@
+[
+{"specialty": "Rok Yağcısı", "isco4": "9311", "canonical_specialty": "Rok Yağcısı", "canonical_isco4": "9311"},
+{"specialty": "Taş ve Maden Ocağı İşçisi", "isco4": "9311", "canonical_specialty": "Taş ve Maden Ocağı İşçisi", "canonical_isco4": "9311"},
+{"specialty": "İnşaat İşçisi", "isco4": "9313", "canonical_specialty": "İnşaat İşçisi", "canonical_isco4": "9313"},
+{"specialty": "Saha İşçisi", "isco4": "9313", "canonical_specialty": "Saha İşçisi", "canonical_isco4": "9329"},
+{"specialty": "Paketleme Elemanı", "isco4": "9321", "canonical_specialty": "Paketleme Elemanı", "canonical_isco4": "9321"},
+{"specialty": "Fabrika Meydancısı", "isco4": "9329", "canonical_specialty": "Fabrika Meydancısı", "canonical_isco4": "9329"},
+{"specialty": "Fabrika Üretim Elemanı", "isco4": "9329", "canonical_specialty": "Üretim Elemanı", "canonical_isco4": "9329"},
+{"specialty": "Genel Fabrika İşçisi", "isco4": "9329", "canonical_specialty": "Üretim Elemanı", "canonical_isco4": "9329"},
+{"specialty": "Gıda Üretim İşçisi", "isco4": "9329", "canonical_specialty": "Üretim Elemanı", "canonical_isco4": "9329"},
+{"specialty": "Pres Hattı Üretim Elemanı", "isco4": "9329", "canonical_specialty": "Pres Hattı Üretim Elemanı", "canonical_isco4": "9329"},
+{"specialty": "Saha İşçisi", "isco4": "9329", "canonical_specialty": "Saha İşçisi", "canonical_isco4": "9329"},
+{"specialty": "Toz Boya Askı Elemanı", "isco4": "9329", "canonical_specialty": "Toz Boya Askı Elemanı", "canonical_isco4": "9329"},
+{"specialty": "Üretim Elemanı", "isco4": "9329", "canonical_specialty": "Üretim Elemanı", "canonical_isco4": "9329"},
+{"specialty": "Depo Elemanı", "isco4": "9333", "canonical_specialty": "Depo Elemanı", "canonical_isco4": "9333"},
+{"specialty": "Havalimanı Bagaj ve Ramp Görevlisi", "isco4": "9333", "canonical_specialty": "Havalimanı Bagaj ve Ramp Görevlisi", "canonical_isco4": "9333"},
+{"specialty": "Liman Yükleme Elemanı", "isco4": "9333", "canonical_specialty": "Liman Yükleme Elemanı", "canonical_isco4": "9333"},
+{"specialty": "Ramp ve Bagaj Yükleme Görevlisi", "isco4": "9333", "canonical_specialty": "Havalimanı Bagaj ve Ramp Görevlisi", "canonical_isco4": "9333"},
+{"specialty": "Sipariş Toplama Elemanı", "isco4": "9333", "canonical_specialty": "Depo Elemanı", "canonical_isco4": "9333"},
+{"specialty": "Yükleme Boşaltma Elemanı", "isco4": "9333", "canonical_specialty": "Depo Elemanı", "canonical_isco4": "9333"},
+{"specialty": "Yükleme Boşaltma İşçisi", "isco4": "9333", "canonical_specialty": "Depo Elemanı", "canonical_isco4": "9333"},
+{"specialty": "Reyon Görevlisi", "isco4": "9334", "canonical_specialty": "Reyon Görevlisi", "canonical_isco4": "9334"}
+]

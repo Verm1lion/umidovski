@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30651",
+  "target_occ_key": "3152:deniz_kurtarma_ve_kaza_inceleme_uzmani",
+  "target_specialty": "Deniz Kurtarma ve Kaza İnceleme Uzmanı",
+  "target_isco4": "3152",
+  "target_isco_title": "Ships' deck officers and pilots",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Deniz Kazaları İnceleme ve Kurtarma Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30652",
+  "target_occ_key": "3152:dinamik_konumlandirma_operatoru",
+  "target_specialty": "Dinamik Konumlandırma Operatörü",
+  "target_isco4": "3152",
+  "target_isco_title": "Ships' deck officers and pilots",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Dinamik Konumlandırma Operatörü (DPO)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30653",
+  "target_occ_key": "3152:marin_enspektor",
+  "target_specialty": "Marin Enspektör",
+  "target_isco4": "3152",
+  "target_isco_title": "Ships' deck officers and pilots",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Tanker Güvenlik ve Enspektörü (Marine / Vetting Superintendent)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30654",
+  "target_occ_key": "3152:yat_kaptani",
+  "target_specialty": "Yat Kaptanı",
+  "target_isco4": "3152",
+  "target_isco_title": "Ships' deck officers and pilots",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Gemi Kaptanı (Yat / Kıyı Seyri)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30655",
+  "target_occ_key": "3153:deneysel_ucus_test_pilotu",
+  "target_specialty": "Deneysel Uçuş Test Pilotu",
+  "target_isco4": "3153",
+  "target_isco_title": "Aircraft pilots and related associate professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Deneysel Uçuş Test Pilotu (Experimental Test Pilot)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30656",
+  "target_occ_key": "3153:helikopter_pilotu",
+  "target_specialty": "Helikopter Pilotu",
+  "target_isco4": "3153",
+  "target_isco_title": "Aircraft pilots and related associate professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Helikopter Kaptan Pilotu (Offshore / Ambulans)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30657",
+  "target_occ_key": "3154:hava_trafik_kontroloru",
+  "target_specialty": "Hava Trafik Kontrolörü",
+  "target_isco4": "3154",
+  "target_isco_title": "Air traffic controllers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Hava Trafik Kontrolörü (ATC)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30658",
+  "target_occ_key": "3211:nukleer_tip_teknikeri",
+  "target_specialty": "Nükleer Tıp Teknikeri",
+  "target_isco4": "3211",
+  "target_isco_title": "Medical imaging and therapeutic equipment technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Nükleer Tıp Teknikeri (PET-CT & Sintigrafi)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30659",
+  "target_occ_key": "3212:patoloji_laboratuvar_teknikeri",
+  "target_specialty": "Patoloji Laboratuvar Teknikeri",
+  "target_isco4": "3212",
+  "target_isco_title": "Medical and pathology laboratory technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Patoloji Laboratuvar Teknikeri"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30660",
+  "target_occ_key": "3214:dis_protez_teknisyeni",
+  "target_specialty": "Diş Protez Teknisyeni",
+  "target_isco4": "3214",
+  "target_isco_title": "Medical and dental prosthetic technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Diş Protez Laboratuvar Teknisyeni"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30661",
+  "target_occ_key": "3240:veteriner_saglik_teknikeri",
+  "target_specialty": "Veteriner Sağlık Teknikeri",
+  "target_isco4": "3240",
+  "target_isco_title": "Veterinary technicians and assistants",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Çiftlik Veteriner Sağlık Teknikeri"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30662",
+  "target_occ_key": "3251:dis_hekimi_asistani",
+  "target_specialty": "Diş Hekimi Asistanı",
+  "target_isco4": "3251",
+  "target_isco_title": "Dental assistants and therapists",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Diş Hekimi Asistanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30663",
+  "target_occ_key": "3255:fizyoterapi_teknikeri",
+  "target_specialty": "Fizyoterapi Teknikeri",
+  "target_isco4": "3255",
+  "target_isco_title": "Physiotherapy technicians and assistants",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Fizyoterapi ve Rehabilitasyon Teknikeri"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30664",
+  "target_occ_key": "3257:endustriyel_hijyen_uzmani",
+  "target_specialty": "Endüstriyel Hijyen Uzmanı",
+  "target_isco4": "3257",
+  "target_isco_title": "Environmental and occupational health inspectors and associates",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "JANITORIAL_FACILITY",
+  "industry_tr": "Temizlik ve Tesis Hizmetleri",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Endüstriyel Hijyen ve Kimyasal Uygulama Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30665",
+  "target_occ_key": "3257:gida_guvenligi_denetcisi",
+  "target_specialty": "Gıda Güvenliği Denetçisi",
+  "target_isco4": "3257",
+  "target_isco_title": "Environmental and occupational health inspectors and associates",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Kıdemli Mutfak Hijyen ve Gıda Güvenliği (HACCP) Denetmeni"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30666",
+  "target_occ_key": "3257:iskele_ve_yuksekte_calisma_guvenlik_elemani",
+  "target_specialty": "İskele ve Yüksekte Çalışma Güvenlik Elemanı",
+  "target_isco4": "3257",
+  "target_isco_title": "Environmental and occupational health inspectors and associates",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Şantiye İskele ve Yüksekte Çalışma Güvenlik Postabaşısı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30667",
+  "target_occ_key": "3257:tibbi_atik_yonetimi_uzmani",
+  "target_specialty": "Tıbbi Atık Yönetimi Uzmanı",
+  "target_isco4": "3257",
+  "target_isco_title": "Environmental and occupational health inspectors and associates",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "JANITORIAL_FACILITY",
+  "industry_tr": "Temizlik ve Tesis Hizmetleri",
+  "city": "Adana",
+  "example_job_titles": [
+   "Hastane Çevre Sağlığı ve Atık Yönetimi Şefi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30668",
+  "target_occ_key": "3259:odyometri_teknikeri",
+  "target_specialty": "Odyometri Teknikeri",
+  "target_isco4": "3259",
+  "target_isco_title": "Health associate professionals not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Konya",
+  "example_job_titles": [
+   "Odyometri (İşitme Testi) Teknikeri"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30669",
+  "target_occ_key": "3311:kambiyo_ve_doviz_masasi_tuccari",
+  "target_specialty": "Kambiyo ve Döviz Masası Tüccarı",
+  "target_isco4": "3311",
+  "target_isco_title": "Securities and finance dealers and brokers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Kambiyo ve Döviz Masası Tüccarı (FX Trader)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30670",
+  "target_occ_key": "3311:turev_araclar_ve_takas_operasyon_uzmani",
+  "target_specialty": "Türev Araçlar ve Takas Operasyon Uzmanı",
+  "target_isco4": "3311",
+  "target_isco_title": "Securities and finance dealers and brokers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Türev Araçlar ve Takas Operasyon Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30671",
+  "target_occ_key": "3312:dis_ticaret_finansmani_uzmani",
+  "target_specialty": "Dış Ticaret Finansmanı Uzmanı",
+  "target_isco4": "3312",
+  "target_isco_title": "Credit and loans officers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Dış Ticaret Finansmanı Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30672",
+  "target_occ_key": "3312:problem_krediler_takip_uzmani",
+  "target_specialty": "Problem Krediler Takip Uzmanı",
+  "target_isco4": "3312",
+  "target_isco_title": "Credit and loans officers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Adana",
+  "example_job_titles": [
+   "Problem Krediler ve Tasfiye Portföy Sorumlusu"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30673",
+  "target_occ_key": "3312:ticari_bankacilik_portfoy_yoneticisi",
+  "target_specialty": "Ticari Bankacılık Portföy Yöneticisi",
+  "target_isco4": "3312",
+  "target_isco_title": "Credit and loans officers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Gaziantep",
+  "example_job_titles": [
+   "KOBİ ve Ticari Krediler Portföy Yöneticisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30674",
+  "target_occ_key": "3313:odeme_sistemleri_mutabakat_uzmani",
+  "target_specialty": "Ödeme Sistemleri Mutabakat Uzmanı",
+  "target_isco4": "3313",
+  "target_isco_title": "Accounting associate professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Ödeme Sistemleri ve Takasbank Mutabakat Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30675",
+  "target_occ_key": "3315:gayrimenkul_degerleme_uzmani",
+  "target_specialty": "Gayrimenkul Değerleme Uzmanı",
+  "target_isco4": "3315",
+  "target_isco_title": "Valuers and loss assessors",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Gayrimenkul Değerleme Uzmanı (SPK Lisanslı)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ }
+]

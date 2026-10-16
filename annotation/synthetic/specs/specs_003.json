@@ -1,0 +1,474 @@
+[
+ {
+  "id": "S30076",
+  "target_occ_key": "2433:tibbi_cihaz_aplikasyon_uzmani",
+  "target_specialty": "Tıbbi Cihaz Aplikasyon Uzmanı",
+  "target_isco4": "2433",
+  "target_isco_title": "Technical and medical sales professionals (excluding ICT)",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Samsun",
+  "example_job_titles": [
+   "Tıbbi Cihaz Aplikasyon ve Satış Temsilcisi",
+   "Tıbbi Cihaz Klinik Destek ve Aplikasyon Uzmanı",
+   "Tıbbi Cihaz Ürün Uzmanı (Girişimsel Kardiyoloji)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30077",
+  "target_occ_key": "2512:oyun_gelistirici",
+  "target_specialty": "Oyun Geliştirici",
+  "target_isco4": "2512",
+  "target_isco_title": "Software developers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Oyun Fizik Motoru Geliştiricisi",
+   "Oyun Geliştirici (Unity / C#)",
+   "Oyun Geliştirici (Unreal Engine / C++)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30078",
+  "target_occ_key": "2529:devsecops_muhendisi",
+  "target_specialty": "DevSecOps Mühendisi",
+  "target_isco4": "2529",
+  "target_isco_title": "Database and network professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "DevSecOps Engineer (Shift-Left Security)",
+   "DevSecOps Uzmanı (Konteyner & Altyapı Güvenliği)",
+   "Lead DevSecOps Engineer"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30079",
+  "target_occ_key": "2611:banka_ve_finans_hukuku_avukati",
+  "target_specialty": "Banka ve Finans Hukuku Avukatı",
+  "target_isco4": "2611",
+  "target_isco_title": "Lawyers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Banka ve Finans Hukuku Avukatı",
+   "Banka ve Finans Hukuku Uzmanı",
+   "Bankacılık ve Sermaye Piyasaları Avukatı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30080",
+  "target_occ_key": "2611:is_hukuku_avukati",
+  "target_specialty": "İş Hukuku Avukatı",
+  "target_isco4": "2611",
+  "target_isco_title": "Lawyers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "İzmir",
+  "example_job_titles": [
+   "İş Hukuku ve Arabuluculuk Avukatı",
+   "İş Hukuku ve İşe İade Avukatı",
+   "İş ve Sosyal Güvenlik Hukuku Danışmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30081",
+  "target_occ_key": "3111:kimya_laboratuvar_teknisyeni",
+  "target_specialty": "Kimya Laboratuvar Teknisyeni",
+  "target_isco4": "3111",
+  "target_isco_title": "Chemical and physical science technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Analitik Ar-Ge Teknisyeni",
+   "Kimyasal Analiz Teknisyeni",
+   "Stajyer Ar-Ge Laboratuvar Asistanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30082",
+  "target_occ_key": "3113:elektrik_teknikeri",
+  "target_specialty": "Elektrik Teknikeri",
+  "target_isco4": "3113",
+  "target_isco_title": "Electrical engineering technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Elektrik Teknikeri",
+   "Elektrik-Elektronik Teknikeri",
+   "TEKNİK PERSONEL"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30083",
+  "target_occ_key": "3122:talasli_imalat_ustabasi",
+  "target_specialty": "Talaşlı İmalat Ustabaşı",
+  "target_isco4": "3122",
+  "target_isco_title": "Manufacturing supervisors",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "CNC Talaşlı İmalat Vardiya Amiri",
+   "Kalıphane Talaşlı İmalat Postabaşısı",
+   "Talaşlı İmalat Atölye Ustabaşısı / Şefi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30084",
+  "target_occ_key": "3212:tibbi_laboratuvar_teknikeri",
+  "target_specialty": "Tıbbi Laboratuvar Teknikeri",
+  "target_isco4": "3212",
+  "target_isco_title": "Medical and pathology laboratory technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Biyokimya Laboratuvar Sorumlusu",
+   "Tıbbi Laboratuvar Teknikeri"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30085",
+  "target_occ_key": "3259:anestezi_teknikeri",
+  "target_specialty": "Anestezi Teknikeri",
+  "target_isco4": "3259",
+  "target_isco_title": "Health associate professionals not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Anestezi Teknikeri",
+   "Anestezi Teknikeri (KVC ve Beyin Cerrahisi)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30086",
+  "target_occ_key": "4222:cagri_merkezi_kalite_uzmani",
+  "target_specialty": "Çağrı Merkezi Kalite Uzmanı",
+  "target_isco4": "4222",
+  "target_isco_title": "Contact centre information clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CUSTOMER_SERVICE",
+  "industry_tr": "Müşteri Hizmetleri",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Operasyon Kalite ve Çağrı Değerlendirme Uzmanı",
+   "Çağrı Kalitesi Değerlendirme ve Koçluk Uzmanı",
+   "Çağrı Merkezi Kalite ve Dinleme Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30087",
+  "target_occ_key": "4321:depo_sorumlusu",
+  "target_specialty": "Depo Sorumlusu",
+  "target_isco4": "4321",
+  "target_isco_title": "Stock clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Oto Yedek Parça Depo Sorumlusu",
+   "Soğuk Depo İklimlendirme ve Lojistik Vardiya Sorumlusu",
+   "Zirai Depo ve Sevkiyat Sorumlusu"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30088",
+  "target_occ_key": "4321:stok_kontrol_elemani",
+  "target_specialty": "Stok Kontrol Elemanı",
+  "target_isco4": "4321",
+  "target_isco_title": "Stock clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Depo Sayım ve Stok Doğrulama Görevlisi",
+   "Depo Stok Kontrol ve Sayım Uzmanı (Cycle Count)",
+   "WMS (Depo Yönetim Sistemi) ve Envanter Kontrol Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30089",
+  "target_occ_key": "4323:ucus_harekat_uzmani_dispecer",
+  "target_specialty": "Uçuş Harekat Uzmanı (Dispeçer)",
+  "target_isco4": "4323",
+  "target_isco_title": "Transport clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Hava Trafik Kontrolörü / Uçuş Harekat Uzmanı (Dispatcher)",
+   "Uçuş Harekat Uzmanı (Flight Dispatcher)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30090",
+  "target_occ_key": "5151:temizlik_sefi",
+  "target_specialty": "Temizlik Şefi",
+  "target_isco4": "5151",
+  "target_isco_title": "Cleaning and housekeeping supervisors in offices, hotels and other establishments",
+  "target_collar": "BLUE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "JANITORIAL_FACILITY",
+  "industry_tr": "Temizlik ve Tesis Hizmetleri",
+  "city": "İzmir",
+  "example_job_titles": [
+   "AVM ve Yaşam Merkezi Temizlik Operasyon Sorumlusu",
+   "Temizlik ve Destek Hizmetleri Vardiya Amiri",
+   "Tesis Temizlik Şefi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30091",
+  "target_occ_key": "6113:bahcivan",
+  "target_specialty": "Bahçıvan",
+  "target_isco4": "6113",
+  "target_isco_title": "Gardeners, horticultural and nursery growers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Bahçıvan (Gardener)",
+   "Bahçıvan ve Peyzaj Bakım Elemanı",
+   "Peyzaj ve Bahçe Bakım Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30092",
+  "target_occ_key": "7119:endustriyel_dagci",
+  "target_specialty": "Endüstriyel Dağcı",
+  "target_isco4": "7119",
+  "target_isco_title": "Building frame and related trades workers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Muğla",
+  "example_job_titles": [
+   "Endüstriyel Dağcı (İple Erişim Teknisyeni)",
+   "Rope Access / İple Erişim Teknisyeni",
+   "İple Erişim ve Yüksekte Çalışma Teknisyeni"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30093",
+  "target_occ_key": "7124:dis_cephe_mantolama_ustasi",
+  "target_specialty": "Dış Cephe Mantolama Ustası",
+  "target_isco4": "7124",
+  "target_isco_title": "Insulation workers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Dış Cephe Mantolama ve Dekoratif Sıva Ustası",
+   "Dış Cephe Mantolama ve Fileli Sıva Elemanı",
+   "Taşyünü ve Dış Cephe Yalıtım Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30094",
+  "target_occ_key": "7126:sihhi_tesisat_ustasi",
+  "target_specialty": "Sıhhi Tesisat Ustası",
+  "target_isco4": "7126",
+  "target_isco_title": "Plumbers and pipe fitters",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Mekanik Tesisat ve Sıhhi Tesisat Ustası",
+   "Sıhhi Tesisat Ustası (Plumber)",
+   "Sıhhi Tesisat ve Kombi Ustası"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30095",
+  "target_occ_key": "7214:celik_konstruksiyon_montaj_ustasi",
+  "target_specialty": "Çelik Konstrüksiyon Montaj Ustası",
+  "target_isco4": "7214",
+  "target_isco_title": "Structural-metal preparers and erectors",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Kıdemli Çelik Konstrüksiyon Montaj ve Çatım Başustası",
+   "Çelik Konstrüksiyon Çatıcı & Montaj Ustası",
+   "Çelik Konstrüksiyon Çatım ve Puntalama Elemanı (Başlangıç)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30096",
+  "target_occ_key": "7223:pres_kalip_ayar_ustasi",
+  "target_specialty": "Pres Kalıp Ayar Ustası",
+  "target_isco4": "7223",
+  "target_isco_title": "Metal working machine tool setters and operators",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Hidrolik Derin Çekme Presi Başayarcısı",
+   "Pres Kalıp Bağlama & Ayar Ustası (Die Setter Specialist)",
+   "Progresif Kalıp ve Pres Ayar Başustası"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30097",
+  "target_occ_key": "8121:isil_islem_operatoru",
+  "target_specialty": "Isıl İşlem Operatörü",
+  "target_isco4": "8121",
+  "target_isco_title": "Metal processing plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Muğla",
+  "example_job_titles": [
+   "Isıl İşlem Fırın Operatör Yardımcısı",
+   "Isıl İşlem ve Sementasyon Fırın Operatörü",
+   "Isıl İşlem ve Tavlama Operatörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30098",
+  "target_occ_key": "8153:nakis_makinesi_operatoru",
+  "target_specialty": "Nakış Makinesi Operatörü",
+  "target_isco4": "8153",
+  "target_isco_title": "Sewing machine operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "APPAREL_TEXTILE",
+  "industry_tr": "Tekstil ve Hazır Giyim",
+  "city": "Gaziantep",
+  "example_job_titles": [
+   "Baskı ve Nakış Operatörü",
+   "Endüstriyel Nakış Operatörü",
+   "Otomatik Nakış Makinesi Operatörü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30099",
+  "target_occ_key": "8342:dozer_operatoru",
+  "target_specialty": "Dozer Operatörü",
+  "target_isco4": "8342",
+  "target_isco_title": "Earthmoving and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Buldozer Operatörü",
+   "Kıdemli Dozer ve Ağır Toprak Hareketi Başustası",
+   "Paletli Ağır Dozer Operatörü (CAT D8 / D9)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30100",
+  "target_occ_key": "8342:fore_kazik_makinesi_operatoru",
+  "target_specialty": "Fore Kazık Makinesi Operatörü",
+  "target_isco4": "8342",
+  "target_isco_title": "Earthmoving and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Fore Kazık Makinesi Operatörü (Bauer & Casagrande)",
+   "Fore Kazık Makinesi Yardımcısı ve Bentonit Elemanı",
+   "Kıdemli Fore Kazık ve Zemin İksa Başoperatörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ }
+]

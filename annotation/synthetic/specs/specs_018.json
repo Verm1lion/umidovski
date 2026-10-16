@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30451",
+  "target_occ_key": "2149:metroloji_ve_kalibrasyon_muhendisi",
+  "target_specialty": "Metroloji ve Kalibrasyon Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Junior Enstrüman ve Sensör Kalibrasyon Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30452",
+  "target_occ_key": "2149:mikroakiskan_ar_ge_muhendisi",
+  "target_specialty": "Mikroakışkan Ar-Ge Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Mikroakışkanlar ve Biyosensör Ar-Ge Araştırmacısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30453",
+  "target_occ_key": "2149:mimari_akustik_uzmani",
+  "target_specialty": "Mimari Akustik Uzmanı",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Akustik Mimari Danışmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30454",
+  "target_occ_key": "2149:nanoteknoloji_ve_ileri_malzeme_arastirmacisi",
+  "target_specialty": "Nanoteknoloji ve İleri Malzeme Araştırmacısı",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Nanoteknoloji ve İleri Malzeme Araştırmacısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30455",
+  "target_occ_key": "2149:nukleer_reaktor_guvenligi_uzmani",
+  "target_specialty": "Nükleer Reaktör Güvenliği Uzmanı",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Nükleer Reaktör Güvenliği Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30456",
+  "target_occ_key": "2149:oftalmik_tibbi_cihaz_muhendisi",
+  "target_specialty": "Oftalmik Tıbbi Cihaz Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Göz İçi Lens ve Oftalmik Cihaz Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30457",
+  "target_occ_key": "2149:seramik_proses_muhendisi",
+  "target_specialty": "Seramik Proses Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Seramik Sağlık Gereçleri Proses Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30458",
+  "target_occ_key": "2149:seramik_ve_cam_malzeme_arastirmacisi",
+  "target_specialty": "Seramik ve Cam Malzeme Araştırmacısı",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Junior İleri Seramik ve Cam Araştırmacısı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30459",
+  "target_occ_key": "2149:yangin_guvenligi_ve_kacis_tasarim_muhendisi",
+  "target_specialty": "Yangın Güvenliği ve Kaçış Tasarım Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Yangın Güvenliği ve Kaçış Tasarım Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30460",
+  "target_occ_key": "2151:bina_otomasyon_muhendisi",
+  "target_specialty": "Bina Otomasyon Mühendisi",
+  "target_isco4": "2151",
+  "target_isco_title": "Electrical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Bina Yönetim Sistemleri (BMS) ve Otomasyon Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30461",
+  "target_occ_key": "2151:dinamik_tartim_ve_dolum_sistemleri_muhendisi",
+  "target_specialty": "Dinamik Tartım ve Dolum Sistemleri Mühendisi",
+  "target_isco4": "2151",
+  "target_isco_title": "Electrical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Gaziantep",
+  "example_job_titles": [
+   "Dynamic Weighing & Packaging Automation Engineer"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30462",
+  "target_occ_key": "2151:elektrik_dagitim_ve_sebeke_muhendisi",
+  "target_specialty": "Elektrik Dağıtım ve Şebeke Mühendisi",
+  "target_isco4": "2151",
+  "target_isco_title": "Electrical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Elektrik Dağıtım ve Şebeke Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30463",
+  "target_occ_key": "2151:elektrikli_arac_sarj_sistemleri_muhendisi",
+  "target_specialty": "Elektrikli Araç Şarj Sistemleri Mühendisi",
+  "target_isco4": "2151",
+  "target_isco_title": "Electrical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Junior Elektrikli Araç Şarj Sistemleri ve Test Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30464",
+  "target_occ_key": "2151:hareket_kontrol_muhendisi",
+  "target_specialty": "Hareket Kontrol Mühendisi",
+  "target_isco4": "2151",
+  "target_isco_title": "Electrical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Hareket Kontrolü ve Sürücü Sistemleri Mühendisi (Motion Control)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30465",
+  "target_occ_key": "2152:batarya_yonetim_sistemi_muhendisi",
+  "target_specialty": "Batarya Yönetim Sistemi Mühendisi",
+  "target_isco4": "2152",
+  "target_isco_title": "Electronics engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Batarya Yönetim Sistemi (BMS) Donanım Entegrasyon Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30466",
+  "target_occ_key": "2152:donanim_test_ve_dogrulama_muhendisi",
+  "target_specialty": "Donanım Test ve Doğrulama Mühendisi",
+  "target_isco4": "2152",
+  "target_isco_title": "Electronics engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Donanım Test ve Doğrulama Mühendisi (HIL - Hardware in the Loop)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30467",
+  "target_occ_key": "2152:elektronik_kart_ariza_analiz_muhendisi",
+  "target_specialty": "Elektronik Kart Arıza Analiz Mühendisi",
+  "target_isco4": "2152",
+  "target_isco_title": "Electronics engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Junior Otomotiv Elektronik Kart Arıza Analiz Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30468",
+  "target_occ_key": "2152:elektronik_ve_haberlesme_muhendisi",
+  "target_specialty": "Elektronik ve Haberleşme Mühendisi",
+  "target_isco4": "2152",
+  "target_isco_title": "Electronics engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Elektronik ve Haberleşme Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30469",
+  "target_occ_key": "2152:enstrumantasyon_muhendisi",
+  "target_specialty": "Enstrümantasyon Mühendisi",
+  "target_isco4": "2152",
+  "target_isco_title": "Electronics engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kıdemli Enstrümantasyon ve Proses Kontrol Mühendisi (DCS / SIS)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30470",
+  "target_occ_key": "2152:mems_sensor_tasarim_muhendisi",
+  "target_specialty": "MEMS Sensör Tasarım Mühendisi",
+  "target_isco4": "2152",
+  "target_isco_title": "Electronics engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "Bursa",
+  "example_job_titles": [
+   "MEMS Sensör Tasarım ve Üretim Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30471",
+  "target_occ_key": "2152:radar_ve_elektronik_harp_sistemleri_muhendisi",
+  "target_specialty": "Radar ve Elektronik Harp Sistemleri Mühendisi",
+  "target_isco4": "2152",
+  "target_isco_title": "Electronics engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Radar & Electronic Warfare Systems Engineer"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30472",
+  "target_occ_key": "2161:akustik_mimar",
+  "target_specialty": "Akustik Mimar",
+  "target_isco4": "2161",
+  "target_isco_title": "Building architects",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Akustik ve Konser Salonu Mimarı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30473",
+  "target_occ_key": "2161:hesaplamali_bim_uzmani",
+  "target_specialty": "Hesaplamalı BIM Uzmanı",
+  "target_isco4": "2161",
+  "target_isco_title": "Building architects",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Parametrik Tasarım ve Hesaplamalı BIM Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30474",
+  "target_occ_key": "2161:yangin_guvenligi_ve_tahliye_tasarim_mimari",
+  "target_specialty": "Yangın Güvenliği ve Tahliye Tasarım Mimarı",
+  "target_isco4": "2161",
+  "target_isco_title": "Building architects",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Yangın Güvenlik ve Tahliye Simülasyon Mimarı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30475",
+  "target_occ_key": "2163:ayakkabi_ve_canta_tasarimcisi",
+  "target_specialty": "Ayakkabı ve Çanta Tasarımcısı",
+  "target_isco4": "2163",
+  "target_isco_title": "Product and garment designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Ayakkabı ve Çanta Tasarımcısı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ }
+]

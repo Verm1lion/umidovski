@@ -1,0 +1,452 @@
+[
+ {
+  "id": "S30176",
+  "target_occ_key": "2423:yonetici_arama_danismani",
+  "target_specialty": "Yönetici Arama Danışmanı",
+  "target_isco4": "2423",
+  "target_isco_title": "Personnel and careers professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Headhunter / Üst Düzey Yönetici Seçme Danışmanı",
+   "Yönetici Araştırma (Executive Search) Danışmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30177",
+  "target_occ_key": "2431:donusum_orani_optimizasyonu_uzmani",
+  "target_specialty": "Dönüşüm Oranı Optimizasyonu Uzmanı",
+  "target_isco4": "2431",
+  "target_isco_title": "Advertising and marketing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Büyüme ve Dönüşüm Optimizasyonu (CRO) Uzmanı",
+   "Dönüşüm Oranı Optimizasyonu (CRO) Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30178",
+  "target_occ_key": "2431:e_ticaret_pazarlama_uzmani",
+  "target_specialty": "E-Ticaret Pazarlama Uzmanı",
+  "target_isco4": "2431",
+  "target_isco_title": "Advertising and marketing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Bursa",
+  "example_job_titles": [
+   "E-Ticaret Kampanya ve Ticari Pazarlama Uzmanı",
+   "E-Ticaret Pazarlama Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30179",
+  "target_occ_key": "2432:ic_iletisim_uzmani",
+  "target_specialty": "İç İletişim Uzmanı",
+  "target_isco4": "2432",
+  "target_isco_title": "Public relations professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "İç İletişim ve Çalışan Bağlılığı Sorumlusu",
+   "İç İletişim ve Şirket Kültürü Sorumlusu"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30180",
+  "target_occ_key": "2433:tibbi_cihaz_satis_temsilcisi",
+  "target_specialty": "Tıbbi Cihaz Satış Temsilcisi",
+  "target_isco4": "2433",
+  "target_isco_title": "Technical and medical sales professionals (excluding ICT)",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Medikal Cihaz ve Sağlık Teknolojileri Satış Uzmanı",
+   "Tıbbi Cihaz ve Sarf Malzeme Satış Asistanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30181",
+  "target_occ_key": "2511:insan_kaynaklari_analitigi_uzmani",
+  "target_specialty": "İnsan Kaynakları Analitiği Uzmanı",
+  "target_isco4": "2511",
+  "target_isco_title": "Systems analysts",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "İK Analitiği ve Raporlama Uzmanı",
+   "İK Analitiği ve Raporlama Uzmanı (People Analytics Specialist)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30182",
+  "target_occ_key": "2512:sistem_yazilim_gelistirici",
+  "target_specialty": "Sistem Yazılım Geliştirici",
+  "target_isco4": "2512",
+  "target_isco_title": "Software developers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "Adana",
+  "example_job_titles": [
+   "Junior Rust Geliştirici (Sistem & Ağ Programlama)",
+   "Kernel and Device Driver Software Developer"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30183",
+  "target_occ_key": "2521:klinik_veri_yonetimi_uzmani",
+  "target_specialty": "Klinik Veri Yönetimi Uzmanı",
+  "target_isco4": "2521",
+  "target_isco_title": "Database designers and administrators",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Klinik Veri Yöneticisi (Clinical Data Manager)",
+   "Klinik Veri Yönetimi (CDM) Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30184",
+  "target_occ_key": "2529:adli_bilisim_uzmani",
+  "target_specialty": "Adli Bilişim Uzmanı",
+  "target_isco4": "2529",
+  "target_isco_title": "Database and network professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Kıdemli Olay Müdahale ve Adli Bilişim Uzmanı (DFIR)",
+   "Siber Olay Müdahale ve Adli Bilişim (DFIR) Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30185",
+  "target_occ_key": "2529:ag_guvenligi_uzmani",
+  "target_specialty": "Ağ Güvenliği Uzmanı",
+  "target_isco4": "2529",
+  "target_isco_title": "Database and network professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Junior Siber Güvenlik Mühendisi (Ağ & Güvenlik Duvarı)",
+   "Kıdemli Sıfır Güven (Zero Trust) Ağ Güvenliği Mimarı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30186",
+  "target_occ_key": "2529:bilgi_guvenligi_ve_uyum_uzmani",
+  "target_specialty": "Bilgi Güvenliği ve Uyum Uzmanı",
+  "target_isco4": "2529",
+  "target_isco_title": "Database and network professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Bilgi Güvenliği ve Uyum Uzmanı (GRC Specialist)",
+   "KVKK ve Bilgi Güvenliği Danışmanı (ISO 27001)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30187",
+  "target_occ_key": "2529:gomulu_sistemler_siber_guvenlik_muhendisi",
+  "target_specialty": "Gömülü Sistemler Siber Güvenlik Mühendisi",
+  "target_isco4": "2529",
+  "target_isco_title": "Database and network professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Gömülü Güvenlik ve Siber Güvenlik Mühendisi (Automotive Cybersecurity - ISO 21434)",
+   "Kıdemli Donanım & IoT Güvenlik Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30188",
+  "target_occ_key": "2529:uygulama_guvenligi_uzmani",
+  "target_specialty": "Uygulama Güvenliği Uzmanı",
+  "target_isco4": "2529",
+  "target_isco_title": "Database and network professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Application Security Specialist (AppSec Engineer)",
+   "Kıdemli Web Uygulama Güvenliği Uzmanı (AppSec)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30189",
+  "target_occ_key": "2611:sermaye_piyasasi_hukuku_avukati",
+  "target_specialty": "Sermaye Piyasası Hukuku Avukatı",
+  "target_isco4": "2611",
+  "target_isco_title": "Lawyers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Kurumsal Yönetim ve Kamuyu Aydınlatma (KAP) Avukatı",
+   "Sermaye Piyasası Hukuku ve Borsa Danışmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30190",
+  "target_occ_key": "2621:sanat_galerisi_kuratoru",
+  "target_specialty": "Sanat Galerisi Küratörü",
+  "target_isco4": "2621",
+  "target_isco_title": "Archivists and curators",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Art Gallery Curator & Collections Director",
+   "Sanat Galerisi Küratörü ve Yöneticisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30191",
+  "target_occ_key": "2634:klinik_psikolog",
+  "target_specialty": "Klinik Psikolog",
+  "target_isco4": "2634",
+  "target_isco_title": "Psychologists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Klinik Psikolog (Yetişkin & Ergen)",
+   "Psikolog ve Aile Danışmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30192",
+  "target_occ_key": "2651:illustrator",
+  "target_specialty": "İllüstratör",
+  "target_isco4": "2651",
+  "target_isco_title": "Visual artists",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Dijital İllüstratör",
+   "Kitap İllüstratörü ve Çizer"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30193",
+  "target_occ_key": "2654:video_kurgu_uzmani",
+  "target_specialty": "Video Kurgu Uzmanı",
+  "target_isco4": "2654",
+  "target_isco_title": "Film, stage and related directors and producers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Video Kurgu ve Montaj Uzmanı",
+   "Video Kurgu ve Post Prodüksiyon Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30194",
+  "target_occ_key": "3122:kaynak_atolyesi_ustabasi",
+  "target_specialty": "Kaynak Atölyesi Ustabaşı",
+  "target_isco4": "3122",
+  "target_isco_title": "Manufacturing supervisors",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kaynak Atölyesi Ustabaşısı / Şefi",
+   "Çelik Konstrüksiyon İmalat ve Kaynak Vardiya Amiri"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30195",
+  "target_occ_key": "3123:kaba_yapi_formeni",
+  "target_specialty": "Kaba Yapı Formeni",
+  "target_isco4": "3123",
+  "target_isco_title": "Construction supervisors",
+  "target_collar": "BLUE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Kaba Yapı Çelik Donatı ve Kalıp Saha Şefi (Pratik Kökenli)",
+   "Kaba Yapı Şantiye Formeni / Çavuşu"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30196",
+  "target_occ_key": "3152:kilavuz_kaptan",
+  "target_specialty": "Kılavuz Kaptan",
+  "target_isco4": "3152",
+  "target_isco_title": "Ships' deck officers and pilots",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Kılavuz Kaptan (Senior Pilot - Liman & Boğaz)",
+   "Kılavuz Kaptan (Boğaz ve Liman Baş Kılavuzu)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30197",
+  "target_occ_key": "3254:optisyen",
+  "target_specialty": "Optisyen",
+  "target_isco4": "3254",
+  "target_isco_title": "Dispensing opticians",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Gözlük Montaj Elemanı / Optisyen",
+   "Optisyen / Gözlük Satış Elemanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30198",
+  "target_occ_key": "3321:sigorta_satis_temsilcisi",
+  "target_specialty": "Sigorta Satış Temsilcisi",
+  "target_isco4": "3321",
+  "target_isco_title": "Insurance representatives",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Satış Pazarlama Ekip Lideri",
+   "Sigorta Ofisi Personel İşe Alım Süreci"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30199",
+  "target_occ_key": "3322:satis_ve_pazarlama_uzmani",
+  "target_specialty": "Satış ve Pazarlama Uzmanı",
+  "target_isco4": "3322",
+  "target_isco_title": "Commercial sales representatives",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Bursa",
+  "example_job_titles": [
+   "SATIŞ & PAZARLAMA ELEMANI",
+   "Sales and Marketing Specialist"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30200",
+  "target_occ_key": "3322:tekstil_musteri_temsilcisi",
+  "target_specialty": "Tekstil Müşteri Temsilcisi",
+  "target_isco4": "3322",
+  "target_isco_title": "Commercial sales representatives",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "APPAREL_TEXTILE",
+  "industry_tr": "Tekstil ve Hazır Giyim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Tekstil Müşteri Temsilcisi (Merchandiser)",
+   "Tekstil ve Kumaş İhracat Müşteri Temsilcisi (Customer Representative)"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

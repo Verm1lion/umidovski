@@ -1,0 +1,452 @@
+[
+ {
+  "id": "S30201",
+  "target_occ_key": "3341:ofis_yoneticisi",
+  "target_specialty": "Ofis Yöneticisi",
+  "target_isco4": "3341",
+  "target_isco_title": "Office supervisors",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "OFFICE_ADMIN_MGMT",
+  "industry_tr": "Ofis, İdari İşler ve Yönetim",
+  "city": "Muğla",
+  "example_job_titles": [
+   "Ofis Yöneticisi (Office Manager)",
+   "Ofis Yöneticisi (Part-Time)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30202",
+  "target_occ_key": "3342:hukuk_sekreteri",
+  "target_specialty": "Hukuk Sekreteri",
+  "target_isco4": "3342",
+  "target_isco_title": "Legal secretaries",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Hukuk Asistanı / Yasal İşler Görevlisi",
+   "Hukuk Sekreteri / Dosya Takip Elemanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30203",
+  "target_occ_key": "3422:yuzme_antrenoru",
+  "target_specialty": "Yüzme Antrenörü",
+  "target_isco4": "3422",
+  "target_isco_title": "Sports coaches, instructors and officials",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SPORTS",
+  "industry_tr": "Spor",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Yüzme Antrenörü / Cankurtaran",
+   "Yüzme ve Su Jimnastiği Eğitmeni"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30204",
+  "target_occ_key": "3423:fitness_egitmeni",
+  "target_specialty": "Fitness Eğitmeni",
+  "target_isco4": "3423",
+  "target_isco_title": "Fitness and recreation instructors and program leaders",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SPORTS",
+  "industry_tr": "Spor",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Fitness Eğitmeni / Gym Trainer",
+   "Personal Trainer (Özel Ders Eğitmeni)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30205",
+  "target_occ_key": "3423:pilates_egitmeni",
+  "target_specialty": "Pilates Eğitmeni",
+  "target_isco4": "3423",
+  "target_isco_title": "Fitness and recreation instructors and program leaders",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SPORTS",
+  "industry_tr": "Spor",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Reform Pilates ve Fonksiyonel Egzersiz Eğitmeni",
+   "Reformer Pilates Eğitmeni"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30206",
+  "target_occ_key": "3435:sahne_isik_ve_dekor_teknisyeni",
+  "target_specialty": "Sahne Işık ve Dekor Teknisyeni",
+  "target_isco4": "3435",
+  "target_isco_title": "Other artistic and cultural associate professionals",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Sahne Işık ve Dekor Teknisyeni",
+   "Sahne ve Işık Tasarım Asistanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30207",
+  "target_occ_key": "4227:gizli_musteri",
+  "target_specialty": "Gizli Müşteri",
+  "target_isco4": "4227",
+  "target_isco_title": "Survey and market research interviewers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Hatay",
+  "example_job_titles": [
+   "TÜRKİYE GENELİNDE MAĞAZA GÖZLEMLEME VE GİZLİ MÜŞTERİLER İÇİN YENİ TAKIM ÜYELERİ GEREKİYOR!",
+   "Tüm Türkiye'de MAĞAZALARIN DENETİMİ İÇİN ARKADAŞLAR ARIYORUZ !"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30208",
+  "target_occ_key": "4229:servis_danismani",
+  "target_specialty": "Servis Danışmanı",
+  "target_isco4": "4229",
+  "target_isco_title": "Client information workers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Yetkili Servis Danışmanı (Hasar / Mekanik)",
+   "Yetkili Servis Kabul ve Hasar Danışmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30209",
+  "target_occ_key": "4311:finansal_mutabakat_uzmani",
+  "target_specialty": "Finansal Mutabakat Uzmanı",
+  "target_isco4": "4311",
+  "target_isco_title": "Accounting and bookkeeping clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Finansal Operasyonlar ve POS Mutabakat Elemanı",
+   "Kartlı Ödeme Sistemleri Operasyon Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30210",
+  "target_occ_key": "4312:saglik_sigortasi_provizyon_uzmani",
+  "target_specialty": "Sağlık Sigortası Provizyon Uzmanı",
+  "target_isco4": "4312",
+  "target_isco_title": "Statistical, finance and insurance clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Hastane Kurumsal Anlaşmalar ve Sigorta Asistanı",
+   "Özel Sağlık Sigortaları ve Provizyon Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30211",
+  "target_occ_key": "4321:antrepo_operasyon_uzmani",
+  "target_specialty": "Antrepo Operasyon Uzmanı",
+  "target_isco4": "4321",
+  "target_isco_title": "Stock clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Antrepo Evrak ve Saha Takip Elemanı (Yetiştirilmek Üzere)",
+   "Antrepo Mal Kabul ve Gümrük Elleçleme Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30212",
+  "target_occ_key": "4321:sevkiyat_elemani",
+  "target_specialty": "Sevkiyat Elemanı",
+  "target_isco4": "4321",
+  "target_isco_title": "Stock clerks",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Lojistik Sevkiyat ve İrsaliye Kontrol Elemanı",
+   "Lojistik ve Sevkiyat Görevlisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30213",
+  "target_occ_key": "4321:tehlikeli_madde_depo_sorumlusu",
+  "target_specialty": "Tehlikeli Madde Depo Sorumlusu",
+  "target_isco4": "4321",
+  "target_isco_title": "Stock clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kimyasal Hammadde ve Sıvı Depo Sorumlusu",
+   "Tehlikeli Madde (ADR) Depo ve Sevkiyat Sorumlusu"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30214",
+  "target_occ_key": "4323:sevkiyat_planlama_uzmani",
+  "target_specialty": "Sevkiyat Planlama Uzmanı",
+  "target_isco4": "4323",
+  "target_isco_title": "Transport clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Trabzon",
+  "example_job_titles": [
+   "Sevkiyat ve Lojistik Planlama Uzmanı",
+   "Sipariş Karşılama ve Yükleme Planlama Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30215",
+  "target_occ_key": "5111:kamarot",
+  "target_specialty": "Kamarot",
+  "target_isco4": "5111",
+  "target_isco_title": "Travel attendants and travel stewards",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kamarot / Gemi Aşçı Yardımcısı",
+   "Konteyner Gemi Başkamarotu (Chief Steward)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30216",
+  "target_occ_key": "5131:sommelier",
+  "target_specialty": "Sommelier",
+  "target_isco4": "5131",
+  "target_isco_title": "Waiters",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "Muğla",
+  "example_job_titles": [
+   "Baş Sommelier / İçecek Direktörü (Head Sommelier)",
+   "Şarap Uzmanı / Sommelier"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30217",
+  "target_occ_key": "5142:manikur_pedikur_uzmani",
+  "target_specialty": "Manikür Pedikür Uzmanı",
+  "target_isco4": "5142",
+  "target_isco_title": "Beauticians and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "BEAUTY_CARE",
+  "industry_tr": "Güzellik ve Kişisel Bakım",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Manikür- Pedikür Uzmanı",
+   "Protez Tırnak Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30218",
+  "target_occ_key": "5223:otomotiv_satis_danismani",
+  "target_specialty": "Otomotiv Satış Danışmanı",
+  "target_isco4": "5223",
+  "target_isco_title": "Shop sales assistants",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Otomotiv Sıfır Araç Satış Danışmanı (Junior)",
+   "Sıfır Araç Showroom Satış Danışmanı ve Temsilcisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30219",
+  "target_occ_key": "5242:promotor",
+  "target_specialty": "Promotör",
+  "target_isco4": "5242",
+  "target_isco_title": "Sales demonstrators",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Fuar ve Tanıtım Etkinlik Destek Personeli",
+   "Promotör"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30220",
+  "target_occ_key": "7112:duvar_ustasi",
+  "target_specialty": "Duvar Ustası",
+  "target_isco4": "7112",
+  "target_isco_title": "Bricklayers and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Tuğla ve Duvar Ustası",
+   "İnşaat Duvar Ustası (Mason)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30221",
+  "target_occ_key": "7114:tunel_kalip_ustasi",
+  "target_specialty": "Tünel Kalıp Ustası",
+  "target_isco4": "7114",
+  "target_isco_title": "Concrete placers, concrete finishers and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Tünel Kalıp Başustası (Tower Erection Chief)",
+   "Tünel Kalıp Ustası (Konut Kuleleri)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30222",
+  "target_occ_key": "7122:epoksi_zemin_kaplama_ustasi",
+  "target_specialty": "Epoksi Zemin Kaplama Ustası",
+  "target_isco4": "7122",
+  "target_isco_title": "Floor layers and tile setters",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Epoksi Zemin Kaplama Ustası",
+   "Epoksi Zemin Kaplama Ustası (Otopark & Endüstriyel)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30223",
+  "target_occ_key": "7123:alci_siva_ustasi",
+  "target_specialty": "Alçı Sıva Ustası",
+  "target_isco4": "7123",
+  "target_isco_title": "Plasterers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Alçı Sıva ve Kartonpiyer Yardımcısı",
+   "Alçı Sıva ve Saten Perdahlama Ustası"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30224",
+  "target_occ_key": "7126:polietilen_boru_alin_kaynakcisi",
+  "target_specialty": "Polietilen Boru Alın Kaynakçısı",
+  "target_isco4": "7126",
+  "target_isco_title": "Plumbers and pipe fitters",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Alın Kaynakçısı Yardımcısı (Polietilen Boru Hatları)",
+   "Boru Alın Kaynakçısı (HDPE & PE100 Altyapı Hatları)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30225",
+  "target_occ_key": "7132:elektrostatik_toz_boya_ustasi",
+  "target_specialty": "Elektrostatik Toz Boya Ustası",
+  "target_isco4": "7132",
+  "target_isco_title": "Spray painters and varnishers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Elektrostatik Toz Boya Uygulama Ustası",
+   "Kıdemli Elektrostatik Toz Boya Hat Sorumlusu & Ustası"
+  ],
+  "style": "kisa ve oz"
+ }
+]

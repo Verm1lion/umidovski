@@ -1,0 +1,327 @@
+[
+{
+"specialty": "Rok Yağcısı",
+"isco4": "9311",
+"isco_title": "Mining and quarrying labourers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"ROK YAĞCISI"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Taş ve Maden Ocağı İşçisi",
+"isco4": "9311",
+"isco_title": "Mining and quarrying labourers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Taş ve Maden Ocağı İşçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnşaat İşçisi",
+"isco4": "9313",
+"isco_title": "Building construction labourers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Amele / Hizmetli",
+"Şantiye Saha Temizlik ve Malzeme Taşıma Elemanı",
+"Şantiye İşçisi / Yardımcı İşçi"
+],
+"sektorler": [
+"CONSTRUCTION",
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Saha İşçisi",
+"isco4": "9313",
+"isco_title": "Building construction labourers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Saha İşçisi (Laborer)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Paketleme Elemanı",
+"isco4": "9321",
+"isco_title": "Hand packers",
+"n_cv": 5,
+"n_job": 4,
+"ornek_unvanlar": [
+"Paketleme Elemanı",
+"Paketleme Elemanı (Packer)",
+"Paketleme ve Depo Destek Elemanı",
+"Seri Paketleme ve Koli Hazırlama Elemanı",
+"Ürün Paketleme, Çemberleme ve Sevkiyat Hazırlık Elemanı"
+],
+"sektorler": [
+"APPAREL_TEXTILE",
+"INDUSTRIAL_MANUFACTURING",
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fabrika Meydancısı",
+"isco4": "9329",
+"isco_title": "Manufacturing labourers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"MEYDANCI"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fabrika Üretim Elemanı",
+"isco4": "9329",
+"isco_title": "Manufacturing labourers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Beden İşçisi / Fabrika Üretim Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Genel Fabrika İşçisi",
+"isco4": "9329",
+"isco_title": "Manufacturing labourers not elsewhere classified",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Genel İşçi / Fabrika İşçisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gıda Üretim İşçisi",
+"isco4": "9329",
+"isco_title": "Manufacturing labourers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"FABRİKA ÜRETİM PERSONELİ"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pres Hattı Üretim Elemanı",
+"isco4": "9329",
+"isco_title": "Manufacturing labourers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Progresif Pres Hattı Parça Toplama ve Ayıklama Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Saha İşçisi",
+"isco4": "9329",
+"isco_title": "Manufacturing labourers not elsewhere classified",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Saha Destek Personeli",
+"Saha İşçisi (Laborer)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Toz Boya Askı Elemanı",
+"isco4": "9329",
+"isco_title": "Manufacturing labourers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Elektrostatik Toz Boya Askı ve Temizleme Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üretim Elemanı",
+"isco4": "9329",
+"isco_title": "Manufacturing labourers not elsewhere classified",
+"n_cv": 0,
+"n_job": 6,
+"ornek_unvanlar": [
+"Usta Yardımcısı / Destek Elemanı",
+"Vasıfsız Üretim İşçisi",
+"ÜRETİM PERSONELİ",
+"Üretim Destek Elemanı (Helper)",
+"Üretim Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Depo Elemanı",
+"isco4": "9333",
+"isco_title": "Freight handlers",
+"n_cv": 5,
+"n_job": 16,
+"ornek_unvanlar": [
+"Cross-Docking Aktarma Merkezi Yükleme Elemanı",
+"DEPO ELEMANI",
+"DEPO SEVKİYAT PERSONELİ",
+"Depo Elemanı / Ambar Görevlisi",
+"Depo Mal Kabul ve Barkodlama Elemanı (Yetiştirilmek Üzere)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havalimanı Bagaj ve Ramp Görevlisi",
+"isco4": "9333",
+"isco_title": "Freight handlers",
+"n_cv": 6,
+"n_job": 4,
+"ornek_unvanlar": [
+"Bagaj Yükleme ve Taşıma Görevlisi",
+"Hava Trafik ve Apron Hizmetleri Memuru",
+"Havalimanı Bagaj / Ramp Görevlisi",
+"Havalimanı Bagaj Taşıma Elemanı",
+"Havalimanı Ramp Elemanı"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Liman Yükleme Elemanı",
+"isco4": "9333",
+"isco_title": "Freight handlers",
+"n_cv": 6,
+"n_job": 3,
+"ornek_unvanlar": [
+"Liman Operasyon ve Yükleme İşçisi (Stevedore)",
+"Liman Operasyon İşçisi",
+"Liman Yükleme Elemanı (Stevedore)",
+"Liman Yükleme Elemanı / Stevedore",
+"Liman İşçisi / Dockworker"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ramp ve Bagaj Yükleme Görevlisi",
+"isco4": "9333",
+"isco_title": "Freight handlers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ramp ve Bagaj Yükleme Görevlisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sipariş Toplama Elemanı",
+"isco4": "9333",
+"isco_title": "Freight handlers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sipariş Toplama (Picking) ve Paketleme Elemanı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yükleme Boşaltma Elemanı",
+"isco4": "9333",
+"isco_title": "Freight handlers",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Depo Boşaltma ve İstifleme Elemanı",
+"Hamal / Yükleme Boşaltma Elemanı",
+"Kamyon Boşaltma ve Depo İşçisi"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yükleme Boşaltma İşçisi",
+"isco4": "9333",
+"isco_title": "Freight handlers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Vasıfsız Bay Depo Personeli",
+"Vasıfsız Yukleme Boşaltma,Paketleme Bay  Personel",
+"Yük Taşıma ve Tahmil-Tahliye İşçisi",
+"Yükleme Boşaltma İşçisi"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Reyon Görevlisi",
+"isco4": "9334",
+"isco_title": "Shelf fillers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Reyon Tanzim ve Teşhir Görevlisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+}
+]

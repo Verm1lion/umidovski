@@ -1,0 +1,17 @@
+[
+{"specialty": "Mağaza Satış Danışmanı", "isco4": "5223", "canonical_specialty": "Mağaza Satış Danışmanı", "canonical_isco4": "5223"},
+{"specialty": "Otomobil Satış Danışmanı", "isco4": "5223", "canonical_specialty": "Otomotiv Satış Danışmanı", "canonical_isco4": "5223"},
+{"specialty": "Otomotiv Satış Danışmanı", "isco4": "5223", "canonical_specialty": "Otomotiv Satış Danışmanı", "canonical_isco4": "5223"},
+{"specialty": "Sporcu Takviyeleri Satış Danışmanı", "isco4": "5223", "canonical_specialty": "Mağaza Satış Danışmanı", "canonical_isco4": "5223"},
+{"specialty": "Tezgahtar", "isco4": "5223", "canonical_specialty": "Mağaza Satış Danışmanı", "canonical_isco4": "5223"},
+{"specialty": "Kasiyer", "isco4": "5230", "canonical_specialty": "Kasiyer", "canonical_isco4": "5230"},
+{"specialty": "Promotör", "isco4": "5242", "canonical_specialty": "Promotör", "canonical_isco4": "5242"},
+{"specialty": "Tanıtım ve Promosyon Elemanı", "isco4": "5242", "canonical_specialty": "Promotör", "canonical_isco4": "5242"},
+{"specialty": "Çağrı Merkezi Satış Temsilcisi", "isco4": "5244", "canonical_specialty": "Telesatış Temsilcisi", "canonical_isco4": "5244"},
+{"specialty": "Tele Satış Temsilcisi", "isco4": "5244", "canonical_specialty": "Telesatış Temsilcisi", "canonical_isco4": "5244"},
+{"specialty": "Telesatış Temsilcisi", "isco4": "5244", "canonical_specialty": "Telesatış Temsilcisi", "canonical_isco4": "5244"},
+{"specialty": "Akaryakıt Pompacısı", "isco4": "5245", "canonical_specialty": "Akaryakıt Pompacısı", "canonical_isco4": "5245"},
+{"specialty": "Pompacı", "isco4": "5245", "canonical_specialty": "Akaryakıt Pompacısı", "canonical_isco4": "5245"},
+{"specialty": "Yemek Servis Elemanı", "isco4": "5246", "canonical_specialty": "Yemek Servis Elemanı", "canonical_isco4": "5246"},
+{"specialty": "Online Satış Temsilcisi", "isco4": "5249", "canonical_specialty": "Online Satış Temsilcisi", "canonical_isco4": "5249"}
+]

@@ -1,0 +1,440 @@
+[
+{
+"specialty": "Aktüer",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 4,
+"n_job": 3,
+"ornek_unvanlar": [
+"Aktüer (Hazine Müsteşarlığı Ruhsatlı)",
+"Bireysel Emeklilik ve Hayat Sigortası Aktüerya Uzmanı (Actuary / IFRS 17)",
+"Emeklilik ve Yaşam Fonları Aktüeri",
+"Hayat Dışı Sigortacılık Aktüeri"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilgisayarla Görme Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Bilgisayarla Görme (Computer Vision) Mühendisi",
+"Bilgisayarlı Görü (Computer Vision) Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilgisayarlı Görü Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 5,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Bilgisayarlı Görü (Computer Vision) Mühendisi",
+"Kıdemli Bilgisayarlı Görü Çözüm Mimarı",
+"Medikal Görüntü Analizi ve Radyoloji Yapay Zekası Mühendisi",
+"Optik Karakter Tanıma (OCR) ve Belge Zekası Mühendisi",
+"Optik Karakter Tanıma (OCR) ve Belge İşleme Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyoistatistik Uzmanı",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Clinical Biostatistician",
+"Sağlık ve Klinik Biyoistatistik Veri Bilimcisi"
+],
+"sektorler": [
+"HEALTHCARE",
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyoistatistikçi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Klinik Biyoistatistikçi",
+"Statistician"
+],
+"sektorler": [
+"HEALTHCARE",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Derin Öğrenme Araştırmacısı",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Deep Learning Researcher (Generative AI)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Derin Öğrenme Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Deep Learning Engineer",
+"Derin Öğrenme ve PyTorch Araştırma Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Doğal Dil İşleme Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Büyük Dil Modelleri ve NLP Araştırma Mühendisi",
+"Doğal Dil İşleme (NLP) Mühendisi",
+"Kıdemli Doğal Dil İşleme (NLP / LLM) Mühendisi",
+"LLM İnce Ayar (Fine-Tuning) ve Açık Kaynak Model Uzmanı",
+"Machine Learning Engineer (NLP & Metin Madenciliği)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gömülü Yapay Zeka Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gömülü Yapay Zeka ve Uç Bilişim Mühendisi (TinyML / STM32 Edge AI)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Görüntü İşleme Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Görüntü İşleme Mühendisi (OpenCV & Python)",
+"Yüz Tanıma ve Biyometrik Görüntü İşleme Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İstatistikçi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior İstatistikçi (Ar-Ge Deney Tasarımı & DoE)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kantitatif Risk Analisti",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Quantitative Risk Analyst"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": [
+"24"
+]
+},
+{
+"specialty": "Klinik Veri Yönetimi Uzmanı",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Clinical Data Manager (CDM Specialist)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": [
+"25"
+]
+},
+{
+"specialty": "Konuşma Teknolojileri Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Konuşma Tanıma ve Ses Sentezi (TTS/STT) Mühendisi",
+"Konuşma Tanıma ve Sesli Yapay Zeka (Voice AI) Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kuantum Hesaplama Uzmanı",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kuantum Hesaplama Algoritma Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Makine Öğrenmesi Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 6,
+"n_job": 3,
+"ornek_unvanlar": [
+"Deep Learning Engineer",
+"Dolandırıcılık Tespiti (Fraud Detection) ML Uzmanı",
+"Junior Makine Öğrenimi Mühendisi (Python & Scikit-Learn)",
+"Kenar Cihaz Yapay Zeka (Edge AI) Mühendisi",
+"Lead Machine Learning Engineer (Autonomous Delivery)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "MLOps Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli MLOps & Veri Bilimi Platform Mühendisi",
+"Kıdemli Makine Öğrenmesi (MLOps) Mühendisi",
+"Kıdemli Makine Öğrenmesi Platform Mimarı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": [
+"25"
+]
+},
+{
+"specialty": "Ölçme ve Değerlendirme İstatistikçisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ölçme, Seçme ve Değerlendirme İstatistikçisi"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Öneri Sistemleri Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Machine Learning Engineer (Recommendation Systems)",
+"Öneri Sistemleri (Recommendation Systems) ML Mühendisi",
+"Öneri Sistemleri ve Arama Motoru Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otonom Sürüş Algoritma Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otonom Sürüş Algoritma Mühendisi",
+"Otonom Sürüş ve Çevre Algılama (Perception) Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": [
+"25"
+]
+},
+{
+"specialty": "Otonom Sürüş Algoritmaları Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Autonomous Driving Algorithms Engineer"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Reasürans ve Aktüeryal Rezerv Uzmanı",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Reinsurance & Actuarial Reserves Specialist"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Semantik Arama Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Vektör Veritabanı ve Semantik Arama Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Bilimci",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 11,
+"n_job": 6,
+"ornek_unvanlar": [
+"Data Science Lead",
+"Data Scientist",
+"Fiyatlandırma ve Gelir Yönetimi Veri Bilimcisi (Dynamic Pricing)",
+"Junior Veri Bilimci (Python & İstatistiksel Modelleme)",
+"Kredi Riski ve Finansal Modelleme Veri Bilimcisi"
+],
+"sektorler": [
+"IT_SOFTWARE",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapay Zeka Araştırmacısı",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Reinforcement Learning (RL) Researcher",
+"Yapay Zeka ve LLM Araştırmacısı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapay Zeka Model Doğrulama Uzmanı",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Açıklanabilir Yapay Zeka (XAI) ve Model Doğrulama Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapay Zeka Mühendisi",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 5,
+"n_job": 4,
+"ornek_unvanlar": [
+"Kıdemli Üretken Yapay Zeka (Generative AI) ve LLM Mühendisi",
+"Kıdemli Üretken Yapay Zeka Çözüm Mimarı",
+"Lead AI & Data Science Architect",
+"Speech Recognition & Synthesis (TTS",
+"Yapay Zeka Ajanları (AI Agents) ve Otonom Sistem Geliştiricisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yöneylem Araştırması Uzmanı",
+"isco4": "2120",
+"isco_title": "Mathematicians, actuaries and statisticians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Veri Bilimci & Optimizasyon ve Yöneylem Araştırması Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+}
+]

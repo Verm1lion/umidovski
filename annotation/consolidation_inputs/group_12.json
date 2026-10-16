@@ -1,0 +1,1517 @@
+[
+{
+"specialty": "Adli Muhasebe Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Mali Denetim ve Adli Bilişim Müdürü (Forensic Audit)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bütçe ve Ticari Kontrol Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Bütçe ve Ticari Kontrol Müdürü (FMCG)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finans Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Finans Direktörü (Chief Financial Officer - CFO)",
+"Finans Müdürü",
+"Finans Müdürü (CFO Yardımcısı)",
+"Finans Müdürü / Kontrolör",
+"Finans ve Mali İşler Grup Başkanı (CFO)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Kontrol Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Finansal Kontrol Müdürü (Senior Financial Controller)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Modelleme Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Finansal Modelleme ve Karar Destek Müdürü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Planlama ve Analiz Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Head of Financial Planning & Analysis (FP&A Direktörü)",
+"Senior FP&A Manager / Kıdemli Finansal Planlama Müdürü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Raporlama Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Grup Konsolidasyon ve IFRS Finansal Raporlama Müdürü",
+"Kıdemli Finansal Raporlama ve Muhasebe Politikaları Müdürü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gayrimenkul Portföy Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gayrimenkul Yatırım Ortaklığı (GYO) Portföy Yöneticisi",
+"Gayrimenkul Yatırım Ortaklığı (GYO) Portföy ve Finansman Müdürü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hazine Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Hazine ve Kurumsal Finansman Direktörü (Head of Treasury & Corporate Finance)",
+"Kıdemli Hazine ve Finansman Müdürü",
+"Nakit Yönetimi ve Bankacılık İlişkileri Müdürü (Cash Management)",
+"Senior Treasury Operations & Liquidity Manager"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İç Denetim Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Muhasebe ve Bordro Denetim Müdürü",
+"Kıdemli İç Denetim Müdürü (Chief Audit Executive - CAE Yardımcısı)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": [
+"24"
+]
+},
+{
+"specialty": "Kredi Riski Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Microfinance & SME Lending Risk Director",
+"Mikrofinans ve Kobi Kredileri Risk Yöneticisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kredi Tahsis Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Ticari Krediler Tahsis Müdürü",
+"Ticari Bankacılık Kredi Tahsis ve Yapılandırma Müdürü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal Finansman Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Kurumsal Finansman ve M&A Müdürü",
+"Kıdemli Şirket Birleşme ve Devralma (M&A) Müdürü (CFA / LBO)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal Risk Yönetimi Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kurumsal Risk Yönetimi (ERM) Direktörü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mali İşler Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Mali İşler Direktörü (Chief Financial Controller - CFC)",
+"Mali İşler ve Finansman Müdürü",
+"Mali İşler ve Muhasebe Direktörü (Accounting Director)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Maliyet Muhasebesi Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Maliyet Muhasebesi Müdürü (Çelik & Ağır Sanayi)",
+"Kıdemli Maliyet Muhasebesi ve Kontrol Müdürü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Muhasebe Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Head of Accounting & Tax / Muhasebe ve Vergi Grup Müdürü",
+"Kıdemli Genel Muhasebe Müdürü",
+"Muhasebe Müdürü",
+"Müdür"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Piyasa Riski Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Risk Yönetimi ve Sermaye Piyasaları Müdürü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sabit Kıymet ve Yatırım Teşvik Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Sabit Kıymet ve Yatırım Teşvik Müdürü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vergi Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Vergi Müdürü (Senior Tax Manager)",
+"Kıdemli İhracat Muhasebesi ve Vergi Uyum Müdürü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yatırımcı İlişkileri Müdürü",
+"isco4": "1211",
+"isco_title": "Finance managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Kurumsal Yönetim ve Yatırımcı İlişkileri Müdürü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": [
+"24"
+]
+},
+{
+"specialty": "Bordro Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Bordro ve Tazminat Muhasebesi Müdürü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bordro ve Özlük İşleri Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İK Operasyonları ve Bordro / Özlük İşleri Müdürü (Payroll & Labor Law)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çalışan Deneyimi ve Kültür Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Çalışan Deneyimi ve Kültür Müdürü"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Eğitim ve Gelişim Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Eğitim ve Gelişim Müdürü (Head of Academy)",
+"Öğrenme ve Gelişim Müdürü (L&D / Kurumsal Akademi Lideri)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Eğitim ve Organizasyonel Gelişim Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Head of Learning & Organizational Development (Eğitim ve OD Direktörü)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel İlişkiler Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel İlişkiler ve Sendika Yönetimi Müdürü (Labor Relations / TİS)",
+"Kıdemli Endüstriyel İlişkiler ve Çalışan İlişkileri Müdürü"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Personel ve Donatım Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Gemi Personel ve Donatım Müdürü (Crewing Manager)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları Analitiği Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Strategic People Analytics Director",
+"Stratejik İşgücü Analitiği Direktörü"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları İş Ortağı Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kıdemli İnsan Kaynakları İş Ortağı Müdürü (Global Satış & Pazarlama)",
+"Kıdemli İnsan Kaynakları İş Ortağı Müdürü (Senior HRBP Manager)",
+"Kıdemli İnsan Kaynakları İş Ortağı Müdürü (Ticari & Pazarlama)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 7,
+"n_job": 3,
+"ornek_unvanlar": [
+"Human Resources Director",
+"Müdür",
+"İK Yöneticisi",
+"İnsan Kaynakları Başkanı",
+"İnsan Kaynakları Direktörü (Human Resources Director - HRD)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları Operasyonları Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli İK Operasyonları ve Paylaşımlı Hizmetler Müdürü",
+"İK Paylaşımlı Hizmetler ve Servis Masası Yöneticisi (HR Shared Services / HRSS)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İşe Alım Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Head of Talent Acquisition / Yetenek Kazanımı Direktörü",
+"Talent Acquisition Manager"
+],
+"sektorler": [
+"HR",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İşgücü Planlama ve Organizasyon Tasarımı Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Workforce Planning & Organization Design Manager"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İşveren Markası Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli İşveren Markası ve İK İletişimi Müdürü",
+"İşveren Markası ve Gençlik Pazarlaması Yöneticisi"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Organizasyonel Gelişim Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Organizasyonel Gelişim ve Değişim Müdürü",
+"Kıdemli Organizasyonel Gelişim ve Norm Kadro Müdürü",
+"Organizasyonel Gelişim ve Tasarım Yöneticisi (OD / Job Architecture)",
+"Organizasyonel Tasarım ve İş Gücü Planlama Müdürü"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ücret ve Yan Haklar Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Head of Total Rewards & People Operations",
+"Kıdemli Ücret ve Yan Haklar Müdürü (Total Rewards Manager)",
+"Performans ve Ücretlendirme Yöneticisi",
+"Ücret ve Yan Haklar Müdürü (Total Rewards / Mercer / Hay Metodolojisi)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yetenek Kazanımı Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Yetenek Kazanımı Müdürü (Senior Talent Acquisition Manager)",
+"İnsan Kaynakları ve Yetenek Kazanımı Yöneticisi"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yetenek Yönetimi Müdürü",
+"isco4": "1212",
+"isco_title": "Human resource managers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Yetenek Yönetimi ve Liderlik Gelişim Müdürü",
+"Kıdemli Yetenek ve Liderlik Değerlendirme Müdürü",
+"Yetenek Yönetimi ve Halefiyet Planlama Müdürü (Talent Management / 9-Box)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal Sosyal Sorumluluk Müdürü",
+"isco4": "1213",
+"isco_title": "Policy and planning managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sürdürülebilirlik ve İK Sosyal Etki Yöneticisi (CSR & Social Impact in HR)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ruhsatlandırma Müdürü",
+"isco4": "1213",
+"isco_title": "Policy and planning managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Ruhsatlandırma Müdürü / Ekip Lideri"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gayrimenkul Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Gayrimenkul Portföy ve Kiralama Müdürü"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güvenlik Sistemleri Proje Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Entegre Güvenlik Sistemleri Proje Müdürü"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hastane Hijyen ve Enfeksiyon Kontrol Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Sağlık Kurumları Temizlik ve Enfeksiyon Kontrol Müdürü"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hukuk Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Genel Hukuk Danışmanı ve Mevzuat Direktörü",
+"Hukuk Başmüşaviri / Hukuk Direktörü",
+"Hukuk Hizmetleri Başkanı (General Counsel)"
+],
+"sektorler": [
+"LEGAL"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İdari İşler Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Administration Manager",
+"Chief Administrative Officer",
+"Kurumsal Hizmetler ve İdari Operasyonlar Direktörü",
+"Kıdemli Ofis Operasyonları ve Çalışma Ortamı Müdürü (Head of Workplace)",
+"Kıdemli İdari İşler ve Hizmetler Müdürü"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Sağlığı Güvenliği ve Çevre Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Çevre, İSG ve İdari Süreçler Müdürü"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": [
+"22"
+]
+},
+{
+"specialty": "Kalite Güvence Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Güvenlik Denetim ve Kalite Güvence Müdürü"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": [
+"13"
+]
+},
+{
+"specialty": "Kurumsal Güvenlik Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Kurumsal Güvenlik ve Kriz Yönetimi Müdürü"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Temizlik Hizmetleri Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kıdemli Endüstriyel Tesis Temizlik ve Operasyon Müdürü",
+"Kıdemli Tesis Hizmetleri ve Hijyen Müdürü",
+"Kıdemli Çoklu Tesis (Multi-Site) Hizmet Yöneticisi"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tesis Hizmetleri Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tesis Hizmetleri ve Operasyon Direktörü"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tesis Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Müdür"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tesis Yönetimi Müdürü",
+"isco4": "1219",
+"isco_title": "Business services and administration managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Tesis ve Kampüs Yönetimi Müdürü (Facility Director)",
+"Tesis ve Gayrimenkul Operasyonları Direktörü (Head of Real Estate & Facilities)"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bankacılık Ürün Yöneticisi",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mevduat ve Yatırım Ürünleri Yöneticisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bölge Satış Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Bölge Satış Müdürü (Ege & Akdeniz Tıbbi Satış)",
+"Bölge Satış Müdürü (Medikal / İlaç)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Büyüme Pazarlaması Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Finansal Hizmetler ve FinTech Pazarlama Müdürü (FinTech Growth Marketing)",
+"Head of Digital Growth & Acquisition",
+"Kıdemli Büyüme Pazarlaması Yöneticisi (Growth Marketing Manager)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CRM ve Müşteri Sadakati Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"CRM ve Müşteri Sadakati Yöneticisi",
+"Kıdemli CRM ve Müşteri Sadakati Müdürü (Senior Retention Manager)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dijital Pazarlama Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dijital Pazarlama ve Büyüme Direktörü (VP of Digital Marketing)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "E-Ticaret Kategori Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli E-Ticaret Kategori Müdürü (Elektronik & Beyaz Eşya)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "E-Ticaret Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"E-Ticaret Direktörü (Head of E-Commerce)",
+"Kıdemli Omnichannel ve E-Ticaret Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gayrimenkul Pazarlama Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gayrimenkul Projeleri Pazarlama ve Lansman Satış Desteği Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İçerik Pazarlama Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli İçerik Pazarlaması ve Hikaye Anlatımı Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İhracat Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kıdemli Çelik Yapı ve Prefabrik İhracat Müdürü",
+"Kıdemli İhracat Satış Müdürü (Global Export Sales Manager)",
+"Uluslararası Pazarlar ve İhracat Direktörü (Global Export Director)",
+"Uluslararası Çelik ve Metalurji İhracat Satış Müdürü (Steel Export)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Influencer Pazarlama Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Influencer Pazarlama Yöneticisi",
+"Influencer Pazarlama ve Yetenek İşbirlikleri Yöneticisi (Influencer Lead)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Geliştirme Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Stratejik Ortaklıklar ve İttifaklar Müdürü"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kategori Yöneticisi",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Akaryakıt İstasyonları Marketleri Satış ve Kategori Yöneticisi (Forecourt Retail)",
+"Kategori Yöneticisi (E-Ticaret)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Marka Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Marka Müdürü (Premium & Lüks Tüketim)",
+"Kıdemli Marka Müdürü (Senior Brand Manager - Global Pazar)",
+"Kıdemli Marka Müdürü (Senior Brand Manager / FMCG & ATL-BTL)",
+"Marka Yöneticisi"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal Pazarlama Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sağlık İletişimi ve Medikal Pazarlama Müdürü (Pharma & Healthcare Marketing)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Başarı Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Head of Global Customer Success"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pazarlama Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Eğitim Teknolojileri ve EdTech Pazarlama Müdürü (Student Acquisition)",
+"Marketing Manager",
+"Pazarlama Müdürü",
+"Pazarlama ve Marka Direktörü (Chief Marketing Officer - CMO)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pazaryeri Satış Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Pazaryeri ve Kanal Satış Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Performans Pazarlama Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Head of Performance Marketing / Performans Pazarlama Direktörü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sağlık Turizmi İş Geliştirme Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Uluslararası Sağlık Turizmi ve İş Geliştirme Müdürü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Satış Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 7,
+"n_job": 11,
+"ornek_unvanlar": [
+"B2B Yönetim Danışmanlığı ve Kurumsal Eğitim Hizmetleri Satış Direktörü",
+"Bölge Satış Müdürü",
+"Kurumsal Büyük Müşteriler Satış Direktörü (Strategic Key Account Director / B2B)",
+"Kıdemli Akaryakıt ve Taşıt Tanıma Filo Satış Müdürü",
+"Kıdemli Gayrimenkul Proje Satış Koordinatörü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"HEALTHCARE",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Cihaz Satış ve Pazarlama Yöneticisi",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Tıbbi Cihaz Satış ve Pazarlama Yöneticisi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ticari Pazarlama Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ticari Pazarlama ve Kategori Yönetimi Müdürü (Trade Marketing / Nielsen)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Turizm Pazarlama Müdürü",
+"isco4": "1221",
+"isco_title": "Sales and marketing managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Turizm ve Destinasyon Pazarlaması Müdürü (Hospitality & Destination Marketing)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dijital İtibar Müdürü",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Dijital İtibar ve Sosyal Dinleme Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Etkinlik ve Sponsorluk Müdürü",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Etkinlik, Sponsorluk ve Deneyimsel Pazarlama Müdürü (Experiential Events)",
+"Events & Sponsorship Manager",
+"Kıdemli Kurumsal Sponsorluk ve Etkinlik Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal İletişim Müdürü",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Finansal İletişim ve Yatırımcı İlişkileri İletişim Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Halkla İlişkiler Müdürü",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Halkla İlişkiler (PR) Yöneticisi",
+"Lüks Marka İletişimi ve VIP Halkla İlişkiler Müdürü (Luxury PR & VIP)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İşveren Markası Müdürü",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli İşveren Markası ve Kültür Müdürü",
+"İşveren Markası ve Yetenek Pazarlaması Yöneticisi (Employer Brand Lead)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kreatif Direktör",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kreatif Direktör (Executive Creative Director - ECD)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": [
+"216"
+]
+},
+{
+"specialty": "Kreatif Strateji Müdürü",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Creative Strategy Director"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kriz İletişimi Müdürü",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Kurumsal İletişim ve Kriz Yönetimi Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal İletişim Müdürü",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kurumsal İletişim Direktörü (Chief Communications Officer - CCO)",
+"Kurumsal İletişim ve Medya İlişkileri Müdürü (Corporate Communications & PR)",
+"Kurumsal İletişim ve Sürdürülebilirlik Direktörü",
+"Kıdemli Kurumsal İletişim Müdürü",
+"Yönetici"
+],
+"sektorler": [
+"MARKETING_MEDIA",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal Sosyal Sorumluluk Müdürü",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Kurumsal Sorumluluk ve Vakıf İletişimi Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Liderlik İletişimi Müdürü",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli İş Dünyası ve Liderlik İletişimi Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medya Satın Alma Müdürü",
+"isco4": "1222",
+"isco_title": "Advertising and public relations managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Dijital İletişim ve Medya Satın Alma Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ar-Ge Müdürü",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Ar-Ge Direktörü / Baş Bilim İnsanı (Chief Scientist)",
+"Tarımsal Üretim ve Ar-Ge Direktörü",
+"Yönetici"
+],
+"sektorler": [
+"AGRICULTURE",
+"SALES",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyoteknoloji Proses Geliştirme Müdürü",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biyoteknolojik Proses Geliştirme Direktörü"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CAE ve Simülasyon Müdürü",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Lead CAE & Simülasyon Yöneticisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gömülü Sistemler Ar-Ge Müdürü",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Head of Embedded Systems & Electronic Controls"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Homologasyon Müdürü",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Head of Vehicle Homologation & Regulatory Affairs"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaç Formülasyon Ar-Ge Müdürü",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"İlaç Ar-Ge Formülasyon Müdürü",
+"İlaç Formülasyon ve Ar-Ge Müdürü"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnovasyon Yöneticisi",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İnovasyon ve Kurum İçi Girişimcilik Lideri"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klinik Operasyonlar Müdürü",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Klinik Araştırmalar Ülke Direktörü (Country Head of Clinical Operations)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klinik Proje Müdürü",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Klinik Proje Müdürü (Clinical Project Manager - CPM)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal İletişim ve Tıbbi Eğitim Müdürü",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Medikal İletişim ve Tıbbi Eğitim Müdürü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal Müdür",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Medikal Direktör (Medical Director)",
+"Medikal Direktör (İlaç Sektörü)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Ar-Ge Müdürü",
+"isco4": "1223",
+"isco_title": "Research and development managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Head of Mechanical R&D & Engineering"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+}
+]

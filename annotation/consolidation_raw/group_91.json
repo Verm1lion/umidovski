@@ -1,0 +1,19 @@
+[
+{"specialty": "Ev Yardımcısı", "isco4": "9111", "canonical_specialty": "Ev Yardımcısı", "canonical_isco4": "9111"},
+{"specialty": "Çaycı", "isco4": "9112", "canonical_specialty": "Çaycı", "canonical_isco4": "9112"},
+{"specialty": "Endüstriyel Temizlik Operatörü", "isco4": "9112", "canonical_specialty": "Endüstriyel Temizlik Operatörü", "canonical_isco4": "9112"},
+{"specialty": "Genel Alan Meydancısı", "isco4": "9112", "canonical_specialty": "Temizlik Görevlisi", "canonical_isco4": "9112"},
+{"specialty": "Hastane Temizlik Personeli", "isco4": "9112", "canonical_specialty": "Temizlik Görevlisi", "canonical_isco4": "9112"},
+{"specialty": "Kat Görevlisi", "isco4": "9112", "canonical_specialty": "Kat Hizmetleri Görevlisi", "canonical_isco4": "9112"},
+{"specialty": "Kat Hizmetleri Elemanı", "isco4": "9112", "canonical_specialty": "Kat Hizmetleri Görevlisi", "canonical_isco4": "9112"},
+{"specialty": "Kat Hizmetleri Görevlisi", "isco4": "9112", "canonical_specialty": "Kat Hizmetleri Görevlisi", "canonical_isco4": "9112"},
+{"specialty": "Laboratuvar ve Temiz Oda Temizlik Personeli", "isco4": "9112", "canonical_specialty": "Temizlik Görevlisi", "canonical_isco4": "9112"},
+{"specialty": "Minibar Görevlisi", "isco4": "9112", "canonical_specialty": "Kat Hizmetleri Görevlisi", "canonical_isco4": "9112"},
+{"specialty": "Temizlik Görevlisi", "isco4": "9112", "canonical_specialty": "Temizlik Görevlisi", "canonical_isco4": "9112"},
+{"specialty": "Temizlik ve Çay Görevlisi", "isco4": "9112", "canonical_specialty": "Çaycı", "canonical_isco4": "9112"},
+{"specialty": "Paskara Ütücüsü", "isco4": "9121", "canonical_specialty": "Paskara Ütücüsü", "canonical_isco4": "9121"},
+{"specialty": "De-icing Operatörü", "isco4": "9122", "canonical_specialty": "De-icing Operatörü", "canonical_isco4": "9122"},
+{"specialty": "Oto Yıkama Görevlisi", "isco4": "9122", "canonical_specialty": "Oto Yıkama Görevlisi", "canonical_isco4": "9122"},
+{"specialty": "Uçak Kabin Temizlik Görevlisi", "isco4": "9122", "canonical_specialty": "Uçak Kabin Temizlik Görevlisi", "canonical_isco4": "9122"},
+{"specialty": "Dış Cephe Cam Temizlikçisi", "isco4": "9123", "canonical_specialty": "Dış Cephe Cam Temizlikçisi", "canonical_isco4": "9123"}
+]

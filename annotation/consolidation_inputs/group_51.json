@@ -1,0 +1,588 @@
+[
+{
+"specialty": "Kabin Memuru",
+"isco4": "5111",
+"isco_title": "Travel attendants and travel stewards",
+"n_cv": 5,
+"n_job": 4,
+"ornek_unvanlar": [
+"Hostes / Kabin Memuru",
+"Kabin Ekibi / Cabin Crew",
+"Kabin Memuru",
+"Kabin Memuru (Hostes / Host)",
+"Kabin Memuru / Flight Attendant"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kamarot",
+"isco4": "5111",
+"isco_title": "Travel attendants and travel stewards",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kamarot / Gemi Aşçı Yardımcısı",
+"Konteyner Gemi Başkamarotu (Chief Steward)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tren Kondüktörü",
+"isco4": "5112",
+"isco_title": "Transport conductors",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tren Kondüktörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aşçı",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 12,
+"n_job": 11,
+"ornek_unvanlar": [
+"Alakart Sıcak Aşçısı",
+"Alakart Sıcak Bölüm Aşçısı (Tava & Sote)",
+"Alakart Sıcak Şefi (Chef de Partie - Sıcak)",
+"AŞÇI / AŞÇI YARDIMCISI",
+"Aşçı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Asya Mutfağı Aşçısı",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Asya Mutfak & Wok Aşçısı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Balık Aşçısı",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Balık ve Deniz Ürünleri Alakart Şefi"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cağ Kebabı Ustası",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Erzurum Cağ Kebabı Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Diyet Aşçısı",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Diyet & Sağlıklı Beslenme Aşçısı",
+"Diyet ve Sağlıklı Beslenme Mutfak Şefi",
+"Hastane Diyet & Tuzsuz Yemek Aşçısı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Döner Ustası",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 7,
+"n_job": 3,
+"ornek_unvanlar": [
+"Döner Ustası",
+"Döner ve Yaprak Et Ustası",
+"Tavuk Döner & Sos Ustası",
+"Yaprak Et Döner Ustası",
+"Yaprak Et ve Tavuk Döner Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Izgara Ustası",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 4,
+"n_job": 2,
+"ornek_unvanlar": [
+"Burger ve Dry-Aged Et Hazırlama Şefi",
+"Izgara & Steakhouse Pişirme Aşçısı",
+"Izgara ve Mangal Ustası",
+"Ocakbaşı Kuzu Şiş & Pirzola Ustası",
+"Tavuk Kanat & Çöp Şiş Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kahvaltı Aşçısı",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Brunch ve Dünya Kahvaltıları Şefi"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kebap Ustası",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 6,
+"n_job": 5,
+"ornek_unvanlar": [
+"Beyti Kebap & Sarma Ustası",
+"Geleneksel Kebap ve Ocakbaşı Ustası",
+"Izgara ve Kebap Yardımcısı (Yetiştirilmek Üzere)",
+"Kebap ve Izgara Ustası",
+"Kebap ve Ocakbaşı Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Soğuk Mutfak Aşçısı",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Soğuk Mutfak & Meze Aşçısı (Garde Manger)",
+"Soğuk Mutfak Şefi (Garde Manger / Chef de Partie)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Suşi Ustası",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Sushi Şefi",
+"Suşi ve Asya Mutfağı Şefi (Sushi Chef de Partie)",
+"Suşi Şefi (Sushi Chef)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Toplu Yemek Aşçısı",
+"isco4": "5120",
+"isco_title": "Cooks",
+"n_cv": 4,
+"n_job": 2,
+"ornek_unvanlar": [
+"Okul & Yurt Toplu Beslenme Aşçısı",
+"Personel Yemekhanesi Aşçı Yardımcısı",
+"Tabldot Pilav & Garnitür Aşçısı",
+"Toplu Yemek ve Catering Üretim Aşçısı",
+"Toplu Yemek Çorba & Bakliyat Aşçısı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Banket Garsonu",
+"isco4": "5131",
+"isco_title": "Waiters",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Banket ve Toplantı Servis Elemanı (Banquet Waiter)",
+"Banket ve Ziyafet Kaptanı (Banquet Captain)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Garson",
+"isco4": "5131",
+"isco_title": "Waiters",
+"n_cv": 13,
+"n_job": 15,
+"ornek_unvanlar": [
+"Alakart Garson (Demi Chef de Rang)",
+"Alakart ve Salon Servis Garsonu",
+"Açık Büfe & Kahvaltı Salon Görevlisi",
+"Balık & Deniz Ürünleri Restoran Garsonu",
+"Başlangıç Seviyesi Garson/Barista (Ofis - Varsayılan Şube)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havalimanı Lounge Hizmet Görevlisi",
+"isco4": "5131",
+"isco_title": "Waiters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Havalimanı CIP & VIP Lounge Hizmet Sorumlusu"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sommelier",
+"isco4": "5131",
+"isco_title": "Waiters",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Baş Sommelier / İçecek Direktörü (Head Sommelier)",
+"Şarap Servis Garsonu (Sommelier Asistanı)",
+"Şarap Uzmanı / Sommelier"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Barista",
+"isco4": "5132",
+"isco_title": "Bartenders",
+"n_cv": 8,
+"n_job": 5,
+"ornek_unvanlar": [
+"3. Nesil Manuel Demleme (Brew Bar) Baristası",
+"BARİSTA İLANI",
+"Barista",
+"Barista ve Kahve Servis Elemanı",
+"Baş Barista ve Nitelikli Kahve Uzmanı (Head Barista)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Barmen",
+"isco4": "5132",
+"isco_title": "Bartenders",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Barmeid",
+"Barmen / Barista (Bartender)",
+"Kokteyl Barmeni",
+"Kokteyl Barmeni / Mixologist",
+"Miksolojist / Kıdemli Barmen (Head Bartender)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Berber",
+"isco4": "5141",
+"isco_title": "Hairdressers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Berber",
+"Erkek Berberi Arıyoruz."
+],
+"sektorler": [
+"BEAUTY_CARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kadın Kuaförü",
+"isco4": "5141",
+"isco_title": "Hairdressers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bayan Kuaförü",
+"Kuaför"
+],
+"sektorler": [
+"BEAUTY_CARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Estetisyen",
+"isco4": "5142",
+"isco_title": "Beauticians and related workers",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Cilt Bakımı Uzmanı",
+"ESTETİSYEN",
+"Estetisyen",
+"Luxury Beauty Centera Deneyimli Güzellik Uzmanı Aranıyor...",
+"Prestijli Salonda Tam Donanımlı Uygulama Odası / Kullanım Hakkı"
+],
+"sektorler": [
+"BEAUTY_CARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güzellik Uzmanı",
+"isco4": "5142",
+"isco_title": "Beauticians and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Güzellik uzmanı ve temizlik görevlisi"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hamam Terapisti",
+"isco4": "5142",
+"isco_title": "Beauticians and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Spa ve Hamam Kese/Köpük Terapisti"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Manikür Pedikür Uzmanı",
+"isco4": "5142",
+"isco_title": "Beauticians and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Manikür- Pedikür Uzmanı"
+],
+"sektorler": [
+"BEAUTY_CARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Protez Tırnak Uzmanı",
+"isco4": "5142",
+"isco_title": "Beauticians and related workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Protez Tırnak Uzmanı"
+],
+"sektorler": [
+"BEAUTY_CARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kat Hizmetleri Şefi",
+"isco4": "5151",
+"isco_title": "Cleaning and housekeeping supervisors in offices, hotels and other establishments",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otel Kat Şefi (Housekeeping Supervisor)"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Temizlik Şefi",
+"isco4": "5151",
+"isco_title": "Cleaning and housekeeping supervisors in offices, hotels and other establishments",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Temizlik ve Destek Hizmetleri Vardiya Amiri",
+"Tesis Temizlik Şefi"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Temizlik Süpervizörü",
+"isco4": "5151",
+"isco_title": "Cleaning and housekeeping supervisors in offices, hotels and other establishments",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"AVM ve Yaşam Merkezi Temizlik Operasyon Sorumlusu"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Apartman Görevlisi (Kapıcı)",
+"isco4": "5153",
+"isco_title": "Building caretakers",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Apartman ve Site Görevlisi",
+"Bina Görevlisi / Kapıcı"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bina Bakım ve Temizlik Görevlisi",
+"isco4": "5153",
+"isco_title": "Building caretakers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bina Bakım ve Temizlik Görevlisi (Janitor)"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yurt Görevlisi",
+"isco4": "5153",
+"isco_title": "Building caretakers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yurt Görevlisi"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gasilhane Görevlisi",
+"isco4": "5163",
+"isco_title": "Undertakers and embalmers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gasilhane Görevlisi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Morg ve Gasilhane Görevlisi",
+"isco4": "5163",
+"isco_title": "Undertakers and embalmers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Morg Görevlisi / Gasilhane Hizmetlisi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "At Bakıcısı (Seyis)",
+"isco4": "5164",
+"isco_title": "Pet groomers and animal care workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"At Bakıcısı ve Seyis"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağır Vasıta Sürüş Eğitmeni",
+"isco4": "5165",
+"isco_title": "Driving instructors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Ağır Vasıta Sürüş Teknikleri Eğitmeni"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+}
+]

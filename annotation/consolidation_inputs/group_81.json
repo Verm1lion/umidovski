@@ -1,0 +1,1016 @@
+[
+{
+"specialty": "Maden Tahkimat Ustası",
+"isco4": "8111",
+"isco_title": "Miners and quarriers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Maden Tahkimat Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Maden ve Tünel Delme Elemanı",
+"isco4": "8111",
+"isco_title": "Miners and quarriers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Maden / Tünel Delme Elemanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tünel Açma ve Tahkimat İşçisi",
+"isco4": "8111",
+"isco_title": "Miners and quarriers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tahkimat İşçisi",
+"Tünel Açma ve Tahkimat İşçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yeraltı Maden İşçisi",
+"isco4": "8111",
+"isco_title": "Miners and quarriers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Maden Kazı ve Tahkimat İşçisi",
+"Yeraltı Maden İşçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Konkasör Operatörü",
+"isco4": "8112",
+"isco_title": "Mineral and stone processing plant operators",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"KONKASÖR OPERATÖR",
+"Konkasör (Kırma-Eleme) Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sondaj Operatörü",
+"isco4": "8113",
+"isco_title": "Well drillers and borers and related workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sondaj Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Zemin Etüt Sondörü",
+"isco4": "8113",
+"isco_title": "Well drillers and borers and related workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sondör / Zemin Etüt Elemanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Asfalt Plent Operatörü",
+"isco4": "8114",
+"isco_title": "Cement, stone and other mineral products machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Asfalt Plenti Operatörü (Sıcak Asfalt Üretimi)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Beton Santrali Operatörü",
+"isco4": "8114",
+"isco_title": "Cement, stone and other mineral products machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Beton Santrali Otomasyon Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ergitme Ocağı Operatörü",
+"isco4": "8121",
+"isco_title": "Metal processing plant operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İzabe ve Ergitme Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ergitme ve Döküm Ocağı Operatörü",
+"isco4": "8121",
+"isco_title": "Metal processing plant operators",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"İndüksiyon Ocağı ve Sıvı Metal Döküm Operatörü",
+"İzabe ve Ergitme Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hadde Operatörü",
+"isco4": "8121",
+"isco_title": "Metal processing plant operators",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hadde Operatörü",
+"Haddehane Sıcak Hadde Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Isıl İşlem Fırın Operatörü",
+"isco4": "8121",
+"isco_title": "Metal processing plant operators",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Isıl İşlem Fırın Operatör Yardımcısı",
+"Isıl İşlem ve Sementasyon Fırın Operatörü",
+"Isıl İşlem ve Tavlama Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Isıl İşlem Ustası",
+"isco4": "8121",
+"isco_title": "Metal processing plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Isıl İşlem ve Sertleştirme Başustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metal Döküm Operatörü",
+"isco4": "8121",
+"isco_title": "Metal processing plant operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Metal Döküm Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Rulo Dilme Hattı Ustası",
+"isco4": "8121",
+"isco_title": "Metal processing plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Rulo Dilme ve Çelik Servis Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sürekli Döküm Ustası",
+"isco4": "8121",
+"isco_title": "Metal processing plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bakır Filmaşin Sürekli Döküm Başustası (Southwire Hattı)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tel Çekme Operatörü",
+"isco4": "8121",
+"isco_title": "Metal processing plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bakır Tel Haddeleme ve Çekme Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrostatik Toz Boya Ustası",
+"isco4": "8122",
+"isco_title": "Metal finishing, plating and coating machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Elektrostatik Toz Boya Hat Sorumlusu & Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": [
+"71"
+]
+},
+{
+"specialty": "Eloksal Operatörü",
+"isco4": "8122",
+"isco_title": "Metal finishing, plating and coating machine operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Eloksal ve Yüzey İşlem Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Galvaniz Kaplama Operatörü",
+"isco4": "8122",
+"isco_title": "Metal finishing, plating and coating machine operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Galvaniz Kaplama Elemanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Galvaniz Operatörü",
+"isco4": "8122",
+"isco_title": "Metal finishing, plating and coating machine operators",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Galvaniz Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kumlama Operatörü",
+"isco4": "8122",
+"isco_title": "Metal finishing, plating and coating machine operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kumlama / Sandblast Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": [
+"72"
+]
+},
+{
+"specialty": "Kumlama Ustası",
+"isco4": "8122",
+"isco_title": "Metal finishing, plating and coating machine operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kumlama ve Yüzey Temizleme Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tablet Baskı Operatörü",
+"isco4": "8131",
+"isco_title": "Chemical products plant and machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tablet Baskı Makine Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kauçuk Fitil Kesim ve Montaj Elemanı",
+"isco4": "8141",
+"isco_title": "Rubber products machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kauçuk ve Fitil Kesim/Montaj Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kauçuk Karışım ve Vulkanizasyon Ustası",
+"isco4": "8141",
+"isco_title": "Rubber products machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kauçuk Karışım (Bambury) ve Vulkanizasyon Başustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kauçuk Pres Operatörü",
+"isco4": "8141",
+"isco_title": "Rubber products machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kauçuk Pres ve Vulkanizasyon Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Enjeksiyon Kalıp Bağlama Ustası",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Enjeksiyon Kalıp Bağlama & Ayar Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kompozit Kalıplama ve Otoklav Operatörü",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kompozit Parça Kalıplama ve Otoklav Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Boru ve Profil Ekstrüzyon Operatörü",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plastik Boru & Profil Ekstrüzyon Hat Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Enjeksiyon Kalıp Ayar Ustası",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Plastik Enjeksiyon Kalıp Ayar Ustası (Master Mold Setter)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Enjeksiyon Makine Operatörü",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"Plastik Enjeksiyon Kalıp Operatörü",
+"Plastik Enjeksiyon Makine Operatörü",
+"Plastik Enjeksiyon Operatörü & Ayarcısı (Engel & Arburg)",
+"Plastik Enjeksiyon ve İmalat Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Enjeksiyon Operatörü",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yetiştirilmek Üzere Plastik Enjeksiyon Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Film Ekstrüzyon Operatörü",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plastik Film & Poşet Ekstrüzyon Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Geri Dönüşüm Operatörü",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plastik Geri Dönüşüm & Kırma Operatörü",
+"Plastik Yıkama & Granül Hattı Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Şişirme Operatörü",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plastik PET Şişirme Operatörü",
+"Plastik Şişirme (Blow Molding) Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Termoform Operatörü",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plastik Termoform (Vakum Ambalaj) Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "PVC İmalat İşçisi",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İMALAT İŞÇİSİ"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Rotasyonel Kalıplama Operatörü",
+"isco4": "8142",
+"isco_title": "Plastic products machine operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Rotasyonel Kalıplama Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dokuma Tezgahı Operatörü",
+"isco4": "8152",
+"isco_title": "Weaving and knitting machine operators",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Armürlü ve Jakarlı Dokuma Tezgah Operatörü",
+"Dokuma Makinesi Operatörü (Weaver)",
+"Dokumacı"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Triko Makine Programcısı",
+"isco4": "8152",
+"isco_title": "Weaving and knitting machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Örgü ve Triko Makine Programcısı (Stoll / Shima Seiki)"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağır Sanayi Dikiş Makinecisi",
+"isco4": "8153",
+"isco_title": "Sewing machine operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Döşemelik Kumaş & Ağır Sanayi Dikiş Makinecisi"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çift İğne Zincir Dikiş Makinecisi",
+"isco4": "8153",
+"isco_title": "Sewing machine operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Denim (Kot) Çift İğne & Zincir Dikişçisi"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Deri Konfeksiyon Dikimcisi",
+"isco4": "8153",
+"isco_title": "Sewing machine operators",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Deri Konfeksiyon Dikim Ustası",
+"Deri Konfeksiyon ve Dikim Elemanı"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dikiş Makinecisi",
+"isco4": "8153",
+"isco_title": "Sewing machine operators",
+"n_cv": 4,
+"n_job": 2,
+"ornek_unvanlar": [
+"Dikiş Makinecisi / Konfeksiyon İşçisi",
+"Dikiş Makinesi Operatörü (Overlokçu / Reçmeci)",
+"Sanayi Tipi Dikiş Makinecisi"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Düz Dikiş Makinecisi",
+"isco4": "8153",
+"isco_title": "Sewing machine operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Düz Dikiş (Singer) Sanayi Makinecisi",
+"Konfeksiyon Düz Dikiş Makinacısı"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlik Düğme Makinecisi",
+"isco4": "8153",
+"isco_title": "Sewing machine operators",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Otomatik İlik & Düğme Makine Operatörü",
+"Ponterez ve İlik Düğme Makinecisi",
+"İlik Düğme Makine Elemanı"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Nakış Makinesi Operatörü",
+"isco4": "8153",
+"isco_title": "Sewing machine operators",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Baskı ve Nakış Operatörü",
+"Endüstriyel Nakış Operatörü",
+"Nakış / Baskı Operatörü",
+"Otomatik Nakış Makinesi Operatörü"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Overlok Makinecisi",
+"isco4": "8153",
+"isco_title": "Sewing machine operators",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"4 ve 5 İplik Overlok Makinecisi",
+"4-5 İplik Overlok Makinesi Operatörü",
+"Overlokçu / Overlok Operatörü"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Reçme Makinecisi",
+"isco4": "8153",
+"isco_title": "Sewing machine operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Reçme Dikiş Makinecisi",
+"Reçme Makinesi Operatörü"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ultrasonik Yapıştırma Makinecisi",
+"isco4": "8153",
+"isco_title": "Sewing machine operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Dikişsiz Giyim & Ultrasonik Yapıştırma Makinecisi"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kumaş Boya ve Apre Ustası",
+"isco4": "8154",
+"isco_title": "Bleaching, dyeing and fabric cleaning machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kumaş Boya ve Apre Ustası"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ramöz Operatörü",
+"isco4": "8154",
+"isco_title": "Bleaching, dyeing and fabric cleaning machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tekstil Terbiye ve Ramöz Operatörü"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Deri Tabaklama ve İşleme Elemanı",
+"isco4": "8155",
+"isco_title": "Fur and leather preparing machine operators",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Deri Tabaklama ve İşleme İşçisi",
+"Deri İşleme Ustası (Tanner)"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Saya Dikiş Ustası",
+"isco4": "8156",
+"isco_title": "Shoemaking and related machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ayakkabı Saya Dikiş Ustası"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çamaşırhane Makine Operatörü",
+"isco4": "8157",
+"isco_title": "Laundry machine operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otel Çamaşırhane & Silindir Ütü Operatörü"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kuru Temizlemeci",
+"isco4": "8157",
+"isco_title": "Laundry machine operators",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kuru Temizleme ve Leke Çıkarma Elemanı",
+"Kuru Temizlemeci"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ütü Paket Elemanı",
+"isco4": "8157",
+"isco_title": "Laundry machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ütü Paket ve Paketleme Elemanı"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ütücü",
+"isco4": "8157",
+"isco_title": "Laundry machine operators",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ütücü / Pres Operatörü - Tekstil"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Değirmen Operatörü",
+"isco4": "8160",
+"isco_title": "Food and related products machine operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Un ve Yem Değirmeni Operatörü"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kahve Kavurma Ustası",
+"isco4": "8160",
+"isco_title": "Food and related products machine operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Değirmen Kalibrasyon & Kavurma Asistanı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Un ve Yem Değirmeni Operatörü",
+"isco4": "8160",
+"isco_title": "Food and related products machine operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Un ve Yem Değirmeni Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tomruk Hızar Operatörü",
+"isco4": "8172",
+"isco_title": "Wood processing plant operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ağaç ve Tomruk Hızar Operatörü"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Seramik Döküm ve Sırlama Operatörü",
+"isco4": "8181",
+"isco_title": "Glass and ceramics plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Seramik Sağlık Gereçleri Döküm ve Sırlama Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Seramik Fırın Ustası",
+"isco4": "8181",
+"isco_title": "Glass and ceramics plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Seramik Tünel Fırın Pişirim ve Sırlama Başustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Yağcısı",
+"isco4": "8182",
+"isco_title": "Steam engine and boiler operators",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi Yağcısı / Makine Dairesi Elemanı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": [
+"83"
+]
+},
+{
+"specialty": "Kazan Dairesi Operatörü",
+"isco4": "8182",
+"isco_title": "Steam engine and boiler operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kazan Dairesi ve Buhar Kazanı Elemanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sanayi Kazanı Operatörü",
+"isco4": "8182",
+"isco_title": "Steam engine and boiler operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sanayi Kazanı (Kazan Dairesi) Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Makine Operatörü",
+"isco4": "8189",
+"isco_title": "Stationary plant and machine operators not elsewhere classified",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Makine Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+}
+]

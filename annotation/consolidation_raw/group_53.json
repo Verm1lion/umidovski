@@ -1,0 +1,16 @@
+[
+{"specialty": "Anaokulu Yardımcı Ablası", "isco4": "5311", "canonical_specialty": "Anaokulu Yardımcı Ablası", "canonical_isco4": "5311"},
+{"specialty": "Bebek Bakıcısı", "isco4": "5311", "canonical_specialty": "Bebek Bakıcısı", "canonical_isco4": "5311"},
+{"specialty": "Okul Servis Hostesi", "isco4": "5311", "canonical_specialty": "Okul Servis Hostesi", "canonical_isco4": "5311"},
+{"specialty": "Engelli Bakım Personeli", "isco4": "5321", "canonical_specialty": "Engelli Bakım Personeli", "canonical_isco4": "5321"},
+{"specialty": "Hasta Bakıcı", "isco4": "5321", "canonical_specialty": "Hasta ve Yaşlı Bakıcı", "canonical_isco4": "5321"},
+{"specialty": "Hasta ve Yaşlı Bakım Elemanı", "isco4": "5321", "canonical_specialty": "Hasta ve Yaşlı Bakıcı", "canonical_isco4": "5321"},
+{"specialty": "Yaşlı Bakım Elemanı", "isco4": "5321", "canonical_specialty": "Hasta ve Yaşlı Bakıcı", "canonical_isco4": "5321"},
+{"specialty": "Evde Hasta ve Yaşlı Bakıcı", "isco4": "5322", "canonical_specialty": "Hasta ve Yaşlı Bakıcı", "canonical_isco4": "5321"},
+{"specialty": "Yaşlı Bakıcısı", "isco4": "5322", "canonical_specialty": "Hasta ve Yaşlı Bakıcı", "canonical_isco4": "5321"},
+{"specialty": "Hasta Taşıma Elemanı", "isco4": "5329", "canonical_specialty": "Hastane Portörü", "canonical_isco4": "5329"},
+{"specialty": "Hastane Portörü", "isco4": "5329", "canonical_specialty": "Hastane Portörü", "canonical_isco4": "5329"},
+{"specialty": "Merkezi Sterilizasyon Teknisyeni", "isco4": "5329", "canonical_specialty": "Sterilizasyon Teknisyeni", "canonical_isco4": "5329"},
+{"specialty": "Portör Görevlisi", "isco4": "5329", "canonical_specialty": "Hastane Portörü", "canonical_isco4": "5329"},
+{"specialty": "Sterilizasyon Görevlisi", "isco4": "5329", "canonical_specialty": "Sterilizasyon Teknisyeni", "canonical_isco4": "5329"}
+]

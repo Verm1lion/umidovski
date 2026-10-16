@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30726",
+  "target_occ_key": "4323:ucus_ekibi_planlama_uzmani",
+  "target_specialty": "Uçuş Ekibi Planlama Uzmanı",
+  "target_isco4": "4323",
+  "target_isco_title": "Transport clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Uçuş Ekibi Planlama ve Otel Tahsis Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30727",
+  "target_occ_key": "5112:tren_konduktoru",
+  "target_specialty": "Tren Kondüktörü",
+  "target_isco4": "5112",
+  "target_isco_title": "Transport conductors",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Tren Kondüktörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30728",
+  "target_occ_key": "5120:balik_ascisi",
+  "target_specialty": "Balık Aşçısı",
+  "target_isco4": "5120",
+  "target_isco_title": "Cooks",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Balık ve Deniz Ürünleri Alakart Şefi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30729",
+  "target_occ_key": "5120:diyet_ascisi",
+  "target_specialty": "Diyet Aşçısı",
+  "target_isco4": "5120",
+  "target_isco_title": "Cooks",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Diyet ve Sağlıklı Beslenme Mutfak Şefi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30730",
+  "target_occ_key": "5120:soguk_mutfak_ascisi",
+  "target_specialty": "Soğuk Mutfak Aşçısı",
+  "target_isco4": "5120",
+  "target_isco_title": "Cooks",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "Muğla",
+  "example_job_titles": [
+   "Soğuk Mutfak Şefi (Garde Manger / Chef de Partie)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30731",
+  "target_occ_key": "5131:havalimani_lounge_hizmet_gorevlisi",
+  "target_specialty": "Havalimanı Lounge Hizmet Görevlisi",
+  "target_isco4": "5131",
+  "target_isco_title": "Waiters",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Havalimanı CIP & VIP Lounge Hizmet Sorumlusu"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30732",
+  "target_occ_key": "5142:hamam_terapisti",
+  "target_specialty": "Hamam Terapisti",
+  "target_isco4": "5142",
+  "target_isco_title": "Beauticians and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SPORTS",
+  "industry_tr": "Spor",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Spa ve Hamam Kese/Köpük Terapisti"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30733",
+  "target_occ_key": "5164:at_bakicisi",
+  "target_specialty": "At Bakıcısı",
+  "target_isco4": "5164",
+  "target_isco_title": "Pet groomers and animal care workers",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "At Bakıcısı ve Seyis"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30734",
+  "target_occ_key": "5165:agir_vasita_surus_egitmeni",
+  "target_specialty": "Ağır Vasıta Sürüş Eğitmeni",
+  "target_isco4": "5165",
+  "target_isco_title": "Driving instructors",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Ağır Vasıta Sürüş Teknikleri Eğitmeni"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30735",
+  "target_occ_key": "5246:yemek_servis_elemani",
+  "target_specialty": "Yemek Servis Elemanı",
+  "target_isco4": "5246",
+  "target_isco_title": "Food service counter attendants",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Yemek Servis Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30736",
+  "target_occ_key": "5249:online_satis_temsilcisi",
+  "target_specialty": "Online Satış Temsilcisi",
+  "target_isco4": "5249",
+  "target_isco_title": "Sales workers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Adana",
+  "example_job_titles": [
+   "DİSTRİBİTÖR"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30737",
+  "target_occ_key": "5321:engelli_bakim_personeli",
+  "target_specialty": "Engelli Bakım Personeli",
+  "target_isco4": "5321",
+  "target_isco_title": "Health care assistants",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Hatay",
+  "example_job_titles": [
+   "Engelli Bakım ve Destek Personeli"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30738",
+  "target_occ_key": "5329:sterilizasyon_teknisyeni",
+  "target_specialty": "Sterilizasyon Teknisyeni",
+  "target_isco4": "5329",
+  "target_isco_title": "Personal care workers in health services not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Sterilizasyon ve Temiz Oda (Cleanroom) Sorumlusu"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30739",
+  "target_occ_key": "5414:alarm_izleme_operatoru",
+  "target_specialty": "Alarm İzleme Operatörü",
+  "target_isco4": "5414",
+  "target_isco_title": "Security guards",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SECURITY_EMERGENCY",
+  "industry_tr": "Güvenlik ve Acil Durum",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Güvenlik Operasyon Merkezi (SOC) Analisti"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30740",
+  "target_occ_key": "5414:gece_bekcisi",
+  "target_specialty": "Gece Bekçisi",
+  "target_isco4": "5414",
+  "target_isco_title": "Security guards",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "SECURITY_EMERGENCY",
+  "industry_tr": "Güvenlik ve Acil Durum",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Gece Bekçisi / Tesis Koruma Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30741",
+  "target_occ_key": "5414:guvenlik_kamera_operatoru",
+  "target_specialty": "Güvenlik Kamera Operatörü",
+  "target_isco4": "5414",
+  "target_isco_title": "Security guards",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "SECURITY_EMERGENCY",
+  "industry_tr": "Güvenlik ve Acil Durum",
+  "city": "Ankara",
+  "example_job_titles": [
+   "CCTV ve Güvenlik Kamera Operatörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30742",
+  "target_occ_key": "5414:guvenlik_ve_temizlik_gorevlisi",
+  "target_specialty": "Güvenlik ve Temizlik Görevlisi",
+  "target_isco4": "5414",
+  "target_isco_title": "Security guards",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SECURITY_EMERGENCY",
+  "industry_tr": "Güvenlik ve Acil Durum",
+  "city": "Diyarbakır",
+  "example_job_titles": [
+   "GÜVENLİK VE TEMİZLİK PERSONELİ"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30743",
+  "target_occ_key": "6112:bagcilik_elemani",
+  "target_specialty": "Bağcılık Elemanı",
+  "target_isco4": "6112",
+  "target_isco_title": "Tree and shrub crop growers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Hatay",
+  "example_job_titles": [
+   "Bağcılık ve Şaraplık Üzüm Üretim Elemanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30744",
+  "target_occ_key": "6112:budama_ustasi",
+  "target_specialty": "Budama Ustası",
+  "target_isco4": "6112",
+  "target_isco_title": "Tree and shrub crop growers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Samsun",
+  "example_job_titles": [
+   "Meyve Ağacı ve Peyzaj Budama Ustası"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30745",
+  "target_occ_key": "6112:meyve_bahcesi_isletme_sefi",
+  "target_specialty": "Meyve Bahçesi İşletme Şefi",
+  "target_isco4": "6112",
+  "target_isco_title": "Tree and shrub crop growers",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Meyve Bahçesi İşletme Şefi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30746",
+  "target_occ_key": "6113:fidan_asilama_elemani",
+  "target_specialty": "Fidan Aşılama Elemanı",
+  "target_isco4": "6113",
+  "target_isco_title": "Gardeners, horticultural and nursery growers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Balıkesir",
+  "example_job_titles": [
+   "Tarım ve Meyve Fidanı Aşılama Elemanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30747",
+  "target_occ_key": "6113:sera_uretim_sorumlusu",
+  "target_specialty": "Sera Üretim Sorumlusu",
+  "target_isco4": "6113",
+  "target_isco_title": "Gardeners, horticultural and nursery growers",
+  "target_collar": "BLUE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Mersin",
+  "example_job_titles": [
+   "Sera Üretim ve Bakım Sorumlusu"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30748",
+  "target_occ_key": "6222:balikci",
+  "target_specialty": "Balıkçı",
+  "target_isco4": "6222",
+  "target_isco_title": "Inland and coastal waters fishery workers",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Gemi Balıkçısı / Balıkçı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30749",
+  "target_occ_key": "7114:mozaik_ustasi",
+  "target_specialty": "Mozaik Ustası",
+  "target_isco4": "7114",
+  "target_isco_title": "Concrete placers, concrete finishers and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Mozaik ve Zemin Kaplama Ustası"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30750",
+  "target_occ_key": "7114:tirmanir_kalip_ustasi",
+  "target_specialty": "Tırmanır Kalıp Ustası",
+  "target_isco4": "7114",
+  "target_isco_title": "Concrete placers, concrete finishers and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Endüstriyel Kalıp ve Tırmanır İskele Şefi"
+  ],
+  "style": "kisa ve oz"
+ }
+]

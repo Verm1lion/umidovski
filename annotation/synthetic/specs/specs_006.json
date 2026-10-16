@@ -1,0 +1,451 @@
+[
+ {
+  "id": "S30151",
+  "target_occ_key": "2161:cephe_tasarim_uzmani",
+  "target_specialty": "Cephe Tasarım Uzmanı",
+  "target_isco4": "2161",
+  "target_isco_title": "Building architects",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Cephe Proje ve Detay Çizim Mühendisi (Junior)",
+   "Cephe Sistemleri Tasarım Mimarı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30152",
+  "target_occ_key": "2163:otomotiv_ic_mekan_tasarimcisi",
+  "target_specialty": "Otomotiv İç Mekan Tasarımcısı",
+  "target_isco4": "2163",
+  "target_isco_title": "Product and garment designers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Otomotiv Araç İçi (Trim) Tasarımcısı",
+   "Otomotiv İç Mekan ve Trim Tasarımcısı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30153",
+  "target_occ_key": "2163:taki_tasarimcisi",
+  "target_specialty": "Takı Tasarımcısı",
+  "target_isco4": "2163",
+  "target_isco_title": "Product and garment designers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Mücevher ve Takı Tasarımcısı (3D Matrix)",
+   "Takı ve Mücevher Tasarımcısı (Matrix / Rhino)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30154",
+  "target_occ_key": "2166:ambalaj_tasarimcisi",
+  "target_specialty": "Ambalaj Tasarımcısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Ambalaj ve Etiket Tasarımcısı",
+   "Ambalaj ve Kutu Tasarımcısı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30155",
+  "target_occ_key": "2166:hareketli_grafik_tasarimcisi",
+  "target_specialty": "Hareketli Grafik Tasarımcısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Motion Graphics (Hareketli Grafik) Tasarımcısı",
+   "Motion Graphics Tasarımcısı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30156",
+  "target_occ_key": "2166:oyun_tasarimcisi",
+  "target_specialty": "Oyun Tasarımcısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Oyun Ekonomisi ve Dengeleme Tasarımcısı",
+   "Oyun Seviye Tasarımcısı (Level Designer)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30157",
+  "target_occ_key": "2212:gogus_hastaliklari_uzmani",
+  "target_specialty": "Göğüs Hastalıkları Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Göğüs Hastalıkları Uzman Hekimi",
+   "Göğüs Hastalıkları Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30158",
+  "target_occ_key": "2212:kardiyoloji_uzmani",
+  "target_specialty": "Kardiyoloji Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kardiyoloji Uzman Hekimi",
+   "Uzman Hekim (Kardiyoloji)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30159",
+  "target_occ_key": "2212:kulak_burun_bogaz_uzmani",
+  "target_specialty": "Kulak Burun Boğaz Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kulak Burun Boğaz (KBB) Uzman Hekimi",
+   "Kulak Burun Boğaz (KBB) Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30160",
+  "target_occ_key": "2212:noroloji_uzmani",
+  "target_specialty": "Nöroloji Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Nöroloji Uzman Hekimi",
+   "Nöroloji Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30161",
+  "target_occ_key": "2212:radyoloji_uzmani",
+  "target_specialty": "Radyoloji Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Gaziantep",
+  "example_job_titles": [
+   "Radyoloji Uzman Hekimi",
+   "Radyoloji ve Girişimsel Radyoloji Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30162",
+  "target_occ_key": "2212:uroloji_uzmani",
+  "target_specialty": "Üroloji Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Üroloji Uzman Hekimi",
+   "Üroloji Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30163",
+  "target_occ_key": "2221:yogun_bakim_hemsiresi",
+  "target_specialty": "Yoğun Bakım Hemşiresi",
+  "target_isco4": "2221",
+  "target_isco_title": "Nursing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Yoğun Bakım Hemşiresi",
+   "Yoğun Bakım Hemşiresi (Erişkin KVC / Genel Yoğun Bakım)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30164",
+  "target_occ_key": "2330:almanca_ogretmeni",
+  "target_specialty": "Almanca Öğretmeni",
+  "target_isco4": "2330",
+  "target_isco_title": "Secondary education teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Almanca Öğretmeni",
+   "Almanca Öğretmeni (K12 İkinci Yabancı Dil)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30165",
+  "target_occ_key": "2342:okul_oncesi_ogretmeni",
+  "target_specialty": "Okul Öncesi Öğretmeni",
+  "target_isco4": "2342",
+  "target_isco_title": "Early childhood educators",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Okul Öncesi Öğretmeni"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30166",
+  "target_occ_key": "2351:e_ogrenme_icerik_gelistirici",
+  "target_specialty": "E-Öğrenme İçerik Geliştirici",
+  "target_isco4": "2351",
+  "target_isco_title": "Education methods specialists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Dijital Eğitim İçerik ve LMS Geliştirme Uzmanı",
+   "E-Öğrenme ve İnteraktif İçerik Geliştirici"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30167",
+  "target_occ_key": "2359:yurt_disi_universite_danismani",
+  "target_specialty": "Yurt Dışı Üniversite Danışmanı",
+  "target_isco4": "2359",
+  "target_isco_title": "Teaching professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Yurt Dışı Üniversite Danışmanı (College Counselor)",
+   "Yurtdışı Üniversite ve Burs Danışmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30168",
+  "target_occ_key": "2411:kdv_iade_uzmani",
+  "target_specialty": "KDV İade Uzmanı",
+  "target_isco4": "2411",
+  "target_isco_title": "Accountants",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "KDV İade ve Vergi Denetim Elemanı",
+   "KDV İadesi ve Teşvik Muhasebesi Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30169",
+  "target_occ_key": "2411:maliyet_kontrol_uzmani",
+  "target_specialty": "Maliyet Kontrol Uzmanı",
+  "target_isco4": "2411",
+  "target_isco_title": "Accountants",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Maliyet Kontrol ve Bütçe Yöneticisi",
+   "Maliyet Kontrol ve Bütçe Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30170",
+  "target_occ_key": "2413:kantitatif_risk_analisti",
+  "target_specialty": "Kantitatif Risk Analisti",
+  "target_isco4": "2413",
+  "target_isco_title": "Financial analysts",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Kantitatif Risk Analisti",
+   "Kredi Riski Modelleme ve Analiz Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30171",
+  "target_occ_key": "2413:proje_finansmani_uzmani",
+  "target_specialty": "Proje Finansmanı Uzmanı",
+  "target_isco4": "2413",
+  "target_isco_title": "Financial analysts",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Proje Finansmanı ve Kredi Yapılandırma Uzmanı",
+   "Proje Finansmanı ve Teşvik Asistanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30172",
+  "target_occ_key": "2421:is_gucu_planlama_uzmani",
+  "target_specialty": "İş Gücü Planlama Uzmanı",
+  "target_isco4": "2421",
+  "target_isco_title": "Management and organization analysts",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CUSTOMER_SERVICE",
+  "industry_tr": "Müşteri Hizmetleri",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Vardiya ve Kapasite Planlama Uzmanı (WFM)",
+   "İş Gücü Yönetimi ve Vardiya Planlama Uzmanı (WFM Specialist)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30173",
+  "target_occ_key": "2423:insan_kaynaklari_danismani",
+  "target_specialty": "İnsan Kaynakları Danışmanı",
+  "target_isco4": "2423",
+  "target_isco_title": "Personnel and careers professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "İK Süreç ve Dijitalleşme Danışmanı",
+   "İK ve Yetenek Yönetimi Danışmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30174",
+  "target_occ_key": "2423:ucret_ve_yan_haklar_uzmani",
+  "target_specialty": "Ücret ve Yan Haklar Uzmanı",
+  "target_isco4": "2423",
+  "target_isco_title": "Personnel and careers professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Performans ve Ücret Yönetimi Uzmanı",
+   "Ücret ve Yan Haklar Uzmanı (Compensation & Benefits Specialist)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30175",
+  "target_occ_key": "2423:yetenek_yonetimi_uzmani",
+  "target_specialty": "Yetenek Yönetimi Uzmanı",
+  "target_isco4": "2423",
+  "target_isco_title": "Personnel and careers professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Yetenek Yönetimi Uzmanı",
+   "Yetenek Yönetimi ve Kariyer Gelişim Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ }
+]

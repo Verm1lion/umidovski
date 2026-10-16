@@ -1,0 +1,3926 @@
+[
+{
+"specialty": "Adli Muhasebe ve Hile Denetimi Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Adli Muhasebe ve Hile Denetimi Uzmanı (CFE / Suistimal İncelemeleri)",
+"Adli Muhasebe ve Hile Denetimi Uzmanı (CFE)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Akaryakıt ve Enerji Sektörü Mali Uyum ve ÖTV Denetçisi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Akaryakıt ve Enerji Sektörü EPDK Mali Uyum ve ÖTV Denetçisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ar-Ge Merkezi ve Teknokent Vergi Teşvikleri Denetçisi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ar-Ge Merkezi ve Teknokent Vergi Teşvikleri Denetçisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ar-Ge ve Yatırım Projeleri Finansal Kontrolörü",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ar-Ge ve Yatırım Projeleri Finansal Kontrolörü (TÜBİTAK / Teknopark)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bağımsız Denetçi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 2,
+"n_job": 4,
+"ornek_unvanlar": [
+"Bağımsız Denetim Asistanı (Audit Associate)",
+"Bağımsız Denetim Lideri / Ortak (Audit Partner)",
+"Bağımsız Denetçi",
+"Bağımsız Dış Denetçi ( Auditor)",
+"Bağımsız Dış Denetçi (Senior Auditor)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bağımsız Denetim Kalite Kontrol ve Metodoloji Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Bağımsız Denetim Kalite Kontrol ve Metodoloji Uzmanı (ISQC 1 / ISQM 1)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bağımsız Denetim Müdürü",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Bağımsız Denetim Müdürü (Audit Manager)",
+"Kıdemli Bağımsız Dış Denetim Müdürü (Big 4 / IFRS / KGK Denetçisi)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Banka Hazine ve Piyasa Riski İç Denetçisi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Banka Hazine ve Piyasa Riski İç Denetçisi (VaR / Türev İşlemler)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Banka Müfettişi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 4,
+"n_job": 3,
+"ornek_unvanlar": [
+"Banka Müfettiş Yardımcısı (Teftiş Kurulu Denetçisi)",
+"Banka Teftiş Kurulu Müfettiş Yardımcısı",
+"Banka Teftiş Kurulu Müfettişi",
+"Müfettiş"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilgi Teknolojileri Denetçisi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"IT Auditor"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bütçe Planlama ve Kontrol Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 3,
+"n_job": 7,
+"ornek_unvanlar": [
+"Banka ve Finansal Kurumlar Masraf ve Bütçe Kontrolörü (Cost Allocation)",
+"Budget & Financial Reporting Specialist",
+"Bütçe Kontrol ve Raporlama Uzmanı",
+"Bütçe Planlama ve Finansal Kontrolör",
+"Bütçe ve Finansal Kontrol Asistanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dış Ticaret Finansal Kontrolörü",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Uluslararası Ticaret ve Dış Ticaret Finansal Kontrolörü (L/C & FX Exposure)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Düzenleyici Raporlama Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Finansal Kuruluşlar BDDK Uyum ve Düzenleyici Raporlama Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Enflasyon Muhasebesi Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Enflasyon Muhasebesi ve Parasal Kazanç/Kayıp Denetim Uzmanı (TMS 29 / VUK)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finans Kontrolörü",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yurtdışı Şantiye Muhasebesi ve Finans Kontrolörü İnşaat Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Denetim Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 5,
+"n_job": 0,
+"ornek_unvanlar": [
+"Savunma Sanayii Projeleri Mali Denetim ve Fiyat Tespit Uzmanı",
+"Sermaye Piyasası Aracı Kurumlar ve PYŞ Denetçisi (SPK / MKK Mutabakatı)",
+"Sigorta Şirketleri SEDDK Uyum ve Mali Denetim Uzmanı",
+"TFRS 9 ve Finansal Araçlar Değerleme Denetçisi (ECL / Beklenen Kredi Zararı)",
+"Tedarikçi ve Bayi Finansal Denetim Uzmanı (Third-Party Audit)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Kontrolör",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 17,
+"n_job": 2,
+"ornek_unvanlar": [
+"Bilişim ve SaaS Şirketleri Finansal Kontrolörü (SaaS Controller)",
+"E-Ticaret ve Dijital Kanal Finansal Kontrolörü",
+"Enerji Santralleri ve Üretim Tesisleri Finansal Kontrolörü (LCOE)",
+"Fabrika ve Tesis Finans Kontrolörü (Plant Controller)",
+"Financial Controller"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Raporlama Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Finansal Raporlama Uzman Yardımcısı (UFRS/IFRS)",
+"Finansal Raporlama ve SPK Mevzuat Uzmanı",
+"Kurumsal Finansal Raporlama ve IFRS Teknik Muhasebe Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fon Operasyonları Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Uluslararası Fon Yönetimi ve Finansal Operasyonlar Koordinatörü (Offshore / SPV)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Franchise Mali Denetçisi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Franchise ve Perakende Ağı Mali Uyum ve Royalti Denetçisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Genel Muhasebe Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 2,
+"n_job": 8,
+"ornek_unvanlar": [
+"Genel Muhasebe Aday Uzmanı (Yetiştirilmek Üzere)",
+"Genel Muhasebe Takım Lideri",
+"Genel Muhasebe Uzmanı",
+"Genel Muhasebe Uzmanı (Gıda Üretim)",
+"Genel Muhasebe Uzmanı (Çimento & Yapı Malzemeleri)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gümrük ve Dış Ticaret Vergi Denetçisi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gümrük ve Dış Ticaret Vergi Denetçisi (Yetkilendirilmiş Yükümlü - YYS)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İç Denetçi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 4,
+"n_job": 3,
+"ornek_unvanlar": [
+"Internal Auditor",
+"Kıdemli İç Denetim Uzmanı (Senior Internal Auditor)",
+"İç Denetim Asistanı (Internal Audit Associate)",
+"İç Denetçi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İç Denetim Müdürü",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İç Denetim ve Kurumsal Risk Yönetimi Müdürü (CIA / COSO Framework)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": [
+"12"
+]
+},
+{
+"specialty": "İç Denetim ve Etik İnceleme Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"İç Denetim ve Etik Hat İnceleme Uzmanı"
+],
+"sektorler": [
+"LEGAL"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İç Kontrol Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Finansal Süreçler SOX ve İç Kontrol Uyum Lideri (Sarbanes-Oxley 404)",
+"İç Kontrol ve Uyum Uzmanı (Internal Control & Compliance)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İhracat ve Kambiyo Muhasebesi Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İhracat ve Kambiyo Muhasebesi Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kamu-Özel İşbirliği Projeleri Mali Denetim Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kamu-Özel İşbirliği (KÖİ) ve Yap-İşlet-Devret Projeleri Mali Denetim Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "KDV İade Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"KDV İade ve Vergi Denetim Elemanı",
+"KDV İadesi ve Teşvik Muhasebesi Uzmanı",
+"KDV İadesi ve İndirimli Oran Uzmanı SMMM"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mali Danışman",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mali İşler Danışmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mali Denetçi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mali Denetçi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mali Müşavir",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Certified Public Accountant (CPA)",
+"Mali Müşavir",
+"Mali Müşavir (SMMM)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mali Uyum Denetçisi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Madencilik Sektörü Devlet Hakkı ve Mali Uyum Denetçisi (MAPEG)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Maliyet Kontrol Mühendisi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Maliyet Kontrol ve Bütçe Mühendisi",
+"Maliyet Kontrol ve Bütçe Mühendisi (Cost Control / EVM / SAP CO)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Maliyet Kontrol Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Maliyet Kontrol ve Bütçe Yöneticisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Maliyet Kontrolörü",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 5,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kimya ve Proses Sanayi Kütle Dengesi ve Maliyet Kontrolörü (Mass Balance Costing)",
+"Lojistik ve Filo Operasyonları Maliyet Kontrolörü (Freight Costing)",
+"Maden ve Taş Ocağı İşletmeleri Maliyet Kontrolörü (Depletion / Ton Başı Maliyet)",
+"Maliyet Azaltma ve Değer Mühendisliği Kontrolörü (Cost Reduction / VAVE)",
+"Medya, Prodüksiyon ve Dizi Projeleri Bütçe Kontrolörü (Production Controller)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Maliyet Muhasebesi Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 11,
+"n_job": 5,
+"ornek_unvanlar": [
+"Cost Accounting Specialist",
+"Envanter ve Stok Maliyet Kontrolörü (Stok Değerleme & Fire Analizi)",
+"Faaliyete Dayalı Maliyetleme (ABC Costing) ve Süreç Verimliliği Uzmanı",
+"Gıda ve İçecek Üretim Maliyetleri Kontrolörü (Hammadde Reçete Sapmaları)",
+"Kıdemli Üretim Maliyet Muhasebesi ve Standart Maliyet Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Muhasebe Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 6,
+"n_job": 9,
+"ornek_unvanlar": [
+"Accountant",
+"Accounting Specialist",
+"Bölge Muhasebe Uzmanı",
+"Dönem Sonu ve Mizan Kontrol Uzmanı",
+"Dış Ticaret ve Gümrük Muhasebesi Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otel Mali Denetim Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Turizm ve Otelcilik Sektörü Mali Denetim Uzmanı (USALI / Konaklama Vergisi)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Serbest Muhasebeci Mali Müşavir",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Serbest Muhasebeci Mali Müşavir"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sermaye Piyasası Uyum Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sermaye Piyasası Kurulu (SPK) Uyum Danışmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "SGK ve Bordro Denetim Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sosyal Güvenlik ve İş Hukuku Denetim Uzmanı (SGK / Bordro Teftişi)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sürdürülebilirlik Denetim Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sürdürülebilirlik Denetimi ve ESG Raporlama Güvence Uzmanı (GRI / CSRD)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tasfiye ve İflas Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şirket Tasfiye ve İflas Masası Mali Denetim Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ticari Finans Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ticari Finans ve Fiyatlandırma Uzmanı (Commercial Finance)",
+"Ticari Kontrolör ve Satış Kârlılığı Analisti (Commercial Controller)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Transfer Fiyatlandırması Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Transfer Fiyatlandırması Uzmanı",
+"Transfer Fiyatlandırması ve Örtülü Kazanç Uzmanı (OECD / TP Documentation)",
+"Transfer Pricing Specialist"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uluslararası Finansal Raporlama Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"UFRS Konsolidasyon ve Grup Raporlama Uzmanı",
+"Uluslararası Raporlama (IFRS) Uzmanı",
+"Uluslararası Raporlama Uzmanı (IFRS / UFRS)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uluslararası Vergi Danışmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uluslararası Çifte Vergilendirmeyi Önleme Danışmanı"
+],
+"sektorler": [
+"LEGAL"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uluslararası Vergi Müdürü",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Uluslararası Vergi ve Kar Dağıtımı Planlama Müdürü (Holding / BEPS)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uluslararası Vergi Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Cross-Border Tax Structuring Specialist",
+"Uluslararası Vergi Planlaması ve Küresel Asgari Kurumlar Vergisi Uzmanı (BEPS Pillar 2)",
+"Çifte Vergilendirmeyi Önleme Anlaşmaları (ÇVÖA) ve Mukimlik Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vakıf ve Dernek Mali Denetçisi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Vakıf, Dernek ve Sivil Toplum Kuruluşları Vergi ve Mali Denetçisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vergi Danışmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Vergi Denetçisi / Danışmanı",
+"Vergi Risk Yönetimi ve Matrah Artırımı Danışmanı (Varlık Barışı / Yapılandırma)",
+"Yeminli Mali Müşavirlik ve Vergi Denetimi Uzmanı (YMM / Tam Tasdik)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vergi Denetim Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sağlık Sektörü ve Medikal Kurumlar Vergi ve SGK Denetçisi",
+"Tax Auditor"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vergi Uyum Denetçisi",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gayrimenkul Yatırım Fonları ve GYO Vergi Uyum Denetçisi (KVK 5/1-d İstisnası)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vergi Uyuşmazlıkları Danışmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Vergi İhtilafları ve Dava Takibi Danışmanı (Vergi Mahkemesi / Danıştay)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vergi Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"E-Ticaret ve Dijital Hizmet Vergisi Denetim Uzmanı",
+"Vergi Denetimi ve Teftiş Uzmanı",
+"Vergi ve Yasal Raporlama Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yatırım Teşvik Uzmanı",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Vergi Teşvik ve Yatırım İndirimi Yönetim Uzmanı (Yatırım Teşvik Belgesi)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yeminli Mali Müşavir",
+"isco4": "2411",
+"isco_title": "Accountants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yeminli Mali Müşavir"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bireysel Portföy Danışmanı",
+"isco4": "2412",
+"isco_title": "Financial and investment advisers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Banka Bireysel Portföy Danışmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Danışman",
+"isco4": "2412",
+"isco_title": "Financial and investment advisers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Danışman",
+"Financial Advisor"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal Emeklilik Danışmanı",
+"isco4": "2412",
+"isco_title": "Financial and investment advisers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kurumsal Emeklilik Fonları ve Yatırım Stratejisi Danışmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Özel Bankacılık Portföy Danışmanı",
+"isco4": "2412",
+"isco_title": "Financial and investment advisers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Private Banking Portfolio Advisor"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Portföy Yöneticisi",
+"isco4": "2412",
+"isco_title": "Financial and investment advisers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yatırımcı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yatırım ve Portföy Danışmanı",
+"isco4": "2412",
+"isco_title": "Financial and investment advisers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Varlık Yönetimi ve Nitelikli Yatırımcı Portföy Danışmanı (Private Banking)",
+"Yatırım Danışmanı (Sermaye Piyasaları)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yeşil Finansman Danışmanı",
+"isco4": "2412",
+"isco_title": "Financial and investment advisers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yeşil Finansman ve ESG Tahvili İhraç Danışmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aktif Pasif Yönetimi Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Asset & Liability Management (ALM) Specialist",
+"Varlık ve Borç Yönetimi (ALM) Uzmanı",
+"Varlık-Yükümlülük Yönetimi (ALM) ve Faiz Riski Uzmanı (Banka / Basel)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Algoritmik ve Yüksek Frekanslı İşlem Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Algorithmic & High-Frequency Trading (HFT) Specialist",
+"Algoritmik ve Yüksek Frekanslı İşlem (HFT) Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Alternatif Yatırım Fonları Yöneticisi",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gayrimenkul ve Altyapı Fonları Yatırım Yöneticisi (GSYF / GYF)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Birleşme ve Satın Alma Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Birleşme ve Satın Alma (M&A) Analisti",
+"Corporate Financial Advisor",
+"Şirket Birleşme ve Satın Alma (M&A) Danışmanı",
+"Şirket Birleşme ve Satın Alma (M&A) Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Borçlanma Araçları İhraç Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Borçlanma Araçları ve Tahvil/Bono İhraç Uzmanı (DCM / Sukuk)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dış Ticaret Finansmanı Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ticari Finansman ve İhracat Kredileri Uzmanı (Eximbank / Forfaiting)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": [
+"33"
+]
+},
+{
+"specialty": "Emeklilik Fonu Yatırım Komitesi Raportörü",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Pension Fund Investment Committee Rapporteur"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Faktoring ve Tedarikçi Finansmanı Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Faktoring ve Tedarikçi Finansmanı Yöneticisi (Supply Chain Finance)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finans Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Finans Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Analist",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Financial Analysis Specialist",
+"Financial Modeling & Valuation Specialist",
+"Finansal Analist",
+"Finansal Analist (Financial Analyst)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Modelleme ve Değerleme Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Finansal Modelleme ve Değerleme Uzmanı",
+"Junior Finansal Analist (Financial Analyst)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Planlama ve Analiz Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Finansal Planlama ve Analiz (FP&A) Stajyeri",
+"Kıdemli FP&A ve Finansal Kontrolör (Bütçe & Dinamik Raporlama)",
+"Stajyer Finansal Planlama ve Analiz Asistanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Risk Analisti",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İstatistikçi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Risk Yönetimi Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Risk Denetçisi",
+"Risk Yönetimi ve Modelleme Uzmanı",
+"Stres Testi ve Sermaye Yeterliliği (Basel III) Analisti"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Finansal Yeniden Yapılandırma Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Finansal Yeniden Yapılandırma ve Kredi Çözümleme Uzmanı (Restructuring)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fon Raporlama Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Emeklilik Yatırım Fonu Fon Kurulu Raportörü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gayrimenkul Geliştirme ve Fizibilite Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gayrimenkul Geliştirme ve Fizibilite Mühendisi (Argus / DCF Analizi)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gayrimenkul Portföy Yöneticisi",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"REIT Portfolio & Capital Allocation Manager"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Girişim Sermayesi Portföy İzleme Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Risk Sermayesi Portföy Takip ve Finansal Denetim Uzmanı (VC Portfolio Monitoring)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Girişim Sermayesi Yatırım Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 4,
+"n_job": 2,
+"ornek_unvanlar": [
+"Girişim Sermayesi (Venture Capital) Analisti",
+"Girişim Sermayesi ve Erken Aşama Yatırım Yöneticisi (Venture Capital)",
+"Kurumsal Girişim Sermayesi (CVC) Yatırım Uzmanı",
+"Venture Capital (VC) Investment Analyst",
+"Yatırımcı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Halka Arz Danışmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kurumsal Yönetim ve Halka Arz (IPO) Danışmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Halka Arz ve Sermaye Piyasaları Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Halka Arz (IPO) ve Hisse Senedi Sermaye Piyasaları Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hazine Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Hazine Uzmanı (Treasury Specialist)",
+"Hazine ve Kur Riski Yönetimi Uzmanı",
+"Hazine ve Kur Riski Yönetimi Uzmanı (FX Hedging / Türev Ürünler)",
+"Hazine ve Nakit Akışı Yönetmeni",
+"Hazine ve Nakit Yönetimi Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hazine ve Finansman Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kredi ve Finansman Sorumlusu",
+"Kurumsal Likidite ve Bankacılık Hazine Şefi (Money Market / Repo)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hazine ve Nakit Yönetimi Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Nakit Akış Modelleme ve Hazine Kontrolörü (Treasury Controller)",
+"Nakit Akış Planlama ve Yönetim Uzmanı",
+"Treasury & Cash Management Specialist"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hisse Senedi Analisti",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yatırım ve Hisse Senedi Analisti"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İslami Finans ve Sukuk Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Islamic Finance & Sukuk Issuance Specialist",
+"İslami Finans ve Katılım Bankacılığı Hazine Uzmanı (Sukuk / Murabaha)",
+"İslami Finans ve Sukuk İhraç Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaldıraçlı Finansman Analisti",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kaldıraçlı Finansman ve Borç Yapılandırma Analisti (Leveraged Finance / High Yield)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kantitatif Risk Analisti",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kantitatif Risk Analisti"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": [
+"212"
+]
+},
+{
+"specialty": "Kredi Derecelendirme Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kredi Derecelendirme ve Finansal Tablolar Güvence Denetçisi",
+"Kurumsal Kredi Derecelendirme Uyum ve Raporlama Uzmanı (JCR / Fitch)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kredi Riski Modelleme Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kredi Riski Modelleme ve Analiz Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kredi Tahsis Analisti",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 2,
+"n_job": 5,
+"ornek_unvanlar": [
+"Kredi Derecelendirme ve Kurumsal Kredi Risk Analisti (Moody's / S&P Metodolojisi)",
+"Kredi Risk ve Tahsis Analisti",
+"Kredi Risk ve Tahsis Uzmanı",
+"Kredi Tahsis ve Mali Tahlil Asistanı",
+"Kurumsal Kredi Tahsis Analisti"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kripto Varlık Finans Analisti",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kripto Varlık ve Fintek Finans Analisti",
+"Kripto Varlıklar ve Dijital Finansal Ürünler Uzmanı (DeFi / Tokenomics)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kripto Varlık Risk Analisti",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kripto Para ve Dijital Varlık Risk Analisti"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal Finansman Analisti",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kurumsal Finansman Analisti (Finansal Modelleme / DCF / Emsal Çarpanlar)",
+"Mergers & Acquisitions (M&A) Analyst"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Özel Sermaye Yatırım Danışmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Özel Sermaye (Private Equity) Yatırım Danışmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Portföy Yöneticisi",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Fon Yöneticisi ve Portföy Stratejisti (Hisse & Sabit Getiri)",
+"Fon Yönetimi ve Bono/Tahvil Uzmanı",
+"Portföy Yöneticisi",
+"Portföy Yöneticisi (Hisse Senedi & Fon)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Proje Finansmanı Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Proje Finansmanı ve Finansal Kapanış Yöneticisi",
+"Proje Finansmanı ve Kredi Yapılandırma Uzmanı",
+"Proje Finansmanı ve Sendikasyon Kredileri Uzmanı (Project Finance)",
+"Proje Finansmanı ve Teşvik Asistanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Risk Yönetimi Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Capital Adequacy & Basel III Stress Testing Analyst"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sürdürülebilir Finans Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sürdürülebilir Finans ve Yeşil Tahvil Uzmanı (ESG / Green Bonds)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tarımsal Finansman Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tarım ve Emtia Tedarik Zinciri Finansmanı Yöneticisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tedarik Zinciri Finansmanı Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tedarik Zinciri Finansmanı ve Dinamik İskonto Uzmanı (Supply Chain Finance)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Varlık Finansmanı ve Menkulleştirme Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Varlık Finansmanı ve Menkulleştirme Uzmanı (Asset-Backed Securities / VDMK)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapılandırılmış Finansman ve Sendikasyon Uzmanı",
+"isco4": "2413",
+"isco_title": "Financial analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yapılandırılmış Finansman ve Sendikasyon Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Agile Koç",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Agile Koç (Agile Coach)",
+"Agile Koç ve Scrum Master (Agile Coach)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ar-Ge Fonları Proje Koordinatörü",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"TUBITAK & EU Horizon Grant Proposals Coordinator",
+"TÜBİTAK ve AB Horizon Proje Koordinatörü"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çevik İnsan Kaynakları Koçu",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Çevik İK ve Takım Koçluğu Uzmanı (Agile HR / Scrum / Kanban HR)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çevik Süreç Kolaylaştırıcısı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yalın Ofis ve Çevik Süreç Kolaylaştırıcısı"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Değişim Yönetimi Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Transformation & Change Management Lead"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Devlet Teşvikleri ve Hibe Danışmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Devlet Teşvikleri ve Hibe Danışmanı (TÜBİTAK/KOSGEB)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "E-Ticaret Operasyon Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"E-Ticaret Operasyon ve Lojistik Entegrasyon Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Girişimcilik Programı Yöneticisi",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Start-up ve Girişimcilik Programı Yöneticisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hasta Deneyimi ve Hizmet Kalite Denetim Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Hasta Deneyimi ve Hizmet Kalite Denetim Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları Proje Yönetim Ofisi Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Stratejik İK Proje Yönetim Ofisi Lideri (Strategic HR PMO / Transformation)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Gücü Planlama Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Vardiya ve Kapasite Planlama Uzmanı (WFM)",
+"İş Gücü Yönetimi ve Vardiya Planlama Uzmanı (WFM Specialist)"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Yönetim Sistemleri Danışmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"ISO Kalite ve Yönetim Sistemleri Danışmanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal Strateji Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Stratejist"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mağaza İkmal Planlama Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Perakende Mağaza İkmal ve Sevkiyat Planlama Uzmanı (Store Replenishment)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Deneyimi Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 1,
+"n_job": 4,
+"ornek_unvanlar": [
+"Müşteri Deneyimi (CX) Uzmanı",
+"Müşteri Deneyimi ve İletişim Stajyeri",
+"Müşteri Memnuniyeti ve Sadakat Uzmanı",
+"Omnichannel Müşteri İletişim Uzmanı",
+"Stajyer Müşteri Deneyimi ve İletişim Asistanı"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Operasyonel Mükemmellik Danışmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Operasyonel Mükemmellik ve Verimlilik Danışmanı"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Restoran İşletme Danışmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Restoran ve Gastronomi İşletme Danışmanı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Satış Sonrası Servis Operasyon Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Beyaz Eşya Yetkili Servis Operasyon Uzmanı"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Scrum Master",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 7,
+"n_job": 1,
+"ornek_unvanlar": [
+"Scrum Master"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Süreç İyileştirme Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Müşteri Hizmetleri Süreç İyileştirme Uzmanı"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Süreç ve Yalın Üretim Danışmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Süreç Geliştirme ve Verimlilik Danışmanı",
+"Süreç ve Yalın Üretim Danışmanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Talep Planlama Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Talep Tahminleme ve Konsensüs Planlama Uzmanı (Demand Forecasting)",
+"Talep ve Envanter Planlama Uzmanı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tedarik Zinciri Danışmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tedarik Zinciri ve Lojistik Danışmanı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tedarik Zinciri Planlama Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Planner",
+"Tedarik Zinciri Planlama Uzmanı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tedarik Zinciri Risk Yönetimi Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tedarik Zinciri Risk Yönetimi ve İş Sürekliliği Uzmanı (ISO 22301 / Resiliency)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teknoloji Transfer Ofisi Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Teknoloji Transfer Ofisi (TTO) Uzmanı"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üniversite-Sanayi İşbirliği Koordinatörü",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Üniversite-Sanayi İşbirliği Koordinatörü"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yedek Parça Planlama Uzmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yedek Parça Lojistiği ve Servis Parçaları Planlama Uzmanı (Aftermarket SCM)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yönetim Danışmanı",
+"isco4": "2421",
+"isco_title": "Management and organization analysts",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Danışman",
+"Kurucu/Partner",
+"Strateji ve Yönetim Danışmanlığı Stajyeri",
+"Yönetim Danışmanı (Strateji & Operasyon)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Etik ve Uyum Yöneticisi",
+"isco4": "2422",
+"isco_title": "Policy administration professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kurumsal Yönetim ve Etik Hat İnceleme Yöneticisi (Whistleblowing / CCO)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fiziksel Güvenlik Risk Değerlendirme Uzmanı",
+"isco4": "2422",
+"isco_title": "Policy administration professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Fiziksel Güvenlik ve Risk Değerlendirme Uzmanı"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaç Ruhsatlandırma Uzmanı",
+"isco4": "2422",
+"isco_title": "Policy administration professionals",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Pharmaceutical Regulatory Affairs Specialist",
+"İlaç Patent ve Ruhsat Dosyası (CTD) Uzmanı",
+"İlaç Ruhsatlandırma (Regulatory) Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": [
+"22"
+]
+},
+{
+"specialty": "Karapara Aklamayı Önleme Uyum Uzmanı",
+"isco4": "2422",
+"isco_title": "Policy administration professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"MASAK Uyum Görevlisi ve Karapara Aklama Önleme Uzmanı (AML / CFT / CAMS)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bordro Denetimi ve Sosyal Güvenlik Danışmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bordro Denetimi ve Sosyal Güvenlik Başdanışmanı"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bordro Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Bordro ve Özlük Muhasebesi Uzmanı",
+"Bordro ve Özlük İşleri Muhasebecisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bordro ve Özlük İşleri Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 6,
+"n_job": 5,
+"ornek_unvanlar": [
+"Bordro ve Özlük İşleri Sorumlusu",
+"Bordro ve Özlük İşleri Uzmanı",
+"Bordro ve Özlük İşleri Şefi",
+"Payroll & Personnel Affairs Specialist",
+"Payroll and Personnel Specialist"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çalışan Deneyimi Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 4,
+"n_job": 5,
+"ornek_unvanlar": [
+"Çalışan Bağlılığı ve Nabız Anketleri Analisti (Employee Engagement / Peakon)",
+"Çalışan Bağlılığı ve İK İletişim Asistanı",
+"Çalışan Deneyimi ve Kültür Yöneticisi (Employee Experience EX / ENPS)",
+"Çalışan Deneyimi ve Memnuniyeti Yöneticisi",
+"Çalışan Deneyimi ve İç İletişim Uzmanı"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çalışan Esenliği Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Çalışan Esenliği ve Kurumsal Sağlık Yöneticisi (Corporate Wellbeing / EAP)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çeşitlilik, Eşitlik ve Kapsayıcılık Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Çeşitlilik, Eşitlik ve Kapsayıcılık (DEI) Yöneticisi (Diversity & Inclusion)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Değerlendirme Merkezi Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Değerlendirme ve Gelişim Merkezi Uzmanı (Assessment Center Lead)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Değişim Yönetimi ve İnsan Kaynakları Entegrasyon Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Değişim Yönetimi ve M&A İK Entegrasyon Lideri (Post-Merger HR)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel İlişkiler Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Endüstriyel İlişkiler ve Çalışma Hukuku Uzmanı",
+"Industrial Relations & Labor Specialist",
+"Labor Relations & Collective Bargaining Specialist",
+"Çalışan Hakları ve Sendika Müzakere Uzmanı"
+],
+"sektorler": [
+"HR",
+"LEGAL"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Personel Donatım Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sorumlu"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Genç Yetenek Programları Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Staj ve Genç Yetenek Programları Koordinatörü"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Global Mobilite Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Global Mobilite ve Expat Yönetimi Uzmanı (International Mobility)",
+"Senior Global Mobility & Expatriate Management Lead"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları Danışmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Danışman",
+"İK Süreç ve Dijitalleşme Danışmanı",
+"İK ve Yetenek Yönetimi Danışmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları İş Ortağı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 8,
+"n_job": 6,
+"ornek_unvanlar": [
+"HR Business Partner",
+"HRBP Uzmanı",
+"Human Resources Business Partner (HRBP)",
+"Kıdemli İK İş Ortağı - Teknoloji ve Ar-Ge (Tech & R&D HRBP)",
+"Kıdemli İK İş Ortağı - Ticari ve Pazarlama (Commercial HRBP)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları Operasyon Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"İK Operasyonları Takım Lideri"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları Sistemleri Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"İK Operasyonları ve Dijital Dönüşüm Uzmanı",
+"İK Sistemleri ve Dijital Yetenek Uzmanı (HRIS Specialist)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları Uyum ve Etik Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İK Risk, Uyum ve Etik Soruşturmalar Uzmanı (HR Compliance & Ethics)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsan Kaynakları Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 7,
+"n_job": 7,
+"ornek_unvanlar": [
+"Bölge İnsan Kaynakları Uzmanı",
+"HR Coordinator",
+"Kurumsal İnsan Kaynakları Stajyeri",
+"Regional HR Coordinator",
+"Stajyer İnsan Kaynakları Elemanı"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İşe Alım Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 6,
+"n_job": 6,
+"ornek_unvanlar": [
+"Küresel İşe Alım ve Uzaktan Çalışma Uzmanı (Remote & Global Hiring)",
+"Kıdemli Teknik İşe Alım Lideri (Tech Talent Acquisition Lead)",
+"Kıdemli İşe Alım Uzmanı (Senior Talent Acquisition Specialist)",
+"Mavi Yaka İşe Alım ve Taşeron İşgücü Koordinatörü (High-Volume Staffing)",
+"Talent Acquisition Specialist"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İşveren Markası Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kampüs İletişimi ve Genç Yetenek Programları Lideri (MT & Intern Programs)",
+"İşveren Markası (Employer Branding) Uzmanı",
+"İşveren Markası ve Genç Yetenek İletişimi Uzmanı",
+"İşveren Markası ve Yetenek Çekme Uzmanı (Employer Branding / EVP)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Küresel Mobilite Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Küresel Mobilite ve Expat Yönetimi Uzmanı"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurum Kültürü ve Değişim Yönetimi Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kurumsal Dönüşüm ve Değişim Yönetimi Lideri",
+"Kültür ve Değişim Yönetimi Uzmanı",
+"Kültür ve Çeşitlilik-Kapsayıcılık (D&I) Lideri",
+"Kültürel Dönüşüm ve Kurumsal Değerler Lideri (Culture Transformation)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Organizasyonel Gelişim Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Organizasyonel Gelişim Asistanı",
+"Organizasyonel Gelişim Uzmanı",
+"Organizasyonel Gelişim ve Norm Kadro Uzmanı",
+"İşgücü Planlama ve Norm Kadro Uzmanı (Strategic Workforce Planning)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Performans Yönetimi Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Performans Yönetim Sistemleri Uzmanı (OKRs / KPIs / 360 Değerlendirme)",
+"Performans Yönetimi ve Yetenek Uzmanı"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Saha İşe Alım Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Saha ve Mavi Yaka İşe Alım Elemanı",
+"Saha İşe Alım Görevlisi"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teknik İşe Alım Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Technical Recruiter (Tech Talent)",
+"Teknoloji İşe Alım Uzmanı (Tech Recruiter)",
+"Yetenek Kazanımı Uzmanı"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ücret ve Yan Haklar Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 4,
+"n_job": 4,
+"ornek_unvanlar": [
+"Compensation & Performance Manager",
+"Esnek Yan Haklar ve Sosyal Paketler Uzmanı (Flexible Benefits Specialist)",
+"Performans ve Ücret Yönetimi Asistanı (Junior C&B Specialist)",
+"Performans ve Ücret Yönetimi Uzmanı",
+"Ücret ve Yan Haklar Uzmanı"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üst Düzey Yönetici Arama Danışmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Executive Search Consultant",
+"Headhunter / Üst Düzey Yönetici Seçme Danışmanı"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yetenek Yönetimi Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Yetenek Yönetimi Uzmanı",
+"Yetenek Yönetimi ve Kariyer Gelişim Uzmanı"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yetkinlik Modelleme Uzmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yetkinlik Modellemesi ve Beceri Tabanlı Organizasyon Uzmanı (Skill-Based Org)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yönetici Araştırma Danışmanı",
+"isco4": "2423",
+"isco_title": "Personnel and careers professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yönetici Araştırma (Executive Search) Danışmanı",
+"Yönetici Araştırma ve Üst Düzey İşe Alım Lideri (Executive Search / Headhunting)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dijital Öğrenme Uzmanı",
+"isco4": "2424",
+"isco_title": "Training and staff development professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Dijital Öğrenme Deneyimi ve LMS Mimarı (LXP / Gamification in Learning)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Eğitim ve Gelişim Koordinatörü",
+"isco4": "2424",
+"isco_title": "Training and staff development professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Eğitim ve Gelişim Operasyon Sorumlusu (L&D Coordinator)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Eğitim ve Gelişim Uzmanı",
+"isco4": "2424",
+"isco_title": "Training and staff development professionals",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Eğitim ve Gelişim Uzmanı",
+"Eğitim ve Gelişim Uzmanı (L&D Specialist)",
+"Eğitim ve Gelişim Uzmanı (L&D)",
+"Kurumsal Eğitim ve Gelişim Uzmanı"
+],
+"sektorler": [
+"EDUCATION",
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlk Yardım Eğitmeni",
+"isco4": "2424",
+"isco_title": "Training and staff development professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İlk Yardım Eğitmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal Eğitmen",
+"isco4": "2424",
+"isco_title": "Training and staff development professionals",
+"n_cv": 4,
+"n_job": 2,
+"ornek_unvanlar": [
+"Corporate Trainer",
+"Corporate Trainer & Instructional Designer",
+"Kurumsal Eğitmen",
+"Kurumsal Eğitmen ve Eğitim Tasarımcısı",
+"Müşteri İletişim Merkezi Eğitim Uzmanı"
+],
+"sektorler": [
+"CUSTOMER_SERVICE",
+"EDUCATION",
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Liderlik Gelişimi ve Yönetici Koçu",
+"isco4": "2424",
+"isco_title": "Training and staff development professionals",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Leadership Development & Executive Coach",
+"Liderlik Gelişimi ve Üst Düzey Yönetici Koçu",
+"Liderlik Gelişimi ve Üst Yönetici Koçu (Leadership Development / ICF Coach)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mesleki Eğitim ve Çıraklık Programları Uzmanı",
+"isco4": "2424",
+"isco_title": "Training and staff development professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Erken Kariyer ve Mesleki Eğitim İkili Sistem Yöneticisi (Dual Vocational Training)"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Satış Eğitmeni",
+"isco4": "2424",
+"isco_title": "Training and staff development professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Satış Eğitmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Arama Motoru Optimizasyonu Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Arama Motoru Optimizasyonu ve Organik Büyüme Lideri (SEO & Organic Growth)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Arama Motoru Reklamcılığı Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Arama Motoru Pazarlaması (SEM) ve PPC Uzmanı",
+"Arama Motoru Reklamcılığı (SEM) Asistanı",
+"Arama Motoru Reklamcılığı (SEM/PPC) Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "B2B Pazarlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"B2B Dijital Pazarlama ve Lead Generation Uzmanı",
+"B2B Talep Yaratma ve Hesap Tabanlı Pazarlama Lideri (Demand Gen / ABM)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Büyüme Pazarlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Growth (Büyüme) ve Müşteri Edinme Yöneticisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Büyüme Pazarlaması Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Büyüme (Growth) Pazarlamacısı",
+"Büyüme ve Performans Pazarlama Lideri (Growth Marketing Lead / ROAS)",
+"Growth Marketing Specialist"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CRM ve E-Posta Pazarlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 2,
+"n_job": 4,
+"ornek_unvanlar": [
+"CRM ve Pazarlama Otomasyonu Uzmanı (Insider / Braze)",
+"CRM ve Sadakat Programı Destek Uzmanı",
+"E-Mail Pazarlama ve Otomasyon Uzmanı",
+"E-Posta Pazarlama ve CRM Uzmanı",
+"E-Posta Pazarlaması ve Yaşam Döngüsü Otomasyon Uzmanı (Lifecycle Marketing)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CRM ve Sadakat Müdürü",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Müşteri İlişkileri Yönetimi ve Sadakat Müdürü (CRM & Loyalty Manager)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dijital Medya Planlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Dijital Medya Planlama Uzmanı",
+"Dijital Pazarlama ve Medya Planlama Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dijital Pazarlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 4,
+"n_job": 5,
+"ornek_unvanlar": [
+"Digital Marketing Strategist",
+"Dijital Pazarlama Uzmanı",
+"Dijital Pazarlama Uzmanı (Bölgesel Büyüme)",
+"Dijital Pazarlama ve Performans Uzmanı (Google Ads/Meta)",
+"Pazarlama Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dönüşüm Oranı Optimizasyonu Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Büyüme ve Dönüşüm Optimizasyonu (CRO) Uzmanı",
+"Dönüşüm Oranı Optimizasyonu (CRO) Uzmanı",
+"Dönüşüm Oranı Optimizasyonu (CRO) ve A/B Test Uzmanı (Optimizely / VWO)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "E-Ticaret Kategori Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"E-Ticaret Kategori Uzmanı (Moda & Tekstil)",
+"E-Ticaret Kategori ve Fiyatlandırma Uzmanı (Dayanıklı Tüketim)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "E-Ticaret Pazarlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"E-Ticaret Kampanya ve Ticari Pazarlama Uzmanı",
+"E-Ticaret Pazarlama Uzmanı",
+"E-Ticaret ve Dijital Pazarlama Stajyeri"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "E-Ticaret Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Category Manager (E-Commerce)",
+"D2C Abonelik ve Doğrudan Tüketiciye Satış Yöneticisi (Direct-to-Consumer)",
+"E-Ticaret Kategori ve Satış Uzmanı",
+"E-Ticaret Satış ve Pazaryeri Operasyonları Yöneticisi (Marketplace KAM)",
+"Stajyer E-Ticaret ve Dijital Pazarlama Asistanı"
+],
+"sektorler": [
+"MARKETING_MEDIA",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gerilla Pazarlama ve Aktivasyon Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Doğrudan Pazarlama ve Gerilla Aktivasyonları Yöneticisi (Guerrilla Marketing)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İçerik Pazarlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"İçerik Pazarlama Uzmanı",
+"İçerik Stratejisi Lideri"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İletişim Stratejisti",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"İletişim Stratejisti"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Influencer Pazarlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Influencer Marketing Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Geliştirme Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 2,
+"n_job": 5,
+"ornek_unvanlar": [
+"Franchise Geliştirme ve Genişleme Uzmanı",
+"Kıdemli Savunma ve Havacılık İş Geliştirme Yöneticisi",
+"İş Geliştirme Uzmanı",
+"İş Geliştirme Yöneticisi (B2B SaaS)",
+"İş Ortaklıkları (Partnership) Yöneticisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": [
+"33"
+]
+},
+{
+"specialty": "Lisanslama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Lisanslama ve Ticari Haklar Sorumlusu"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Marka İletişim Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kıdemli Marka İletişim Uzmanı (Dayanıklı Tüketim)",
+"Marka İletişim Asistanı (Assistant Brand Specialist)",
+"Marka İletişim Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Marka Stratejisti",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Stratejist"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Marka Yöneticisi",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Marka Yöneticisi (Brand Manager - FMCG)",
+"Marka Yöneticisi (Brand Manager)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal Ürün Müdürü",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Medikal Pazarlama ve Ürün Müdürü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medya Planlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Media Planning & Buying Specialist",
+"Medya Planlama ve Reklam Pazarlama Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobil Uygulama Pazarlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kullanıcı Kazanımı ve Mobil Uygulama Pazarlama Uzmanı (Mobile UA / ASO)",
+"Mobil Uygulama Pazarlama (App Marketing / ASO) Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Moda Trend Tahminleme Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Moda ve Trend Tahminleme Pazarlama Uzmanı (Trend Forecasting / WGSN)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Deneyimi Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Müşteri Deneyimi ve Yolculuk Haritalama Uzmanı (Customer Journey / NPS)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Nöropazarlama Araştırmacısı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tüketici Nöromarketing ve Davranışsal İktisat Araştırmacısı (Neuromarketing)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oyun Pazarlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Oyun ve E-Spor Pazarlama ve Marka Entegrasyon Lideri (Gaming Marketing)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pazar Araştırma Analisti",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yeni Pazar Araştırma ve Büyüme Analisti"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pazar Araştırması Analisti",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Market Research Analyst",
+"Pazar Araştırması Analisti",
+"Pazar Araştırması ve Tüketici İçgörüsü Yöneticisi (Consumer Insights / Ipsos)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pazarlama Analisti",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Pazarlama Analisti",
+"Pazarlama Analitiği ve Pazarlama Karması Modellemesi Uzmanı (MMM / Attribution)",
+"Senior Marketing Automation & Data Analytics Specialist"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pazarlama Danışmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Danışman"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pazarlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Marketing Specialist",
+"Pazarlama Stajyeri (Zorunlu Staj)",
+"Pazarlama ve Marka İletişimi Stajyeri"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pazaryeri Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Pazaryeri Satış ve Kategori Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Performans Pazarlama Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 3,
+"n_job": 5,
+"ornek_unvanlar": [
+"Junior Performans Pazarlama Uzman Yardımcısı",
+"Kıdemli Performans Pazarlama Yöneticisi (Senior Performance Lead)",
+"Perakende Medya Reklamcılığı Lideri (Retail Media Networks / Sponsored Ads)",
+"Performans Pazarlama Uzmanı",
+"Performans Pazarlama Uzmanı (Meta & Google Ads)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Programatik Medya Satınalma Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Programatik Medya Satınalma ve Reklam Teknolojileri Lideri (DV360 / AdTech)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Satış Ortaklığı Pazarlaması Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Affiliate (Satış Ortaklığı) Pazarlama ve Ortaklıklar Yöneticisi"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "SEO Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 2,
+"n_job": 5,
+"ornek_unvanlar": [
+"SEO & Content Manager",
+"SEO Asistanı / Junior SEO Specialist",
+"SEO Marketer",
+"SEO ve İçerik Stratejisti",
+"SEO ve İçerik Yöneticisi"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sosyal Medya Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 4,
+"ornek_unvanlar": [
+"Dijital İçerik ve Sosyal Medya İletişim Müdürü (Content Strategy Lead)",
+"Sosyal Medya Yöneticisi",
+"Sosyal Medya Yöneticisi (Social Media Manager)",
+"Sosyal Medya ve Dijital Kampanya Asistanı",
+"Sosyal Medya ve Dijital İçerik Pazarlama Yöneticisi"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sürdürülebilirlik Pazarlaması Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sürdürülebilirlik ve Sosyal Etki Pazarlaması Yöneticisi (Purpose Marketing)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Topluluk Yöneticisi",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Sosyal Medya ve Topluluk Moderatörü (Junior Community Specialist)",
+"Topluluk (Community) Yöneticisi",
+"Topluluk Yönetimi ve Marka Elçiliği Lideri (Community Management)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ürün Müdürü",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Bitki Koruma Ürün Müdürü"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ürün Pazarlama Müdürü",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Product Marketing Manager",
+"Ürün Pazarlama Müdürü (Product Marketing Manager - PMM / SaaS GTM)",
+"Ürün Pazarlama Yöneticisi",
+"Ürün Pazarlama Yöneticisi (Product Marketing)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Web Analitiği Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"SEO & Web Analitiği Uzmanı (Google Analytics 4 & BigQuery)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapay Zeka İçerik Üretim Uzmanı",
+"isco4": "2431",
+"isco_title": "Advertising and marketing professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yapay Zeka Destekli Yaratıcı İçerik ve Reklam Teknolojileri Uzmanı (GenAI Marketing)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Basın Sözcüsü",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Medya İletişim Sözcüsü (Spokesperson)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Halkla İlişkiler Uzmanı",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 2,
+"n_job": 5,
+"ornek_unvanlar": [
+"Halkla İlişkiler",
+"Halkla İlişkiler (PR) Asistanı",
+"Halkla İlişkiler ve Basın Danışmanı (PR Account Manager)",
+"Kültür, Sanat ve Müze İletişimi Uzmanı",
+"Kıdemli Medya İlişkileri ve Basın Danışmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hasta İlişkileri Uzmanı",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hastaneler Halkla İlişkiler ve Hasta Hakları Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İç İletişim Uzmanı",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"İç İletişim ve Çalışan Angajmanı Lideri (Internal Comms / Town Hall)",
+"İç İletişim ve Çalışan Bağlılığı Sorumlusu",
+"İç İletişim ve Şirket Kültürü Sorumlusu"
+],
+"sektorler": [
+"HR",
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İşveren Markası Uzmanı",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İşveren Markası ve Yetenek İletişimi Uzmanı (Employer Branding)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kriz İletişimi Danışmanı",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kriz İletişimi ve İtibar Yönetimi Danışmanı",
+"Kurumsal İtibar ve Kriz İletişimi Danışmanı (Crisis Comms & Strategy)"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal İletişim Uzmanı",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 3,
+"n_job": 5,
+"ornek_unvanlar": [
+"Halkla İlişkiler",
+"Kurumsal İletişim Asistanı",
+"Kurumsal İletişim Temsilcisi",
+"Kurumsal İletişim Uzmanı",
+"Tarım ve Gıda İletişimi Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal İletişim ve Halkla İlişkiler Uzmanı",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Basın ve Halkla İlişkiler (PR) Uzmanı",
+"Bölgesel Kurumsal İletişim ve Basın Sorumlusu",
+"Corporate Communications Specialist",
+"Crisis Communications & PR Advisor"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal Sosyal Sorumluluk Uzmanı",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kurumsal Sosyal Sorumluluk (KSS) Proje Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sosyal Medya Uzmanı",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Halkla İlişkiler",
+"Kurumsal Sosyal Medya Uzman Yardımcısı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sürdürülebilirlik İletişimi Uzmanı",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sürdürülebilirlik ve ESG İletişimi Uzmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yatırımcı İlişkileri Müdürü",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yatırımcı İlişkileri (IR) Yöneticisi",
+"Yatırımcı İlişkileri ve Sermaye Piyasaları Yöneticisi (BIST / SPK Düzey 3)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": [
+"12"
+]
+},
+{
+"specialty": "Yatırımcı İlişkileri Uzmanı",
+"isco4": "2432",
+"isco_title": "Public relations professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yatırımcı İlişkileri Uzmanı (IR Specialist)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "GES Satış Yöneticisi",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yenilenebilir Enerji ve GES Projeleri Satış Yöneticisi (Turnkey EPC Solar)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaç Tanıtım Temsilcisi",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Medikal Satış Mümessili (İlaç / Tıbbi Cihaz)",
+"Medikal ve Eczane Saha Satış Personeli",
+"Medikal ve İlaç Satış Temsilcisi (Ürün Tanıtım Temsilcisi - ÜTT)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal Satış Temsilcisi",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Medikal Cihaz ve Sağlık Teknolojileri Satış Uzmanı",
+"Medikal Satış Mümessili",
+"Sales Representative"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Satış Mühendisi",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 25,
+"n_job": 8,
+"ornek_unvanlar": [
+"Asansör ve Yürüyen Merdiven Proje Satış Mühendisi (High-Rise Elevators)",
+"Ağır İş Makineleri ve Madencilik Ekipmanları Satış Mühendisi (CAPEX Machinery)",
+"B2B Representative",
+"B2B Satış ve İş Geliştirme Stajyeri",
+"Denizcilik ve Tersane Ekipmanları Satış Mühendisi (Marine Equipment)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tarım Ürünleri Satış Temsilcisi",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Bitki Besleme ve Gübre Satış Temsilcisi",
+"Saha Ziraat Mühendisi (Yetiştirilmek Üzere)",
+"Tohum ve Fide Satış Temsilcisi"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Cihaz Aplikasyon Uzmanı",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Tıbbi Cihaz Aplikasyon ve Satış Temsilcisi",
+"Tıbbi Cihaz Klinik Destek ve Aplikasyon Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Cihaz Satış Temsilcisi",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tıbbi Cihaz ve Sarf Malzeme Satış Asistanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Cihaz Satış Yöneticisi",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tıbbi Görüntüleme ve Medikal Teknoloji Satış Yöneticisi (MR / BT / MedTech)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Cihaz Ürün Uzmanı",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tıbbi Cihaz Ürün Uzmanı (Girişimsel Kardiyoloji)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Mümessil",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tıbbi Mümessil"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Satış Mümessili",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Tıbbi Satış Mümessili",
+"Tıbbi Satış Mümessili (Hastaneler Grubu)",
+"Tıbbi Satış Temsilcisi (Yetiştirilmek Üzere)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Satış Temsilcisi",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kıdemli Tıbbi Satış Temsilcisi (Kardiyoloji & Diyabet)",
+"Medikal Mümessil (Genel Tıp)",
+"Medikal Temsilci / Eczane ve Hekim Tanıtım Elemanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yangın Güvenlik Sistemleri Satış Müdürü",
+"isco4": "2433",
+"isco_title": "Technical and medical sales professionals (excluding ICT)",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yangın Güvenlik ve Söndürme Sistemleri Proje Satış Müdürü (Fire Protection)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilişim Çözümleri Satış Uzmanı",
+"isco4": "2434",
+"isco_title": "Information and communications technology sales professionals",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kurumsal B2B Satış Danışmanı ve Portföy Satış Temsilcisi (Yazılım)",
+"Kurumsal Bulut Bilişim ve Altyapı Satış Müdürü (Cloud / AWS / Azure B2B)",
+"Kurumsal ERP ve İş Yazılımları Satış Yöneticisi (Enterprise Software / SAP)",
+"Kurumsal Satış Uzmanı",
+"Kurumsal Satış Yöneticisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilişim Çözümleri Satış Yöneticisi",
+"isco4": "2434",
+"isco_title": "Information and communications technology sales professionals",
+"n_cv": 7,
+"n_job": 1,
+"ornek_unvanlar": [
+"B2B Dijital Pazarlama Teknolojileri (MarTech) Satış Yöneticisi (CDP / CRM)",
+"B2B E-Fatura, RegTech ve Yasal Uyum Yazılımları Satış Yöneticisi",
+"B2B FinTech ve Kurumsal Ödeme Geçitleri Satış Müdürü (Payment Gateway)",
+"B2B IoT ve Telematik Donanım Satış Müdürü (Connected Fleet / IoT)",
+"B2B Kurumsal Hesap Yöneticisi (Key Account Manager)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilişim Satış Temsilcisi",
+"isco4": "2434",
+"isco_title": "Information and communications technology sales professionals",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Proje Satış Yöneticisi",
+"SaaS ve Bulut Yazılım Satış Yöneticisi (Account Executive)",
+"Sales Specialist",
+"Satış Yapıp Yüksek Paralar Kazanmak İsteyen Satışcılar Aranıyor"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Başarı Uzmanı",
+"isco4": "2434",
+"isco_title": "Information and communications technology sales professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Müşteri Başarısı Yöneticisi (Senior CSM - Enterprise SaaS)",
+"Müşteri Başarı Uzmanı (Customer Success Specialist - B2B SaaS)"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Başarı Yöneticisi",
+"isco4": "2434",
+"isco_title": "Information and communications technology sales professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Müşteri Başarı Yöneticisi (Customer Success Manager)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yazılım Satış Uzmanı",
+"isco4": "2434",
+"isco_title": "Information and communications technology sales professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yazılım ve SaaS Satış Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+}
+]

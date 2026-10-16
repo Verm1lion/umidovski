@@ -1,0 +1,428 @@
+[
+ {
+  "id": "S30251",
+  "target_occ_key": "9333:liman_yukleme_elemani",
+  "target_specialty": "Liman Yükleme Elemanı",
+  "target_isco4": "9333",
+  "target_isco_title": "Freight handlers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Konya",
+  "example_job_titles": [
+   "Liman Operasyon ve Yükleme İşçisi (Stevedore)",
+   "Liman Yükleme Elemanı (Stevedore)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30252",
+  "target_occ_key": "1211:adli_muhasebe_muduru",
+  "target_specialty": "Adli Muhasebe Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Mali Denetim ve Adli Bilişim Müdürü (Forensic Audit)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30253",
+  "target_occ_key": "1211:finansal_kontrol_muduru",
+  "target_specialty": "Finansal Kontrol Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Finansal Kontrol Müdürü (Senior Financial Controller)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30254",
+  "target_occ_key": "1211:finansal_raporlama_muduru",
+  "target_specialty": "Finansal Raporlama Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Finansal Raporlama ve Muhasebe Politikaları Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30255",
+  "target_occ_key": "1211:gayrimenkul_portfoy_muduru",
+  "target_specialty": "Gayrimenkul Portföy Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Gayrimenkul Yatırım Ortaklığı (GYO) Portföy Yöneticisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30256",
+  "target_occ_key": "1211:ic_denetim_muduru",
+  "target_specialty": "İç Denetim Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Muhasebe ve Bordro Denetim Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30257",
+  "target_occ_key": "1211:kredi_riski_muduru",
+  "target_specialty": "Kredi Riski Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Mikrofinans ve Kobi Kredileri Risk Yöneticisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30258",
+  "target_occ_key": "1211:kurumsal_finansman_muduru",
+  "target_specialty": "Kurumsal Finansman Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Kurumsal Finansman ve M&A Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30259",
+  "target_occ_key": "1211:kurumsal_risk_yonetimi_muduru",
+  "target_specialty": "Kurumsal Risk Yönetimi Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Kurumsal Risk Yönetimi (ERM) Direktörü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30260",
+  "target_occ_key": "1211:piyasa_riski_muduru",
+  "target_specialty": "Piyasa Riski Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Risk Yönetimi ve Sermaye Piyasaları Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30261",
+  "target_occ_key": "1211:sabit_kiymet_ve_yatirim_tesvik_muduru",
+  "target_specialty": "Sabit Kıymet ve Yatırım Teşvik Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Sabit Kıymet ve Yatırım Teşvik Müdürü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30262",
+  "target_occ_key": "1212:bordro_ve_ozluk_isleri_muduru",
+  "target_specialty": "Bordro ve Özlük İşleri Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kıdemli Bordro ve Tazminat Muhasebesi Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30263",
+  "target_occ_key": "1212:calisan_deneyimi_ve_kultur_muduru",
+  "target_specialty": "Çalışan Deneyimi ve Kültür Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Çalışan Deneyimi ve Kültür Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30264",
+  "target_occ_key": "1212:endustriyel_iliskiler_muduru",
+  "target_specialty": "Endüstriyel İlişkiler Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Endüstriyel İlişkiler ve Çalışan İlişkileri Müdürü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30265",
+  "target_occ_key": "1212:gemi_personel_ve_donatim_muduru",
+  "target_specialty": "Gemi Personel ve Donatım Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Kıdemli Gemi Personel ve Donatım Müdürü (Crewing Manager)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30266",
+  "target_occ_key": "1212:insan_kaynaklari_analitigi_muduru",
+  "target_specialty": "İnsan Kaynakları Analitiği Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Stratejik İşgücü Analitiği Direktörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30267",
+  "target_occ_key": "1212:insan_kaynaklari_operasyonlari_muduru",
+  "target_specialty": "İnsan Kaynakları Operasyonları Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli İK Operasyonları ve Paylaşımlı Hizmetler Müdürü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30268",
+  "target_occ_key": "1212:yetenek_yonetimi_muduru",
+  "target_specialty": "Yetenek Yönetimi Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Yetenek ve Liderlik Değerlendirme Müdürü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30269",
+  "target_occ_key": "1213:ruhsatlandirma_muduru",
+  "target_specialty": "Ruhsatlandırma Müdürü",
+  "target_isco4": "1213",
+  "target_isco_title": "Policy and planning managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Ruhsatlandırma Müdürü / Ekip Lideri"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30270",
+  "target_occ_key": "1219:gayrimenkul_muduru",
+  "target_specialty": "Gayrimenkul Müdürü",
+  "target_isco4": "1219",
+  "target_isco_title": "Business services and administration managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "OFFICE_ADMIN_MGMT",
+  "industry_tr": "Ofis, İdari İşler ve Yönetim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Gayrimenkul Portföy ve Kiralama Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30271",
+  "target_occ_key": "1219:is_sagligi_guvenligi_ve_cevre_muduru",
+  "target_specialty": "İş Sağlığı Güvenliği ve Çevre Müdürü",
+  "target_isco4": "1219",
+  "target_isco_title": "Business services and administration managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Şantiye İSG ve Çevre (HSE) Müdürü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30272",
+  "target_occ_key": "1221:bankacilik_urun_yoneticisi",
+  "target_specialty": "Bankacılık Ürün Yöneticisi",
+  "target_isco4": "1221",
+  "target_isco_title": "Sales and marketing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Mevduat ve Yatırım Ürünleri Yöneticisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30273",
+  "target_occ_key": "1221:crm_ve_musteri_sadakati_muduru",
+  "target_specialty": "CRM ve Müşteri Sadakati Müdürü",
+  "target_isco4": "1221",
+  "target_isco_title": "Sales and marketing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli CRM ve Müşteri Sadakati Müdürü (Senior Retention Manager)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30274",
+  "target_occ_key": "1221:icerik_pazarlama_muduru",
+  "target_specialty": "İçerik Pazarlama Müdürü",
+  "target_isco4": "1221",
+  "target_isco_title": "Sales and marketing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli İçerik Pazarlaması ve Hikaye Anlatımı Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30275",
+  "target_occ_key": "1221:influencer_pazarlama_muduru",
+  "target_specialty": "Influencer Pazarlama Müdürü",
+  "target_isco4": "1221",
+  "target_isco_title": "Sales and marketing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Influencer Pazarlama Yöneticisi"
+  ],
+  "style": "kisa ve oz"
+ }
+]

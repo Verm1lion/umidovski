@@ -1,0 +1,1442 @@
+[
+{
+"id": "C11556",
+"kind": "CV",
+"title": "Betonarme Yapısal Detaylandırma ve Donatı Mühendisi (Allplan Engineering)",
+"industry": "CONSTRUCTION",
+"city": "Hatay",
+"context": {
+"ozet": "Karmaşık betonarme geometrilerin Allplan ile 3D donatılması, çarpışmasız donatı yerleşimi, metraj tabloları (BBS) ve şantiye demir büküm listeleri üretiminde uzmanım.",
+"beceriler": "Allplan Engineering, 3D Betonarme Donatı Modellemesi, BBS (Bar Bending Schedule) Metrajı, Donatı Sıkışıklığı Önleme, Manşonlu Ek Birleşimleri, BIM Tabanlı Donatı Koordinasyonu",
+"deneyim": [
+"Betonarme Yapısal Detaylandırma ve Donatı Mühendisi (Allplan Engineering) ([TARİH]): Nükleer enerji santrali türbin binası ağır donatılı temel ve perde duvarlarının 3D d…",
+"Statik Proje Stajyeri ([TARİH]): Statik tasarım bürosunda betonarme kalıp ve donatı aplikasyon planlarının çizimine destek verdim; kolon ve kiriş donatı açılımlarını yön…"
+],
+"egitim": [
+"Kocaeli Üniversitesi - Lisans (İnşaat Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11562",
+"kind": "CV",
+"title": "Betonarme Yüksek Bacalar ve Soğutma Kuleleri Statik Mühendisi (VGB / CICIND)",
+"industry": "CONSTRUCTION",
+"city": "İzmir",
+"context": {
+"ozet": "Termik santraller ve çimento fabrikalarında 150+ metre betonarme bacalar, hiperbolik soğutma kuleleri, rüzgar rezonansı ve sıcaklık gradyeni gerilmelerinde uzmanım.",
+"beceriler": "CICIND Standartları (Endüstriyel Bacalar), VGB Kılavuzları (Soğutma Kuleleri), Hiperbolik Kabuk Betonarme Analizi, Sıcaklık Gradyanı İç Çatlak Tahkiki, Rüzgar Eğilme & Rezonans Momentleri, Tırmanır İskele Döküm Kontrolü",
+"deneyim": [
+"Betonarme Yüksek Bacalar ve Soğutma Kuleleri Statik Mühendisi (VGB / CICIND) ([TARİH]): Termik santral için 180 metre yüksekliğindeki betonarme duman gazı bacasının CICI…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (İnşaat Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "C20065",
+"kind": "CV",
+"title": "Betoncu / Şapçı",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "Helikopter beton ve şap uygulamalarında yılların getirdiği tecrübeyle geniş alanları hızla ve istenilen kotta tesviye eden bir şap ustasıyım. Betonun priz alma süresini iyi takip ederek çatlakları önler, uzun ömürlü ve sağlam yüzeyler elde ederim.",
+"beceriler": "Şap Atma, Yüzey Helikopteri Kullanımı, Mastar Çekme, Beton Dökümü, Lazer Kot Alma",
+"deneyim": [
+"Betoncu / Şapçı ([TARİH]): Kat döşemeleri ve kolonlarda transmikserden gelen hazır betonu pompa hortumuyla yönlendirip dalgıç vibratör ile homojen şekilde yerleştirdim. …"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "C20066",
+"kind": "CV",
+"title": "Betoncu / Şapçı",
+"industry": "CONSTRUCTION",
+"city": "Van",
+"context": {
+"ozet": "Beton pompasından gelen betonu kalıplara dengeli şekilde dağıtan, vibratör kullanarak betonun homojen yerleşmesini sağlayan dinamik bir beton işçisiyim. Bedensel dayanıklılığım ve hızlı reflekslerimle beton döküm günlerinde ekibe liderlik yaparım.",
+"beceriler": "Şap Atma, Mastar Çekme",
+"deneyim": [
+"Betoncu / Şapçı ([TARİH]): Daire zeminlerinde lazer nivo ile meyil ve yükseklik kotlarını belirleyip ano çıtaları yerleştirdikten sonra şap makinesi ile harç basımı yapt…",
+"Stajyer ([TARİH]): Şap kumu, çimento ve polipropilen elyaf katkısının harç kazanında homojen karıştırılması adımlarında görev aldım. Şap dökümü sonrasında çatlak oluşumu…"
+],
+"egitim": [
+"[OKUL] - Lise (İnşaat Teknolojisi Alanı) [TARİH]"
+]
+}
+},
+{
+"id": "C20067",
+"kind": "CV",
+"title": "Betoncu / Şapçı",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "İnşaat katlarında zemin terazisini alarak pürüzsüz ve çatlamaya dayanıklı şap atan, beton döküm işlemlerinde mastar ve mala işçiliğini ustalıkla yapan bir çalışanım. Zemin kaplamalarına hazır, eğimi doğru hesaplanmış kusursuz zeminler oluştururum.",
+"beceriler": "Yüzey Helikopteri Kullanımı, Beton Dökümü, Mastar Çekme, Şap Atma",
+"deneyim": [],
+"egitim": [
+"[OKUL] - Lise (İnşaat Teknolojisi Alanı) [TARİH]"
+]
+}
+},
+{
+"id": "J2186",
+"kind": "JOB",
+"title": "BIM / Revit Modelleme Uzmanı (Yetiştirilmek Üzere)",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"position_level": "ENTRY",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Kültür merkezleri, karma kuleler ve havalimanı projelerimizin mimari ve taşıyıcı sistem modellerini Revit ortamında üretecek, BIM metodolojisine meraklı genç Mimar veya İnşaat Mühendisi arıyoruz. İş Tanımı ve Temel Sorumluluklar: - 2D mimari eskiz ve avan projeleri Autodesk Revit ortamında 3 boyutlu BIM modeline dönüştürmek - Mimari duvar, döşeme, kapı, pencere ve giydirme cephe family (kütüphane) elemanlarını oluşturmak - Model üzerinden plan, kesit, görünüş ve mahal listesi paftalarını şablon standartlarına uygun türetmek - Statik ve mekanik…"
+}
+},
+{
+"id": "C11631",
+"kind": "CV",
+"title": "BIM 4D/5D Planlama ve Maliyet Entegrasyon Mühendisi (Synchro / Navisworks)",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "3D Revit modellerinin Primavera P6 iş programı (4D) ve maliyet bütçesi (5D) ile entegrasyonu, Synchro Pro ile sanal şantiye yapım simülasyonlarında uzmanım.",
+"beceriler": "Bentley Synchro Pro 4D, BIM 5D Maliyet Entegrasyonu, Navisworks Timeliner, Revit & P6 Model Eşleme, Görsel İnşaat Simülasyonu, Şantiye Saha Alan Lojistik Çakışma Analizi",
+"deneyim": [
+"BIM 4D/5D Planlama ve Maliyet Entegrasyon Mühendisi (Synchro / Navisworks) ([TARİH]): Stadyum çatı ve betonarme karkas imalatlarının Synchro Pro üzerinde 4D zaman çizelg…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (İnşaat Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C10446",
+"kind": "CV",
+"title": "BIM Coordinator",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Dedicated BIM Coordinator with 9 years of demonstrated experience in Architecture & Construction Management. Skilled in Quantity Surveying & Progress Payments, Construction Site Management and Tender Preparation & Specifications with a focus on project accuracy, process efficiency, and continuous improvement. A reliable team contributor committed …",
+"beceriler": "Quantity Surveying & Progress Payments, Construction Site Management, Tender Preparation & Specifications, AutoCAD & Revit Architecture, Project Scheduling (Primavera P6 / MS Project), BIM Coordination",
+"deneyim": [
+"BIM Coordinator (2023 - Present): Managed sub-contractor billing, progress measurement sheets, and quantity surveying to keep project disbursements on budget.",
+"BIM Coordinator (2021 - 2023): Managed sub-contractor billing, progress measurement sheets, and quantity surveying to keep project disbursements on budget.",
+"BIM Coordinator (2018 - 2021): Managed sub-contractor billing, progress measurement sheets, and quantity surveying to keep project disbursements on budget."
+],
+"egitim": [
+"Galatasaray University - Bachelor's Degree (Interior Architecture & Environmental Design) 2016 - 2020"
+]
+}
+},
+{
+"id": "C11487",
+"kind": "CV",
+"title": "BIM Kalite Güvence ve Model Doğrulama Uzmanı (Solibri Model Checker)",
+"industry": "CONSTRUCTION",
+"city": "Bursa",
+"context": {
+"ozet": "BIM modellerinin IFC standartlarına uygunluğu, çakışma kuralları, mekansal gereksinim doğrulamaları ve Solibri Model Checker ile otomatik kural denetiminde uzmanım.",
+"beceriler": "Solibri Model Checker, IFC (Industry Foundation Classes), OpenBIM Standartları, Kural Tabanlı Model Denetimi, Veri Tutarlılığı & Parametre Kontrolü, BIM Koordinasyon Raporlama",
+"deneyim": [
+"BIM Kalite Güvence ve Model Doğrulama Uzmanı (Solibri Model Checker) ([TARİH]): Büyük ölçekli kamu hastanesi projesinde mimari, statik ve mekanik IFC modellerinin Solibr…"
+],
+"egitim": [
+"Gazi Üniversitesi - Lisans (Mimarlık) 2015 - 2019"
+]
+}
+},
+{
+"id": "J1357",
+"kind": "JOB",
+"title": "BIM Koordinatörü",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"position_level": "MANAGER",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Tekfen İnşaat bünyesinde, [şehir] Merkezimizde uluslararası mega EPC ve üstyapı projelerimizin Yapı Bilgi Modellemesi (BIM) stratejisine ve koordinasyonuna liderlik edecek 'BIM Koordinatörü' aramaktayız. Rol ve Şirket Hakkında: Tekfen BIM Direktörlüğü; ISO 19650 çerçevesinde tüm tasarım, satın alma, saha montajı ve devreye alma operasyonlarını 4D zaman ve 5D maliyet boyutlarıyla tek bir dijital platformda birleştiren teknoloji merkezidir. Görev ve Sorumluluklar: - Proje genelinde BIM Uygulama Planının (BEP - BIM Execution Plan) hazırlanması, C…"
+}
+},
+{
+"id": "J2196",
+"kind": "JOB",
+"title": "BIM Koordinatörü / Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "### Biz Kimiz? Uluslararası havalimanı, metro, demiryolu ve kamu binalarının mimari, statik ve elektromekanik projelerinde Türkiye'nin öncü müşavirlik şirketleri arasında yer almaktayız. Pozisyon Özeti: Büyük ölçekli raylı sistem ve terminal binaları projelerimizde mimari, statik, mekanik ve elektrik modellerinin BIM koordinasyonunu sağlayacak BIM Koordinatörü arıyoruz. Temel İş ve Sorumluluk Alanları: - BIM Uygulama Planı (BEP) doğrultusunda disiplinler arası Autodesk Revit modellerinin entegrasyonunu sağlamak - Navisworks Manage üzerinde haf…"
+}
+},
+{
+"id": "C11499",
+"kind": "CV",
+"title": "BIM Saha ve As-Built Modelleme Mühendisi (Revit / Lazer Tarama)",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "İnşaat sahasında imalat ilerlemesini 3D lazer tarama ile tarayıp Revit ortamında As-Built BIM modeline dönüştürme ve tolerans sapma kontrollerinde uzmanım.",
+"beceriler": "As-Built BIM Modelleme, 3D Lazer Tarama Nokta Bulutu, Revit Scan-to-BIM, Saha Kalite Doğrulama, Navisworks As-Built Tolerans Kontrolü, Drone Fotogrametri",
+"deneyim": [
+"BIM Saha ve As-Built Modelleme Mühendisi (Revit / Lazer Tarama) ([TARİH]): Yüksek hızlı tren garı şantiyesinde her betonarme döküm sonrası lazer tarama yaparak yapısal e…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Geomatik / Mimarlık) 2015 - 2019"
+]
+}
+},
+{
+"id": "C10506",
+"kind": "CV",
+"title": "BIM Specialist",
+"industry": "CONSTRUCTION",
+"city": "İzmir",
+"context": {
+"ozet": "Results-oriented BIM Specialist with 1+ years of enterprise experience and a solid educational foundation in Civil Engineering. Proven track record in optimizing operational workflows, delivering scalable initiatives, and leveraging Project Scheduling (Primavera P6 / MS Project), Quantity Surveying & Progress Payments and Site Safety & Quality Con…",
+"beceriler": "Project Scheduling (Primavera P6 / MS Project), Quantity Surveying & Progress Payments, Site Safety & Quality Control, Construction Site Management, Tender Preparation & Specifications, Structural Analysis (SAP2000 / ET…",
+"deneyim": [
+"BIM Specialist (2023 - Present): Managed sub-contractor billing, progress measurement sheets, and quantity surveying to keep project disbursements on budget.",
+"Intern (July 2023 - August 2023): Participated in automated test runs, logged detected anomalies into issue trackers, and assisted with user acceptance validation proced…"
+],
+"egitim": [
+"Galatasaray University - Bachelor's Degree (Civil Engineering) 2020 - 2024"
+]
+}
+},
+{
+"id": "J0684",
+"kind": "JOB",
+"title": "BIM Uzmanı",
+"industry": "CONSTRUCTION",
+"city": "Antalya",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Rönesans Holding bünyesinde, [şehir] Merkezimizde uluslararası mega inşaat projelerimizin Yapı Bilgi Modellemesi (BIM) süreçlerini yönetecek 'BIM Uzmanı' aramaktayız. Rol ve Şirket Hakkında: Rönesans Holding; ISO 19650 BIM standartlarını tüm tasarım ve şantiye operasyonlarında eksiksiz uygulayan, dijital ikiz ve 4D/5D BIM entegrasyonunda küresel öncü olan müteahhitlik devidir. Görev ve Sorumluluklar: - Autodesk Revit ortamında mimari, yapısal veya MEP modellerinin LOD 300 / 350 / 400 seviyelerinde BEP (BIM Uygulama Planı) kurallarına göre üret…"
+}
+},
+{
+"id": "C11602",
+"kind": "CV",
+"title": "BIM ve Hesaplamalı Tasarım Geliştiricisi (Dynamo / Revit API / Python)",
+"industry": "CONSTRUCTION",
+"city": "İzmir",
+"context": {
+"ozet": "Revit ortamında tekrarlayan modelleme ve paftalama işlerini otomatikleştiren Dynamo scriptleri, Python algoritmaları ve C# Revit eklentileri (Add-in) geliştiren BIM yazılımcısıyım.",
+"beceriler": "Autodesk Dynamo, Revit API (C# & Python), Otomatik Paftalama & Numaralandırma, Parametrik Geometri Üretimi, BIM Veri Madenciliği, BIM 360 API Entegrasyonu",
+"deneyim": [
+"BIM ve Hesaplamalı Tasarım Geliştiricisi (Dynamo / Revit API / Python) ([TARİH]): Metropol havalimanı projesinde 8000 adet oda mahali ve yangın kapısının parametrik veri…",
+"İç Mimarlık Stajyeri ([TARİH]): Konut ve otel projelerinde ıslak hacim seramik ve mermer numunelerinin incelenmesi, 3D görselleştirme sahnelerine mobilya tefrişlerinin y…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Mimarlık) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11644",
+"kind": "CV",
+"title": "Bina Devreye Alma Yöneticisi (Commissioning Authority - CxA)",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Tüm mekanik, elektrik ve otomasyon sistemlerinin tasarım hedeflerine uygun çalıştığını doğrulayan bağımsız Devreye Alma (Cx), Seviye 1-5 test matrisleri ve LEED Cx uzmanıyım.",
+"beceriler": "Commissioning Authority (CxA - ACG / ASHRAE Guideline 0), Entegre Sistem Testleri (IST), Seviye 1-5 Devreye Alma Matrisi, Kara Başlatma (Black Start) Testleri, Mekanik/Elektrik Fonksiyonel Testler, İşletme Bakım Doküman…",
+"deneyim": [
+"Bina Devreye Alma Yöneticisi (Commissioning Authority - CxA) ([TARİH]): Uluslararası banka veri merkezinin Seviye 4 ve Seviye 5 devreye alma sürecini yönettim; tam yükte…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Makine / Elektrik Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "C20841",
+"kind": "CV",
+"title": "Bina Doğalgaz & Çelik Boru Tesisatçısı",
+"industry": "CONSTRUCTION",
+"city": "Kocaeli",
+"context": {
+"ozet": "Bina içi kolon hatları ve daire içi doğalgaz tesisatı döşemesinde yetkili mekanik tesisatçıyım. Dikişsiz çelik çekme boruların oksi-asetilen kaynağı veya dişli bağlantıları, gaz alarm vanası, selenoid vana ve sayaç fleks bağlantılarını gaz dağıtım şirketi şartnamelerine tam uyumlu kurarım.",
+"beceriler": "Çelik Çekme Boru Kaynak ve Diş Açma, Doğalgaz Kolon Tesisatı, U-Manometre Kaçak Testi, Gaz Alarm ve Selenoid Vana Entegrasyonu, Regülatör ve Sayaç Montajı, Gaz Dağıtım Şartname Standartları",
+"deneyim": [
+"Bina Doğalgaz & Çelik Boru Tesisatçısı ([TARİH]): Apartman dönüşüm ve şantiye projelerinde 50 adet daire içi doğalgaz boru hattı kaynak ve sızdırmazlık testleri tamamlan…"
+],
+"egitim": [
+"Ankara Ostim Mesleki Eğitim Merkezi - Ustalık Belgesi (Doğalgaz ve Sıhhi Tesisat) [TARİH]"
+]
+}
+},
+{
+"id": "C20869",
+"kind": "CV",
+"title": "Bina Elektrik Tesisatçısı",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Eski bina elektrik tesisatlarının yenilenmesi, bezli kabloların değişimi, buat temizliği ve yeni yönetmeliğe uygun kaçak akım korumalı pano dönüşümlerinde görev yapmaktayım. Kırım döküm yapmadan susta ile boru içinden kablo yenilemede tecrübeliyim.",
+"beceriler": "Tesisat Yenileme ve Revizyon, Tij ve Avize Montajı, Viko / Legrand Şalt Malzeme, Kablo Kanalı ve Süpürgelik Üstü Tesisat, Hızlı Arıza Tespiti",
+"deneyim": [
+"Bina Elektrik Tesisatçısı ([TARİH]): 40 yıllık binanın tüm dairesel elektrik tesisatı duvarlar kırılmadan kanallardan çekilerek topraklı ve kaçak akımlı modern sisteme g…"
+],
+"egitim": [
+"Diyarbakır Mesleki ve Teknik Anadolu Lisesi - Lise (Elektrik Tesisatçılığı) [TARİH]"
+]
+}
+},
+{
+"id": "C20875",
+"kind": "CV",
+"title": "Bina Elektrik Tesisatçısı",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Villa ve müstakil evlerin sıfırdan elektrik projesine göre kablolanması, çevre aydınlatması, havuz motoru kumanda panosu ve bahçe buatlarının izolasyonlu montajında ustayım. Reçineli buat dolgusu kullanarak bahçe hatlarında nem ve su kaynaklı arızaları sıfırlarım.",
+"beceriler": "Bahçe ve Çevre Aydınlatma Tesisatı, Reçineli Yeraltı Buat İzolasyonu, Havuz Filtrasyon ve Denge Tankı Elektriği, Bahçe Sulama Solenoid Valf Kablolaması, Elektrik Arıza Giderme",
+"deneyim": [
+"Bina Elektrik Tesisatçısı ([TARİH]): 16 villalık sitede tüm bahçe aydınlatma ve otomatik sulama hatları yer altı zırhlı kablo ve su geçirmez jel buatlarla sorunsuz kurul…"
+],
+"egitim": [
+"Antalya Kepez Mesleki ve Teknik Anadolu Lisesi - Lise (Elektrik) [TARİH]"
+]
+}
+},
+{
+"id": "C20888",
+"kind": "CV",
+"title": "Bina Elektrik Tesisatçısı",
+"industry": "CONSTRUCTION",
+"city": "Trabzon",
+"context": {
+"ozet": "Toplu konut projelerinde tünel kalıp elektrik borulaması, buat kasaları montajı ve kolon hattı ana besleme kablolarının çekilmesinde 6 yıllık şantiye tecrübem var. Beton dökümü öncesi boru ezilme kontrollerini yaparak sonradan hat açma kırımını engellerim.",
+"beceriler": "Tünel Kalıp Elektrik Borulaması, Kalıp Öncesi Kasa ve Boru Sabitleme, Kolon Hattı XLPE Kablo Çekimi, Daire İçi Dağıtım ve Anahtar Montajı, Şantiye Hız ve Çevikliği",
+"deneyim": [
+"Bina Elektrik Tesisatçısı ([TARİH]): Tünel kalıp sistemli 240 dairelik projede beton öncesi döşeme elektrik boruları demir donatının altına ezilmeyecek şekilde kilitlene…"
+],
+"egitim": [
+"Adana Yüreğir Mesleki Eğitim Merkezi - Kalfalık / Ustalık (Elektrik Tesisatı) [TARİH]"
+]
+}
+},
+{
+"id": "C20894",
+"kind": "CV",
+"title": "Bina Elektrik Tesisatçısı",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Konut ve ticari bina projelerinde sıva altı ve sıva üstü elektrik tesisatında 7 yıllık tecrübeye sahibim. Spiral borulama, susta ile halojensiz (halogen-free) kablo çekimi, linye ve sorti hatlarının sigorta panolarına bağlanmasında projesine tam uyumla çalışırım.",
+"beceriler": "Sıva Altı / Üstü Borulama, Halogen-Free Kablo Çekimi, Sigorta Kutusu ve Kaçak Akım Rölesi, Linye ve Sorti Bağlantıları, Elektrik Şeması ve Proje Okuma, Topraklama Ölçümü",
+"deneyim": [
+"Bina Elektrik Tesisatçısı ([TARİH]): 120 dairelik konut projesinde buat bağlantıları, linyeler ve kat sigorta panoları 30 mA kaçak akım korumasıyla hatasız çekilip test …"
+],
+"egitim": [
+"Kocaeli Mesleki ve Teknik Anadolu Lisesi - Lise (Elektrik Tesisatları ve Dağıtımı) [TARİH]"
+]
+}
+},
+{
+"id": "C10475",
+"kind": "CV",
+"title": "Bina Enerji Modelleme ve Simülasyon Uzmanı",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Bina Enerji Modelleme ve Simülasyon Uzmanı olarak 7 yıllık profesyonel deneyime sahibim. Şantiye Saha Koordinasyonu, İhale Dosyası ve Şartname Hazırlama ve BIM Modelleme alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bili…",
+"beceriler": "Şantiye Saha Koordinasyonu, İhale Dosyası ve Şartname Hazırlama, BIM Modelleme, AutoCAD & Revit, Statik Hesaplama (SAP2000 / ETABS)",
+"deneyim": [
+"Bina Enerji Modelleme ve Simülasyon Uzmanı (2023 - Günümüz): İş sağlığı ve güvenliği şantiye protokollerini eksiksiz işleterek riskli montaj bölgelerinde sıfır kaza hede…",
+"Bina Enerji Modelleme ve Simülasyon Uzmanı (2020 - 2023): Şantiye ilerleme programlarını takip ederek hakediş metrajlarını, taşeron sözleşmelerini ve malzeme sevkiyat ta…",
+"Stajyer (Temmuz 2020 - Eylül 2020): Proje toplantı tutanaklarının tutulması, departmanlar arası veri akışının takibi ve kurumsal arşiv sisteminin güncellenmesi görevleri…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Yüksek Lisans (Şehir ve Bölge Planlama ve Yönetim) 2021 - 2023",
+"Orta Doğu Teknik Üniversitesi - Lisans (Şehir ve Bölge Planlama) 2017 - 2021"
+]
+}
+},
+{
+"id": "J1006",
+"kind": "JOB",
+"title": "Bina Enerji Modelleme ve Simülasyon Uzmanı",
+"industry": "CONSTRUCTION",
+"city": "Bursa",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Altensis bünyesinde, [şehir] ofisimizde yeşil bina projeleri (LEED, BREEAM) ve sıfır enerjili binalar için dinamik enerji simülasyonları yürütecek 'Bina Enerji Modelleme ve Simülasyon Uzmanı' aramaktayız. Rol ve Şirket Hakkında: Altensis; Türkiye'de ve bölgede yüzlerce yeşil bina sertifikasyonu, karbon nötr yapı stratejisi ve ileri enerji modellemesi gerçekleştirmiş öncü sürdürülebilirlik mühendisliği şirketidir. Görev ve Sorumluluklar: - EnergyPlus ve DesignBuilder yazılımlarıyla binaların 3 boyutlu dinamik enerji modellerinin kurulması ve sa…"
+}
+},
+{
+"id": "C11624",
+"kind": "CV",
+"title": "Bina Enerji Modellemesi ve Simülasyon Mühendisi (EnergyPlus / DesignBuilder)",
+"industry": "CONSTRUCTION",
+"city": "Kayseri",
+"context": {
+"ozet": "Binalarda yıllık ısıtma-soğutma enerji yükleri, HVAC sistem verimlilikleri, ASHRAE 90.1 standardı bütçe optimizasyonu ve DesignBuilder/EnergyPlus simülasyonunda uzmanım.",
+"beceriler": "DesignBuilder / EnergyPlus, ASHRAE 90.1 Enerji Modellemesi, Bina Isı Kayıp & Kazanç Hesapları, Doğal Aydınlatma & Gölgeleme Entegrasyonu, Yıllık Enerji Tüketim Raporlaması, Yeşil Bina Enerji Kredileri (LEED)",
+"deneyim": [
+"Bina Enerji Modellemesi ve Simülasyon Mühendisi (EnergyPlus / DesignBuilder) ([TARİH]): 65.000 m² kurumsal yönetim kampüsünün tüm mimari ve MEP sistemlerini DesignBuilde…"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Makine Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11533",
+"kind": "CV",
+"title": "Bina Güçlendirme ve Deprem Performans Analizi Mühendisi (Pushover / CFRP)",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Mevcut riskli binaların TBDY 2018 Bölüm 15'e göre performans analizi (Doğrusal Olmayan İtme / Pushover), kolon mantolama, çelik çaprazlı takviye ve Karbon Elyaf (CFRP) kumaş ile güçlendirilmesinde uzmanım.",
+"beceriler": "TBDY 2018 Bölüm 15 Performans Analizi, Nonlinear Static Pushover Analizi, Karbon Elyaf Polimer (CFRP) Sargı, Betonarme Kolon & Perde Mantolama, Hasar Seviyesi Tespiti (SH / KH / GÇ), Mevcut Yapı Karot & Donatı Tespiti",
+"deneyim": [
+"Bina Güçlendirme ve Deprem Performans Analizi Mühendisi (Pushover / CFRP) ([TARİH]): 1998 yapımı 8 katlı hastane binasının mevcut betonarme röntgen ve karot sonuçlarını …"
+],
+"egitim": [
+"Gazi Üniversitesi - Yüksek Lisans (İnşaat Mühendisliği (Yapı)) 2015 - 2018"
+]
+}
+},
+{
+"id": "C11625",
+"kind": "CV",
+"title": "Bina Yıkım ve Asbest Söküm Saha Şefi (Ekskavatör & Güvenlik)",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Kentsel dönüşüm alanlarında yüksek erişimli yıkım ekskavatörleri (high-reach), asbest envanter tespiti, toz bastırma sis makineleri ve kontrollü bina yıkım operasyonlarında uzmanım.",
+"beceriler": "Kontrollü Bina Yıkımı Metotları, Yüksek Erişimli Yıkım Ekskavatörü (High Reach), Asbest Söküm Uzmanlığı Belgesi, Toz Bastırma Sistemleri (Misting Cannons), Çevre Güvenliği & Titreşim İzleme, Moloz Geri Dönüşümü",
+"deneyim": [
+"Bina Yıkım ve Asbest Söküm Saha Şefi (Ekskavatör & Güvenlik) ([TARİH]): Bitişik nizam yoğun yerleşim bölgesinde 12 katlı riskli binanın yüksek erişimli ekskavatörle kat …"
+],
+"egitim": [
+"Gazi Üniversitesi - Lisans (İnşaat / Çevre Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "C20500",
+"kind": "CV",
+"title": "Bobcat (Mini Yükleyici) Operatörü",
+"industry": "CONSTRUCTION",
+"city": "Aydın",
+"context": {
+"ozet": "İnşaat ve şantiye sektöründe 1 yıllık deneyime sahibim. Bobcat (Mini Yükleyici) Operatörü olarak sapanlama, yük kaldırma ve konumlandırma işlemlerini yüksek iş güvenliği standartlarında gerçekleştiririm.",
+"beceriler": "Bobcat / Mini Yükleyici Kullanımı, Dar Alanda Kazı ve Moloz Temizliği, Forklift Çatalı ve Süpürge Ataşmanı, Tesviye ve Yükleme",
+"deneyim": [
+"Bobcat (Mini Yükleyici) Operatörü ([TARİH]): [ŞİRKET] şantiyesinde bina içi ve dar alanlarda Bobcat mini yükleyici ile moloz temizliği, kum-mıcır serimi ve çevre tesviye…"
+],
+"egitim": [
+"[OKUL] - Lise (Motorlu Araçlar Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J1407",
+"kind": "JOB",
+"title": "Bobcat (Mini Yükleyici) Operatörü",
+"industry": "CONSTRUCTION",
+"city": "Muğla",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Öz [şehir] Saha ve Lojistik Hizmetleri bünyesinde, [şehir] lokasyonumuzdaki operasyonlarımızda görevlendirilmek üzere tam zamanlı 'Bobcat (Mini Yükleyici) Operatörü' ekibimize dahil edilecektir. İş Tanımı ve Temel Sorumluluklar: - Dar alanlarda, bina içlerinde ve şantiyede mini yükleyici (Bobcat) ile malzeme taşıma ve yükleme. - Farklı ataşmanların (kırıcı, süpürge, forklift çatalı) makineye bağlanması ve verimli işletilmesi. - Kaba zeminlerin düzeltilmesi, moloz ve harç atıklarının damperli araçlara yüklenmesi. - Makinenin günlük hava filtres…"
+}
+},
+{
+"id": "C11517",
+"kind": "CV",
+"title": "Boru Hatları Zemin-Boru Etkileşimi Geoteknik Mühendisi (AutoPIPE / Plaxis)",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Doğalgaz ve petrol boru hatlarının aktif fay geçişleri, heyelanlı yamaçlar ve nehir geçişlerinde zemin yayları (p-y, t-z eğrileri), boru gerilme ve burkulma analizlerinde uzmanım.",
+"beceriler": "AutoPIPE Pipeline Structural Analysis, Zemin-Boru Etkileşimi (ASCE Kılavuzları), Fay Geçişi Kalıcı Zemin Deplasmanı, Yamaç Heyelanlarında Boru Gerilmesi, Katodik Koruma & İzolasyon, Yatay Yönlü Sondaj (HDD) Boru Çekme H…",
+"deneyim": [
+"Boru Hatları Zemin-Boru Etkileşimi Geoteknik Mühendisi (AutoPIPE / Plaxis) ([TARİH]): Trans-Anadolu doğalgaz boru hattı güzergahında 48 inç borunun aktif doğrultu atımlı…",
+"Tünel ve Zemin Stajyeri ([TARİH]): Tünel aynasında püskürtme beton kalınlık kontrolleri ve süren demiri montajına gözlemci olarak katıldım; tünel içi konverjans deplasma…"
+],
+"egitim": [
+"Kocaeli Üniversitesi - Lisans (İnşaat / Geofizik Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "C20505",
+"kind": "CV",
+"title": "Boru Montaj Elemanı (Pipefitter)",
+"industry": "CONSTRUCTION",
+"city": "Bursa",
+"context": {
+"ozet": "İnşaat ve şantiye sektöründe 2 yıllık deneyime sahibim. Boru Montaj Elemanı (Pipefitter) olarak sapanlama, yük kaldırma ve konumlandırma işlemlerini yüksek iş güvenliği standartlarında gerçekleştiririm.",
+"beceriler": "İzometri ve P&ID Şema Okuma, Boru Kesim, Taşlama ve Kaynak Ağzı Açma, Flanş, Dirsek ve Vana Montajı, Hidrostatik Basınç Testi Hazırlığı",
+"deneyim": [
+"Boru Montaj Elemanı (Pipefitter) ([TARİH]): [ŞİRKET] enerji santrali şantiyesinde buhar ve soğutma suyu borularının spool montajını, gönye ve terazi kontrollerini izomet…",
+"Boru Montaj Elemanı (Pipefitter) ([TARİH]): [ŞİRKET] atölyesinde boru kesme makineleriyle ölçüsünde kesim yapılması, çapak alma ve boru askı-destek montajlarında usta bo…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Doğalgaz ve Tesisatı Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J1353",
+"kind": "JOB",
+"title": "Boru Montaj Elemanı (Pipefitter)",
+"industry": "CONSTRUCTION",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] Endüstriyel Teknik Hizmetler A.Ş. bünyesinde, [şehir] lokasyonumuzdaki operasyonlarımızda görevlendirilmek üzere tam zamanlı 'Boru Montaj Elemanı (Pipefitter)' rolünde çalışacak profesyoneller aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Şantiyede yangın, sıhhi tesisat, ısıtma ve endüstriyel boru hatlarının izometrik projeye göre montajı. - Çelik, PPRC ve galvaniz boruların boru kesme, diş açma (pafta) ve kanal açma işlemleri. - Flanş, vana, çekvalf ve kompansatörlerin cıvata-somun bağlantılarının torklanarak yapılması. - Boru hat…"
+}
+},
+{
+"id": "C20504",
+"kind": "CV",
+"title": "Boru Montaj ve İzolasyon Ustası",
+"industry": "CONSTRUCTION",
+"city": "Denizli",
+"context": {
+"ozet": "İnşaat ve şantiye sektöründe 1 yıllık deneyime sahibim. Boru Montaj ve İzolasyon Ustası olarak sapanlama, yük kaldırma ve konumlandırma işlemlerini yüksek iş güvenliği standartlarında gerçekleştiririm.",
+"beceriler": "Endüstriyel Boru Montajı ve Spool İmalatı, Boru Flanş ve Vana Bağlantıları, Taşyünü ve Armaflex Boru İzolasyonu, Alüminyum ve Sac Kaplama (Sac Ceketleme)",
+"deneyim": [
+"Boru Montaj ve İzolasyon Ustası ([TARİH]): [ŞİRKET] endüstriyel tesis projesinde izometrik boru şemalarını okuyarak karbon çelik ve paslanmaz boru hatlarının montajını v…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Doğalgaz ve Tesisatı Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0187",
+"kind": "JOB",
+"title": "Boru Montaj ve İzolasyon Ustası",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren Marmara Teknik Tesisat ve Bakım Ltd. ekibimize değer katacak dinamik 'Boru Montaj ve İzolasyon Ustası' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Mekanik tesisat borularının montajı sonrasında ısı ve yoğuşma yalıtımının yapılması. - Prefabrik taşyünü, camyünü boru manşonlarının veya elastomerik kauçuk köpüğün boruya kaplanması. - Dış hava koşullarına açık hatlarda alüminyum veya galvaniz sac kaplamanın (cüzdanlama) yapılması. - Dirsek, vana ceketleri ve flanş kutularının ısı köprüsü ol…"
+}
+},
+{
+"id": "C10910",
+"kind": "CV",
+"title": "Botanical Garden & Large Scale Landscape Curator",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Dedicated Botanical Garden & Large Scale Landscape Curator with 3 years of demonstrated experience in Architecture & Construction Management. Skilled in Construction Site Management, BIM Coordination and Site Safety & Quality Control with a focus on project accuracy, process efficiency, and continuous improvement. A reliable team contributor commi…",
+"beceriler": "Construction Site Management, BIM Coordination, Site Safety & Quality Control, Tender Preparation & Specifications, Project Scheduling (Primavera P6 / MS Project)",
+"deneyim": [
+"Botanical Garden & Large Scale Landscape Curator (2023 - Present): Coordinated BIM clash detection procedures among MEP, structural, and architectural models prior to ph…",
+"Botanical Garden & Large Scale Landscape Curator (2020 - 2023): Enforced site safety protocols and conducted daily risk assessments, upholding a flawless safety complian…",
+"Intern (January 2022 - February 2022): Assisted senior project leads in tracking departmental milestones, documenting process workflows, and organizing technical meeting…"
+],
+"egitim": [
+"Istanbul University - Bachelor's Degree (Interior Architecture & Environmental Design) 2019 - 2023"
+]
+}
+},
+{
+"id": "C20045",
+"kind": "CV",
+"title": "Boyacı Usta",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "İnşaat bitiş aşamalarında duvar ve tavan yüzeylerini pürüzsüz hale getirerek son kat boyasını hatasız uygulayan hız ve kalite odaklı bir boyacıyım. Çalışma alanını koruma ve temiz tutma konusundaki hassasiyetimle daima müşteri memnuniyetini hedeflerim.",
+"beceriler": "Epoksi Zemin Kaplama, Yapı Boyası ve Cila Uygulaması, İç Cephe Boyama",
+"deneyim": [
+"Boyacı Usta ([TARİH]): Daire içi alçı yüzeylerin zımparalanması, tozumaz binder astar tatbiki ve iki kat su bazlı silikonlu iç cephe boyasını rulo ve kestirme fırçasıyla…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Lojistik Yönetimi) [TARİH]"
+]
+}
+},
+{
+"id": "C20046",
+"kind": "CV",
+"title": "Boyacı Usta",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "Dekoratif boya uygulamaları, alçı tamiratı ve cephe boyaması konularında müşteri beklentilerini eksiksiz karşılayan titiz bir zanaatkarım. Kaliteli malzeme kullanımı ve temiz işçilik prensibimle yaşam alanlarının değerini ve görselliğini artırıyorum.",
+"beceriler": "Yapı Boyası ve Cila Uygulaması, Epoksi Zemin Kaplama, Boya Sökümü ve Yüzey Hazırlığı",
+"deneyim": [
+"Boyacı Usta ([TARİH]): Dış cephe asma iskelelerinde silikonlu dış cephe boyası ve grenli dokulu kaplama malzemelerini airless püskürtme tabancası ile homojen şekilde tat…"
+],
+"egitim": [
+"[OKUL] - Lise (İnşaat Teknolojisi Alanı) [TARİH]"
+]
+}
+},
+{
+"id": "C20490",
+"kind": "CV",
+"title": "Buldozer Operatörü",
+"industry": "CONSTRUCTION",
+"city": "Hatay",
+"context": {
+"ozet": "Hafriyat ve yol yapımı sektöründe 2 yıllık G sınıfı ehliyetli operatörüm. Buldozer Operatörü olarak temel kazısı, tesviye ve malzeme yükleme işlerinde yüksek el-göz koordinasyonuna sahibim.",
+"beceriler": "Paletli Dozer (Buldozer) Kullanımı, Bıçak ile Zemin Sıyırma ve İtme, Riper (Kazıcı Tırnak) ile Kaya Sökme, Şev ve Zemin Düzeltme",
+"deneyim": [
+"Buldozer Operatörü ([TARİH]): [ŞİRKET] yol yapım ve taş ocağı projesinde paletli dozer ile hafriyat yığma, zemin sıyırma ve riper aparatı ile sert kaya zeminleri parçala…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "J0950",
+"kind": "JOB",
+"title": "Buldozer Operatörü",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sektöründe öncü kuruluşumuzun [şehir] yerleşkesinde görev alacak yetkin ve deneyimli 'Buldozer Operatörü' aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Ağır dozer makinesi ile arazi tesviyesi, yarma, sıyırma ve dolgu operasyonlarının yürütülmesi. - Riper ataşmanı ile sert kayalık ve sıkışmış zeminlerin gevşetilerek kazıya hazır hale getirilmesi. - Bıçak açısı ve eğim ayarları yapılarak şev açma ve hafriyat iteleme işlemlerinin yapılması. - Dozerin palet gerginliği, cer dişlileri, motor yağları ve hidrolik sistemlerinin günlük bakımı. Arana…"
+}
+},
+{
+"id": "C20855",
+"kind": "CV",
+"title": "Büyük Ebat (60x120) Granit Seramik Ustası",
+"industry": "CONSTRUCTION",
+"city": "Adana",
+"context": {
+"ozet": "Lüks rezidans, otel lobisi ve villa zemin/duvarlarında 60x120 cm ve üzeri büyük ebat (mega panel) porselen granit seramik döşeme ustasıyım. Çift taraflı yapıştırıcı taraklama, vantuzlu taşıma aparatı, plastik tesviye takozları (levelling clips) ve lazer terazi ile sıfır diş farkı (kot farkı) ile kaplama yaparım.",
+"beceriler": "60x120 ve 120x240 Porselen Granit Montajı, Tesviye Takozları ve Klips Kullanımı, Çift Yönlü Harç Taraklama Tekniği, Lazer Terazi ile Sıfır Diş Hizalama, Sulu Seramik Kesme Tezgahı Kullanımı, 45 Derece Pah Kırma (Jolly G…",
+"deneyim": [
+"Büyük Ebat (60x120) Granit Seramik Ustası ([TARİH]): Rezidans giriş lobisinde ve ıslak hacimlerinde 4500 m² 60x120 granit seramik tesviye klipsleriyle döşendi, köşe birl…"
+],
+"egitim": [
+"Eskişehir Mesleki Eğitim Merkezi - Ustalık Belgesi (Seramik Karo Kaplamacılığı) [TARİH]"
+]
+}
+},
+{
+"id": "J2122",
+"kind": "JOB",
+"title": "Büyük Tonaj Paletli Vinç Operatörü (150-300 Ton)",
+"industry": "CONSTRUCTION",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ağır sanayi montajlarında kafes bomlu paletli vinçlerimizi (Liebherr LR serisi / Manitowoc) kullanacak deneyimli Paletli Vinç Operatörü arıyoruz. Rol ve Sorumluluklar: - Kafes bomlu vinçte süperlift karşı ağırlık tepsisi ve derrick bom konfigürasyonlarını yönetmek - Kaldırma mühendislerinin hazırladığı 3D rigging planına tam uyumlu ağır parçaları milimetrik yerleştirmek - Paletli vincin zemin basıncını çelik yürüyüş yolları (crane mats) üzerinde dengeli dağıtmak - Vinç halat sarımları, tambur frenleri ve yük hücrelerinin günlük testlerini yapm…"
+}
+},
+{
+"id": "C20523",
+"kind": "CV",
+"title": "Cam Kesim ve Montaj Elemanı",
+"industry": "CONSTRUCTION",
+"city": "Zonguldak",
+"context": {
+"ozet": "İnşaat ve şantiye sektöründe 3 yıllık deneyime sahibim. Cam Kesim ve Montaj Elemanı olarak sapanlama, yük kaldırma ve konumlandırma işlemlerini yüksek iş güvenliği standartlarında gerçekleştiririm.",
+"beceriler": "CNC ve Manuel Cam Kesimi, Rodaj ve Bizote Kenar İşleme, Isıcam Çıta ve Tiokol Dolgusu, Alüminyum Doğrama Cam Montajı",
+"deneyim": [
+"Cam Kesim ve Montaj Elemanı ([TARİH]): [ŞİRKET] cam fabrikasında otomatik kesim masalarında lamine ve temperli camların optimizasyonla kesimini koordine ettim. Isıcam pr…",
+"Cam Kesim ve Montaj Elemanı ([TARİH]): [ŞİRKET] bünyesinde kesilen düz camların kenar rodaj, bizote ve kulp delik delme işlemlerini yatay rodaj makinelerinde gerçekleşti…",
+"Cam Kesim ve Montaj Elemanı ([TARİH]): [ŞİRKET] atölyesinde cam sehpalarının taşınması, kesim masasının hava yastığı kontrolleri ve cam kırıklarının güvenli şekilde topl…"
+],
+"egitim": [
+"[OKUL] - Lise (İnşaat Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0186",
+"kind": "JOB",
+"title": "Cam Kesim ve Montaj Elemanı",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Marmara Teknik Tesisat ve Bakım Ltd. ailesi olarak, [şehir] sahasındaki projelerimizde tam zamanlı istihdam edilmek üzere 'Cam Kesim ve Montaj Elemanı' alımı yapılacaktır. İş Tanımı ve Temel Sorumluluklar: - Düz cam, lamine cam, temperli cam ve aynaların teknik ölçülere göre cam kesim masasında kesilmesi. - Elmas cam kesici ve otomatik kesim masası kullanımı, kesilen kenarların rodajlanması ve bizotesi. - Isıcam ünitelerinin çıta ve tiokol mastik ile preslenerek üretimine destek verilmesi. - Şantiyede alüminyum/PVC doğramalara, cephe karkaslar…"
+}
+},
+{
+"id": "C20076",
+"kind": "CV",
+"title": "Camcı",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Ayna kesimi, cam balkon sistemleri ve vitrin camı değişimlerinde estetik ve sağlamlığı ön planda tutan, pratik çözümler üreten bir zanaatkarım. Hızlı montaj yeteneğim ve kaliteli malzeme kullanımım ile müşteri memnuniyetini en üst düzeye çıkarıyorum.",
+"beceriler": "Silikon Çekme, Cam Kesimi, Cephe Camları, Isıcam Montajı, Alüminyum Doğrama",
+"deneyim": [],
+"egitim": [
+"[OKUL] - Lise (İnşaat Teknolojisi Alanı) [TARİH]"
+]
+}
+},
+{
+"id": "J0412",
+"kind": "JOB",
+"title": "Çatı İzolasyon ve Kaplama Ustası",
+"industry": "CONSTRUCTION",
+"city": "Samsun",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren [şehir] Sanayi ve İmalat Ltd. Şti. ekibimize değer katacak dinamik 'Çatı İzolasyon ve Kaplama Ustası' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Teras çatılarda ve eğimli çatılarda buhar kesici, ısı yalıtım levhaları ve su yalıtım membranlarının montajı. - Membran örtülerin şalümo ile eritilerek çift kat sızdırmaz yapıştırılması. - Çatı süzgeçleri, su giderleri ve parapet kenarlarının özel pah çıtalarıyla yalıtılması. - Yalıtım üzeri koruma betonu, çakıl serimi veya shingle kaplama ile…"
+}
+},
+{
+"id": "C20519",
+"kind": "CV",
+"title": "Çatı Kaplama Ustası (Roofer)",
+"industry": "CONSTRUCTION",
+"city": "Tekirdağ",
+"context": {
+"ozet": "İnşaat ve şantiye sektöründe 1 yıllık deneyime sahibim. Çatı Kaplama Ustası (Roofer) olarak sapanlama, yük kaldırma ve konumlandırma işlemlerini yüksek iş güvenliği standartlarında gerçekleştiririm.",
+"beceriler": "Sandviç Panel ve Kenet Çatı Montajı, Bitümlü Membran ve Şıngıl Yalıtımı, Dere, Oluk ve Baca Dibi İzolasyonu, Çatı Karkas ve Mahya Montajı",
+"deneyim": [
+"Çatı Kaplama Ustası (Roofer) ([TARİH]): [ŞİRKET] endüstriyel yapı şantiyelerinde sandviç panel, trapez sac ve kenet çatı sistemlerinin vidalama ve montajını gerçekleştir…"
+],
+"egitim": [
+"[OKUL] - Lise (İnşaat Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0918",
+"kind": "JOB",
+"title": "Çatı Kaplama Ustası (Roofer)",
+"industry": "CONSTRUCTION",
+"city": "Mersin",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sektöründe öncü kuruluşumuzun [şehir] yerleşkesinde görev alacak yetkin ve deneyimli 'Çatı Kaplama Ustası (Roofer)' aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Ahşap veya çelik çatı karkasları üzerine OSB levha, çatı tahtası çakımı ve su yalıtım örtüsü serimi. - Kiremit, trapez sac, sandviç panel veya shingle çatı kaplama malzemelerinin montajı. - Mahya harcı veya kuru mahya sistemleri ile çatı tepelerinin sızdırmaz kapatılması. - Baca kenarı, kalkan duvarı ve çatı pencereleri sac izolasyonlarının yapılması. Aranan Nitelikler ve Yetkinli…"
+}
+},
+{
+"id": "C20602",
+"kind": "CV",
+"title": "Çatı Oluğu ve Sac İmalat Elemanı",
+"industry": "CONSTRUCTION",
+"city": "Malatya",
+"context": {
+"ozet": "İnşaat ve şantiye sektöründe 3 yıllık deneyime sahibim. Çatı Oluğu ve Sac İmalat Elemanı olarak sapanlama, yük kaldırma ve konumlandırma işlemlerini yüksek iş güvenliği standartlarında gerçekleştiririm.",
+"beceriler": "Eksiz Çatı Oluğu Çekimi, Sac Büküm ve Kenet İmalatı, Lehim ve Sızdırmazlık Uygulamaları, Çatı İskeleti ve Yağmur İniş Borusu Montajı",
+"deneyim": [
+"Çatı Oluğu ve Sac İmalat Elemanı ([TARİH]): [ŞİRKET] şantiyelerinde fabrika ve konut çatı projelerinin yağmur suyu drenaj planlarını inceledim, oluk montaj ekiplerinin s…",
+"Çatı Oluğu ve Sac İmalat Elemanı ([TARİH]): [ŞİRKET] sahasında mobil eksiz oluk çekme makinesiyle istenen metrajda galvaniz ve alüminyum oluklar üreterek çatı saçakların…",
+"Çatı Oluğu ve Sac İmalat Elemanı ([TARİH]): [ŞİRKET] bünyesinde çatıya çıkarılacak sac levhaların ve kelepçelerin taşınması, oluk askı demirlerinin delinmesi ve zemin ha…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "J1253",
+"kind": "JOB",
+"title": "Çatı Oluğu ve Sac İmalat Elemanı",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Öz [şehir] Saha ve Lojistik Hizmetleri bünyesinde, [şehir] lokasyonumuzdaki operasyonlarımızda görevlendirilmek üzere tam zamanlı 'Çatı Oluğu ve Sac İmalat Elemanı' bünyemize kazandırılacaktır. İş Tanımı ve Temel Sorumluluklar: - Çinko, bakır veya boyalı galvaniz sacdan eksiz dere ve iniş borularının büküm makinesinde çekilmesi. - Çatı saçaklarına oluk kelepçelerinin eğimli şekilde monte edilmesi ve olukların yerleştirilmesi. - Ek yerlerinin lehim, perçin ve poliüretan mastik ile su sızdırmaz biçimde birleştirilmesi. - Çatı parapet sacı, baca …"
+}
+},
+{
+"id": "C20068",
+"kind": "CV",
+"title": "Çatı Ustası",
+"industry": "CONSTRUCTION",
+"city": "Balıkesir",
+"context": {
+"ozet": "Binaların ahşap veya çelik çatı iskeletlerini kuran, kiremit, şıngıl veya membran kaplama işlemlerini su izolasyonuna maksimum dikkat ederek yapan bir çatı ustasıyım. Eğimi ve rüzgar direncini doğru hesaplayarak binaları her türlü hava koşuluna karşı korurum.",
+"beceriler": "Membran Uygulaması, Ahşap Konstrüksiyon, Oluk Montajı",
+"deneyim": [
+"Stajyer ([TARİH]): Çatı karkasında ahşap mertek dizilimi ve OSB levha vidalanması süreçlerinde paraşüt tipi emniyet kemeri ve yaşam hattına bağlı olarak çalıştım. Su yal…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Yapı Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20069",
+"kind": "CV",
+"title": "Çatı Ustası",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "Yüksekte çalışma kurallarına ve emniyet tedbirlerine tam riayet ederek çatı aktarma, tamirat ve oluk yenileme işlerini güvenle yürüten deneyimli bir çalışanım. Çatı yalıtım malzemelerini doğru uygulayarak enerji tasarrufuna ve yapının ömrüne doğrudan katkı sağlarım.",
+"beceriler": "Membran Uygulaması, Oluk Montajı, Sandviç Panel Montajı, Kiremit Döşeme, Ahşap Konstrüksiyon",
+"deneyim": [
+"Çatı Ustası ([TARİH]): Endüstriyel çatı yapılarında sandviç panel, kiremit ve membran kaplama montajlarını eğim ve bindirme paylarına dikkat ederek tamamladım. Baca kena…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Mimarlık) [TARİH]"
+]
+}
+},
+{
+"id": "C11629",
+"kind": "CV",
+"title": "Çatı ve Su Yalıtımı Sistemleri Uzmanı Mimar (Yeşil Çatı / EPDM / TPO)",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Düz teras çatılar, otopark üstü yeşil çatılar ve bodrum su yalıtımında EPDM, TPO ve bitümlü membran detayları, eğim betonları, parapet çözümleri ve süzgeç drenajlarında uzmanım.",
+"beceriler": "Su & Isı Yalıtım Detayları, TPO / EPDM Membran Sistemleri, Ekstansif & Yoğun Yeşil Çatı Detayı, Parapet & Dilatasyon Su İzolasyonu, Çatı Drenajı & Vakumlu Süzgeçler, Buhar Kesici & Dengeleyici Katmanlar",
+"deneyim": [
+"Çatı ve Su Yalıtımı Sistemleri Uzmanı Mimar (Yeşil Çatı / EPDM / TPO) ([TARİH]): 30.000 m² AVM teras çatısı ve yeşil çatı uygulamasında FLL standartlarına uygun kök tutu…"
+],
+"egitim": [
+"Dokuz Eylül Üniversitesi - Lisans (Mimarlık) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11493",
+"kind": "CV",
+"title": "Çelik Baca ve Endüstriyel Boru Köprüsü (Pipe Rack) Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "Gaziantep",
+"context": {
+"ozet": "Petrokimya tesisleri için çok katlı çelik boru köprüleri (Pipe Rack), dikey teknolojik yapılar ve endüstriyel bacaların rüzgar girdap rezonansı (vortex shedding) hesaplarında uzmanım.",
+"beceriler": "STAAD.Pro, AISC 360 & ASCE 7, Endüstriyel Pipe Rack Tasarımı, Termal Boru İtme Kuvvetleri & Sürtünme, Çelik Baca Girdap Rezonansı (Vortex Shedding), Dinamik Deprem & Patlama Yükleri",
+"deneyim": [
+"Çelik Baca ve Endüstriyel Boru Köprüsü (Pipe Rack) Mühendisi ([TARİH]): Rafineri modernizasyon projesinde 850 metre uzunluğundaki 3 katlı çelik boru köprüsünün (pipe rac…"
+],
+"egitim": [
+"İskenderun Teknik Üniversitesi - Lisans (İnşaat Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11621",
+"kind": "CV",
+"title": "Çelik Halatlı ve Asma Köprü Askı Montaj Saha Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "Asma köprülerde ana kablo eğrilik ölçümü, askı halatlarının hidrolik krikolarla gerilmesi, pabuç montajı ve tabliye asma sıralaması saha operasyonlarında uzmanım.",
+"beceriler": "Asma Köprü Askı Halatı Montajı, Hidrolik Gerdirme Krikoları, Halat Gergi Kuvveti Kalibrasyonu, Kablo Sıkıştırma (Compacting) & Sarma, Pilon Tepesi Eyer (Saddle) Ayarı, Optik Deplasman Takibi",
+"deneyim": [
+"Çelik Halatlı ve Asma Köprü Askı Montaj Saha Mühendisi ([TARİH]): Boğaz asma köprüsü askı halatı yenileme projesinde 68 adet yeni galvanizli çelik askı halatının hidroli…",
+"İnce Yapı Stajyeri ([TARİH]): Daire içi alçıpan duvar, şap ve seramik imalatlarının yüzey düzlemsellik kontrollerini lazer nivo ile takip ettim; eksik ve kusurlu işlerin…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (İnşaat Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "J2164",
+"kind": "JOB",
+"title": "Çelik Konstrüksiyon Şantiye Montaj Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Endüstriyel tesislerimizin ağır çelik bina, boru köprüleri ve ekipman taşıyıcı çelik konstrüksiyon montajlarını sahada sevk edecek Montaj Mühendisi arıyoruz. Rol ve Sorumluluklar: - Fabrikadan gelen çelik elemanların sevkiyat planlamasını ve sahada ön montajını koordine etmek - Mobil ve paletli vinçlerle yapılan ağır çelik kaldırma operasyonlarını (rigging study) denetlemek - Yüksek mukavemetli cıvatalı birleşimlerin (HV cıvata) tork anahtarıyla sıkılmasını onaylamak - Şantiye kaynaklarının tahribatsız muayene (NDT) test sonuçlarını inceleyere…"
+}
+},
+{
+"id": "J0591",
+"kind": "JOB",
+"title": "Çelik Konstrüksiyon Statik Tasarım Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Tekfen Mühendislik bünyesinde, [şehir] ofisimizde endüstriyel tesisler, boru köprüleri ve geniş açıklıklı hangarların ağır çelik yapısal tasarımlarını yapacak 'Çelik Konstrüksiyon Statik Tasarım Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Tekfen Mühendislik; rafineriler, petrokimya tesisleri, offshore yapılar ve stadyumlar için uluslararası çelik tasarım şartnamelerine tam uyumlu mühendislik çözümleri üreten lider müşavirlik firmasıdır. Görev ve Sorumluluklar: - Ağır sanayi çelik yapıları, boru köprüleri (pipe rack), ekipman platformları v…"
+}
+},
+{
+"id": "C11616",
+"kind": "CV",
+"title": "Çelik Köprü İmalat ve Sürme-Sürme (Incremental Launching) Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Çelik kutu kesitli ve kompozit tabliyeli köprülerin atölye imalat koordinasyonu, şantiyede segment birleştirme ve itme-sürme (launching) yöntemiyle montaj statik tahkiklerinde uzmanım.",
+"beceriler": "İtme-Sürme Yöntemi (Incremental Launching), Çelik Kutu Kiriş İmalatı, Geçici Ayak Mesnet Tahkikleri, Burkulma & Yama Göçmesi (Patch Loading), Lazerli Kot ve Eksen Takibi, Kaynaklı Köprü Montajı",
+"deneyim": [
+"Çelik Köprü İmalat ve Sürme-Sürme (Incremental Launching) Mühendisi ([TARİH]): Vadi geçişi 450 metre uzunluğundaki çelik kutu kirişli viyadüğün itme-sürme montajı sırası…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (İnşaat Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11513",
+"kind": "CV",
+"title": "Çelik Raf Sistemleri ve Otomatik Depo (ASRS) Statik Mühendisi (EN 15512)",
+"industry": "CONSTRUCTION",
+"city": "Muğla",
+"context": {
+"ozet": "Lojistik depolarda 35 metre yüksekliğe ulaşan giydirme raf (rack-clad) binaları, otomatik istifleme vinci (ASRS) dinamik yükleri ve EN 15512 standartlarında soğuk şekillendirilmiş çelik raf tasarımında uzmanım.",
+"beceriler": "EN 15512 Çelik Raf Standartları, Giydirme Raf Depo Binaları (Rack-Clad), ASRS İstifleme Vinci Dinamik Frenleme Yükleri, Soğuk Şekillendirilmiş Delikli Dikmeler (Perforated Uprights), Palet Kirişi Sehim Limitleri, Deprem…",
+"deneyim": [
+"Çelik Raf Sistemleri ve Otomatik Depo (ASRS) Statik Mühendisi (EN 15512) ([TARİH]): İlaç lojistik merkezi için 32 metre yüksekliğindeki kendi kendini taşıyan giydirme çe…",
+"Geoteknik Laboratuvar Stajyeri ([TARİH]): Zemin mekaniği laboratuvarında arazi sondaj numunelerinin elek analizi, Atterberg kıvam limitleri (likit/plastik limit) ve Proc…"
+],
+"egitim": [
+"Kocaeli Üniversitesi - Lisans (İnşaat Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11497",
+"kind": "CV",
+"title": "Çelik ve Ahşap Uzay Kafes Sistemleri Tasarım Mühendisi (MERO / STRAP)",
+"industry": "CONSTRUCTION",
+"city": "Diyarbakır",
+"context": {
+"ozet": "Spor salonları, yüzme havuzları ve uçak hangarlarının geniş açıklıklı çelik uzay kafes küre-boru düğüm noktaları, korozyon kaplamaları ve montaj kaldırma planlarında uzmanım.",
+"beceriler": "STRAP Structural Software, Uzay Kafes (Space Frame) Sistemleri, MERO Düğüm Küresi & Cıvata Tahkikleri, Boru Çubuk Burkulma Hesapları, Geniş Açıklıklar (>60 metre), Montaj Vinç Kaldırma Simülasyonu",
+"deneyim": [
+"Çelik ve Ahşap Uzay Kafes Sistemleri Tasarım Mühendisi (MERO / STRAP) ([TARİH]): 75 metre serbest açıklığa sahip uçak bakım hangarı çatısının çift katmanlı uzay kafes çe…"
+],
+"egitim": [
+"Eskişehir Osmangazi Üniversitesi - Lisans (İnşaat Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11574",
+"kind": "CV",
+"title": "Çelik Yapı Birleşim ve Düğüm Noktası Hesap Uzmanı (IDEA StatiCa / CBFEM)",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Karmaşık geometriye sahip çelik kolon-kiriş, mafsal, gövde açılı birleşimler ve taban plakalarının Bileşen Tabanlı Sonlu Elemanlar Yöntemi (CBFEM) ile IDEA StatiCa analiz uzmanıyım.",
+"beceriler": "IDEA StatiCa Connection (CBFEM), Kaynak Plastik Gerinimi Tahkiki, Cıvata Kayma & Ezilme Mukavemeti, Taban Plakası Ankraj & Harç Gerilmeleri, Düğüm Noktası Dönme Rijitliği, AISC 360 / Eurocode 3",
+"deneyim": [
+"Çelik Yapı Birleşim ve Düğüm Noktası Hesap Uzmanı (IDEA StatiCa / CBFEM) ([TARİH]): Geniş açıklıklı sergi sarayı çelik çatısının 12 farklı boru profili birleştiren 3D ka…",
+"Statik Proje Stajyeri ([TARİH]): Statik tasarım bürosunda betonarme kalıp ve donatı aplikasyon planlarının çizimine destek verdim; kolon ve kiriş donatı açılımlarını yön…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (İnşaat Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11558",
+"kind": "CV",
+"title": "Çelik Yapı Metraj ve İmalat Maliyet Analisti (StruMIS / FabTrol)",
+"industry": "CONSTRUCTION",
+"city": "Konya",
+"context": {
+"ozet": "Çelik konstrüksiyon fabrikalarında Tekla modellerinden profil, sac plaka ve cıvata kesin metrajları, boy kesim (nesting) optimizasyonu ve tonaj bazlı imalat maliyet analizinde uzmanım.",
+"beceriler": "StruMIS / FabTrol Çelik Yönetim Yazılımı, Boy Kesim & Plaka Yuvalama (Nesting) Optimizasyonu, Çelik Profil & Plaka Metrajı, Boya ve Kumlama Yüzey Alanı Hesapları, Ton Başına İmalat & Montaj Maliyet Analizi, Hurda Fire O…",
+"deneyim": [
+"Çelik Yapı Metraj ve İmalat Maliyet Analisti (StruMIS / FabTrol) ([TARİH]): Yıllık 15.000 ton çelik işleyen fabrikada StruMIS ile çelik boy kesim nesting algoritmalarını…",
+"Planlama ve Hakediş Stajyeri ([TARİH]): Merkez ofiste haftalık şantiye fiili ilerleme yüzdelerini sahadan toplayarak takip ettim; Excel ataşman tablolarını kontrol ettim…"
+],
+"egitim": [
+"Kocaeli Üniversitesi - Lisans (İnşaat / İmalat Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11613",
+"kind": "CV",
+"title": "Çelik Yapı Şantiye Montaj Şefi (Ağır Kaldırma / Vinç Planı)",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Sanayi tesisleri, stadyumlar ve hangarlarda ağır çelik kolon, çatı makası montajı, tandem vinç kaldırma planları (rigging plan) ve tork kontrollü cıvata sıkma operasyonlarında uzmanım.",
+"beceriler": "Çelik Montaj Yönetimi, Tandem Vinç Kaldırma Planı (Lift Plan), Tork Kontrollü Cıvata Sıkımı (DTI Pullar), Geçici Rüzgar Halatlama & Destekleme, Kaynaklı Montaj & NDT Koordinasyonu, Optik Teodolit ile Şakul Ayarı",
+"deneyim": [
+"Çelik Yapı Şantiye Montaj Şefi (Ağır Kaldırma / Vinç Planı) ([TARİH]): Enerji santrali türbin binasında 45 tonluk ana çelik makasların çift 200 tonluk mobil vinçle tande…"
+],
+"egitim": [
+"Eskişehir Osmangazi Üniversitesi - Lisans (İnşaat / Makine Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "J2195",
+"kind": "JOB",
+"title": "Çelik Yapı Tasarım ve Birleşim Detaylandırma Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sanayi yapıları, lojistik depolar ve ağır tonajlı vinç yolları çelik projelerimizin statik hesapları ile birleşim noktası tahkiklerini yürütecek Deneyimli Çelik Tasarım Mühendisi arıyoruz. Görev ve Sorumluluklar: - STA4CAD veya SAP2000 programlarında çelik çerçeve, makas ve aşık sistemlerinin statik ve dinamik boyutlandırmasını yapmak - IDEA StatiCa yazılımında moment aktaran kaynaklı ve bulonlu birleşim düğüm noktalarının non-lineer sonlu elemanlar tahkiklerini tamamlamak - Çelik İmalat Şartnamesi (AISC 360, EN 1993) kurallarına göre birleşim…"
+}
+},
+{
+"id": "J2185",
+"kind": "JOB",
+"title": "Çelik Yapı Tasarım ve Detaylandırma Mühendisi (Junior)",
+"industry": "CONSTRUCTION",
+"city": "Bursa",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Endüstriyel tesisler, boru köprüleri ve çelik hangarların imalat detay çizimleri ve 3D modelleme süreçlerinde mühendislik ofisimize katılacak Junior Çelik Tasarım Mühendisi arıyoruz. Görev ve Sorumluluklar: - Tekla Structures (Xsteel) ortamında çelik kolon, kiriş, aşık ve rüzgar çaprazlarının 3 boyutlu modellemesini yapmak - Atölye imalatı için gereken tek parça (single part) ve montaj (assembly) çizim paftalarını üretmek - Profil ve plaka malzeme listelerini (BOM - Bill of Materials) çıkarmak ve atölye kesim planlarıyla eşleştirmek - Civata, …"
+}
+},
+{
+"id": "C11540",
+"kind": "CV",
+"title": "Çelik Yapılarda Yangın Mühendisliği ve Yangın Dayanım Analisti (OZone / SAFIR)",
+"industry": "CONSTRUCTION",
+"city": "Kocaeli",
+"context": {
+"ozet": "Çelik kolon ve kirişlerin yangın anındaki sıcaklık artışı, kritik sıcaklık limitleri, intümesan yangın boyası kalınlığı optimizasyonu ve SAFIR sonlu elemanlar analizinde uzmanım.",
+"beceriler": "SAFIR Finite Element Software, Eurocode 1 & 3 Yangın Tasarımı, Yapısal Çelik Yangın Dayanımı (R30-R120), İntümesan Yangın Geciktirici Boya Hesabı, Doğal Yangın Eğrileri (Parametric Fire), Kritik Çelik Sıcaklığı Tahkiki",
+"deneyim": [
+"Çelik Yapılarda Yangın Mühendisliği ve Yangın Dayanım Analisti (OZone / SAFIR) ([TARİH]): Havalimanı çelik çatı makaslarının yangın güvenliğini SAFIR ile yangın senaryol…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (İnşaat Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11634",
+"kind": "CV",
+"title": "Çelik Yapılarda Yorulma ve Vinç Yolu Kirişleri Tasarım Mühendisi (DIN 4132)",
+"industry": "CONSTRUCTION",
+"city": "Muğla",
+"context": {
+"ozet": "Ağır sanayi fabrikalarında 50-100 tonluk tavan vinçleri altı çelik vinç yürüyüş kirişleri, ray bağlantıları, yorulma gerilme aralıkları (stress range) ve sehim kontrollerinde uzmanım.",
+"beceriler": "DIN 4132 Vinç Yolu Tasarımı, Çelik Yorulma Tahkiki (Eurocode 3-1-9), Vinç Ray Bağlantı Klempleri (Gantry), Yanal Darbe & Frenleme Kuvvetleri, Kaynak Dikişi Yorulma Detayları, Tekla Structures",
+"deneyim": [
+"Çelik Yapılarda Yorulma ve Vinç Yolu Kirişleri Tasarım Mühendisi (DIN 4132) ([TARİH]): Demir çelik haddehanesinde çalışan 80 tonluk şarj vincinin 120 metre uzunluğundaki…",
+"Statik Proje Stajyeri ([TARİH]): Statik tasarım bürosunda betonarme kalıp ve donatı aplikasyon planlarının çizimine destek verdim; kolon ve kiriş donatı açılımlarını yön…"
+],
+"egitim": [
+"Dokuz Eylül Üniversitesi - Lisans (İnşaat Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "C11611",
+"kind": "CV",
+"title": "Cephe İmalat ve Montaj Saha Şefi (Cam Giydirme / Taş Cephe)",
+"industry": "CONSTRUCTION",
+"city": "İzmir",
+"context": {
+"ozet": "Yüksek yapılarda cephe asansörleri, sepetler (BMU), silikon cephe, kompozit panel ve mekanik taş kaplama montajının rüzgar güvenliği ve su sızdırmazlık kontrollerinde uzmanım.",
+"beceriler": "Giydirme Cephe Şantiye Montajı, Asma İskele & Sepet (BMU) Operasyonu, Lazerle Cephe Aks & Şakul Kontrolü, Cephe Su Testleri (Hose Test - AAMA 501.2), Yangın Bariyeri (Smoke/Fire Seal) Montajı, Taşeron Montaj Takibi",
+"deneyim": [
+"Cephe İmalat ve Montaj Saha Şefi (Cam Giydirme / Taş Cephe) ([TARİH]): 38 katlı kule projesinde 22.000 m² panel cephe (unitized) montajını vinç ve örümcek vinçlerle kat …"
+],
+"egitim": [
+"Dokuz Eylül Üniversitesi - Lisans (İnşaat Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "J2190",
+"kind": "JOB",
+"title": "Cephe Proje ve Detay Çizim Mühendisi (Junior)",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Alüminyum giydirme cephe, kompozit panel ve cam ışıklık projelerimizin teknik ofisinde shop drawing ve atölye imalat detay çizimlerini üretecek genç İnşaat / Makine Mühendisi veya Mimar arıyoruz. Temel İş ve Sorumluluk Alanları: - AutoCAD ortamında silikon cephe, [şehir] cephe ve panel cephe 1/1, 1/5 sistem kesit detaylarını çizmek - Atölye kesim ve işleme makineleri için profil kesim listelerini ve cam sipariş föylerini hazırlamak - Ankraj, çelik karkas ve braket birleşim noktalarının şantiye uygulama çizimlerini oluşturmak - Montaj ekipleri …"
+}
+},
+{
+"id": "C10857",
+"kind": "CV",
+"title": "Cephe Sistemleri Tasarım Mimarı",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Kadir Has Üniversitesi Mimarlık bölümü 4. sınıf öğrencisiyim. Bu akademik yıl sonunda mezuniyet aşamasındayım. Eğitimim süresince Cephe Sistemleri Tasarım Mimarı alanına odaklanarak teorik bilgi birikimimi İş Programı (Primavera P6 / MS Project), İhale Dosyası ve Şartname Hazırlama ve İSG Saha Denetimi konularındaki proje ve akademik çalışmalarla …",
+"beceriler": "İş Programı (Primavera P6 / MS Project), İhale Dosyası ve Şartname Hazırlama, İSG Saha Denetimi, Statik Hesaplama (SAP2000 / ETABS), Şantiye Saha Koordinasyonu, Hakediş ve Metraj Çıkarma",
+"deneyim": [
+"Stajyer (Ağustos 2025 - Eylül 2025): Test senaryolarının koşturulması, tespit edilen anomalilerin hata takip sistemine girilmesi ve kullanıcı geri bildirimlerinin sınıfl…"
+],
+"egitim": [
+"Kadir Has Üniversitesi - Lisans (Mimarlık) 2022 - Devam Ediyor"
+]
+}
+},
+{
+"id": "J1073",
+"kind": "JOB",
+"title": "Cephe Sistemleri Tasarım Mimarı",
+"industry": "CONSTRUCTION",
+"city": "Bursa",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Schüco Türkiye bünyesinde, [şehir] ofisimizde ikonik yüksek kuleler ve çağdaş mimari projeler için alüminyum giydirme cephe sistemleri tasarlayacak 'Cephe Sistemleri Tasarım Mimarı' aramaktayız. Rol ve Şirket Hakkında: Schüco; yenilikçi bina kabuğu teknolojileri, panel cephe (unitized) sistemleri ve yüksek enerji verimliliğine sahip alüminyum profil mimarileriyle dünya cephe endüstrisinin standart koyucusudur. Görev ve Sorumluluklar: - Panel cephe (Unitized Curtain Wall), çubuk cephe (Stick), çift cidarlı cephe (Double Skin) ve parametrik 3D c…"
+}
+},
+{
+"id": "C11630",
+"kind": "CV",
+"title": "Cephe Tasarım ve Mühendisliği Uzmanı (Schüco / Reynaers / Isı Yalıtımı)",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Yüksek katlı binalarda giydirme cam cephe, çift kabuk (double-skin) cephe sistemleri, ısı geçirgenlik (U-değeri) hesapları (Therm), rüzgar yükü sehim analizleri ve SchüCal optimizasyonunda uzmanım.",
+"beceriler": "SchüCal / ReynaPro, Therm & LBNL Window (Isıl Analiz), Alüminyum Giydirme Cephe (Unitized), Statik Cam Kalınlığı & Rüzgar Yükü, Akustik İzolasyon, Cephe Su/Hava Sızdırmazlık Testleri",
+"deneyim": [
+"Cephe Tasarım ve Mühendisliği Uzmanı (Schüco / Reynaers / Isı Yalıtımı) ([TARİH]): 42 katlı ofis kulesinin panel cephe (unitized facade) sistem detaylarını Schüco profil…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Mimarlık) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11552",
+"kind": "CV",
+"title": "Çevre ve Altyapı Projeleri Dünya Bankası ve İller Bankası Şartnameleri Uzmanı",
+"industry": "CONSTRUCTION",
+"city": "Kayseri",
+"context": {
+"ozet": "Dünya Bankası, EBRD ve İller Bankası kredili atıksu, içme suyu ve katı atık projelerinde FIDIC pembe kitap şartnameleri, çevre ve sosyal etki (ESIA) taahhütleri ve hakediş kontrolünde uzmanım.",
+"beceriler": "Dünya Bankası Satınalma Kılavuzları (WB Regulations), İller Bankası Teknik Şartnameleri, FIDIC Pink Book (MDB Harmonised), Çevresel ve Sosyal Standartlar (ESIA / ESMP), Hakediş No Objection Onay Süreçleri, Uluslararası …",
+"deneyim": [
+"Çevre ve Altyapı Projeleri Dünya Bankası ve İller Bankası Şartnameleri Uzmanı ([TARİH]): EBRD ve Dünya Bankası finansmanlı 60 milyon EUR bütçeli atıksu arıtma tesisi pro…",
+"Metraj ve Maliyet Stajyeri ([TARİH]): Mimari ve statik uygulama paftalarından beton, demir ve kalıp metrajlarını çıkardım; taşeron teklif kıyaslama tablolarının hazırlan…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (İnşaat / Çevre Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "C20075",
+"kind": "CV",
+"title": "Çilingir / Kilit Ustası",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "Otomobil immobilizer anahtar kopyalamasından akıllı kilit montajına kadar geniş bir yelpazede hizmet verebilen el becerisi yüksek bir zanaatkarım. 7/24 hizmet anlayışına uyum sağlayarak mağduriyetleri en kısa sürede çözüme kavuşturmayı hedeflerim.",
+"beceriler": "Barel Değişimi, Kapı Feronajı, Master Kilit Sistemleri",
+"deneyim": [
+"Çilingir / Kilit Ustası ([TARİH]): Çelik kapı kilit barellerinin değişimi, monoblok kilit gövdesi montajı ve master kilit bareli şifreleme işlemlerini mekanik el aletler…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Yapı Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C10786",
+"kind": "CV",
+"title": "Civil Engineer",
+"industry": "CONSTRUCTION",
+"city": "Adana",
+"context": {
+"ozet": "Dedicated Civil Engineer with 1 years of demonstrated experience in Engineering & Technical Services. Skilled in Production Planning & MRP, PLC & Automation Systems and Technical Drawing & CAD (SolidWorks, AutoCAD) with a focus on project accuracy, process efficiency, and continuous improvement. A reliable team contributor committed to professiona…",
+"beceriler": "Production Planning & MRP, PLC & Automation Systems, Technical Drawing & CAD (SolidWorks, AutoCAD), Lean Manufacturing & Kaizen, Finite Element Analysis (FEA / ANSYS), Cost Reduction & Efficiency",
+"deneyim": [
+"Civil Engineer (2023 - Present): Supervised on-site structural and civil execution, reviewing technical shop drawings, subcontractor progress billings, and quality compl…",
+"Intern (January 2023 - February 2023): Conducted preliminary market benchmark studies and competitive intelligence gathering to support strategic planning initiatives."
+],
+"egitim": [
+"Cukurova University - Bachelor's Degree (Civil Engineering) 2020 - 2024"
+]
+}
+},
+{
+"id": "J1381",
+"kind": "JOB",
+"title": "Cleanroom HVAC Architecture & Validation Engineer",
+"industry": "CONSTRUCTION",
+"city": "İzmir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Join Sisecam Flat Glass's dynamic workforce as a Cleanroom HVAC Architecture & Validation Engineer working under a onsite collaborative framework. Key Responsibilities & Qualifications: - Execute end-to-end deliverables leveraging ISO 9001 / IATF 16949 Standards. - Collaborate with multi-disciplinary stakeholders utilizing Cost Reduction & Efficiency. - Optimize workflows, data integrity, and compliance across Lean Manufacturing & Kaizen. - Drive continuous technical excellence and proactive problem resolution."
+}
+},
+{
+"id": "C11581",
+"kind": "CV",
+"title": "Çok Katlı Otopark ve Trafik Dolaşım Mimarı (Rampalar / Geometri)",
+"industry": "CONSTRUCTION",
+"city": "Konya",
+"context": {
+"ozet": "Alışveriş merkezleri, havalimanları ve karma projelerin yer altı ve katlı otoparklarında rampa eğimleri, araç dönüş yarıçapları, plaka tanıma ve yönlendirme tabelası uzmanıyım.",
+"beceriler": "Otopark Geometrisi & Rampalar, AutoTURN Araç Süpürme Yolu Analizi, Dönüş Yarıçapı & Net Yükseklik, Otopark Dolu/Boş Yönlendirme, Duman Tahliye ve Jet Fan Koordinasyonu, Epoksi Zemin Çizgi Standartları",
+"deneyim": [
+"Çok Katlı Otopark ve Trafik Dolaşım Mimarı (Rampalar / Geometri) ([TARİH]): 3500 araçlık 4 katlı yer altı AVM otoparkının araç akış sirkülasyonunu AutoTURN ile simüle ed…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Mimarlık) 2013 - 2017"
+]
+}
+},
+{
+"id": "C10990",
+"kind": "CV",
+"title": "Construction Claims & Dispute Resolution Consultant",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Dedicated Construction Claims & Dispute Resolution Consultant with 4 years of demonstrated experience in Architecture & Construction Management. Skilled in Structural Analysis (SAP2000 / ETABS), Site Safety & Quality Control and Project Scheduling (Primavera P6 / MS Project) with a focus on project accuracy, process efficiency, and continuous impr…",
+"beceriler": "Structural Analysis (SAP2000 / ETABS), Site Safety & Quality Control, Project Scheduling (Primavera P6 / MS Project), Construction Site Management, AutoCAD & Revit Architecture",
+"deneyim": [
+"Construction Claims & Dispute Resolution Consultant (2023 - Present): Coordinated BIM clash detection procedures among MEP, structural, and architectural models prior to…",
+"Intern (July 2021 - August 2021): Conducted preliminary market benchmark studies and competitive intelligence gathering to support strategic planning initiatives."
+],
+"egitim": [
+"Ondokuz Mayis University - Master's Degree (Architecture & Strategy) 2024 - Present",
+"Ondokuz Mayis University - Bachelor's Degree (Architecture) 2018 - 2022"
+]
+}
+},
+{
+"id": "C10514",
+"kind": "CV",
+"title": "Dalgakıran ve Deniz Tabanı Tarama Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Dalgakıran ve Deniz Tabanı Tarama Mühendisi olarak 3 yıllık profesyonel deneyime sahibim. Statik Hesaplama (SAP2000 / ETABS), Hakediş ve Metraj Çıkarma ve BIM Modelleme alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilin…",
+"beceriler": "Statik Hesaplama (SAP2000 / ETABS), Hakediş ve Metraj Çıkarma, BIM Modelleme, İhale Dosyası ve Şartname Hazırlama, Şantiye Saha Koordinasyonu, İş Programı (Primavera P6 / MS Project)",
+"deneyim": [
+"Dalgakıran ve Deniz Tabanı Tarama Mühendisi (2023 - Günümüz): Şantiye ilerleme programlarını takip ederek hakediş metrajlarını, taşeron sözleşmelerini ve malzeme sevkiya…",
+"Dalgakıran ve Deniz Tabanı Tarama Mühendisi (2020 - 2023): BIM modelleri üzerinden çakışma analizlerini yöneterek saha imalatı öncesinde tasarım revizyonlarını başarıyla…",
+"Stajyer (Haziran 2022 - Temmuz 2022): Sektörel pazar araştırmaları yaparak rakip analiz tablolarının oluşturulması ve haftalık ilerleme sunumlarının hazırlanmasına yardı…"
+],
+"egitim": [
+"Sabancı Üniversitesi - Lisans (İnşaat Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "J0509",
+"kind": "JOB",
+"title": "Dalgakıran ve Deniz Tabanı Tarama Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"position_level": "MID_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Kolin İnşaat bünyesinde, [şehir] liman projemizde açık deniz mendirek inşaatı ve deniz dibi dip tarama operasyonlarımızı yönetecek 'Dalgakıran ve Deniz Tabanı Tarama Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Kolin İnşaat; Filyos Limanı ve Çandarlı Limanı gibi Türkiye'nin en büyük deniz yapıları ve endüstriyel liman yatırımlarında milyonlarca metreküplük deniz tarama ve koruma dalgakıranı projelerini gerçekleştiren lider yüklenicidir. Görev ve Sorumluluklar: - Kesici emici tarak gemileri (CSD) ve kovalı tarak filosu ile deniz tabanı taram…"
+}
+},
+{
+"id": "C20891",
+"kind": "CV",
+"title": "Data & Yapısal Kablolama Elektrikçisi",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "Banka şubeleri ve ofis katlarında Cat6 / Cat6A data kablosu çekimi, patch panel sonlandırma, keystone jack çakma ve Fluke test cihazı ile kanal sertifikasyonu yapmaktayım. Kablo bükülme yarıçaplarına ve rack kabin içi kablo düzenine (cable management) özen gösteririm.",
+"beceriler": "Cat6 / Cat7 Yapısal Kablolama, Patch Panel ve Keystone Jack Çakımı, Fluke Test Cihazı ile Sertifikasyon, Rack Kabin Düzenleme ve Etiketleme, Fiber Optik Fusion Sonlandırma",
+"deneyim": [
+"Data & Yapısal Kablolama Elektrikçisi ([TARİH]): Genel müdürlük binasında 1200 data ucu Cat6A kablolarla çekilip patch panellere sonlandırıldı ve Fluke testinden %100 on…"
+],
+"egitim": [
+"Eskişehir Atatürk Mesleki ve Teknik Anadolu Lisesi - Lise (Ağ İşletmenliği) [TARİH]"
+]
+}
+},
+{
+"id": "C20879",
+"kind": "CV",
+"title": "Dekoratif Aydınlatma & Elektrik Tesisatçısı",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Otel, restoran ve mağaza konsept projelerinde mimari dekoratif aydınlatma, manyetik ray spot, LED bar ve gizli tavan ışık bandı montajlarında uzmanım. Trafo yük hesabı, gerilim düşümü önleme ve kablo gizleme işçiliğinde yüksek el becerisine sahibim.",
+"beceriler": "Manyetik Ray Spot ve Profil Aydınlatma, Gizli Işık Bandı ve LED Sürücüleri, Gerilim Düşümü ve Trafo Güç Hesabı, Lazer Terazi ile Armatür Hizalama, İnce İşçilik",
+"deneyim": [
+"Dekoratif Aydınlatma & Elektrik Tesisatçısı ([TARİH]): Lüks restoran projesinde 300 metre lineer LED ve manyetik ray aydınlatma üniteleri sürücüleri merkezi panoya topla…"
+],
+"egitim": [
+"İzmir Konak Mesleki ve Teknik Anadolu Lisesi - Lise (Elektrik-Elektronik) [TARİH]"
+]
+}
+},
+{
+"id": "C20892",
+"kind": "CV",
+"title": "Dekoratif Mineral Sıva & Dış Cephe Kaplamacısı",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Mantolama yapılmış dış cephelerde son kat dekoratif tane dokulu mineral sıva, silikonlu elastik dış cephe boyası ve dekoratif fuga çıtası uygulamalarında uzmanım. Çelik mala ile eşit kalınlıkta sıva çekimi, plastik mala ile dairesel desen verme ve iskele geçiş izi bırakmadan cephe tamamlama ustalığına sahibim.",
+"beceriler": "Dekoratif Mineral Sıva (Tane Dokulu), Plastik Mala ile Desen ve Tirfil Uygulaması, Silikonlu Dış Cephe Koruyucu Boya, Dış Cephe Fuga Çıtası ve Söve Montajı, Ek Yeri ve Soğuk Derz İzi Bırakmama, Güneş ve Rüzgar Kuruma Ko…",
+"deneyim": [
+"Dekoratif Mineral Sıva & Dış Cephe Kaplamacısı ([TARİH]): Otel dış cephesinde 12.000 m² yüzeye 2 mm tane boyutlu dekoratif mineral sıva iskele izi olmadan çekildi ve üze…"
+],
+"egitim": [
+"Samsun Tekkeköy Mesleki Eğitim Merkezi - Ustalık Belgesi (Yapı Yüzey Kaplama ve Sıva) [TARİH]"
+]
+}
+},
+{
+"id": "C20049",
+"kind": "CV",
+"title": "Demirci / İnşaat Demircisi",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "Binaların iskelet sistemini oluşturan çelik ve demir donatıların montajında hız ve hatasızlığı ön planda tutan bir demirci olarak çalışıyorum. İnşaat sahasında diğer ekiplerle uyumlu ilerleyerek beton dökümünden önceki son hazırlıkları kusursuz tamamlarım.",
+"beceriler": "Donatı Bağlama, Etriye ve Çiroz Hazırlama, Demir Metrajı, Paspayı Uygulaması",
+"deneyim": [],
+"egitim": [
+"[OKUL] - Lise (İnşaat Teknolojisi Alanı) [TARİH]"
+]
+}
+},
+{
+"id": "C20050",
+"kind": "CV",
+"title": "Demirci / İnşaat Demircisi",
+"industry": "CONSTRUCTION",
+"city": "İstanbul",
+"context": {
+"ozet": "Betonarme yapıların mukavemetini sağlayan inşaat demirlerinin kesim, büküm ve bağlama işlemlerini projeye uygun şekilde gerçekleştiren bir demir ustasıyım. Kolon, kiriş ve temellerde demir donatılarını milimetrik hesaplarla döşeyerek bina sağlamlığına katkıda bulunurum.",
+"beceriler": "Paspayı Uygulaması, Demir Metrajı, Demir Kesme ve Bükme, Donatı Bağlama, Etriye ve Çiroz Hazırlama",
+"deneyim": [
+"Demirci / İnşaat Demircisi ([TARİH]): Betonarme projelerine uygun olarak nervürlü inşaat demirlerini kesme ve bükme tezgahlarında etriye, pilye ve kolon boy demiri ölçül…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "C20051",
+"kind": "CV",
+"title": "Demirci / İnşaat Demircisi",
+"industry": "CONSTRUCTION",
+"city": "Adana",
+"context": {
+"ozet": "Statik projelere hakim, sahada paspayı ve etriye aralıklarını titizlikle ayarlayan deneyimli bir inşaat demircisiyim. Ağır çalışma şartlarına olan dayanıklılığım ve ekibimi yönlendirme becerimle demir bağlama süreçlerini hızlandırırım.",
+"beceriler": "Paspayı Uygulaması, Etriye ve Çiroz Hazırlama, Demir Metrajı",
+"deneyim": [
+"Demirci / İnşaat Demircisi ([TARİH]): Kat tabliyesi döşeme donatıları, perde filizleri ve kiriş demir kafeslerinin montajını statik donatı çizimlerine göre eksiksiz gerç…",
+"Stajyer ([TARİH]): Demir stok sahasında nervürlü çelik çubukların çaplarına göre ayrılması ve mekanik büküm tezgahının yağlama bakımında ustalara destek verdim. Kerpeten…"
+],
+"egitim": [
+"[OKUL] - Lise (İnşaat Teknolojisi Alanı) [TARİH]"
+]
+}
+},
+{
+"id": "C11585",
+"kind": "CV",
+"title": "Demiryolu Altyapı ve Üstyapı Geometri Mühendisi (Balastlı / Balastsız Yol)",
+"industry": "CONSTRUCTION",
+"city": "Trabzon",
+"context": {
+"ozet": "Yüksek hızlı tren (YHT) ve metro hatlarında balastsız beton plakalı (Slab Track) yol, dever, kurb yarıçapı, UIC 60 ray profili, genleşme derzleri ve makas yerleşiminde uzmanım.",
+"beceriler": "Demiryolu Hat Geometrisi, Balastsız Yol Sistemleri (Slab Track / Rheda), YHT Hız Standartları (250+ km/s), Dever & İvme Eksikliği Hesapları, Makas & Turnout Geometrisi, Ray Gerilmesi & CWR Kaynağı",
+"deneyim": [
+"Demiryolu Altyapı ve Üstyapı Geometri Mühendisi (Balastlı / Balastsız Yol) ([TARİH]): 200 km yüksek hızlı demiryolu kesiminde Rheda 2000 balastsız yol sisteminin yatay-d…"
+],
+"egitim": [
+"Eskişehir Osmangazi Üniversitesi - Lisans (İnşaat Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11538",
+"kind": "CV",
+"title": "Demiryolu Hemzemin Geçit Güvenliği ve Otomasyon Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "Konvansiyonel demiryolu hatlarında otomatik bariyerli hemzemin geçitler, yaklaşım ray devreleri, flaşör/çan sistemleri ve karayolu trafik sinyalizasyon entegrasyonunda uzmanım.",
+"beceriler": "Demiryolu Hemzemin Geçit Standartları (TCDD / UIC), Otomatik Bariyer & Dedektör Sistemleri, Ray Devresi Yaklaşım Mesafesi Hesapları, Karayolu Trafik Işıkları ile Entegrasyon, Güneş Enerjili Bağımsız Hemzemin Geçit, İzin…",
+"deneyim": [
+"Demiryolu Hemzemin Geçit Güvenliği ve Otomasyon Mühendisi ([TARİH]): Yoğun tarım bölgesinden geçen demiryolu kesimindeki 18 kontrolsüz hemzemin geçidi radar sensörlü ve …"
+],
+"egitim": [
+"Eskişehir Osmangazi Üniversitesi - Lisans (Elektrik / İnşaat Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11607",
+"kind": "CV",
+"title": "Deniz İskelesi ve Kazıklı Rıhtım Yapıları Statik Mühendisi (PIANC / OCIMF)",
+"industry": "CONSTRUCTION",
+"city": "Antalya",
+"context": {
+"ozet": "Konteyner ve sıvı yük limanlarında kazıklı iskeleler, dolfinler, yanaşma çamurlukları (fender), palamar baba çekme kuvvetleri ve PIANC kılavuzlarına göre tasarımında uzmanım.",
+"beceriler": "PIANC Kılavuzları, Çelik Boru Kazıklı İskeleler, Gemi Yanaşma Enerjisi & Usturmaça Seçimi, Babaya Bağlama (Mooring) Analizi, SAP2000 Deniz Yapıları Modellemesi, Katodik Korozyon Koruması",
+"deneyim": [
+"Deniz İskelesi ve Kazıklı Rıhtım Yapıları Statik Mühendisi (PIANC / OCIMF) ([TARİH]): 80.000 DWT tanker yanaşma iskelesi ve dolfin yapılarının eğik çelik boru kazıklı ta…",
+"Statik Proje Stajyeri ([TARİH]): Statik tasarım bürosunda betonarme kalıp ve donatı aplikasyon planlarının çizimine destek verdim; kolon ve kiriş donatı açılımlarını yön…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (İnşaat / Kıyı Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "C11638",
+"kind": "CV",
+"title": "Deprem Sonrası Hızlı Hasar Tespit ve Acil Müdahale Uzmanı İnşaat Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"context": {
+"ozet": "Büyük depremler sonrası binaların taşıyıcı sistem hasarlarının (ağır/orta/az/hasarsız) tespiti, acil çelik askılama-destekleme sistemleri ve riskli bina tahliye protokollerinde uzmanım.",
+"beceriler": "Deprem Hasar Sınıflandırması, Taşıyıcı Eleman Çatlak Analizi (Kesme vs Eğilme), Acil Askılama ve Şoring Sistemleri, Çevre Şehircilik Hasar Tespit Metodolojisi, Lazer Nivo ile Bina Yatıklığı Ölçümü, Saha Kriz Yönetimi",
+"deneyim": [
+"Deprem Sonrası Hızlı Hasar Tespit ve Acil Müdahale Uzmanı İnşaat Mühendisi ([TARİH]): Deprem bölgesinde 450 betonarme binanın taşıyıcı kolon ve perde hasarlarını yerinde…",
+"Statik Proje Stajyeri ([TARİH]): Statik tasarım bürosunda betonarme kalıp ve donatı aplikasyon planlarının çizimine destek verdim; kolon ve kiriş donatı açılımlarını yön…"
+],
+"egitim": [
+"Gazi Üniversitesi - Lisans (İnşaat Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11627",
+"kind": "CV",
+"title": "Derin Kazı ve İksa Sistemleri Geoteknik Mühendisi (Plaxis 2D/3D / Shoring)",
+"industry": "CONSTRUCTION",
+"city": "Adana",
+"context": {
+"ozet": "Yoğun kentsel alanlarda çok katlı bodrum derin kazıları için diyafram duvar, fore kazıklı iksa, zemin ankrajları, çelik boru payandalar ve Plaxis ile deplasman analizlerinde uzmanım.",
+"beceriler": "Plaxis 2D / Plaxis 3D, Derin Kazı İksa Tasarımı, Ön Germeli Zemin Ankrajları, Fore Kazık & Diyafram Duvar, Çevre Bina Oturma Riski Analizi, İnklinometre Deplasman İzleme",
+"deneyim": [
+"Derin Kazı ve İksa Sistemleri Geoteknik Mühendisi (Plaxis 2D/3D / Shoring) ([TARİH]): Tarihi binalara 4 metre mesafedeki 22 metre derinliğindeki metro istasyonu kazısını…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (İnşaat Mühendisliği (Geoteknik)) 2014 - 2018"
+]
+}
+},
+{
+"id": "J0532",
+"kind": "JOB",
+"title": "Derin Kazı ve İksa Sistemleri Mühendisi",
+"industry": "CONSTRUCTION",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "Remote",
+"context": {
+"aciklama": "Kasktaş bünyesinde, [şehir] şantiyelerimizde kentsel yoğun alanlardaki derin temel kazıları için iksa ve istinat sistemlerini projelendirecek 'Derin Kazı ve İksa Sistemleri Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Kasktaş; metropollerin zorlu zemin koşullarında 30-40 metreye varan derin kazıları diyafram duvar, kesişen kazık ve öngermeli ankraj sistemleriyle sıfır deformasyon hedefiyle güvenceye alan lider geoteknik kuruluşudur. Görev ve Sorumluluklar: - Diyafram duvar, kesişen fore kazık (secant piles), palplanş ve mini kazıklı iksa si…"
+}
+}
+]

@@ -1,0 +1,203 @@
+[
+{
+"specialty": "Anaokulu Yardımcı Ablası",
+"isco4": "5311",
+"isco_title": "Child care workers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Anaokulu Yardımcı Ablası"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bebek Bakıcısı",
+"isco4": "5311",
+"isco_title": "Child care workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yatılı Yeni Doğan Bebek Bakıcısı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Okul Servis Hostesi",
+"isco4": "5311",
+"isco_title": "Child care workers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Okul Servis Hostesi"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Engelli Bakım Personeli",
+"isco4": "5321",
+"isco_title": "Health care assistants",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Engelli Bakım ve Destek Personeli"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hasta Bakıcı",
+"isco4": "5321",
+"isco_title": "Health care assistants",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hasta Bakıcı / Bakım Elemanı",
+"Hasta ve Yaşlı Bakıcısı (Caregiver)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hasta ve Yaşlı Bakım Elemanı",
+"isco4": "5321",
+"isco_title": "Health care assistants",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Sertifikalı Hasta ve Yaşlı Bakım Elemanı",
+"Sertifikalı Sağlık ve Bakım Elemanı (CNA)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yaşlı Bakım Elemanı",
+"isco4": "5321",
+"isco_title": "Health care assistants",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Huzurevi ve Evde Yaşlı Bakım Elemanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Evde Hasta ve Yaşlı Bakıcı",
+"isco4": "5322",
+"isco_title": "Home-based personal care workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Evde Yaşlı ve Hasta Bakım Elemanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yaşlı Bakıcısı",
+"isco4": "5322",
+"isco_title": "Home-based personal care workers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yaşlı Bakıcısı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hasta Taşıma Elemanı",
+"isco4": "5329",
+"isco_title": "Personal care workers in health services not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hastane Sedye ve Hasta Taşıma Elemanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hastane Portörü",
+"isco4": "5329",
+"isco_title": "Personal care workers in health services not elsewhere classified",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hastane Portör ve Destek Elemanı",
+"Hastane Portörü / Sedye Görevlisi",
+"Hastane Sedye ve Hasta Taşıma Elemanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Merkezi Sterilizasyon Teknisyeni",
+"isco4": "5329",
+"isco_title": "Personal care workers in health services not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Merkezi Sterilizasyon Ünitesi (MSÜ) Teknisyeni"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Portör Görevlisi",
+"isco4": "5329",
+"isco_title": "Personal care workers in health services not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sağlık Destek ve Portör Görevlisi (Orderly)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sterilizasyon Görevlisi",
+"isco4": "5329",
+"isco_title": "Personal care workers in health services not elsewhere classified",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sterilizasyon Görevlisi",
+"Sterilizasyon ve Temiz Oda (Cleanroom) Sorumlusu"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+}
+]

@@ -1,0 +1,291 @@
+[
+{
+"specialty": "Akıllı Ev Otomasyon Elektrikçisi",
+"isco4": "7411",
+"isco_title": "Building and related electricians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Akıllı Ev & Otomasyon Elektrikçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bina Elektrik Tesisatçısı",
+"isco4": "7411",
+"isco_title": "Building and related electricians",
+"n_cv": 5,
+"n_job": 0,
+"ornek_unvanlar": [
+"Bina Elektrik Tesisatçısı",
+"Dekoratif Aydınlatma & Elektrik Tesisatçısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Busbar Montaj Elektrikçisi",
+"isco4": "7411",
+"isco_title": "Building and related electricians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sanayi Pano & Busbar Elektrikçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrikçi",
+"isco4": "7411",
+"isco_title": "Building and related electricians",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektrikçi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güneş Enerjisi Teknisyeni",
+"isco4": "7411",
+"isco_title": "Building and related electricians",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Güneş Enerjisi / Güneş Paneli Teknisyeni"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şantiye Elektrikçisi",
+"isco4": "7411",
+"isco_title": "Building and related electricians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şantiye Geçici Elektrik & Güç Dağıtımcısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Topraklama ve Paratoner Tesisatçısı",
+"isco4": "7411",
+"isco_title": "Building and related electricians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Topraklama & Paratoner Tesisatçısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Zayıf Akım Elektrikçisi",
+"isco4": "7411",
+"isco_title": "Building and related electricians",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Interkom & Geçiş Kontrol Elektrikçisi",
+"Zayıf Akım & Yangın Algılama Elektrikçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Asansör Teknisyeni",
+"isco4": "7412",
+"isco_title": "Electrical mechanics and fitters",
+"n_cv": 7,
+"n_job": 2,
+"ornek_unvanlar": [
+"Asansör Arıza Bakım",
+"Asansör Halat & Askı Sistemleri Teknisyeni",
+"Asansör Kat & Kabin Kapısı Montajcısı",
+"Asansör Mekanik Montaj Ustası",
+"Asansör Montaj ve Arıza Bakım Teknisyeni"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrik Pano Teknisyeni",
+"isco4": "7412",
+"isco_title": "Electrical mechanics and fitters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektrik Pano Kablaj & Test Teknisyeni"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Elektrik Teknisyeni",
+"isco4": "7412",
+"isco_title": "Electrical mechanics and fitters",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"ELEKTRİK TEKNİSYENİ",
+"Endüstriyel Elektrik Teknisyeni"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kompanzasyon Pano Elektrikçisi",
+"isco4": "7412",
+"isco_title": "Electrical mechanics and fitters",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sanayi Pano & Kompanzasyon Elektrikçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oto Elektrik Teknisyeni",
+"isco4": "7412",
+"isco_title": "Electrical mechanics and fitters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oto Elektrik ve Diyagnostik Teknisyeni"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pano Elektrikçisi",
+"isco4": "7412",
+"isco_title": "Electrical mechanics and fitters",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ana Dağıtım Panosu (ADP) Elektrikçisi",
+"Motor Kontrol (MCC) Panosu Elektrikçisi",
+"Otomatik Transfer (ATS) & Jeneratör Panosu Elektrikçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pano Montaj ve Tesisat Elektrikçisi",
+"isco4": "7412",
+"isco_title": "Electrical mechanics and fitters",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Pano Montaj ve Tesisat Elektrikçisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Termografik Pano Bakım Elektrikçisi",
+"isco4": "7412",
+"isco_title": "Electrical mechanics and fitters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sanayi Pano & Termografik Kontrol Elektrikçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uçak Aviyonik Teknikeri",
+"isco4": "7421",
+"isco_title": "Electronics mechanics and servicers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uçak Hat Bakım Elektrik / Aviyonik Teknikeri"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağ ve Kablolama Teknisyeni",
+"isco4": "7422",
+"isco_title": "Information and communications technology installers and servicers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ağ ve Kablolama Teknisyeni"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilgisayar Teknisyeni",
+"isco4": "7422",
+"isco_title": "Information and communications technology installers and servicers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Bilgisayar Teknik Servis Elemanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapısal Kablolama Elektrikçisi",
+"isco4": "7422",
+"isco_title": "Information and communications technology installers and servicers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Data & Yapısal Kablolama Elektrikçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+}
+]

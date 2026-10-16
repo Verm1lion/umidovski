@@ -1,0 +1,986 @@
+[
+{
+"specialty": "Akustik Mimar",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Akustik ve Konser Salonu Mimarı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aydınlatma Tasarımcısı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İç Mekan Aydınlatma Tasarımcısı ve Danışmanı (Dialux evo / IALD)"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cephe Tasarım Mimarı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Prefabrik Cephe ve GRC Panel Tasarım Mimarı (Glass Reinforced Concrete)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cephe Tasarım Uzmanı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Cephe Proje ve Detay Çizim Mühendisi (Junior)",
+"Cephe Sistemleri Tasarım Mimarı",
+"Cephe Tasarım ve Mühendisliği Uzmanı (Schüco / Reynaers / Isı Yalıtımı)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hesaplamalı BIM Uzmanı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Parametrik Tasarım ve Hesaplamalı BIM Uzmanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İç Mimar",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 6,
+"n_job": 3,
+"ornek_unvanlar": [
+"Lüks Konut ve Villa İç Mimari Proje Yöneticisi (3ds Max / Corona)",
+"Ofis ve Çalışma Alanları İç Mimarı (Workplace Strategy / Agile Ofis)",
+"Restoran, Bar ve Mutfak Alanları Konsept Mimarı (F&B / Hijyen Akışları)",
+"Çocuk Odaklı Mekan ve Anaokulu Tasarım Mimarı (Reggio Emilia)",
+"İç Mimar"
+],
+"sektorler": [
+"CONSTRUCTION",
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mimar",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 23,
+"n_job": 5,
+"ornek_unvanlar": [
+"Ahşap Karkas ve CLT Masif Ahşap Yapılar Mimarı (Timber Construction)",
+"Airport Terminal Complex Project Architect",
+"Architect",
+"Endüstriyel Tesisler ve Lojistik Depo Mimarı (Revit / Çelik Yapılar)",
+"Engelsiz Yapı ve Evrensel Tasarım Uzmanı Mimar (TS 9111 / ADA)"
+],
+"sektorler": [
+"CONSTRUCTION",
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mimari Aydınlatma Tasarımcısı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mimari Aydınlatma Tasarımcısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mimari Maket ve Prototipleme Uzmanı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Architectural Scale Model & Rapid Prototyping Lead"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Proje Mimarı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Konsept ve Uygulama Proje Başmimarı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Restorasyon Mimarı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Architectural Restoration Specialist",
+"Restorasyon ve Koruma Mimarı",
+"Tarihi Eser Restorasyon ve Rölöve Mimarı (Lazer Tarama / Point Cloud)"
+],
+"sektorler": [
+"CONSTRUCTION",
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Saha Mimarı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli İnce İşler ve Mimari Proje Saha Yöneticisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şantiye Mimarı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Saha Mimarı (İnce İşler - Başlangıç)",
+"İnce İşler Şantiye Mimarı (Konut & Rezidans)",
+"Şantiye Mimarı ve İnce Yapı Koordinatörü (Alçıpan / Seramik / Zemin)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sürdürülebilir Mimarlık ve Yeşil Bina Uzmanı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sürdürülebilir Mimarlık ve Yeşil Bina Uzmanı (LEED AP BD+C / BREEAM)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tarihi Eser Koruma ve Rölöve Uzmanı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tarihi Eser Koruma ve Röleve Uzmanı",
+"Tarihi Eser Koruma ve Rölöve Uzmanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Termal Konfor ve Havalandırma Simülasyon Mimarı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Termal Konfor ve Doğal Havalandırma Simülasyon Mimarı (IES VE)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uygulama Projesi Mimarı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Rezidans ve Toplu Konut Uygulama Projesi Şefi (AutoCAD / Revit)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Merkezi Mimari Proje Uzmanı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Veri Merkezi (Data Center) Mimari Proje Uzmanı (Uptime Institute Tier III/IV)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yangın Güvenliği ve Tahliye Simülasyonu Mimarı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fire Safety & Evacuation Simulation Architect"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yangın Güvenliği ve Tahliye Tasarım Mimarı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yangın Güvenlik ve Tahliye Simülasyon Mimarı",
+"Yangın Güvenliği ve Kaçış Yolu Tasarım Mimarı (NFPA 101 / BTYK)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yat İç Mimarı",
+"isco4": "2161",
+"isco_title": "Building architects",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yat ve Tekne İç Mimarı (Marine Interior Design / Rhino)"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Peyzaj Mimarı",
+"isco4": "2162",
+"isco_title": "Landscape architects",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"Botanical Garden & Large Scale Landscape Curator",
+"Golf Sahası Tasarım ve Altyapı Mimarı",
+"Landscape Architect",
+"Peyzaj Mimarı",
+"Peyzaj Mimarı ve Kentsel Tasarım Uzmanı (Land F/X / Civil 3D)"
+],
+"sektorler": [
+"AGRICULTURE",
+"CONSTRUCTION",
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ayakkabı ve Çanta Tasarımcısı",
+"isco4": "2163",
+"isco_title": "Product and garment designers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ayakkabı ve Çanta Tasarımcısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Ürün Tasarımcısı",
+"isco4": "2163",
+"isco_title": "Product and garment designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel Ürün Tasarımcısı",
+"Industrial Designer"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobilya Tasarımcısı",
+"isco4": "2163",
+"isco_title": "Product and garment designers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mobilya Tasarımcısı ve İç Mekan Çizimcisi"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Moda Tasarımcısı",
+"isco4": "2163",
+"isco_title": "Product and garment designers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Fashion Apparel Designer (Haute Couture)",
+"Moda Tasarımcısı",
+"Moda Tasarımcısı (Hazır Giyim)",
+"Moda ve Tekstil Tasarımcısı (Kadın Koleksiyon)"
+],
+"sektorler": [
+"APPAREL_TEXTILE",
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv İç Mekan Tasarımcısı",
+"isco4": "2163",
+"isco_title": "Product and garment designers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Automotive Interior & CMF Designer",
+"Otomotiv Araç İçi (Trim) Tasarımcısı",
+"Otomotiv İç Mekan ve Trim Tasarımcısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Takı Tasarımcısı",
+"isco4": "2163",
+"isco_title": "Product and garment designers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Mücevher ve Takı Tasarımcısı (3D Matrix)",
+"Takı Tasarımcısı",
+"Takı ve Mücevher Tasarımcısı (Matrix / Rhino)"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tekstil Desen Tasarımcısı",
+"isco4": "2163",
+"isco_title": "Product and garment designers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kumaş ve Desen Tasarımcısı (Tekstil)"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tekstil ve Moda Tasarımcısı",
+"isco4": "2163",
+"isco_title": "Product and garment designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tekstil Tasarım ve Trend Araştırma Stajyeri",
+"Tekstil ve Moda Tasarımı Stajyeri"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yat Tasarımcısı",
+"isco4": "2163",
+"isco_title": "Product and garment designers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yat ve Lüks Tekne Tasarımcısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Akıllı Şehir Sistemleri Stratejisti",
+"isco4": "2164",
+"isco_title": "Town and traffic planners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Akıllı Şehir Sistemleri Stratejisti"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kentsel Dönüşüm Uzmanı",
+"isco4": "2164",
+"isco_title": "Town and traffic planners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kentsel Dönüşüm ve Gayrimenkul Geliştirme Danışmanı",
+"Kentsel Dönüşüm ve İmar Mevzuatı Uzmanı Mimar"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kentsel Dönüşüm ve Gayrimenkul Fizibilite Danışmanı",
+"isco4": "2164",
+"isco_title": "Town and traffic planners",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Urban Regeneration & Real Estate Feasibility Consultant"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kentsel Tasarımcı",
+"isco4": "2164",
+"isco_title": "Town and traffic planners",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Akıllı Şehirler ve CBS Tabanlı Kentsel Tasarımcı (ArcGIS / CityEngine)"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şehir Plancısı",
+"isco4": "2164",
+"isco_title": "Town and traffic planners",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plancı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şehir ve Bölge Plancısı",
+"isco4": "2164",
+"isco_title": "Town and traffic planners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Şehir ve Bölge Plancısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ulaşım ve Trafik Planlama Mühendisi",
+"isco4": "2164",
+"isco_title": "Town and traffic planners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Transportation & Traffic Flow Planning Engineer",
+"Ulaşım ve Trafik Planlama Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Coğrafi Bilgi Sistemleri Uzmanı",
+"isco4": "2165",
+"isco_title": "Cartographers and surveyors",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Geographic Information Systems (GIS) Spatial Analyst"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Harita Mühendisi",
+"isco4": "2165",
+"isco_title": "Cartographers and surveyors",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Geomatics & Surveying Engineer",
+"Harita ve Geomatik Mühendisi",
+"Kıdemli Şantiye Harita ve Jeodezi Başmühendisi",
+"Şantiye Harita ve Ölçme Mühendisi (Total Station / GPS / GNSS)",
+"Şantiye Harita ve Ölçme Mühendisi / Topograf"
+],
+"sektorler": [
+"CONSTRUCTION",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "3D Çevre Sanatçısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"3D Environment & World Concept Artist",
+"3D Çevre ve Mekan Konsept Sanatçısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "3D Karakter Modelleme Sanatçısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"3D Karakter Modelleme ve Render Sanatçısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "3D Karakter Rigging ve Animasyon Sanatçısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"3D Character Rigging & Animation Artist",
+"3D Karakter Rigging ve Animasyon Sanatçısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "3D Mimari Görselleştirme Uzmanı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"3D Architectural Visualization Artist",
+"3D Mimari Görselleştirme Uzmanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "3D Modelleme ve Görselleştirme Uzmanı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"3D Görselleştirme ve Modelleme Uzmanı",
+"3D Modelleme Uzmanı",
+"3D Modelleme ve Animasyon Uzmanı",
+"Görselleştirme ve Mimari Animasyon Sanatçısı (Unreal Engine 5 / Lumion)"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ambalaj Tasarımcısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Ambalaj ve Etiket Tasarımcısı",
+"Ambalaj ve Kutu Tasarımcısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Görsel Efekt Sanatçısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Görsel Efekt (VFX) Süpervizörü",
+"Visual Effects (VFX) Supervisor"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Grafik Tasarımcı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Grafik Tasarımcı",
+"Grafik Tasarımcı ve Görsel İletişim Uzmanı",
+"Graphic Designer",
+"Görsel İletişim ve Grafik Tasarım Asistanı",
+"Kurumsal Kimlik ve Logo Tasarımcısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN",
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hareketli Grafik Tasarımcısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Motion Graphics (Hareketli Grafik) Tasarımcısı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Konsept Sanatçısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Karakter ve Konsept Tasarımcısı (2D/3D)",
+"Konsept Çizeri ve Dijital Boyama Sanatçısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kreatif Direktör",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Senior Creative Lead / Kıdemli Kreatif Ekip Lideri"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": [
+"12"
+]
+},
+{
+"specialty": "Kullanıcı Arayüzü Hareket Tasarımcısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kullanıcı Arayüzü (UI) Hareket Tasarımcısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kullanıcı Deneyimi Araştırmacısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kullanıcı Araştırmacısı (UX Researcher)",
+"UX Researcher & Cognitive Ergonomist"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Motion Graphics Tasarımcısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Motion Graphics Designer",
+"Motion Graphics Tasarımcısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oyun Karakter Konsept Tasarımcısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oyun Karakter Konsept Tasarımcısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oyun Tasarımcısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Oyun Ekonomisi ve Dengeleme Tasarımcısı",
+"Oyun Seviye Tasarımcısı (Level Designer)",
+"Oyun Tasarımcısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Reklam Sanat Yönetmeni",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Art Director",
+"Art Director (Sanat Yönetmeni)"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sanat Yönetmeni",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Marka Tasarımı ve Görsel Kimlik Sanat Yönetmeni (Brand Identity Art Director)",
+"Sanat Yönetmeni",
+"Sanat Yönetmeni (Art Director)"
+],
+"sektorler": [
+"CREATIVE_DESIGN",
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Servis Tasarımcısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Müşteri Deneyimi ve Servis Tasarımı Lideri"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sosyal Medya İçerik Üreticisi",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Sosyal Medya ve Dijital İçerik Üreticisi",
+"Sosyal Medya ve Video Prodüksiyon Stajyeri",
+"Sosyal Medya ve Video İçerik Üreticisi Stajyeri",
+"Sosyal medya içerik üretebilen, kadın eleman aranıyor."
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tasarım Sistemleri Yöneticisi",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tasarım Sistemleri (Design Systems) Yöneticisi"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "UI/UX Tasarımcı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"UI/UX Tasarımcı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "UI/UX Tasarımcısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 4,
+"n_job": 3,
+"ornek_unvanlar": [
+"UI",
+"UI/UX Arayüz ve Deneyim Tasarımcısı",
+"UI/UX Designer",
+"UI/UX Tasarım Stajyeri",
+"UI/UX Tasarımcısı"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Web Tasarımcısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Web Tasarımcısı ve Arayüz Kodlayıcı (HTML/CSS)"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yazı Karakteri Tasarımcısı",
+"isco4": "2166",
+"isco_title": "Graphic and multimedia designers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tipografi ve Yazı Karakteri (Font) Tasarımcısı",
+"Typeface & Font Designer (Typographer)"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+}
+]

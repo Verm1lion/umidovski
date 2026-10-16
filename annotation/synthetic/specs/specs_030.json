@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30751",
+  "target_occ_key": "7119:prefabrik_montaj_elemani",
+  "target_specialty": "Prefabrik Montaj Elemanı",
+  "target_isco4": "7119",
+  "target_isco_title": "Building frame and related trades workers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Prefabrik Beton Montaj Elemanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30752",
+  "target_occ_key": "7122:mekanik_cephe_kaplama_ustasi",
+  "target_specialty": "Mekanik Cephe Kaplama Ustası",
+  "target_isco4": "7122",
+  "target_isco_title": "Floor layers and tile setters",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Mekanik Dış Cephe Kaplama Ustası (Seramik & Kompakt)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30753",
+  "target_occ_key": "7122:parke_ustasi",
+  "target_specialty": "Parke Ustası",
+  "target_isco4": "7122",
+  "target_isco_title": "Floor layers and tile setters",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Laminat ve Ahşap Parke Ustası"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30754",
+  "target_occ_key": "7124:boru_montaj_ve_izolasyon_ustasi",
+  "target_specialty": "Boru Montaj ve İzolasyon Ustası",
+  "target_isco4": "7124",
+  "target_isco_title": "Insulation workers",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Boru Montaj ve İzolasyon Ustası"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30755",
+  "target_occ_key": "7125:giydirme_cephe_ustasi",
+  "target_specialty": "Giydirme Cephe Ustası",
+  "target_isco4": "7125",
+  "target_isco_title": "Glaziers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Mekanik Cephe ve Cam Giydirme Başustası"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30756",
+  "target_occ_key": "7132:oto_boya_ustasi",
+  "target_specialty": "Oto Boya Ustası",
+  "target_isco4": "7132",
+  "target_isco_title": "Spray painters and varnishers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Oto Boya ve Fırın Ustası"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30757",
+  "target_occ_key": "7211:dokum_kalipcisi",
+  "target_specialty": "Döküm Kalıpçısı",
+  "target_isco4": "7211",
+  "target_isco_title": "Metal moulders and coremakers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Dökümhane Maça ve Kalıplama Elemanı (Yetiştirilmek Üzere)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30758",
+  "target_occ_key": "7212:gemi_sokum_elemani",
+  "target_specialty": "Gemi Söküm Elemanı",
+  "target_isco4": "7212",
+  "target_isco_title": "Welders and flamecutters",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Gemi Söküm Elemanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30759",
+  "target_occ_key": "7212:kaynak_fikstur_ayarcisi",
+  "target_specialty": "Kaynak Fikstür Ayarcısı",
+  "target_isco4": "7212",
+  "target_isco_title": "Welders and flamecutters",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Ağır İş Makineleri Kaynak Fikstür ve Ayar Ustası"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30760",
+  "target_occ_key": "7212:oksi_gaz_saloma_kesimcisi",
+  "target_specialty": "Oksi-Gaz (Şaloma) Kesimcisi",
+  "target_isco4": "7212",
+  "target_isco_title": "Welders and flamecutters",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Oksi-Gaz ve Şaloma Kesim Elemanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30761",
+  "target_occ_key": "7212:orbital_kaynak_ayarcisi",
+  "target_specialty": "Orbital Kaynak Ayarcısı",
+  "target_isco4": "7212",
+  "target_isco_title": "Welders and flamecutters",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kazan ve Eşanjör Borulama Kaynak Başayarcısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30762",
+  "target_occ_key": "7212:robotik_kaynak_operatoru",
+  "target_specialty": "Robotik Kaynak Operatörü",
+  "target_isco4": "7212",
+  "target_isco_title": "Welders and flamecutters",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Robotik Kaynak Programlama ve Fikstür Ayar Ustası"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30763",
+  "target_occ_key": "7212:tig_ve_gazalti_mig_mag_kaynakcisi",
+  "target_specialty": "TIG ve Gazaltı (MIG/MAG) Kaynakçısı",
+  "target_isco4": "7212",
+  "target_isco_title": "Welders and flamecutters",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Tanker ve Basınçlı Kap Kaynakçısı (TIG & MAG)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30764",
+  "target_occ_key": "7212:zirh_celigi_kaynakcisi",
+  "target_specialty": "Zırh Çeliği Kaynakçısı",
+  "target_isco4": "7212",
+  "target_isco_title": "Welders and flamecutters",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Savunma Sanayi Zırh Çeliği Kaynak Başustası"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30765",
+  "target_occ_key": "7213:oto_kaporta_ustasi",
+  "target_specialty": "Oto Kaporta Ustası",
+  "target_isco4": "7213",
+  "target_isco_title": "Sheet-metal workers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Oto Kaporta ve Şase Düzeltme Ustası"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30766",
+  "target_occ_key": "7214:ferforje_ve_demir_dograma_ustasi",
+  "target_specialty": "Ferforje ve Demir Doğrama Ustası",
+  "target_isco4": "7214",
+  "target_isco_title": "Structural-metal preparers and erectors",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Ferforje ve Demir Doğrama Ustası"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30767",
+  "target_occ_key": "7215:vinc_isaretcisi_ve_sapanci",
+  "target_specialty": "Vinç İşaretçisi ve Sapancı",
+  "target_isco4": "7215",
+  "target_isco_title": "Riggers and cable splicers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Şantiye Vinç İşaretçisi ve Sapancısı (Rigger)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30768",
+  "target_occ_key": "7221:nalbant",
+  "target_specialty": "Nalbant",
+  "target_isco4": "7221",
+  "target_isco_title": "Blacksmiths, hammersmiths and forging press workers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Usta Nalbant"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30769",
+  "target_occ_key": "7222:kalip_imalat_ustasi",
+  "target_specialty": "Kalıp İmalat Ustası",
+  "target_isco4": "7222",
+  "target_isco_title": "Toolmakers and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kalıp İmalat ve Montaj Ustası"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30770",
+  "target_occ_key": "7222:sac_kalip_bakim_ve_alistirma_tesviyecisi",
+  "target_specialty": "Sac Kalıp Bakım ve Alıştırma Tesviyecisi",
+  "target_isco4": "7222",
+  "target_isco_title": "Toolmakers and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Sac Şekillendirme Kalıp Bakım ve Alıştırma Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30771",
+  "target_occ_key": "7222:takimhane_ustasi",
+  "target_specialty": "Takımhane Ustası",
+  "target_isco4": "7222",
+  "target_isco_title": "Toolmakers and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "CNC Takımhane ve Fikstür İmalat Ustası"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30772",
+  "target_occ_key": "7222:tesviyeci",
+  "target_specialty": "Tesviyeci",
+  "target_isco4": "7222",
+  "target_isco_title": "Toolmakers and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Mersin",
+  "example_job_titles": [
+   "Tesviyeci / Metal Tesviye Elemanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30773",
+  "target_occ_key": "7223:agir_sac_pres_bukum_operatoru",
+  "target_specialty": "Ağır Sac Pres Büküm Operatörü",
+  "target_isco4": "7223",
+  "target_isco_title": "Metal working machine tool setters and operators",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Ağır Sac Pres ve Büküm Kalıpçısı (Boru & Basınçlı Kap)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30774",
+  "target_occ_key": "7223:atolye_ve_imalat_elemani",
+  "target_specialty": "Atölye ve İmalat Elemanı",
+  "target_isco4": "7223",
+  "target_isco_title": "Metal working machine tool setters and operators",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Atölye ve İmalat Elemanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30775",
+  "target_occ_key": "7223:cnc_borverk_operatoru",
+  "target_specialty": "CNC Borverk Operatörü",
+  "target_isco4": "7223",
+  "target_isco_title": "Metal working machine tool setters and operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Samsun",
+  "example_job_titles": [
+   "CNC Yatay Borverk (Boring) Operatörü"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

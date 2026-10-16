@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30501",
+  "target_occ_key": "2221:enfeksiyon_kontrol_hemsiresi",
+  "target_specialty": "Enfeksiyon Kontrol Hemşiresi",
+  "target_isco4": "2221",
+  "target_isco_title": "Nursing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Samsun",
+  "example_job_titles": [
+   "Enfeksiyon Kontrol Hemşiresi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30502",
+  "target_occ_key": "2221:isyeri_hemsiresi",
+  "target_specialty": "İşyeri Hemşiresi",
+  "target_isco4": "2221",
+  "target_isco_title": "Nursing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "İşyeri Hemşiresi / Diğer Sağlık Personeli (DSP)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30503",
+  "target_occ_key": "2221:onkoloji_hemsiresi",
+  "target_specialty": "Onkoloji Hemşiresi",
+  "target_isco4": "2221",
+  "target_isco_title": "Nursing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Onkoloji ve Kemoterapi Ünitesi Hemşiresi (Junior)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30504",
+  "target_occ_key": "2221:palyatif_bakim_hemsiresi",
+  "target_specialty": "Palyatif Bakım Hemşiresi",
+  "target_isco4": "2221",
+  "target_isco_title": "Nursing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Muğla",
+  "example_job_titles": [
+   "Palyatif Bakım ve Yaşlı Sağlığı Hemşiresi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30505",
+  "target_occ_key": "2221:yenidogan_yogun_bakim_hemsiresi",
+  "target_specialty": "Yenidoğan Yoğun Bakım Hemşiresi",
+  "target_isco4": "2221",
+  "target_isco_title": "Nursing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Yenidoğan Yoğun Bakım Hemşiresi (NICU Nurse)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30506",
+  "target_occ_key": "2250:veteriner_hekim",
+  "target_specialty": "Veteriner Hekim",
+  "target_isco4": "2250",
+  "target_isco_title": "Veterinarians",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Büyükbaş Çiftlik Veteriner Hekimi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30507",
+  "target_occ_key": "2261:agiz_dis_ve_cene_cerrahisi_uzmani",
+  "target_specialty": "Ağız, Diş ve Çene Cerrahisi Uzmanı",
+  "target_isco4": "2261",
+  "target_isco_title": "Dentists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Oral & Maxillofacial Surgeon"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30508",
+  "target_occ_key": "2261:endodonti_uzmani",
+  "target_specialty": "Endodonti Uzmanı",
+  "target_isco4": "2261",
+  "target_isco_title": "Dentists",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Endodonti (Kanal Tedavisi) Uzmanı (Diş Hekimi)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30509",
+  "target_occ_key": "2261:pedodonti_uzmani",
+  "target_specialty": "Pedodonti Uzmanı",
+  "target_isco4": "2261",
+  "target_isco_title": "Dentists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Pedodonti (Çocuk Diş Hekimi)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30510",
+  "target_occ_key": "2261:periodontoloji_uzmani",
+  "target_specialty": "Periodontoloji Uzmanı",
+  "target_isco4": "2261",
+  "target_isco_title": "Dentists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Periodontoloji (Diş Eti Hastalıkları) Uzmanı (Diş Hekimi)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30511",
+  "target_occ_key": "2262:onkoloji_eczacisi",
+  "target_specialty": "Onkoloji Eczacısı",
+  "target_isco4": "2262",
+  "target_isco_title": "Pharmacists",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Onkoloji Eczacılığı ve Kemoterapi Hazırlama Sorumlusu"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30512",
+  "target_occ_key": "2262:radyofarmasi_eczacisi",
+  "target_specialty": "Radyofarmasi Eczacısı",
+  "target_isco4": "2262",
+  "target_isco_title": "Pharmacists",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Radyofarmasi ve Nükleer Tıp Eczacısı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30513",
+  "target_occ_key": "2263:cevre_is_sagligi_ve_guvenligi_muhendisi",
+  "target_specialty": "Çevre, İş Sağlığı ve Güvenliği Mühendisi",
+  "target_isco4": "2263",
+  "target_isco_title": "Environmental and occupational health and hygiene professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Çevre, İş Sağlığı ve Güvenliği (İSG) & Tesis Mühendisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30514",
+  "target_occ_key": "2263:is_sagligi_ve_ergonomi_uzmani",
+  "target_specialty": "İş Sağlığı ve Ergonomi Uzmanı",
+  "target_isco4": "2263",
+  "target_isco_title": "Environmental and occupational health and hygiene professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Antalya",
+  "example_job_titles": [
+   "İş Sağlığı ve Ergonomi Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30515",
+  "target_occ_key": "2263:radyasyon_guvenligi_ve_nukleer_olcum_uzmani",
+  "target_specialty": "Radyasyon Güvenliği ve Nükleer Ölçüm Uzmanı",
+  "target_isco4": "2263",
+  "target_isco_title": "Environmental and occupational health and hygiene professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Radyasyon Güvenliği ve Nükleer Ölçüm Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30516",
+  "target_occ_key": "2263:tehlikeli_madde_depolama_denetcisi",
+  "target_specialty": "Tehlikeli Madde Depolama Denetçisi",
+  "target_isco4": "2263",
+  "target_isco_title": "Environmental and occupational health and hygiene professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kıdemli Tehlikeli Madde Depolama ve SEÇ-G Denetmeni"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30517",
+  "target_occ_key": "2310:muhendislik_akademisyeni",
+  "target_specialty": "Mühendislik Akademisyeni",
+  "target_isco4": "2310",
+  "target_isco_title": "University and higher education teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Akademisyen / Araştırma Görevlisi (Mühendislik)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30518",
+  "target_occ_key": "2310:temel_bilimler_akademisyeni",
+  "target_specialty": "Temel Bilimler Akademisyeni",
+  "target_isco4": "2310",
+  "target_isco_title": "University and higher education teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Adana",
+  "example_job_titles": [
+   "Akademisyen / Araştırma Görevlisi (Temel Bilimler)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30519",
+  "target_occ_key": "2330:bilisim_teknolojileri_ogretmeni",
+  "target_specialty": "Bilişim Teknolojileri Öğretmeni",
+  "target_isco4": "2330",
+  "target_isco_title": "Secondary education teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Information Technology & Coding Teacher"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30520",
+  "target_occ_key": "2330:felsefe_ogretmeni",
+  "target_specialty": "Felsefe Öğretmeni",
+  "target_isco4": "2330",
+  "target_isco_title": "Secondary education teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Felsefe ve Mantık Öğretmeni"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30521",
+  "target_occ_key": "2330:kimya_ogretmeni",
+  "target_specialty": "Kimya Öğretmeni",
+  "target_isco4": "2330",
+  "target_isco_title": "Secondary education teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kimya Öğretmeni"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30522",
+  "target_occ_key": "2330:tarih_ogretmeni",
+  "target_specialty": "Tarih Öğretmeni",
+  "target_isco4": "2330",
+  "target_isco_title": "Secondary education teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Adana",
+  "example_job_titles": [
+   "Tarih Öğretmeni"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30523",
+  "target_occ_key": "2330:turk_dili_ve_edebiyati_ogretmeni",
+  "target_specialty": "Türk Dili ve Edebiyatı Öğretmeni",
+  "target_isco4": "2330",
+  "target_isco_title": "Secondary education teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Türkçe ve Edebiyat Öğretmeni"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30524",
+  "target_occ_key": "2330:turkce_ogretmeni",
+  "target_specialty": "Türkçe Öğretmeni",
+  "target_isco4": "2330",
+  "target_isco_title": "Secondary education teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Türkçe Öğretmeni (Ortaokul)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30525",
+  "target_occ_key": "2330:uluslararasi_bakalorya_ogretmeni",
+  "target_specialty": "Uluslararası Bakalorya Öğretmeni",
+  "target_isco4": "2330",
+  "target_isco_title": "Secondary education teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "IB (Uluslararası Bakalorya) Eğitmeni ve Koordinatör Yardımcısı"
+  ],
+  "style": "detayli"
+ }
+]

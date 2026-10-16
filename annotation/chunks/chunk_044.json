@@ -1,0 +1,1322 @@
+[
+{
+"id": "J1624",
+"kind": "JOB",
+"title": "Kıdemli Kötü Amaçlı Yazılım Analisti (Malware Analyst)",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Gelişmiş saldırılarda kullanılan özel zararlı yazılımların statik ve dinamik tersine mühendisliğini gerçekleştirecek kıdemli analist arıyoruz. Pozisyonun Temel Görevleri: - Zararlı yazılımları IDA Pro, Ghidra ve x64dbg araçlarıyla decompile edip kod akışını deşifre etmek - Anti-analysis, packing ve obfuscation tekniklerini aşarak zararlının gerçek amacını belirlemek - C2 (Command and Control) iletişim protokollerini ve veri sızdırma yöntemlerini ortaya çıkarmak - YARA kuralları yazarak zararlı ailelerinin otomatik tespitini sağlamak Beklenen D…"
+}
+},
+{
+"id": "C11068",
+"kind": "CV",
+"title": "Kıdemli Kubernetes & Bulut Platform Mimarı (AWS)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "AWS ve Kubernetes (EKS) üzerinde yüksek erişilebilirlikli, çok bölgeli (multi-region) bulut platformları tasarlayan 7 yıllık kıdemli DevOps mimarıyım. Helm, Istio Service Mesh, Karpenter otomatik ölçekleme, IAM roller ve VPC ağ güvenliğinde uzmanım.",
+"beceriler": "AWS (EKS, VPC, IAM, RDS), Kubernetes, Helm, Istio Service Mesh, Karpenter, Terraform, GitOps / ArgoCD, Prometheus & Grafana",
+"deneyim": [
+"Kıdemli Kubernetes & Bulut Platform Mimarı (AWS) ([TARİH]): Fintech şirketinde 60 mikroservisin çalıştığı 5 adet AWS EKS kümesini Karpenter ve Istio ile optimize ederek …"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11060",
+"kind": "CV",
+"title": "Kıdemli Linux Sistem Yöneticisi (RHEL / Debian)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Büyük ölçekli veri merkezlerinde Red Hat Enterprise Linux (RHEL), Debian ve Ubuntu sunucu parkının kurulumu, çekirdek parametre ayarlaması (sysctl kernel tuning), LVM disk yönetimi ve systemd servislerinde 8 yıllık kıdemli sistem yöneticisiyim.",
+"beceriler": "Linux (RHEL / CentOS / Ubuntu), Kernel Tuning & sysctl, LVM & ZFS Storage, Bash & Python Scripting, Systemd Services, SELinux & AppArmor, SSH & PAM Security",
+"deneyim": [
+"Kıdemli Linux Sistem Yöneticisi (RHEL / Debian) ([TARİH]): Telekom veri merkezinde 800 fiziksel ve sanal Linux sunucunun yönetimini otomatikleştirdim; çekirdek ağ parame…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11102",
+"kind": "CV",
+"title": "Kıdemli Makine Öğrenmesi (MLOps) Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Makine öğrenmesi modellerini deneysel aşamadan çıkarıp saniyede binlerce isteğe yanıt veren üretim (production) ortamlarına taşıyan 6 yıllık MLOps mühendisiyim. MLflow, Kubeflow, Triton Inference Server, Docker ve AWS SageMaker altyapılarında model sürümleme, otomatik yeniden eğitim (retraining) ve veri kayması (data drift) takibinde uzmanım.",
+"beceriler": "MLOps Frameworks, MLflow & Kubeflow, Triton Inference Server, AWS SageMaker, Python (PyTorch / Scikit-learn), Docker & Kubernetes, Evidently AI (Drift Detection)",
+"deneyim": [
+"Kıdemli Makine Öğrenmesi (MLOps) Mühendisi ([TARİH]): Fintech kredi skorlama ve dolandırıcılık modellerini Kubeflow ve Triton Inference Server ile üretim pipeline'ına al…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11168",
+"kind": "CV",
+"title": "Kıdemli Makine Öğrenmesi Platform Mimarı",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"context": {
+"ozet": "10+ veri bilimci ve ML mühendisinin üzerinde çalıştığı şirket içi Feature Store, Model Registry ve otomatik eğitim boru hatlarını kuran 9 yıllık altyapı lideriyim. Feast, Ray ve Kubeflow entegrasyonunda uzmanım.",
+"beceriler": "ML Platform Architecture, Feast Feature Store, Ray Distributed ML, Kubeflow Pipelines, Cloud Native AI, Engineering Mentorship",
+"deneyim": [
+"Kıdemli Makine Öğrenmesi Platform Mimarı ([TARİH]): Kurumsal holdingde 15 farklı ürün için ortak kullanılan merkezi ML platformunu kurarak yeni bir modelin canlıya çıkış…"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11055",
+"kind": "CV",
+"title": "Kıdemli Microsoft SQL Server Veritabanı Yöneticisi (MSSQL DBA)",
+"industry": "IT_SOFTWARE",
+"city": "Konya",
+"context": {
+"ozet": "SQL Server Always On Kullanılabilirlik Grupları (Availability Groups), failover cluster instances, indeks parçalanması bakımları ve SQL Profiler / Extended Events ile performans teşhisi yapan deneyimli DBA'yim.",
+"beceriler": "SQL Server Always On AG, T-SQL Query Tuning, Execution Plan Analysis, Index Defragmentation & Statistics, SQL Server Audit & TDE Encryption, PowerShell Automation",
+"deneyim": [
+"Kıdemli Microsoft SQL Server Veritabanı Yöneticisi (MSSQL DBA) ([TARİH]): Kurumsal ERP SQL Server kümesinde Always On replikasyonunu kurdum; eksik indeksleri tamamlayıp …"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Matematik Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1695",
+"kind": "JOB",
+"title": "Kıdemli MLOps & Veri Bilimi Platform Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Banka çapında çalışan yüzlerce kredi ve pazarlama makine öğrenimi modelinin yaşam döngüsünü yönetecek kurumsal MLOps platformunu inşa edecek kıdemli uzman arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Feature Store (Feast/Hopsworks) ve Model Registry mimarilerini kurumsal bankacılık ortamında yapılandırmak - Banka regülasyonlarına uygun model denetim izleri (Audit Trail) ve sürümleme süreçlerini otomatikleştirmek - Büyük hacimli gerçek zamanlı çıkarım API'lerinin (Real-time Inference) yüksek erişilebilirliğini sağlamak - Veri bilimi takımların…"
+}
+},
+{
+"id": "J0058",
+"kind": "JOB",
+"title": "Kıdemli Mobil Yazılım Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Konya",
+"position_level": "ASSISTANT_SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Pozisyon Hakkında Büyüyen mobil geliştirme ekibimize katılacak bir Kıdemli Mobil Yazılım Mühendisi arıyoruz. Modern mobil uygulamalar tasarlayacak ve geliştirecek, kullanıcı deneyimini en üst düzeye çıkaracak bir takım arkadaşı arıyoruz. Sorumluluklar Java ve Kotlin kullanarak mobil uygulama geliştirmek Uygulama mimarisini tasarlamak ve uygulamak Performans optimizasyonu yapmak ve kullanıcı geri bildirimlerini değerlendirmek Takım içinde işbirliği yaparak projelerin zamanında tamamlanmasını sağlamak En iyi uygulamaları ve kod standartlarını ta…"
+}
+},
+{
+"id": "J1669",
+"kind": "JOB",
+"title": "Kıdemli Müşteri Analitiği Uzmanı (Customer Analytics & Churn)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Milyonlarca abonenin kullanım alışkanlıklarını, segmentasyon modellerini ve kayıp (churn) önleme stratejilerini analitik modellerle yönetecek kıdemli uzman arıyoruz. Temel İş ve Sorumluluk Alanları: - Müşteri yaşam döngüsü değeri (CLTV) ve Churn risk skorlama algoritmaları kurgulamak - Kişiselleştirilmiş kampanya ve çapraz satış (cross-sell) hedefleme listelerini hazırlamak - Büyük veri ambarı üzerinde SQL ve Python ile karmaşık veri analitiği yürütmek - Pazarlama ekiplerine müşteri davranış trendleri hakkında stratejik içgörüler sunmak Gereks…"
+}
+},
+{
+"id": "C11071",
+"kind": "CV",
+"title": "Kıdemli Node.js / Fastify Performans Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Express yerine düşük genel giderli Fastify framework'ü kullanarak ultra hızlı JSON şema doğrulamalı (Ajv) API servisleri inşa eden yazılımcıyım. Node.js Event Loop bloklanmalarını önleme, bellek sızıntısı giderme ve HTTP/2 entegrasyonlarında uzmanım.",
+"beceriler": "Node.js, Fastify, Ajv Schema Validation, TypeScript, PostgreSQL, Redis, Autocannon Load Testing, Clinic.js",
+"deneyim": [
+"Kıdemli Node.js / Fastify Performans Mühendisi ([TARİH]): Yüksek trafikli mobil oyun API'sinde Express'ten Fastify'a geçiş yaparak CPU kullanımını %35 düşürdüm ve throug…"
+],
+"egitim": [
+"Gazi Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11051",
+"kind": "CV",
+"title": "Kıdemli Node.js / NestJS & TypeScript Backend Mimarı",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"context": {
+"ozet": "TypeScript ve NestJS ile kurumsal ölçekte modüler, test edilebilir ve temiz mimariye (Clean Architecture) sahip backend sistemleri inşa eden kıdemli yazılımcıyım. TypeORM/Prisma, PostgreSQL, Redis, mikroservis haberleşmesi ve Swagger dokümantasyonunda 6 yıllık tecrübem var.",
+"beceriler": "Node.js, NestJS, TypeScript, Prisma / TypeORM, PostgreSQL, Redis, RabbitMQ, Docker, Jest",
+"deneyim": [
+"Kıdemli Node.js / NestJS & TypeScript Backend Mimarı ([TARİH]): Sağlık teknolojisi platformunda hasta randevu ve tele-tıp servislerini NestJS mikroservisleri ve TypeScri…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11063",
+"kind": "CV",
+"title": "Kıdemli Node.js / TypeScript Çözüm Mimarı",
+"industry": "IT_SOFTWARE",
+"city": "Konya",
+"context": {
+"ozet": "Kurumsal web ve mobil platformların backend mimarisini TypeScript ekosisteminde tasarlayan, mikroservis ve monorepo (Nx, Turborepo) yapılarını yöneten kıdemli yazılım mimarıyım. Clean Architecture, event-driven sistemler ve DevOps entegrasyonlarında 9 yıllık tecrübem var.",
+"beceriler": "TypeScript Enterprise Architecture, Node.js / NestJS, Turborepo & Nx Monorepo, Docker & Kubernetes, Kafka / RabbitMQ, System Design",
+"deneyim": [
+"Kıdemli Node.js / TypeScript Çözüm Mimarı ([TARİH]): Fintech şirketinde 14 bağımsız frontend ve backend paketini Turborepo monorepo yapısında birleştirerek 20 kişilik ya…"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1477",
+"kind": "JOB",
+"title": "Kıdemli Node.js Yazılım Mühendisi (High-Scale E-Ticaret)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Hepsiburada ödeme ve sipariş akışlarında saniyede on binlerce işlemi sıfır kesintiyle işleyen Node.js tabanlı yüksek ölçekli servislerimizi yönetecek kıdemli mühendis arıyoruz. Rol ve Sorumluluklar: - Yüksek hacimli ve düşük gecikmeli Node.js / TypeScript mikroservislerinin tasarımını gerçekleştirmek - Kafka akış boru hatları ile ödeme ve stok rezervasyon servislerinin entegrasyonunu sağlamak - Node.js bellek sızıntıları (memory leaks) ve event loop bloklanmalarını proaktif olarak tespit edip gidermek - Takım içi kod incelemelerinde standartla…"
+}
+},
+{
+"id": "J1482",
+"kind": "JOB",
+"title": "Kıdemli Node.js Yazılım Uzmanı (Fintech Ödeme Sistemleri)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Sanal POS, dijital cüzdan ve ön ödemeli kart altyapılarımızın backend katmanında, yüksek güvenlik ve işlem hızı gerektiren Node.js/TypeScript servislerini yönetecek uzman arıyoruz. Pozisyonun Temel Görevleri: - Fintech regülasyonlarına (TCMB, PCI-DSS) tam uyumlu Node.js mikroservisleri geliştirmek - Banka entegrasyonlarında hata anında otomatik yeniden deneme ve geri alma (rollback) mekanizmaları kurmak - Servislerin yük testlerini yürütmek ve kritik noktalarda darboğazları ortadan kaldırmak - Sprint planlamalarında teknik tasarımları hazırlam…"
+}
+},
+{
+"id": "J1674",
+"kind": "JOB",
+"title": "Kıdemli NoSQL Veritabanı Mühendisi (MongoDB & Redis)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Milyonlarca ürün kataloğu ve kullanıcı oturum verisini barındıran MongoDB ve Redis kümelenmelerimizin mimarisini yönetecek kıdemli mühendis arıyoruz. Neler Yapacaksınız? - MongoDB sharding, replica set konfigürasyonlarını ve indeksleme stratejilerini optimize etmek - Redis cluster bellek kullanımını ve önbellek tahliye (eviction) politikalarını yönetmek - Yüksek trafikli kampanya dönemlerinde veritabanı oto-ölçekleme planlarını yürütmek - Veri yedekleme, felaket kurtarma ve güvenlik sıkılaştırma adımlarını denetlemek Nitelikler ve Teknik Yetki…"
+}
+},
+{
+"id": "J1617",
+"kind": "JOB",
+"title": "Kıdemli Olay Müdahale ve Adli Bilişim Uzmanı (DFIR)",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Kritik ulusal altyapılarda ve savunma sanayii projelerinde meydana gelebilecek siber olaylara müdahale edecek, adli bilişim incelemelerini yönetecek kıdemli uzman arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Karmaşık siber saldırı vakalarında uç nokta, bellek ve ağ adli bilişim (forensics) incelemelerini yürütmek - Saldırganların geride bıraktığı artefaktları (MFT, Registry, Prefetch, Event Logs) analiz ederek teknik raporlar hazırlamak - Zararlı yazılımların tersine mühendisliğini (reverse engineering) yaparak davranışsal analizler sunmak - …"
+}
+},
+{
+"id": "C11128",
+"kind": "CV",
+"title": "Kıdemli Oracle Veritabanı Yöneticisi (Oracle RAC DBA)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Bankacılık ve telekom sektörlerinde Oracle Real Application Clusters (RAC), Data Guard, ASM ve Exadata altyapılarında uzman kıdemli Oracle DBA'yim. AWR/ASH rapor analizi, indeksleme stratejileri ve RMAN yedekleme süreçlerini yönetirim.",
+"beceriler": "Oracle Database 19c, Oracle RAC & Data Guard, Oracle ASM & Exadata, RMAN Backup & Recovery, AWR / ASH Performance Tuning, PL/SQL",
+"deneyim": [
+"Kıdemli Oracle Veritabanı Yöneticisi (Oracle RAC DBA) ([TARİH]): Bankanın çekirdek bankacılık Oracle RAC veritabanında Data Guard felaket kurtarma geçiş testini 15 dakik…",
+"Veritabanı Stajyeri ([TARİH]): PostgreSQL ve Oracle test veritabanlarında indeks kullanım oranlarını inceledim, yedek alma/geri yükleme (backup/restore) tatbikatlarına g…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1666",
+"kind": "JOB",
+"title": "Kıdemli Pazarlama Veri Analisti (Marketing Analytics)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Remote",
+"context": {
+"aciklama": "Büyük ölçekli dijital reklam yatırımlarımızın (Google, Meta, TikTok) getirisini (ROAS), müşteri edinme maliyetlerini (CAC) ve atıf modellerini (Attribution) analiz edecek kıdemli uzman arıyoruz. Pozisyonun Temel Görevleri: - Çok kanallı pazarlama atıf modelleri (Multi-Touch Attribution / Marketing Mix Modeling) geliştirmek - Kampanya bazlı ROAS, CAC ve LTV tahminleme modellerini analitik olarak kurgulamak - Büyük veri ambarında pazarlama performans veri tablolarını modellemek - Pazarlama direktörlerine veri odaklı bütçe optimizasyonu önerileri…"
+}
+},
+{
+"id": "C11069",
+"kind": "CV",
+"title": "Kıdemli PostgreSQL Veritabanı Yöneticisi (PostgreSQL DBA)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Büyük ölçekli PostgreSQL kümelerinde 7/24 operasyon, performans ince ayarı (vacuum, autovacuum, work_mem), PgBouncer connection pooling, Patroni ile otomatik yük devretme ve pgBackRest ile yedekleme yönetiminde 7 yıllık DBA'yim.",
+"beceriler": "PostgreSQL Administration, Performance Tuning & EXPLAIN ANALYZE, Patroni & etcd High Availability, PgBouncer, pgBackRest, Partitioning & Sharding, Linux Tuning",
+"deneyim": [
+"Kıdemli PostgreSQL Veritabanı Yöneticisi (PostgreSQL DBA) ([TARİH]): Fintech altyapısında 8 TB boyutundaki PostgreSQL veritabanının sorgu planlarını (EXPLAIN) analiz edi…",
+"İş Zekası (BI) Stajyeri ([TARİH]): ERP sisteminden alınan ham verilerin temizlenmesi, veri tutarlılık kontrollerinin yapılması ve departman bazlı KPI göstergeleri için v…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11212",
+"kind": "CV",
+"title": "Kıdemli Python / FastAPI Backend Geliştirici",
+"industry": "IT_SOFTWARE",
+"city": "Gaziantep",
+"context": {
+"ozet": "Yüksek eşzamanlılık (high-concurrency) gerektiren mikroservis mimarilerinde 6 yıllık Python ve FastAPI deneyimim var. Asenkron programlama (AsyncIO), Pydantic veri modelleme, SQLAlchemy ORM optimizasyonu, Redis önbellekleme ve Docker konteynerizasyonunda uzmanım.",
+"beceriler": "Python 3.11+, FastAPI, AsyncIO, PostgreSQL, Redis, SQLAlchemy, Docker, RabbitMQ, Pytest",
+"deneyim": [
+"Kıdemli Python / FastAPI Backend Geliştirici ([TARİH]): Fintech projesinde saniyede 4000 istek alan ödeme geçidi servislerini FastAPI ve Redis mimarisiyle yeniden yazara…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11200",
+"kind": "CV",
+"title": "Kıdemli Python Web ve Mikroservis Geliştiricisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Domain-Driven Design (DDD) ve Event-Driven mimarilerle Python tabanlı kurumsal servisler geliştiren yazılım mühendisiyim. Kafka event stream tüketimi, PostgreSQL indeksleme ve CQRS kalıbı uygulamalarında yetkinim.",
+"beceriler": "Python 3.12, FastAPI, Apache Kafka, PostgreSQL / PgBouncer, DDD & CQRS, GitLab CI/CD, Kubernetes",
+"deneyim": [
+"Kıdemli Python Web ve Mikroservis Geliştiricisi ([TARİH]): Lojistik filo yönetim platformunda monolitik mimariyi 8 bağımsız Python mikroservisine böldüm; Kafka event-dri…",
+"Stajyer Yazılım Mühendisi ([TARİH]): Şirket içi kullanılan yönetim paneline yeni filtreleme modüllerinin backend servislerini geliştirdim; Git versiyon kontrolü, pull re…"
+],
+"egitim": [
+"Marmara Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1467",
+"kind": "JOB",
+"title": "Kıdemli Python Yazılım Mühendisi (Veri & Servis Mimarisi)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Remote",
+"context": {
+"aciklama": "Büyük ölçekli SEO ve arama motoru analitiği araçlarımızın arkasındaki Python tabanlı veri çekme, işleme ve raporlama altyapılarını yönetecek kıdemli mühendis arıyoruz. Temel İş ve Sorumluluk Alanları: - Günde milyonlarca web sayfasının verisini toplayan dağıtık scraping ve analiz boru hatlarını Python ile tasarlamak - Elasticsearch ve ClickHouse üzerinde yüksek hacimli arama ve analitik sorgularını optimize etmek - FastAPI tabanlı mikroservislerin kod kalitesini, güvenlik standartlarını ve performansını denetlemek - Mühendislik takımına kod in…"
+}
+},
+{
+"id": "C11209",
+"kind": "CV",
+"title": "Kıdemli React & Next.js Frontend Mimarı",
+"industry": "IT_SOFTWARE",
+"city": "Trabzon",
+"context": {
+"ozet": "Büyük ölçekli web uygulamalarında Next.js (App Router), React 18/19, TypeScript ve Tailwind CSS ile sunucu taraflı işleme (SSR/SSG), arama motoru optimizasyonu (SEO) ve Core Web Vitals iyileştirmelerinde 7 yıllık uzmanlığım var. Redux Toolkit / Zustand ve modüler tasarım sistemleri mimarisinde deneyimliyim.",
+"beceriler": "Next.js (App Router), React, TypeScript, Tailwind CSS, Zustand / Redux Toolkit, Server Components, Core Web Vitals, Cypress & Jest",
+"deneyim": [
+"Kıdemli React & Next.js Frontend Mimarı ([TARİH]): E-ticaret platformunda Next.js App Router geçişini yöneterek sayfa yüklenme sürelerini (LCP) 1.2 saniyeye indirdim ve …"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1498",
+"kind": "JOB",
+"title": "Kıdemli React / Next.js Yazılım Mühendisi (Web Vitals & Performance)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Hepsiburada web platformunun arama, ürün detay ve kategori listeleme sayfalarını Next.js mimarisiyle yeniden inşa eden çekirdek frontend ekibimizde teknik liderlik yapacak kıdemli uzman arıyoruz. Görev ve Sorumluluklar: - Büyük ölçekli Next.js ve React mimarisinin ölçeklenebilirliğini, modülerliğini ve bakımını garanti altına almak - Web Vitals metriklerini sektör lideri seviyeye çekmek için ileri düzey önbellekleme ve SSR optimizasyon stratejileri belirlemek - A/B test altyapılarını entegre ederek kullanıcı etkileşimini ve dönüşüm oranlarını …"
+}
+},
+{
+"id": "J1504",
+"kind": "JOB",
+"title": "Kıdemli React Geliştirici (SaaS & Complex Forms)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Remote",
+"context": {
+"aciklama": "Yüz binlerce işletmenin ön muhasebe, fatura oluşturma ve stok işlemlerini yürüttüğü web uygulamamızda, karmaşık veri formlarını ve interaktif tabloları yönetecek kıdemli mühendis arıyoruz. Görev ve Sorumluluklar: - React Hook Form, Zod ve karmaşık doğrulama kuralları içeren finansal form mimarileri tasarlamak - Büyük veri listeleme ekranlarında re-render maliyetlerini minimize eden optimizasyonlar yapmak - Frontend mimarisinin sürdürülebilirliğini sağlamak için teknik borç maddelerini eritmek - Ekip üyelerine rehberlik etmek ve kod incelemeler…"
+}
+},
+{
+"id": "C11134",
+"kind": "CV",
+"title": "Kıdemli React Native & Web Çoklu Platform Geliştiricisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Tek bir kod tabanından hem web hem de mobil (iOS/Android) uygulamaları yöneten React Native for Web ve Expo uzmanıyım. Ortak iş mantığı, paylaşılan durum yönetimi ve platforma özgü UI optimizasyonlarında tecrübeliyim.",
+"beceriler": "React, React Native, Expo, React Native for Web, TypeScript, Zustand, Nativewind",
+"deneyim": [
+"Kıdemli React Native & Web Çoklu Platform Geliştiricisi ([TARİH]): Fitness platformunun web ve mobil uygulamalarını paylaşımlı monorepo mimarisine taşıyarak kod tekrarın…"
+],
+"egitim": [
+"Dokuz Eylül Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1550",
+"kind": "JOB",
+"title": "Kıdemli React Native Mühendisi (Performance & Native Bridges)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Milyonlarca global kullanıcının alışveriş yaptığı React Native mobil uygulamamızın performansını artıracak ve yeni nesil Hermes/Fabric mimarisine geçişi yönetecek kıdemli mühendis arıyoruz. Neler Yapacaksınız? - React Native New Architecture (Fabric, TurboModules) entegrasyonunu sağlamak - FlashList kullanarak binlerce ürünlük listeleme ekranlarında 60 FPS akıcılığı yakalamak - Gerektiğinde native Objective-C/Swift ve Java/Kotlin modül köprüleri yazmak - Mühendislik takımına React Native best-practice'leri konusunda koçluk yapmak Nitelikler ve…"
+}
+},
+{
+"id": "J1627",
+"kind": "JOB",
+"title": "Kıdemli Red Team Operatörü (Adversary Emulation)",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "Remote",
+"context": {
+"aciklama": "Küresel kurumsal organizasyonlara yönelik gelişmiş saldırgan simülasyonları (Red Teaming) yürütecek, savunma mekanizmalarını zorlayacak kıdemli operatör arıyoruz. Temel İş ve Sorumluluk Alanları: - Gerçek tehdit aktörlerinin (APT) taktik ve tekniklerini taklit eden uçtan uca Red Team operasyonları planlamak - EDR atlatma (EDR evasion), bellek içi enjeksiyon ve özel C2 implantları geliştirmek - Sosyal mühendislik, fiziksel güvenlik ve kablosuz ağ testlerini icra etmek - Blue Team ile Purple Team egzersizleri yaparak kurumsal tespit kabiliyetler…"
+}
+},
+{
+"id": "J1490",
+"kind": "JOB",
+"title": "Kıdemli Scala / Functional Programming Yazılım Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "DenizBank ve uluslararası iştiraklerinin dijital bankacılık altyapısında, büyük ölçekli ve eşzamanlı finansal işlem akışlarını Scala ekosistemi ile tasarlayacak kıdemli uzman arıyoruz. Neler Yapacaksınız? - ZIO veya Cats Effect kullanarak tip güvenli ve saf fonksiyonel arka uç mimarileri kurgulamak - Kafka ve Flink tabanlı gerçek zamanlı veri işleme ve dolandırıcılık tespit sistemlerini inşa etmek - Bankacılık temel bankacılık servisleri ile yüksek güvenilirlikli entegrasyonlar gerçekleştirmek - Takım içi Scala ve FP standartlarını oluşturmak …"
+}
+},
+{
+"id": "J1643",
+"kind": "JOB",
+"title": "Kıdemli Sıfır Güven (Zero Trust) Ağ Güvenliği Mimarı",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Vodafone kurumsal ağlarının ve veri merkezlerinin Zero Trust Network Access (ZTNA) ve SASE mimarisine dönüşümünü yönetecek kıdemli mimar arıyoruz. Rol ve Sorumluluklar: - Zero Trust prensiplerine uygun mikro-segmentasyon ve kimlik tabanlı ağ erişim mimarilerini tasarlamak - SASE ve Bulut Güvenlik Ağ Geçidi (SWG/CASB) çözümlerinin entegrasyonunu sağlamak - Veri merkezleri ve bulut ortamları arasındaki güvenli ağ omurgasını denetlemek - Uluslararası siber güvenlik regülasyonlarına uyumluluğu garanti altına almak Kimleri Arıyoruz? - En az 6 yıl a…"
+}
+},
+{
+"id": "J1596",
+"kind": "JOB",
+"title": "Kıdemli Sistem & DevOps Mimarı (OpenStack & Hibrit Bulut)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Turkcell Bulut servislerimizin ve telekomünikasyon sanallaştırma katmanımızın (NFV/OpenStack) mimarisini yönetecek kıdemli sistem mimarı arayışındayız. Neler Yapacaksınız? - De масштаblu OpenStack ve Ceph depolama kümelerinin mimari tasarımını ve kapasite planını yapmak - Hibrit bulut entegrasyonlarında yazılım tanımlı ağ (SDN) ve güvenlik mimarisini kurgulamak - Altyapı otomasyonu için Python ve Ansible tabanlı kurumsal araçlar üretmek - Teknik operasyon takımlarına üst düzey mimari danışmanlık sağlamak Nitelikler ve Teknik Yetkinlikler: - En…"
+}
+},
+{
+"id": "C11192",
+"kind": "CV",
+"title": "Kıdemli Site Reliability Engineer (SRE)",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Yüksek ölçekli dağıtık sistemlerde %99.99 erişilebilirlik, SLI/SLO/SLA hedeflerinin belirlenmesi, hata bütçesi (error budget) yönetimi ve arıza sonrası inceleme (blameless post-mortem) süreçlerinde 6 yıllık SRE uzmanıyım. Kaos mühendisliği ve observability konusunda deneyimliyim.",
+"beceriler": "SLI / SLO / SLA Management, Prometheus & Grafana, OpenTelemetry & Jaeger, Chaos Mesh / Gremlin, Incident Management (PagerDuty), Python / Go Scripting",
+"deneyim": [
+"Kıdemli Site Reliability Engineer (SRE) ([TARİH]): Ödeme geçidinde 12 kritik servisin SLO hedeflerini tanımlayarak PagerDuty nöbet rotasyonunu kurdum; MTTR (ortalama çöz…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11241",
+"kind": "CV",
+"title": "Kıdemli Site Reliability Engineering (SRE) Direktörü",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"context": {
+"ozet": "Global operasyonlarda SRE kültürünün şirket geneline yayılmasını sağlayan, mühendislik ve ürün ekipleri arasında hata bütçesi müzakerelerini yürüten ve 15 kişilik SRE ekibine liderlik eden kıdemli direktörüm.",
+"beceriler": "SRE Culture & Leadership, Error Budget Governance, Chaos Engineering Strategy, Disaster Recovery Planning, Executive Stakeholder Management",
+"deneyim": [
+"Kıdemli Site Reliability Engineering (SRE) Direktörü ([TARİH]): Kurumsal teknoloji şirketinde SRE departmanını sıfırdan kurarak 40 farklı ürünün güvenilirlik standartlar…"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11218",
+"kind": "CV",
+"title": "Kıdemli Sızma Testi ve Ofansif Güvenlik Lideri",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "10 kişilik sızma testi ekibini yöneten, yıllık sızma testi programlarını planlayan, ulusal ve uluslararası regülasyonlara (TSE, PCI-DSS) uygun sızma testi metodolojileri uygulayan kıdemli liderim.",
+"beceriler": "Penetration Testing Leadership, TSE Sızma Testi Uzmanı (Kıdemli), Scoping & Methodology, Remediation Governance, Client Relationship Management",
+"deneyim": [
+"Kıdemli Sızma Testi ve Ofansif Güvenlik Lideri ([TARİH]): Siber güvenlik danışmanlık firmasında 50 kurumsal müşterinin yıllık penetrasyon testlerini ve siber tatbikatlar…"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11057",
+"kind": "CV",
+"title": "Kıdemli Snowflake Veri Ambarı Mimarı",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"context": {
+"ozet": "Snowflake bulut veri ambarı üzerinde çok katmanlı veri modelleme (Data Vault 2.0 / Dimensional Modeling), sanal ambar (warehouse) ölçekleme, Zero-Copy Cloning ve Snowpipe ile sürekli veri yükleme mimarisinde 6 yıllık uzmanlığım var.",
+"beceriler": "Snowflake Data Warehouse, Snowpipe, Data Vault 2.0 & Kimball, dbt (Data Build Tool), SQL Performance Tuning, Role-Based Access Control (RBAC)",
+"deneyim": [
+"Kıdemli Snowflake Veri Ambarı Mimarı ([TARİH]): Fintech şirketinde 50 terabaytlık veriyi Snowflake'e taşıdım; auto-suspend ve warehouse boyutlandırma optimizasyonu ile S…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11173",
+"kind": "CV",
+"title": "Kıdemli SOC Analisti ve Tehdit Avcısı (Threat Hunter)",
+"industry": "IT_SOFTWARE",
+"city": "Konya",
+"context": {
+"ozet": "7/24 Güvenlik Operasyon Merkezlerinde (SOC L2/L3) siber tehdit tespiti, SIEM log analizi (Splunk/QRadar), EDR (CrowdStrike/Defender) olay incelemesi ve MITRE ATT&CK çerçevesinde proaktif tehdit avcılığı yapan 6 yıllık siber güvenlik uzmanıyım.",
+"beceriler": "SOC Operations (L2/L3), Splunk & IBM QRadar, EDR (CrowdStrike Falcon / SentinelOne), Threat Hunting & MITRE ATT&CK, Incident Response, Network Traffic Analysis (Wireshark), YARA Rules",
+"deneyim": [
+"Kıdemli SOC Analisti ve Tehdit Avcısı (Threat Hunter) ([TARİH]): Banka SOC merkezinde gelişmiş kalıcı tehdit (APT) grubunun yanal hareketlerini CrowdStrike EDR ve Splunk…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1600",
+"kind": "JOB",
+"title": "Kıdemli SRE Mühendisi (Datadog & APM Optimizasyonu)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Remote",
+"context": {
+"aciklama": "Küresel eğitim platformumuzda kullanıcıların yaşadığı anlık gecikmeleri ve servis hatalarını APM araçlarıyla tespit edip sistem güvenilirliğini artıracak kıdemli SRE arıyoruz. Pozisyonun Temel Görevleri: - Datadog APM, Real User Monitoring (RUM) ve Log Management altyapısını optimize etmek - Uçtan uca mikroservis çağrı zincirlerinde performans darboğazlarını belirleyip ekiplere çözüm sunmak - SLO ve hata bütçesi izleme mekanizmalarını kurarak proaktif alarm stratejileri geliştirmek - Altyapı otomasyonu için Terraform ve AWS araçlarını kullanma…"
+}
+},
+{
+"id": "C11151",
+"kind": "CV",
+"title": "Kıdemli Tableau ve Veri Görselleştirme Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Tableau Desktop ve Tableau Server üzerinde hikaye anlatan, görsel hiyerarşisi güçlü interaktif analitik panolar tasarlayan veri görselleştirme uzmanıyım. LOD (Level of Detail) hesaplamaları, parametre eylemleri ve veri kaynağı ekstraksiyonu (Hyper) konularına hakimim.",
+"beceriler": "Tableau Desktop & Server, LOD Expressions, Interactive Storytelling, SQL & Data Blending, UI/UX for Dashboards, Tableau Prep Builder",
+"deneyim": [
+"Kıdemli Tableau ve Veri Görselleştirme Uzmanı ([TARİH]): E-ticaret şirketinde pazarlama ve tedarik zinciri ekiplerinin günlük kullandığı 25 Tableau panosunu LOD hesaplam…",
+"İş Zekası (BI) Stajyeri ([TARİH]): ERP sisteminden alınan ham verilerin temizlenmesi, veri tutarlılık kontrollerinin yapılması ve departman bazlı KPI göstergeleri için v…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (İstatistik / Endüstri Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1621",
+"kind": "JOB",
+"title": "Kıdemli Tehdit Avcısı (Senior Threat Hunter)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Papara altyapısında standart güvenlik alarmlarına takılmayan gizli tehditleri, anormallikleri ve yetkisiz erişimleri tespit edecek kıdemli tehdit avcısı arıyoruz. Temel İş ve Sorumluluk Alanları: - Hipotez tabanlı tehdit avcılığı metodolojileri kurgulayarak uç nokta ve ağ verilerini derinlemesine taramak - Zero-day açıkları ve gelişmiş kalıcılık (persistence) yöntemlerini tespit eden sorgular geliştirmek - EDR ve SIEM üzerinde özel tespit algoritmaları oluşturmak - Güvenlik operasyonları ekibine proaktif savunma stratejileri konusunda koçluk y…"
+}
+},
+{
+"id": "C11161",
+"kind": "CV",
+"title": "Kıdemli Teknik Ürün Yöneticisi (Technical Product Manager - TPM)",
+"industry": "IT_SOFTWARE",
+"city": "Van",
+"context": {
+"ozet": "Yazılım mühendisliği arka planına sahip, API platformları, mikroservis altyapıları ve geliştirici araçları (B2B SaaS / Developer Tools) üzerine ürün yol haritası (roadmap) çizen ve yöneten 7 yıllık kıdemli TPM'im. Teknik gereksinimler ile iş hedeflerini kusursuz köprülerim.",
+"beceriler": "Technical Product Management, API Product Strategy, Microservices Architecture Understanding, Product Roadmap & Backlog, System Integration Specs, Jira & Confluence, SQL & Metrics",
+"deneyim": [
+"Kıdemli Teknik Ürün Yöneticisi (Technical Product Manager - TPM) ([TARİH]): Fintech ödeme API platformunun teknik ürün yöneticiliğini yaparak 40 banka entegrasyonu ve ge…",
+"Proje Yönetimi Stajyeri ([TARİH]): Yazılım geliştirme ekibinin günlük Scrum toplantı notlarını tuttum, Jira sprint panosundaki görev kartlarının güncelliğini takip ettim…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11248",
+"kind": "CV",
+"title": "Kıdemli Üretken Yapay Zeka (Generative AI) ve LLM Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Büyük Dil Modelleri (LLM - OpenAI, Claude, Llama 3, Mistral) ile kurumsal kurumsal RAG (Retrieval-Augmented Generation) sistemleri, vektör veritabanları (Pinecone, Qdrant, Chroma) ve otonom AI ajanları (LangChain, LangGraph) inşa eden uzman mühendisim.",
+"beceriler": "LLM Architecture & Fine-Tuning, LangChain & LangGraph, RAG Systems, Vector Databases (Qdrant/Pinecone), Semantic Search, Prompt Engineering, Python / FastAPI",
+"deneyim": [
+"Kıdemli Üretken Yapay Zeka (Generative AI) ve LLM Mühendisi ([TARİH]): Kurumsal şirket içi 500.000 sayfalık teknik dokümantasyon üzerinde hibrit arama (BM25 + Dense Vect…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11127",
+"kind": "CV",
+"title": "Kıdemli Üretken Yapay Zeka Çözüm Mimarı",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Şirketlerin iş süreçlerine üretken yapay zeka entegrasyonu yol haritasını çizen, maliyet-performans analizleri yapan ve çok disiplinli AI ekiplerine liderlik eden 10 yıllık yapay zeka mimarıyım.",
+"beceriler": "Generative AI Enterprise Strategy, LLM Cost & Latency Optimization, Cloud AI Infrastructure, Executive AI Advisory, Team Leadership",
+"deneyim": [
+"Kıdemli Üretken Yapay Zeka Çözüm Mimarı ([TARİH]): Fintech holdinginde 6 farklı ürünün yapay zeka vizyonunu belirleyerek şirket genelinde yıllık 40.000 saatlik manuel ve…"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11056",
+"kind": "CV",
+"title": "Kıdemli Ürün Yönetimi Direktörü (VP of Product)",
+"industry": "IT_SOFTWARE",
+"city": "Diyarbakır",
+"context": {
+"ozet": "15 yıllık teknoloji ve ürün yönetimi kariyeriyle 6 farklı ürün hattını, 20 kişilik ürün yöneticisi ve tasarımcı ekibini yöneten, C-level stratejik hedefleri ürün vizyonuna dönüştüren kıdemli ürün direktörüyüm.",
+"beceriler": "Product Strategy & Vision, Portfolio Management, Executive Stakeholder Alignment, M&A Technical Due Diligence, Product Team Mentoring & Scaling",
+"deneyim": [
+"Kıdemli Ürün Yönetimi Direktörü (VP of Product) ([TARİH]): Global ölçekli e-ticaret grubunda ürün organizasyonunu yeniden yapılandırarak 4 ülkede çalışan 80 kişilik mühe…"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1656",
+"kind": "JOB",
+"title": "Kıdemli Veri Ambarı ve Modelleme Uzmanı (DWH / dbt)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Omnichannel mağazacılık ve e-ticaret satış, stok ve müşteri verilerimizi kurumsal veri ambarında modelleyecek, dbt ve Snowflake ile çalışacak kıdemli uzman arıyoruz. Neler Yapacaksınız? - Kimball boyutsal modelleme (Dimensional Modeling - Fact & Dimension) prensipleriyle kurumsal veri ambarı tasarlamak - dbt (data build tool) kullanarak veri dönüşümlerini modüler, test edilebilir ve sürdürülebilir hale getirmek - Snowflake üzerinde sanal veri ambarı (warehouse) boyutlandırmasını ve sorgu optimizasyonlarını yönetmek - İş analistleri ve BI ekipl…"
+}
+},
+{
+"id": "J1690",
+"kind": "JOB",
+"title": "Kıdemli Veri Bilimci (Fraud & Finansal Anomali Tespiti)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Milyonlarca finansal işlemde dolandırıcılık girişimlerini milisaniyeler içinde engelleyen anomali tespiti ve risk skorlama modellerini tasarlayacak kıdemli veri bilimci arıyoruz. Pozisyonun Temel Görevleri: - Graf analitiği (Network Graph Analysis) ve gözetimsiz öğrenme yöntemleriyle sahtecilik ağlarını tespit etmek - XGBoost, LightGBM ve derin öğrenme modelleri ile gerçek zamanlı işlem skorlama motorları kurgulamak - Düşük yanlış pozitif (false positive) oranıyla kullanıcı deneyimini koruyan optimizasyonlar yapmak - Uluslararası ödeme güvenli…"
+}
+},
+{
+"id": "C11239",
+"kind": "CV",
+"title": "Kıdemli Veri Bilimci (Predictive Analytics & Churn)",
+"industry": "IT_SOFTWARE",
+"city": "Antalya",
+"context": {
+"ozet": "Büyük veri setleri üzerinde müşteri kaybı (churn) tahmini, yaşam boyu değer (CLTV) modelleme ve çapraz satış optimizasyonu yapan 7 yıllık kıdemli veri bilimciyim. İleri düzey özellik mühendisliği (feature engineering) ve A/B test tasarımında uzmanım.",
+"beceriler": "Predictive Modeling, Customer Churn & CLTV, Feature Engineering, LightGBM / XGBoost, A/B Testing & Statistics, Python (Pandas, Scikit-learn), SQL",
+"deneyim": [
+"Kıdemli Veri Bilimci (Predictive Analytics & Churn) ([TARİH]): Telekom sektöründe 8 milyon abone verisi üzerinde geliştirdiğim erken churn uyarı modeli ile riskli müşter…",
+"Yapay Zeka Stajyeri ([TARİH]): Görüntü işleme projesi için açık kaynak veri setlerinin toplanması, görüntülerin OpenCV ile normalize edilmesi ve veri etiketleme araçları…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Endüstri Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1649",
+"kind": "JOB",
+"title": "Kıdemli Veri Güvenliği ve Gizliliği Mimarı",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Lüks perakende müşterilerimizin kişisel ve finansal verilerini veri sızıntılarına (DLP) karşı koruyacak, şifreleme ve maskeleme mimarisini kurgulayacak kıdemli mimar arıyoruz. Rol ve Sorumluluklar: - Veri Sızıntısı Önleme (DLP), Veri Sınıflandırma ve Veri Maskeleme teknolojilerini tasarlamak ve canlıya almak - Veritabanlarında hassas veri keşfi (Sensitive Data Discovery) ve şifreleme (TDE, tokenization) süreçlerini yönetmek - KVKK ve GDPR uyumluluğu için teknik güvenlik kontrollerini işletmek - Veri güvenliği politikalarının ihlali durumunda o…"
+}
+},
+{
+"id": "C11072",
+"kind": "CV",
+"title": "Kıdemli Veri Mühendisi (Apache Spark & Kafka)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Büyük veri ortamlarında Apache Spark (PySpark/Scala), Kafka ve Apache Airflow ile petabayt ölçeğinde gerçek zamanlı ve toplu (batch) ETL/ELT veri boru hatları inşa eden 7 yıllık kıdemli veri mühendisiyim. Delta Lake mimarisi, veri kalitesi denetimleri ve AWS EMR üzerinde küme optimizasyonunda uzmanım.",
+"beceriler": "Apache Spark (PySpark), Apache Kafka, Apache Airflow, Delta Lake, Python & SQL, AWS EMR / S3, Docker, Great Expectations",
+"deneyim": [
+"Kıdemli Veri Mühendisi (Apache Spark & Kafka) ([TARİH]): E-ticaret platformunda günlük 4 milyar tıklama olayını Kafka ve Spark Streaming ile gerçek zamanlı işleyip Delta…",
+"İş Zekası (BI) Stajyeri ([TARİH]): ERP sisteminden alınan ham verilerin temizlenmesi, veri tutarlılık kontrollerinin yapılması ve departman bazlı KPI göstergeleri için v…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1652",
+"kind": "JOB",
+"title": "Kıdemli Veri Mühendisi (Real-Time Streaming & Kafka)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Canlı kurye konumları, depo stokları ve dinamik fiyatlandırma sinyallerini gerçek zamanlı işleyen streaming veri platformumuzu yönetecek kıdemli mühendis arıyoruz. Görev ve Sorumluluklar: - Apache Kafka, Flink veya Spark Streaming ile saniyede yüz binlerce olayı işleyen hatlar inşa etmek - Düşük gecikmeli analitik sorgular için ClickHouse ve Apache Pinot üzerinde veri optimizasyonları yapmak - Veri boru hatlarının tam izlenebilirliğini (Data Lineage) ve gözlemlenebilirliğini kurmak - Junior ve mid veri mühendislerine mimari standartlar ve kod …"
+}
+},
+{
+"id": "C11264",
+"kind": "CV",
+"title": "Kıdemli Veri Mühendisliği Takım Lideri",
+"industry": "IT_SOFTWARE",
+"city": "Mersin",
+"context": {
+"ozet": "12 kişilik veri mühendisleri ekibine liderlik eden, kurumsal veri mimarisi stratejisini belirleyen ve veri yönetişimi (Data Governance) politikalarını uygulayan 9 yıllık veri mimarıyım.",
+"beceriler": "Data Architecture & Strategy, Team Leadership, Data Governance & Cataloging, Big Data Cost Management, Cross-Team Collaboration",
+"deneyim": [
+"Kıdemli Veri Mühendisliği Takım Lideri ([TARİH]): Holding genelinde dağınık haldeki 8 veri ambarını tek bir kurumsal modern veri yığını (MDS) altında birleştirerek veri …"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Endüstri Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1671",
+"kind": "JOB",
+"title": "Kıdemli Veri Tabanı Yöneticisi (Oracle & PostgreSQL DBA)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Bankacılık temel işlem veritabanlarımızın yüksek erişilebilirliğini, performans profillemesini ve felaket kurtarma süreçlerini yönetecek kıdemli DBA arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Oracle RAC, Data Guard ve PostgreSQL Patroni kümelerinin 7/24 kesintisiz çalışmasını sağlamak - Yavaş çalışan SQL sorgularını, execution plan analizlerini ve indeksleme optimizasyonlarını yapmak - Veritabanı yedekleme/geri yükleme (RMAN, pgBackRest) testlerini düzenli icra etmek - Sürüm yükseltme ve yama uygulama operasyonlarını planlamak Adayda Aranan…"
+}
+},
+{
+"id": "C11054",
+"kind": "CV",
+"title": "Kıdemli Veritabanı Sistemleri Yöneticisi & Mimar",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "12 yılı aşkın süredir kurumların kurumsal veri mimarisini, veri tabanı standartlarını, lisanslama optimizasyonunu ve 8 kişilik DBA ekibini yöneten kıdemli yöneticiyim. Multi-engine veritabanı stratejilerini belirlerim.",
+"beceriler": "Database Strategy & Governance, License Optimization (Oracle/MSSQL), Vendor Negotiation, Disaster Recovery Planning, Team Leadership",
+"deneyim": [
+"Kıdemli Veritabanı Sistemleri Yöneticisi & Mimar ([TARİH]): Telekomünikasyon operatöründe 400 TB'lık kritik veritabanı operasyonunu yöneterek yıllık 1.5 milyon dolarlık …"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11263",
+"kind": "CV",
+"title": "Kıdemli Vue.js & Nuxt 3 Frontend Mimarı",
+"industry": "IT_SOFTWARE",
+"city": "Gaziantep",
+"context": {
+"ozet": "Vue 3 Composition API, Nuxt 3, Pinia ve TypeScript ile yüksek performanslı kurumsal web arayüzleri geliştiren kıdemli yazılımcıyım. SSR/SSG stratejileri, Nuxt Content modülü ve Tailwind CSS entegrasyonunda 6 yıllık tecrübem var.",
+"beceriler": "Vue.js 3, Nuxt 3, Composition API, TypeScript, Pinia, Tailwind CSS, Vite, Vitest",
+"deneyim": [
+"Kıdemli Vue.js & Nuxt 3 Frontend Mimarı ([TARİH]): B2B lojistik takip portalını Vue 2'den Nuxt 3 ve Composition API mimarisine geçirerek sayfa render performansını 3 kat…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11104",
+"kind": "CV",
+"title": "Kıdemli Vue.js Çözüm Mimarı",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Kurumsal yazılım firmalarında frontend mimari kararları alan, kod standartlarını belirleyen ve ekiplere mentorluk yapan 8 yıllık Vue uzmanıyım. Temiz kod, modüler yapı, CI/CD ve güvenlik denetimlerinde uzmanım.",
+"beceriler": "Vue.js Architecture, TypeScript, Nuxt 3, Monorepo (Turborepo), SonarQube, Team Mentoring",
+"deneyim": [
+"Kıdemli Vue.js Çözüm Mimarı ([TARİH]): 20 kişilik frontend ekibinin mimari liderliğini yürüterek şirketin tüm müşteri panellerini Vue 3 ve TypeScript standartlarına kavu…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1526",
+"kind": "JOB",
+"title": "Kıdemli Web Performans & Frontend Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Milyonlarca aktif kullanıcının web deneyimini hızlandırmak amacıyla, Core Web Vitals, tarayıcı render optimizasyonu ve CDN önbellekleme konularına odaklanacak kıdemli uzman arıyoruz. Neler Yapacaksınız? - Web platformumuzun LCP, FID/INP ve CLS metriklerini analiz etmek ve optimizasyon projelerini yürütmek - JavaScript bundle boyutlarını küçültmek, tree-shaking ve code splitting yapılandırmalarını mükemmelleştirmek - Edge sunucularda (Cloudflare Workers vb.) SSR sayfalarının akıllı önbelleklenmesini tasarlamak - Mühendislik ekiplerine performan…"
+}
+},
+{
+"id": "J1630",
+"kind": "JOB",
+"title": "Kıdemli Web Uygulama Güvenliği Uzmanı (AppSec)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Remote",
+"context": {
+"aciklama": "E-ticaret platformumuzun yüzlerce mikroservis ve web arayüzünde en karmaşık iş mantığı açıklarını tespit edecek kıdemli AppSec uzmanı arıyoruz. Pozisyonun Temel Görevleri: - Kritik ödeme, sipariş ve satıcı akışlarında derinlemesine manuel güvenlik testleri yapmak - Geliştirici ekipleriyle Threat Modeling (Tehdit Modelleme) oturumları düzenlemek - Bug Bounty programımızdan gelen güvenlik açıklarını doğrulamak ve önceliklendirmek - Güvenli yazılım geliştirme yaşam döngüsünü (SSDLC) kurumsallaştırmak Beklenen Deneyim ve Yetenekler: - En az 5 yıl …"
+}
+},
+{
+"id": "C11112",
+"kind": "CV",
+"title": "Kıdemli Web Uygulama Sızma Testi Uzmanı (Web Pentester)",
+"industry": "IT_SOFTWARE",
+"city": "Trabzon",
+"context": {
+"ozet": "Web uygulamaları ve API'lerde OWASP Top 10 zafiyetleri (SQLi, XSS, SSRF, IDOR, RCE, CSRF) tespiti ve istismarı yapan, Burp Suite Professional ve manuel penetrasyon testlerinde 6 yıllık sertifikalı uzmanım.",
+"beceriler": "Web Application Penetration Testing, Burp Suite Pro, OWASP Top 10, API Security Testing, Source Code Review, Remediation Guidance",
+"deneyim": [
+"Kıdemli Web Uygulama Sızma Testi Uzmanı (Web Pentester) ([TARİH]): E-ticaret ödeme akışında kritik bir IDOR ve iş mantığı (business logic) açığını canlıya çıkmadan önce …",
+"Siber Güvenlik Stajyeri ([TARİH]): Kurum içi ağda Nessus zafiyet tarama aracının çalıştırılmasına eşlik ettim, elde edilen açık port ve zafiyet raporlarını sınıflandırdı…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11197",
+"kind": "CV",
+"title": "Kıdemli Yazılım Test Otomasyon Mimarı (SDET)",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Web, mobil ve API katmanlarında Selenium, Playwright, Appium ve RestAssured ile kurumsal test otomasyon çatıları (Framework) kuran 7 yıllık kıdemli SDET uzmanıyım. BDD (Cucumber), paralel test koşturma ve CI/CD raporlama entegrasyonlarında uzmanım.",
+"beceriler": "Test Automation Architecture (SDET), Selenium WebDriver & Playwright, Java / Python / TypeScript, Cucumber BDD, Appium (Mobile Automation), RestAssured (API Testing), Jenkins & Allure Reports",
+"deneyim": [
+"Kıdemli Yazılım Test Otomasyon Mimarı (SDET) ([TARİH]): E-ticaret platformunda 1200 test senaryosunu içeren Java & Selenium BDD test çatısını sıfırdan kurdum; Docker Sel…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11250",
+"kind": "CV",
+"title": "Kimlik ve Erişim Yönetimi (IAM) Güvenlik Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Trabzon",
+"context": {
+"ozet": "Kurumsal kimlik yaşam döngüsü (IGA), Ayrıcalıklı Hesap Yönetimi (PAM / CyberArk), Çok Faktörlü Kimlik Doğrulama (MFA) ve Sıfır Güven (Zero Trust) mimarileri tasarlayan IAM mühendisiyim.",
+"beceriler": "Identity & Access Management (IAM), CyberArk PAM, Okta / Azure AD (Entra ID), Zero Trust Architecture, SAML 2.0 / OIDC, Role-Based Access Control (RBAC)",
+"deneyim": [
+"Kimlik ve Erişim Yönetimi (IAM) Güvenlik Uzmanı ([TARİH]): Bankada tüm sunucu ve veritabanı yönetici şifrelerini CyberArk PAM kasasına bağlayarak yetkisiz erişim riskini…"
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Yazılım Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C10764",
+"kind": "CV",
+"title": "Kimlik ve Erişim Yönetimi (IAM) Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Kimlik ve Erişim Yönetimi (IAM) Uzmanı olarak 2 yıllık profesyonel deneyime sahibim. Git & GitHub, Clean Code & Refactoring ve Agile & Scrum alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüksek bir uzmanım.",
+"beceriler": "Git & GitHub, Clean Code & Refactoring, Agile & Scrum, CI/CD Pipeline, Linux / Bash, Birim Testi (Unit Testing)",
+"deneyim": [
+"Kimlik ve Erişim Yönetimi (IAM) Uzmanı (2024 - Günümüz): CAD/CAM yazılımları ile teknik resim ve parça tasarım süreçlerini yürüterek imalat toleranslarını ve malzeme day…",
+"Stajyer (Temmuz 2022 - Ağustos 2022): Proje toplantı tutanaklarının tutulması, departmanlar arası veri akışının takibi ve kurumsal arşiv sisteminin güncellenmesi görevle…"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Matematik Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "J1273",
+"kind": "JOB",
+"title": "Kimlik ve Erişim Yönetimi (IAM) Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Softtech Bilgi Güvenliği Direktörlüğünde, [şehir] kampüsümüzde veya hibrit modelde görev alacak 'IAM Uzmanı' aramaktayız. Rol ve Şirket Hakkında: Softtech; finansal sistemlerde kullanıcı, servis ve sistem kimliklerinin en yüksek güvenlik ve denetim standartlarında yönetilmesini sağlar. Görev ve Sorumluluklar: - Kurumsal Kimlik ve Erişim Yönetimi (IAM/IGA) platformlarının (SailPoint, Keycloak, Ping Identity) kurulum, entegrasyon ve yönetimi, - Ayrıcalıklı Hesap Yönetimi (PAM - CyberArk vb.) sistemlerinin yapılandırılması ve yönetici erişimlerin…"
+}
+},
+{
+"id": "C11064",
+"kind": "CV",
+"title": "Kırmızı Takım (Red Team) ve Siber Saldırı Simülasyonu Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Gerçek dünya saldırganlarının taktik, teknik ve prosedürlerini (TTPs) simüle eden, sosyal mühendislik, oltalama (phishing) kampanyaları, fiziksel sızma ve komuta kontrol (C2 - Cobalt Strike / Mythic) operasyonları yürüten uzmanım.",
+"beceriler": "Red Teaming & TTP Emulation, Cobalt Strike / Sliver C2, Spear Phishing Campaigns, EDR Evasion & Obfuscation, Active Directory Exploitation, Physical Security Testing",
+"deneyim": [
+"Kırmızı Takım (Red Team) ve Siber Saldırı Simülasyonu Uzmanı ([TARİH]): Holding genelinde düzenlenen gizli Kırmızı Takım operasyonunda oltalama üzerinden hedef sunucuya …",
+"Proje Yönetimi Stajyeri ([TARİH]): Yazılım geliştirme ekibinin günlük Scrum toplantı notlarını tuttum, Jira sprint panosundaki görev kartlarının güncelliğini takip ettim…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Yazılım Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J0874",
+"kind": "JOB",
+"title": "Konuşma Tanıma ve Ses Sentezi (TTS/STT) Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Turkcell Teknoloji Yapay Zeka ve Konuşma Teknolojileri Bölümünde, [şehir] ofisimizde görev yapacak 'Konuşma Tanıma ve Ses Sentezi Mühendisi' aramaktayız. Rol ve Şirket Hakkında: Turkcell, yerli sesli asistan ve çağrı merkezi otomasyonlarında yapay zeka tabanlı konuşma tanıma ve sentezleme teknolojilerine öncülük etmektedir. Görev ve Sorumluluklar: - Otomatik Konuşma Tanıma (ASR / STT - Whisper, Conformer, Kaldi) modellerinin Türkçe akustik ve dil modelleriyle eğitilmesi ve optimizasyonu, - Metinden Sese Dönüştürme (TTS - FastSpeech, VITS, Taco…"
+}
+},
+{
+"id": "C11256",
+"kind": "CV",
+"title": "Konuşma Tanıma ve Sesli Yapay Zeka (Voice AI) Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Otomatik konuşma tanıma (STT / Whisper), metinden sese dönüştürme (TTS) ve gerçek zamanlı sesli diyalog sistemleri geliştiren yapay zeka mühendisiyim. Gürültü engelleme ve ses kalitesi optimizasyonu yaparım.",
+"beceriler": "Speech-to-Text (OpenAI Whisper), Text-to-Speech (Coqui / ElevenLabs), Audio Signal Processing, WebRTC Audio Streaming, Voice Activity Detection (VAD), Python",
+"deneyim": [
+"Konuşma Tanıma ve Sesli Yapay Zeka (Voice AI) Mühendisi ([TARİH]): Çağrı merkezi için gerçek zamanlı müşteri-temsilci konuşmasını 1 saniyenin altında metne döken ve canl…",
+"Veri Bilimi Stajyeri ([TARİH]): Müşteri segmentasyonu projesinde kayıp veri analizi (missing value handling) ve aykırı değer temizleme scriptlerini Python (Pandas/Scikit…"
+],
+"egitim": [
+"Gazi Üniversitesi - Lisans (Elektrik-Elektronik Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11213",
+"kind": "CV",
+"title": "Kredi Riski ve Finansal Modelleme Veri Bilimcisi",
+"industry": "IT_SOFTWARE",
+"city": "Van",
+"context": {
+"ozet": "Bankacılık ve finans kuruluşlarında PD (Temerrüt Olasılığı), LGD (Temerrüt Halinde Kayıp) ve IFRS 9 kredi riski modelleri geliştiren uzman veri bilimciyim. Skor kartı tasarımı (Scorecard), WoE (Weight of Evidence) ve lojistik regresyonda uzmanım.",
+"beceriler": "Credit Risk Modeling (PD/LGD/EAD), Scorecard Development, WoE / IV Feature Selection, IFRS 9 Regulatory Standards, Python & SAS, SQL",
+"deneyim": [
+"Kredi Riski ve Finansal Modelleme Veri Bilimcisi ([TARİH]): Dijital tüketici kredisi skor kartını makine öğrenmesi ve WoE analiziyle yenileyerek batık kredi oranını %22 …"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (İstatistik) [TARİH]"
+]
+}
+},
+{
+"id": "J0176",
+"kind": "JOB",
+"title": "Kriptografi ve Güvenlik Protokolü Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Bursa",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "TÜBİTAK BİLGEM Siber Güvenlik Enstitüsü Kriptoloji Bölümünde, [şehir] yerleşkemizde görev alacak 'Kriptografi ve Güvenlik Protokolü Mühendisi' aranmaktadır. Rol ve Şirket Hakkında: TÜBİTAK BİLGEM, milli güvenliğin kriptografik algoritmalarını, askeri şifreleme cihazlarını ve post-kuantum güvenlik çözümlerini geliştiren referans kurumdur. Görev ve Sorumluluklar: - Simetrik ve asimetrik şifreleme algoritmalarının (AES, RSA, ECC) matematiksel tasarımı, analizi ve güvenli implementasyonu, - Kuantum sonrası kriptografi (Post-Quantum Cryptography - …"
+}
+},
+{
+"id": "J1193",
+"kind": "JOB",
+"title": "Kritik Altyapı ve SCADA Güvenliği Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Antalya",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "STM Siber Güvenlik Teknolojileri bünyesinde, [şehir] yerleşkemizde kritik endüstriyel kontrol sistemlerinin güvenliğini sağlayacak 'Kritik Altyapı ve SCADA Güvenliği Uzmanı' aramaktayız. Rol ve Şirket Hakkında: STM; milli savunma sanayii, enerji, ulaştırma ve kritik altyapı tesislerine yönelik siber güvenlik operasyonları ve zafiyet analizi hizmetleri sunan öncü teknoloji kuruluşudur. Görev ve Sorumluluklar: - Endüstriyel Kontrol Sistemleri (ICS), SCADA, DCS ve PLC ağlarının güvenlik analizlerinin gerçekleştirilmesi, - IEC 62443, NIST SP 800-8…"
+}
+},
+{
+"id": "C10819",
+"kind": "CV",
+"title": "Kuantum Hesaplama Algoritma Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Bilgisayar Mühendisliği alanındaki güçlü akademik temelim ve 1 yılı aşkın sektör deneyimimle, Kuantum Hesaplama Algoritma Uzmanı rolünde uçtan uca başarılı projeler yürütmekteyim. A/B Testi, İstatistiksel Modelleme ve Derin Öğrenme (PyTorch / TensorFlow) başta olmak üzere modern araç ve metodolojilere hakimim. Süreç verimliliğini artıran, veri oda…",
+"beceriler": "A/B Testi, İstatistiksel Modelleme, Derin Öğrenme (PyTorch / TensorFlow), SQL & PostgreSQL, Veri Görselleştirme (Power BI / Tableau), Büyük Veri (Apache Spark)",
+"deneyim": [
+"Kuantum Hesaplama Algoritma Uzmanı (2024 - Günümüz): Yazılım yaşam döngüsü boyunca temiz kod ve SOLID prensiplerine bağlı kalarak kod incelemelerini yürüttüm ve mimari b…",
+"Kuantum Hesaplama Algoritma Uzmanı (2022 - 2024): Kullanıcı dostu ön yüz arayüzleri geliştirerek bileşen tabanlı modern kütüphaneler ile performans odaklı web çözümleri …",
+"Stajyer (Temmuz 2023 - Ağustos 2023): Departman bünyesinde haftalık operasyonel veri setlerinin derlenmesi ve analistlerin hazırladığı teknik raporların ön inceleme süre…"
+],
+"egitim": [
+"TOBB Ekonomi ve Teknoloji Üniversitesi - Lisans (Bilgisayar Mühendisliği) 2020 - 2024"
+]
+}
+},
+{
+"id": "J1368",
+"kind": "JOB",
+"title": "Kuantum Hesaplama Algoritma Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "TÜBİTAK BİLGEM Kuantum Teknolojileri Araştırma Laboratuvarı bünyesinde, [şehir] Ar-Ge merkezimizde kuantum algoritmaları ve kuantum simülasyonları geliştirecek 'Kuantum Hesaplama Algoritma Uzmanı' aramaktayız. Rol ve Kurum Hakkında: TÜBİTAK BİLGEM; Türkiye'nin kuantum hesaplama, kuantum kriptografi ve ileri bilgi teknolojileri alanındaki milli Ar-Ge kabiliyetlerini inşa eden stratejik araştırma merkezidir. Görev ve Sorumluluklar: - Qiskit, Cirq, Pennylane ve Q# kütüphaneleri kullanılarak kuantum algoritmalarının modellenmesi, simülasyonu ve op…"
+}
+},
+{
+"id": "C11092",
+"kind": "CV",
+"title": "Kubernetes Güvenlik ve Ağ Mühendisi (CKS)",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "K8s kümelerinde Cilium CNI (eBPF tabanlı ağ), Kyverno/OPA Gatekeeper politika motoru, Falco çalışma zamanı tehdit tespiti ve mTLS şifreleme kuran konteyner güvenlik mimarıyım. CIS Benchmark uyumluluğunda uzmanım.",
+"beceriler": "Kubernetes Security, Cilium CNI & eBPF, Kyverno / OPA Gatekeeper, Falco Threat Detection, Trivy Container Scanning, mTLS (Linkerd/Istio)",
+"deneyim": [
+"Kubernetes Güvenlik ve Ağ Mühendisi (CKS) ([TARİH]): Telekom K8s altyapısında Cilium eBPF ağ mimarisine geçerek ağ gecikmesini %25 düşürdüm ve Kyverno politikaları ile i…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C10569",
+"kind": "CV",
+"title": "Kubernetes ve Konteyner Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"context": {
+"ozet": "Kocaeli Üniversitesi Bilgisayar Mühendisliği bölümünden başarıyla mezun oldum. Kubernetes ve Konteyner Uzmanı alanında kariyer hedefim doğrultusunda teorik bilgi birikimimi ve Linux / Bash, CI/CD Pipeline ve Git & GitHub konularındaki staj/proje tecrübelerimi iş hayatına aktarmak istiyorum. Öğrenmeye açık, analitik düşünme yeteneğine sahip ve kuru…",
+"beceriler": "Linux / Bash, CI/CD Pipeline, Git & GitHub, Clean Code & Refactoring, Docker & Kubernetes",
+"deneyim": [
+"Stajyer (Temmuz 2022 - Ağustos 2022): Zorunlu staj kapsamında departman iş akışlarını gözlemledim, uzman ekiple birlikte saha/ofis denetimlerine katılarak teknik doküman…"
+],
+"egitim": [
+"Kocaeli Üniversitesi - Lisans (Bilgisayar Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "J1028",
+"kind": "JOB",
+"title": "Kubernetes ve Konteyner Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Akbank Teknoloji bünyesinde, [şehir] ofisimizde veya hibrit modelde görev alacak, büyük ölçekli konteyner orkestrasyon altyapımızı yönetecek 'Kubernetes ve Konteyner Uzmanı' aramaktayız. Rol ve Şirket Hakkında: Akbank Teknoloji; yüzlerce kritik finansal mikroservisi yüksek erişilebilirlik ve sıfır kesinti hedefiyle bulut tabanlı konteyner platformları üzerinde çalıştıran Türkiye'nin öncü bankacılık teknoloji ekiplerindendir. Görev ve Sorumluluklar: - Üretim ortamlarındaki on-premise ve bulut Kubernetes (K8s, OpenShift) clusterlarının kurulumu,…"
+}
+},
+{
+"id": "C11166",
+"kind": "CV",
+"title": "Kullanıcı Deneyimi ve Ürün Analitiği Uzmanı (Product Analyst)",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"context": {
+"ozet": "Mobil ve web uygulamalarında kullanıcı funnel'ları, kohort analizi, özellik benimseme (feature adoption) ve A/B test sonuçlarını analiz eden ürün analistiyim. Mixpanel, Amplitude ve SQL araçlarında uzmanım.",
+"beceriler": "Amplitude & Mixpanel, Funnel & Cohort Analysis, A/B Testing Analysis, SQL & Python, User Retention Modeling, Tableau / Looker",
+"deneyim": [
+"Kullanıcı Deneyimi ve Ürün Analitiği Uzmanı (Product Analyst) ([TARİH]): SaaS uygulamasında kullanıcı kayıt olma funnel'ını Amplitude ile analiz ederek dönüşümü düşüren …"
+],
+"egitim": [
+"Marmara Üniversitesi - Lisans (Yönetim Bilişim Sistemleri (YBS)) [TARİH]"
+]
+}
+},
+{
+"id": "C11207",
+"kind": "CV",
+"title": "Kurumsal .NET Backend & ERP Entegrasyon Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "SAP, Logo ve Netsis gibi kurumsal ERP sistemleri ile e-ticaret ve CRM platformları arasında çift yönlü veri senkronizasyonu kuran kıdemli .NET yazılımcısıyım. Windows Services, BackgroundService, SOAP/REST ve mesaj kuyruklarına hakimim.",
+"beceriler": "C# .NET, SAP RFC / BAPI Entegrasyonu, Entity Framework, SQL Server, RabbitMQ, Windows Services, Swagger / OpenAPI",
+"deneyim": [
+"Kurumsal .NET Backend & ERP Entegrasyon Uzmanı ([TARİH]): Üretim fabrikasında e-fatura, sipariş ve stok hareketlerini SAP ERP sistemi ile .NET tabanlı entegrasyon servis…"
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J1432",
+"kind": "JOB",
+"title": "Kurumsal .NET Yazılım Uzmanı (WCF Modernizasyonu & .NET 8)",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Büyük ölçekli telekomünikasyon CRM altyapılarında legacy WCF servislerini modern .NET 8 mikroservis mimarisine dönüştürecek yazılım uzmanı arıyoruz. Görev ve Sorumluluklar: - Eski monolitik servislerin iş mantığını analiz ederek bağımsız mikroservislere dönüştürmek - Oracle veritabanı paket ve prosedürlerini modern ORM katmanlarıyla entegre etmek - API Gateway (Ocelot/YARP) arkasında servis yönlendirme ve rate-limiting politikaları uygulamak - Yeni geliştirilen servislerin dokümantasyonunu ve entegrasyon testlerini eksiksiz hazırlamak Aranan N…"
+}
+},
+{
+"id": "C11065",
+"kind": "CV",
+"title": "Kurumsal Java / Jakarta EE Yazılım Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Sigortacılık ve finans alanlarında kurumsal monolitik sistemlerin modern mikroservis mimarisine dönüştürülmesinde görev alan Java mühendisiyim. Hibernate / JPA performans optimizasyonu, connection pool (HikariCP) yönetimi ve RESTful servis geliştirmede deneyimliyim.",
+"beceriler": "Java, Spring Boot, Hibernate / JPA, HikariCP, MSSQL / Oracle, Flyway / Liquibase, Maven, SonarQube",
+"deneyim": [
+"Kurumsal Java / Jakarta EE Yazılım Mühendisi ([TARİH]): Sigorta poliçe yönetim yazılımının 10 yıllık eski EJB kod tabanını Spring Boot mikroservislerine taşıdım; veri ta…",
+"Aday Mühendis (Yazılım) ([TARİH]): Haftada 2 gün aday mühendislik programı kapsamında mikroservis mimarisindeki loglama kütüphanelerinin incelenmesi, ELK stack log forma…"
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Yazılım Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11175",
+"kind": "CV",
+"title": "Kurumsal Veri Modelleme ve Boyutsal Veri Mimarı (Kimball)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Ralph Kimball metodolojisi ile Star Schema, Snowflake Schema, yavaş değişen boyutlar (SCD Type 1/2/3) ve Fact tabloları modelleyen kurumsal veri ambarı mimarıyım. İş birimleri için anlaşılır analitik marts tasarlarım.",
+"beceriler": "Dimensional Modeling (Star/Snowflake Schema), SCD Type 2 Implementation, Erwin Data Modeler / Draw.io, Enterprise Data Marts, Advanced SQL",
+"deneyim": [
+"Kurumsal Veri Modelleme ve Boyutsal Veri Mimarı (Kimball) ([TARİH]): Holding perakende ve toptan satış verilerini tek bir kurumsal kurumsal veri modelinde (Enterprise Bu…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "J0947",
+"kind": "JOB",
+"title": "KVKK ve Bilgi Güvenliği Danışmanı (ISO 27001)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Aşağıdaki niteliklere sahip ve belirtilen süreçleri yönetecek adayların başvurularını bekliyoruz: 'KVKK ve Bilgi Güvenliği Danışmanı (ISO 27001)' ekibimize katılacak çalışma arkadaşı aranmaktadır. İşin Tanımı: Şirketlerin veri envanterini çıkaracak, VERBİS kayıtlarını tamamlayacak ve siber güvenlik politika açıklarını denetleyecek. Beklenen Nitelikler: - Sunum, raporlama ve müşteri ilişkileri yönetimi becerileri en üst seviyede olan - ISO belgelendirme, KVKK veya süreç optimizasyonu projelerinde danışmanlık vermiş - Yoğun seyahat ve proje bazl…"
+}
+},
+{
+"id": "C10898",
+"kind": "CV",
+"title": "Large-Scale Graph Database Architect",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"context": {
+"ozet": "Results-oriented Large-Scale Graph Database Architect with 3+ years of enterprise experience and a solid educational foundation in Artificial Intelligence & Data Engineering. Proven track record in optimizing operational workflows, delivering scalable initiatives, and leveraging Python (Pandas, NumPy), Big Data (Apache Spark) and Statistical Model…",
+"beceriler": "Python (Pandas, NumPy), Big Data (Apache Spark), Statistical Modeling, Deep Learning (PyTorch / TensorFlow), Machine Learning (Scikit-Learn), ETL & Data Pipelines",
+"deneyim": [
+"Large-Scale Graph Database Architect (2023 - Present): Refactored legacy codebases adhering strictly to SOLID design patterns, leading cross-functional code reviews to m…",
+"Intern (January 2022 - February 2022): Participated in automated test runs, logged detected anomalies into issue trackers, and assisted with user acceptance validation p…"
+],
+"egitim": [
+"Kocaeli University - Bachelor's Degree (Artificial Intelligence & Data Engineering) 2019 - 2023"
+]
+}
+},
+{
+"id": "J1691",
+"kind": "JOB",
+"title": "Lead AI & Data Science Architect",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Akbank genelindeki tüm yapay zeka, makine öğrenimi ve üretken yapay zeka (GenAI) vizyonunu yönetecek, 20+ kişilik veri bilimi ekibine teknik liderlik yapacak Baş Mimar arıyoruz. Rol ve Sorumluluklar: - Banka genelinde uygulanacak kurumsal Yapay Zeka stratejisini ve MLOps mimari çerçevesini belirlemek - Kredi skorlama, müşteri analitiği ve dijital asistan modellerinin mimari uygunluğunu onaylamak - Yapay zeka etiği, açıklanabilir yapay zeka (XAI) ve model yönetişimi politikalarını kurgulamak - Üst düzey yönetim kurullarına bankanın yapay zeka d…"
+}
+},
+{
+"id": "J1543",
+"kind": "JOB",
+"title": "Lead Android Engineer",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Remote",
+"context": {
+"aciklama": "On milyonlarca aktif kullanıcıya sahip Trendyol Android uygulamasının genel teknik vizyonunu belirleyecek, 15+ kişilik mühendis kadrosuna liderlik edecek Lead Android Engineer arıyoruz. Rol ve Sorumluluklar: - Android platformunun mimari standartlarını, modülerizasyon stratejilerini ve teknik borç planını yönetmek - Uygulamanın başlangıç süresi, donma (ANR) oranı ve ağ verimliliği hedeflerini denetlemek - Mühendislik organizasyonunda en iyi kodlama pratiklerini ve sürekli entegrasyon kültürünü yaygınlaştırmak - Ürün liderleri ile teknik fizibi…"
+}
+},
+{
+"id": "J1518",
+"kind": "JOB",
+"title": "Lead Angular Architect (Kurumsal Bankacılık Portalleri)",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Akbank kurumsal ve ticari internet bankacılığı web platformunun frontend mimarisini yönetecek, 15+ kişilik Angular ekibine mimari vizyon kazandıracak Lead Architect arıyoruz. Pozisyonun Temel Görevleri: - Banka genelinde Angular sürümlerinin yükseltilmesini ve mikro-frontend (Module Federation) geçişini yönetmek - Güvenlik zafiyetlerini önleyen ve kurumsal standartlara tam uyumlu frontend şablonları hazırlamak - Teknik borcu yönetmek ve modernleşme adımlarını bankanın stratejik hedefleriyle hizalamak - Mühendislik takımının teknik yetkinlikler…"
+}
+},
+{
+"id": "J1659",
+"kind": "JOB",
+"title": "Lead Big Data Platform Engineer",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Turkcell'in petabaytlarca şebeke, çağrı ve dijital servis verisini barındıran devasa Büyük Veri kümesinin mimarisini yönetecek Lead Big Data Platform Engineer arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Hadoop, Spark, Kafka, Presto ve Ceph kümelerinden oluşan büyük veri altyapısının teknik liderliğini üstlenmek - Veri güvenliği, şifreleme ve KVKK uyumlu veri maskeleme standartlarını belirlemek - Platformun kapasite planlamasını, donanım yatırımlarını ve kaynak orkestrasyonunu (YARN/Kubernetes) yönetmek - Analitik takımlara ve veri bilimciler…"
+}
+},
+{
+"id": "J1663",
+"kind": "JOB",
+"title": "Lead Business Intelligence Engineer",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Global moda perakendeciliğinde 30+ ülkedeki mağaza satış, tedarik zinciri ve e-ticaret analitik ekibini yönetecek Lead BI Engineer arıyoruz. Temel İş ve Sorumluluk Alanları: - İş Zekası mühendislik takımının teknik liderliğini yürütmek ve sprint önceliklerini yönetmek - Tüm şirkette tek doğru veri kaynağı (Single Source of Truth) vizyonunu hayata geçirmek - C-level yönetim panellerinin tasarımını ve veri doğruluğunu güvence altına almak - İleri analitik ve makine öğrenimi modellerinin BI panellerine entegrasyonunu sağlamak Gereksinimler ve Nit…"
+}
+},
+{
+"id": "J1578",
+"kind": "JOB",
+"title": "Lead Cloud Architect (AWS & Multi-Region Resilience)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Küresel pazarlarda dakikalar içinde teslimat operasyonlarımızın arkasındaki çok bölgeli (multi-region) AWS bulut mimarisini ve altyapı mühendisliği ekibini yönetecek vizyoner bir Cloud Architect arıyoruz. Neler Yapacaksınız? - Tüm şirketin bulut altyapı vizyonunu, güvenlik standartlarını ve maliyet optimizasyonu (FinOps) hedeflerini belirlemek - Multi-region yüksek erişilebilirlik, felaket kurtarma (DR) ve aktif-aktif coğrafi yük dengeleme mimarilerini tasarlamak - 15+ kişilik DevOps ve SRE mühendislerinden oluşan teknik organizasyona liderlik…"
+}
+},
+{
+"id": "J1598",
+"kind": "JOB",
+"title": "Lead Cloud Infrastructure Architect",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Vodafone Türkiye dijital kanallarının ve kurumsal çözümlerinin çoklu bulut (AWS/Azure/GCP) mimari stratejisini yönetecek Lead Cloud Architect arıyoruz. Görev ve Sorumluluklar: - Şirket genelinde bulut geçiş (Cloud Migration) programının mimari yol haritasını yönetmek - FinOps prensipleriyle bulut harcamalarının optimizasyonunu ve bütçe verimliliğini sağlamak - Bulut yönetişimi (Cloud Governance), güvenlik standartları ve uyumluluk politikalarını oluşturmak - Global Vodafone teknoloji mimarlarıyla uluslararası projeleri koordine etmek Aranan Ni…"
+}
+},
+{
+"id": "J1548",
+"kind": "JOB",
+"title": "Lead Cross-Platform Mobile Architect",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"position_level": "LEAD",
+"mode": "Remote",
+"context": {
+"aciklama": "Uluslararası telekom operatörlerinin müşteri self-servis uygulamalarında kullanılan Flutter ve React Native çözümlerimizin mimarisini belirleyecek Lead Architect arıyoruz. Pozisyonun Temel Görevleri: - Çok kiracılı (white-label) mobil uygulama mimarisini kurgulamak ve teknik standartları belirlemek - Farklı operatörlerin kurumsal kimliklerine dinamik olarak uyarlanabilen tema ve konfigürasyon motorları tasarlamak - Global ölçekte mobil DevOps (Fastlane, Bitrise) ve otomatik test pipeline'larını kurmak - Yurt dışı müşteri teknik liderleri ile m…"
+}
+},
+{
+"id": "J1618",
+"kind": "JOB",
+"title": "Lead Cyber Threat Intelligence (CTI) Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Remote",
+"context": {
+"aciklama": "Trendyol ve uluslararası operasyonlarımıza yönelik siber tehditleri proaktif olarak izleyecek, Dark Web ve açık kaynak istihbaratını (OSINT) yönetecek Lead CTI uzmanı arıyoruz. Pozisyonun Temel Görevleri: - Tehdit istihbaratı stratejisini, veri toplama hatlarını ve analiz süreçlerini yönetmek - Dark Web forumları, sızıntı veritabanları ve tehdit aktörlerinin hareketlerini takip etmek - Şirket üst yönetimine ve teknik ekiplere stratejik ve operasyonel tehdit brifingleri sunmak - Tehdit istihbaratı verilerini (STIX/TAXII) güvenlik duvarları ve E…"
+}
+},
+{
+"id": "J1653",
+"kind": "JOB",
+"title": "Lead Data Architect (Lakehouse & Modern Data Stack)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Hepsiburada ekosisteminin kurumsal veri mimarisini (Databricks Lakehouse, Medallion Architecture) yönetecek, 15+ kişilik veri ekibine teknik liderlik yapacak Lead Data Architect arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Tüm şirketin kurumsal veri stratejisini, Lakehouse mimarisini ve veri yönetişimi (Data Governance) politikalarını belirlemek - Bronz, Gümüş ve Altın katmanlarında veri standartlarını ve veri sözleşmelerini (Data Contracts) tasarlamak - Veri ekiplerinin teknik yol haritasını yönetmek, veri depolama ve işleme maliyetlerini op…"
+}
+},
+{
+"id": "J1584",
+"kind": "JOB",
+"title": "Lead DevOps / SRE Manager",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Finansal borsa emir iletim ve piyasa verisi dağıtım altyapımızın sıfır hata toleransıyla çalışmasını güvence altına alacak, 10 kişilik SRE ekibimize liderlik edecek müdür arıyoruz. Neler Yapacaksınız? - SRE ve Altyapı takımlarının yönetimini üstlenmek, operasyonel mükemmellik kültürünü yerleştirmek - Borsa işlem saatlerinde 99.999% erişilebilirlik (five-nines) standartlarını korumak - Felaket kurtarma ve iş sürekliliği planlarını denetlemek ve tatbikatlarını yürütmek - Siber güvenlik ve regülatif denetim kurullarına altyapı uygunluğunu belgele…"
+}
+}
+]

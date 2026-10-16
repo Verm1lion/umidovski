@@ -1,0 +1,1049 @@
+[
+{
+"specialty": "Akıllı Aydınlatma Otomasyon Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şantiye Akıllı Aydınlatma ve DALI Otomasyonu Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Batarya Enerji Depolama Sistemleri Elektrik Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yenilenebilir Enerji Batarya Enerji Depolama (BESS) Elektrik Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bina Otomasyon Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bina Otomasyonu ve Akıllı Aydınlatma Sistemleri Mühendisi (KNX / DALI)",
+"Bina Yönetim Sistemleri (BMS) ve Otomasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Demiryolu Sinyalizasyon Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Demiryolu Hemzemin Geçit Güvenliği ve Otomasyon Mühendisi",
+"Demiryolu Sinyalizasyon ve Elektrifikasyon Mühendisi (ERTMS / ETCS)",
+"Demiryolu Sinyalizasyon ve Emniyet Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dinamik Tartım ve Dolum Sistemleri Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dinamik Tartım ve Dolum Sistemleri Mühendisi",
+"Dynamic Weighing & Packaging Automation Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrifikasyon ve Batarya Sistemleri Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Lead Electrification & Battery Systems Architect"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrik Dağıtım ve Şebeke Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Elektrik Dağıtım ve Şebeke Mühendisi"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrik Motoru Tasarım Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektrik Motorları Elektromanyetik Tasarım Mühendisi (Ansys Maxwell / Motor-CAD)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrik Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Electrical Engineer",
+"Elektrik Mühendisi"
+],
+"sektorler": [
+"ENV_ESG",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrik Pano Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektrik Pano İmalat ve Şantiye Montaj Mühendisi (IEC 61439)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrik Pano Tasarım Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Elektrik Dağıtım ve OG/AG Pano Tasarım Mühendisi (EPLAN Pro Panel)",
+"Junior Otomasyon ve Pano Mühendisi (EPLAN Pro Panel)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrikli Araç Şarj Sistemleri Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Elektrikli Araç Şarj Sistemleri ve Test Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güç Elektroniği Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Güç Elektroniği Mühendisi",
+"Güç Elektroniği ve Sürücü Donanım Tasarım Mühendisi (GaN / SiC)",
+"Junior Motor Sürücü ve Güç Elektroniği Mühendisi (BLDC / PMSM)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güç Elektroniği ve Batarya Sistemleri Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Askeri Güç Elektroniği ve Batarya Depolama Sistem Mühendisi (Silent Watch)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güç Kalitesi Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektromanyetik Uyumluluk (EMC) Filtre ve Şebeke Kalitesi Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güneş Enerjisi Santrali Elektrik Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Güneş Enerjisi (GES) ve İnvertör Sistemleri Elektrik Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hareket Kontrol Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hareket Kontrolü ve Sürücü Sistemleri Mühendisi (Motion Control)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hava Aracı Elektrik Güç Sistemleri Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Hava Aracı Elektrik Yük Analizi ve Güç Sistemi Mimarı (MIL-E-7016F)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kablo Demeti Tasarım Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otomotiv Kablo Demeti (Wiring Harness) Tasarım Mühendisi (Arcadia / Vesys)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kestirimci Bakım Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kestirimci Bakım Titreşim ve Akım İmza Analizi (MCSA) Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Motor Kontrol Algoritma Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Motor Kontrol Algoritmaları Mühendisi (FOC & Güç Elektroniği Kontrolü)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Motor Sürücü Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fırçasız Doğru Akım (BLDC/PMSM) Motor Sürücü Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomasyon Devreye Alma Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Otomasyon Saha Devreye Alma Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomasyon Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 2,
+"n_job": 4,
+"ornek_unvanlar": [
+"Demir-Çelik Haddehane Otomasyon Mühendisi",
+"Elektrik-Elektronik Mühendisi (Pano & Otomasyon)",
+"Endüstriyel Otomasyon ve PLC Programlama Mühendisi (Siemens TIA Portal)",
+"Endüstriyel Otomasyon ve PLC/SCADA Mühendisi (Siemens TIA Portal)",
+"Endüstriyel Üretim ve Otomasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": [
+"214"
+]
+},
+{
+"specialty": "Şantiye Elektrik Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şantiye Geçici Elektrik ve Jeneratör Altyapı Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sensör ve Aktüatör Test Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Test Mühendisi (Sensör ve Aktüatör Doğrulama)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tünel Aydınlatma ve Kontrol Sistemleri Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tünel Aydınlatma ve Tünel Kontrol Merkezi Mühendisi (SCADA / CIE 88)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yüksek Gerilim Güç Dağıtım Sistemleri Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otomotiv Batarya ve Güç Dağıtım Sistemleri Mühendisi (PDU / HV Harici)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yüksek Gerilim Proje Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yüksek Gerilim Trafo ve İletim Hatları Proje Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yüksek Gerilim Tesisleri Mühendisi",
+"isco4": "2151",
+"isco_title": "Electrical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"High Voltage Facilities Engineer",
+"Yüksek Gerilim Tesisleri Mühendisi"
+],
+"sektorler": [
+"ENV_ESG",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Araç Görüş Sistemleri Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Savunma Araçları C4I Durumsal Farkındalık ve Çevre Görüş Sistem Mühendisi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Araç İçi Haberleşme Ağı Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Otomotiv Haberleşme ve Ağ Mühendisi (CAN / LIN / FlexRay)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "ASIC Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"ASIC"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aviyonik Donanım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Aviyonik Donanım Sertifikasyon Mühendisi (DO-254 / DAL-A)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aviyonik Donanım Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Aviyonik Gömülü Donanım Tasarım Mühendisi (DO-254 & FPGA)"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aviyonik Sistem Entegrasyon ve Test Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Aviyonik Sistem Entegrasyon ve Test Mühendisi (MIL-STD-1553B / ARINC 429)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Batarya Yönetim Sistemi Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Batarya Yönetim Sistemi (BMS) Donanım Entegrasyon Mühendisi",
+"Batarya Yönetim Sistemi (BMS) Donanım ve Yazılım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyomedikal Elektronik Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Biyopotansiyel Sinyal İşleme ve EEG/ECG Donanım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çip Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"ASIC / VLSI Çip Tasarım Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Derin Öğrenme Donanım Mimarı",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Derin Öğrenme Donanım Mimarı (NPU",
+"Derin Öğrenme Donanım Mimarı (NPU/TPU)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Donanım Doğrulama Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mikroişlemci Donanım Doğrulama ve Emülasyon Mühendisi (SystemVerilog / UVM)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Donanım Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Donanım Tasarım Mühendisi",
+"Embedded Hardware Engineer",
+"Giyilebilir Teknolojiler Donanım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Donanım Test ve Doğrulama Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Donanım Test ve Doğrulama Mühendisi (HIL - Hardware in the Loop)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Donanım ve PCB Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yüksek Hızlı Sayısal Donanım ve PCB Tasarım Mühendisi (Altium)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektro-Optik Sistem Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektro-Optik ve Kızılötesi (EO/IR) Keşif Podu Sistem Mühendisi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektromanyetik Uyumluluk Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektronik Donanım EMC/EMI Test ve Uyumluluk Mühendisi",
+"Savunma Araçları Elektromanyetik Darbe (EMP/HEMP) Koruma Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektronik Donanım Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 5,
+"n_job": 3,
+"ornek_unvanlar": [
+"Akıllı Kart ve Temassız Ödeme Donanım Mühendisi (NFC / RFID / EMV)",
+"Araç Telematik ve Filo Takip Gömülü Donanım Mühendisi",
+"Batarya Yönetim Sistemi (BMS) Donanım Mühendisi",
+"Havacılık Aviyonik Güç Kaynağı ve Yıldırım Koruma Mühendisi (DO-160)",
+"Junior Elektronik Donanım Tasarım Mühendisi (Altium Designer)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"IT_SOFTWARE",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektronik Kart Arıza Analiz Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Otomotiv Elektronik Kart Arıza Analiz Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektronik ve Haberleşme Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektronik ve Haberleşme Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Enstrümantasyon Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Enstrümantasyon ve Proses Kontrol Mühendisi (HART / Fieldbus)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Enstrümantasyon ve Kalibrasyon Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Enstrüman ve Sensör Kalibrasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Enstrümantasyon ve Proses Kontrol Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Enstrümantasyon ve Proses Kontrol Mühendisi (DCS / SIS)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "FPGA Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"FPGA Sayısal Tasarım ve Doğrulama Mühendisi (VHDL / Vivado)",
+"FPGA ve Donanım Hızlandırma Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gömülü Donanım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gömülü Donanım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güç Elektroniği Donanım Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Güç Elektroniği ve İnverter Donanım Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "IoT Donanım Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kablosuz Haberleşme ve IoT Donanım Mühendisi (BLE / LoRaWAN)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal Elektronik Donanım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Medikal Elektronik Donanım ve Yaşam Destek Sistemleri Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "MEMS Sensör Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"MEMS Sensör Tasarım ve Üretim Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "MEMS Sensör Tasarım ve Üretim Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"MEMS Sensör Tasarım ve Üretim Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Optoelektronik Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Optoelectronics & Photonics Engineer",
+"Optoelektronik ve Lazer Sürücü Donanım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Optoelektronik ve Fotonik Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Optoelektronik ve Fotonik Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Araç İçi Ağ Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv ECU ve Araç İçi Ağ Mühendisi (CAN / LIN / UDS)",
+"Otomotiv Ethernet ve Ağ Güvenliği Mühendisi (Automotive Ethernet & SOME/IP)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radar Sistem Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Füze Arayıcı Başlık ve Radar Algoritma Sistem Mühendisi (RF Seeker)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radar ve Elektronik Harp Sistemleri Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Radar & Electronic Warfare Systems Engineer"
+],
+"sektorler": [
+"AVIATION",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "RF ve Mikrodalga Tasarım Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"RF & Microwave Systems Design Engineer",
+"RF ve Mikrodalga Donanım Tasarım Mühendisi (Keysight ADS / HFSS)",
+"RF ve Mikrodalga Sistem Tasarımcısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Savunma Sistemleri Entegrasyon Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Savaş Yönetim Sistemi (SYS) ve C4ISR Entegrasyon Mühendisi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "SCADA Sistemleri Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"SCADA ve Merkezi İzleme Sistemleri Mühendisi (Wonderware / WinCC)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sualtı Akustik Sistemleri Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Underwater Acoustic Systems Engineer"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sualtı ve Deniz Elektroniği Sistemleri Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sualtı ve Deniz Elektroniği Sistemleri Mühendisi (Sonar / Akustik)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Zayıf Akım Sistemleri Mühendisi",
+"isco4": "2152",
+"isco_title": "Electronics engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Zayıf Akım ve Bina Otomasyon Sistemleri Şantiye Mühendisi (BMS / CCTV / Yangın)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektronik ve Haberleşme Mühendisi",
+"isco4": "2153",
+"isco_title": "Telecommunications engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Elektronik ve Haberleşme Mühendisi"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Haberleşme Sistemleri Mühendisi",
+"isco4": "2153",
+"isco_title": "Telecommunications engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Askeri Haberleşme ve Telsiz Ağları Sistem Mühendisi (SDR / HF/VHF)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+}
+]

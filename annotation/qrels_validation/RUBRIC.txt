@@ -1,0 +1,6 @@
+Derece olcegi (CV'deki aday bu ilan icin ne kadar uygun?):
+3 = Tam eslesme: ayni meslek/uzmanlik (ayni is), yaka uyumlu, kidem en fazla 1 kademe farkli, lokasyon uyumlu (ayni sehir ya da ilan uzaktan/Remote).
+2 = Yuksek alaka: ayni meslek grubu / cok yakin rol, yaka uyumlu, kidem en fazla 2 kademe farkli; lokasyon farkli olabilir.
+1 = Kismi alaka: ayni ana sektor ve yaka ama farkli rol; YA DA ayni rol ama kidem cok uyumsuz (>=3 kademe, or. stajyer vs direktor).
+0 = Alakasiz: farkli yaka veya farkli sektor ve farkli meslek.
+Kidem kademeleri: 0 stajyer/ogrenci, 1 giris/junior/yardimci, 2 uzman/orta, 3 kidemli/usta, 4 lider/sef/mudur, 5 direktor/ust yonetim.

@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30601",
+  "target_occ_key": "2611:sigorta_hukuku_avukati",
+  "target_specialty": "Sigorta Hukuku Avukatı",
+  "target_isco4": "2611",
+  "target_isco_title": "Lawyers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Tazminat ve Sigorta Hukuku Avukatı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30602",
+  "target_occ_key": "2611:spor_hukuku_avukati",
+  "target_specialty": "Spor Hukuku Avukatı",
+  "target_isco4": "2611",
+  "target_isco_title": "Lawyers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Spor ve Futbolcu Sözleşmeleri Hukuk Danışmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30603",
+  "target_occ_key": "2611:telekomunikasyon_hukuku_avukati",
+  "target_specialty": "Telekomünikasyon Hukuku Avukatı",
+  "target_isco4": "2611",
+  "target_isco_title": "Lawyers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Telekomünikasyon ve Frekans Hukuku Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30604",
+  "target_occ_key": "2611:uluslararasi_insaat_sozlesmeleri_muduru",
+  "target_specialty": "Uluslararası İnşaat Sözleşmeleri Müdürü",
+  "target_isco4": "2611",
+  "target_isco_title": "Lawyers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Uluslararası FIDIC Sözleşmeleri Yöneticisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30605",
+  "target_occ_key": "2611:uluslararasi_ticaret_ve_yaptirimlar_avukati",
+  "target_specialty": "Uluslararası Ticaret ve Yaptırımlar Avukatı",
+  "target_isco4": "2611",
+  "target_isco_title": "Lawyers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Uluslararası Ticaret ve Yaptırımlar (Sanctions) Avukatı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30606",
+  "target_occ_key": "2619:marka_vekili",
+  "target_specialty": "Marka Vekili",
+  "target_isco4": "2619",
+  "target_isco_title": "Legal professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Marka Tescil ve İtiraz Vekili"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30607",
+  "target_occ_key": "2619:patent_uzmani",
+  "target_specialty": "Patent Uzmanı",
+  "target_isco4": "2619",
+  "target_isco_title": "Legal professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Farmasötik Ar-Ge Patent ve Literatür Araştırma Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30608",
+  "target_occ_key": "2619:patent_vekili",
+  "target_specialty": "Patent Vekili",
+  "target_isco4": "2619",
+  "target_isco_title": "Legal professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Patent ve Faydalı Model Vekili (TPE Tescilli)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30609",
+  "target_occ_key": "2619:yonetim_kurulu_raportoru",
+  "target_specialty": "Yönetim Kurulu Raportörü",
+  "target_isco4": "2619",
+  "target_isco_title": "Legal professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Hukuk Müşavirliği ve Yönetim Kurulu Raportörü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30610",
+  "target_occ_key": "2634:psikolog",
+  "target_specialty": "Psikolog",
+  "target_isco4": "2634",
+  "target_isco_title": "Psychologists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Maaşlı Psikolog"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30611",
+  "target_occ_key": "2641:icerik_editoru",
+  "target_specialty": "İçerik Editörü",
+  "target_isco4": "2641",
+  "target_isco_title": "Authors and related writers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "İçerik Editörü ve Dijital Yayın Asistanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30612",
+  "target_occ_key": "2641:kullanici_deneyimi_yazari",
+  "target_specialty": "Kullanıcı Deneyimi Yazarı",
+  "target_isco4": "2641",
+  "target_isco_title": "Authors and related writers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Kullanıcı Deneyimi Yazarı (UX Writer / Content Designer)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30613",
+  "target_occ_key": "2641:medikal_yazar",
+  "target_specialty": "Medikal Yazar",
+  "target_isco4": "2641",
+  "target_isco_title": "Authors and related writers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Medikal Yazar (Clinical Study Protocol Writer)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30614",
+  "target_occ_key": "2641:teknik_yazar",
+  "target_specialty": "Teknik Yazar",
+  "target_isco4": "2641",
+  "target_isco_title": "Authors and related writers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "APPAREL_TEXTILE",
+  "industry_tr": "Tekstil ve Hazır Giyim",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Teknik Dokümantasyon ve Kılavuz Yazarı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30615",
+  "target_occ_key": "2643:cevirmen",
+  "target_specialty": "Çevirmen",
+  "target_isco4": "2643",
+  "target_isco_title": "Translators, interpreters and other linguists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Academic Translation & Terminology Specialist"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30616",
+  "target_occ_key": "2652:muzik_produktoru",
+  "target_specialty": "Müzik Prodüktörü",
+  "target_isco4": "2652",
+  "target_isco_title": "Musicians, singers and composers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Ses Tasarımcısı ve Müzik Prodüktörü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30617",
+  "target_occ_key": "2654:film_ve_dizi_sanat_yonetmeni",
+  "target_specialty": "Film ve Dizi Sanat Yönetmeni",
+  "target_isco4": "2654",
+  "target_isco_title": "Film, stage and related directors and producers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Film ve Dizi Sanat Yönetmeni"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30618",
+  "target_occ_key": "2654:podcast_yapimcisi",
+  "target_specialty": "Podcast Yapımcısı",
+  "target_isco4": "2654",
+  "target_isco_title": "Film, stage and related directors and producers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Podcast ve Ses Kurgu Yapımcısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30619",
+  "target_occ_key": "2654:yapimci",
+  "target_specialty": "Yapımcı",
+  "target_isco4": "2654",
+  "target_isco_title": "Film, stage and related directors and producers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Prodüktör / İçerik Üretim Yöneticisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30620",
+  "target_occ_key": "2655:figuran",
+  "target_specialty": "Figüran",
+  "target_isco4": "2655",
+  "target_isco_title": "Actors",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Dizi, sinema, reklam ve klip projelerimizde yer alacak; kadın-erkek, deneyimli ya da deneyimsiz Yardımcı Oyuncu ve Figüran çalışma arkadaşları arıyoruz! 🎭"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30621",
+  "target_occ_key": "3111:ilac_formulasyon_teknisyeni",
+  "target_specialty": "İlaç Formülasyon Teknisyeni",
+  "target_isco4": "3111",
+  "target_isco_title": "Chemical and physical science technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Konya",
+  "example_job_titles": [
+   "İlaç Formülasyon Teknisyeni"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30622",
+  "target_occ_key": "3112:harita_teknikeri",
+  "target_specialty": "Harita Teknikeri",
+  "target_isco4": "3112",
+  "target_isco_title": "Civil engineering technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Konya",
+  "example_job_titles": [
+   "Harita Teknikeri / Topoğraf"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30623",
+  "target_occ_key": "3112:insaat_teknikeri",
+  "target_specialty": "İnşaat Teknikeri",
+  "target_isco4": "3112",
+  "target_isco_title": "Civil engineering technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Stajyer Şantiye Yapı Elemanı (Meslek Lisesi / Yapı MYO)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30624",
+  "target_occ_key": "3114:elektronik_guvenlik_sistemleri_uzmani",
+  "target_specialty": "Elektronik Güvenlik Sistemleri Uzmanı",
+  "target_isco4": "3114",
+  "target_isco_title": "Electronics engineering technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SECURITY_EMERGENCY",
+  "industry_tr": "Güvenlik ve Acil Durum",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "CCTV ve Elektronik Güvenlik Sistemleri Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30625",
+  "target_occ_key": "3115:cnc_cam_programcisi",
+  "target_specialty": "CNC CAM Programcısı",
+  "target_isco4": "3115",
+  "target_isco_title": "Mechanical engineering technicians",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "CNC CAM Programlama ve Talaşlı İmalat Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ }
+]

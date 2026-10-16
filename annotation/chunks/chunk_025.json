@@ -1,0 +1,1198 @@
+[
+{
+"id": "J0415",
+"kind": "JOB",
+"title": "Hastane Sedye ve Hasta Taşıma Elemanı",
+"industry": "HEALTHCARE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Avrasya Healthcare Çözümleri ailesi olarak, [şehir] sahasındaki projelerimizde tam zamanlı istihdam edilmek üzere 'Hastane Sedye ve Hasta Taşıma Elemanı' alımı yapılacaktır. İş Tanımı ve Temel Sorumluluklar: - Yatan hastaların yataklarından sedyeye emniyet kemerleri takılarak transfer edilmesi. - Hastaların ameliyathane, yoğun bakım, tomografi, MR ve servislere sedye ile sarsmadan taşınması. - Taşıma esnasında hasta serum askısı, oksijen tüpü ve drenlerinin güvenliğinin korunması. - Sedyelerin dezenfeksiyonu, çarşaflarının yenilenmesi ve mekan…"
+}
+},
+{
+"id": "J0527",
+"kind": "JOB",
+"title": "Hastaneler Klinik Eczacılık Uzmanı",
+"industry": "HEALTHCARE",
+"city": "İzmir",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Acıbadem Sağlık Grubu bünyesinde, [şehir] hastanemizde klinik servislerde görev yapacak 'Hastaneler Klinik Eczacılık Uzmanı' aramaktayız. Rol ve Kurum Hakkında: Acıbadem Klinik Eczacılık birimi; yatan hasta servislerinde akılcı ilaç kullanımı, farmakoterapi izlemi ve hasta güvenliğini en üst düzeye çıkarmak için hekimlerle omuz omuza çalışır. Görev ve Sorumluluklar: - Yatan hasta servis vizitlerine katılarak tedavi planlarının ilaç-ilaç ve ilaç-besin etkileşimleri yönünden incelenmesi, - Böbrek ve karaciğer fonksiyon bozukluğu olan veya geriat…"
+}
+},
+{
+"id": "C10060",
+"kind": "CV",
+"title": "Hemşire",
+"industry": "HEALTHCARE",
+"city": "Kocaeli",
+"context": {
+"ozet": "Ameliyathane ortamının getirdiği yüksek tempoda cerrahi ekibin eksiksiz bir parçası olmak için yıllarımı harcadım. Sterilizasyon standartları, medikal cihaz yönetimi ve cerrahi alet hakimiyeti konularında uzmanım. Karmaşık operasyonlarda doktorların neye ihtiyacı olacağını saniyeler öncesinden sezerek süreci hızlandırırım.",
+"beceriler": "Cerrahi Enstrümantasyon, Sterilizasyon Protokolleri, Hasta Takip Monitörleri, Acil Durum Yönetimi, Hastane Bilgi Yönetim Sistemi (HBYS)",
+"deneyim": [
+"Ameliyathane Hemşiresi (2017-09 - Günümüz): Genel cerrahi ve ortopedi vakalarında scrub ve sirküle hemşirelik, vaka kayıtlarının HIS üzerinden yapılması.",
+"Klinik Hemşiresi (2015-06 - 2017-08): Yatan hasta bakımı, ilaç tedavisi uygulamaları ve yaşamsal bulgu takibi."
+],
+"egitim": [
+"Kocaeli Üniversitesi - Lisans (Hemşirelik) 2011 - 2015"
+]
+}
+},
+{
+"id": "C10062",
+"kind": "CV",
+"title": "Hemşire",
+"industry": "HEALTHCARE",
+"city": "İzmir",
+"context": {
+"ozet": "Onkoloji alanında hastalara sadece tıbbi bakım değil, psikolojik destek sunmanın iyileşme sürecindeki önemini bizzat deneyimledim. Kemoterapi uygulamaları, port kateter yönetimi ve ilaç reaksiyonları konusunda kapsamlı bilgiye sahibim. Hasta kayıtlarının elektronik ortamda kusursuz işlenmesi sayesinde tedavi takibini eksiksiz yürütürüm.",
+"beceriler": "Kemoterapi Hazırlama, Port Kateter Bakımı, Palyatif Bakım, Elektronik Sağlık Kayıtları (EHR), Ağrı Yönetimi",
+"deneyim": [
+"Onkoloji Hemşiresi (2016-11 - Günümüz): Kemoterapi ilaçlarının hazırlanması ve uygulanması, yan etki takibi ve hasta bilgilendirme eğitimleri."
+],
+"egitim": [
+"Dokuz Eylül Üniversitesi - Lisans (Hemşirelik) 2012 - 2016"
+]
+}
+},
+{
+"id": "C10063",
+"kind": "CV",
+"title": "Hemşire",
+"industry": "HEALTHCARE",
+"city": "Adana",
+"context": {
+"ozet": "Acil servisin kaotik ve hızlı dinamiklerine uyum sağlamış, triyaj konusunda deneyimli bir sağlık profesyoneliyim. Hayati bulguları hızla değerlendirip önceliklendirme yapabilme yeteneğim, kriz anlarında hayat kurtarıcı olmuştur. Tıbbi cihazların kullanımına ve acil ilaçların dozaj hesaplamalarına son derece hakimim.",
+"beceriler": "Triyaj, Acil Müdahale, EKG ve Defibrilatör Kullanımı, Kan Alma ve Damar Yolu, Medikal Yazılımlar",
+"deneyim": [
+"Acil Servis Hemşiresi (2019-05 - Günümüz): İlk müdahale, damar yolu açma, EKG çekimi, resüsitasyon ekibine destek ve hasta transfer işlemleri."
+],
+"egitim": [
+"Çukurova Üniversitesi - Ön Lisans (İlk ve Acil Yardım) 2017 - 2019"
+]
+}
+},
+{
+"id": "C10065",
+"kind": "CV",
+"title": "Hemşire",
+"industry": "HEALTHCARE",
+"city": "Gaziantep",
+"context": {
+"ozet": "Kan alma ve laboratuvar numune yönetimi konularında poliklinik ortamında kazandığım pratiklikle süreçleri hızlı ve hatasız yürütüyorum. İletişim becerilerimi kullanarak hastaların iğne korkusunu yenmelerine yardımcı olurum. Hastane laboratuvar bilgi sistemi üzerinden barkodlama ve veri girişi işlemlerinde oldukça titizim.",
+"beceriler": "Flebotomi (Kan Alma), Numune Barkodlama, Hasta Karşılama, Laboratuvar Bilgi Sistemleri (LBS), Enjeksiyon Uygulamaları",
+"deneyim": [
+"Poliklinik Hemşiresi (2021-03 - Günümüz): Hastaların rutin kan alma işlemleri, numune transferlerinin organizasyonu ve doktor asistanlığı."
+],
+"egitim": [
+"Gaziantep Üniversitesi - Ön Lisans (Tıbbi Laboratuvar Teknikleri) 2019 - 2021"
+]
+}
+},
+{
+"id": "C10066",
+"kind": "CV",
+"title": "Hemşire",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Psikiyatri kliniğinde çalışmanın getirdiği duyarlılıkla, mental sorunları olan bireylerin tedavi planlarına güvenle uyum sağlamalarına destek oluyorum. Hastaların davranışsal değişimlerini gözlemlemek ve bunları elektronik kayıtlara detaylı şekilde işlemek en güçlü yönlerimdendir. Kriz yönetimi ve de-eskalasyon tekniklerine hakimim.",
+"beceriler": "Terapötik İletişim, Kriz Yönetimi (De-eskalasyon), Psikofarmakoloji Takibi, Elektronik Dosyalama, Güvenlik Protokolleri",
+"deneyim": [
+"Psikiyatri Hemşiresi (2018-11 - Günümüz): Klinik ortamında güvenliği sağlama, ilaç takibi yapma ve hastalarla terapötik iletişim kurma."
+],
+"egitim": [
+"İstanbul Üniversitesi - Lisans (Hemşirelik) 2014 - 2018"
+]
+}
+},
+{
+"id": "C10067",
+"kind": "CV",
+"title": "Hemşire",
+"industry": "HEALTHCARE",
+"city": "Bursa",
+"context": {
+"ozet": "Evde bakım hizmetleri kapsamında, kronik rahatsızlığı olan veya yatağa bağımlı hastalara kendi ortamlarında profesyonel sağlık hizmeti sunuyorum. Mobil sağlık yazılımlarını kullanarak hastanın durumunu anlık olarak merkezdeki doktora raporlarım. Pansuman, kateter değişimi ve hasta yakını eğitimi konularında son derece yetkinim.",
+"beceriler": "Yara Bakımı, Kateter ve Sonda Uygulamaları, Mobil Sağlık Uygulamaları (mHealth), Hasta Yakını Eğitimi, Bağımsız Karar Alma",
+"deneyim": [
+"Evde Bakım Hemşiresi (2020-07 - Günümüz): Belirlenen rota üzerindeki hastaların ev ziyaretleri, sonda değişimi, yara bakımı ve parenteral beslenme uygulamaları."
+],
+"egitim": [
+"Uludağ Üniversitesi - Ön Lisans (Yaşlı Bakımı) 2018 - 2020"
+]
+}
+},
+{
+"id": "C10068",
+"kind": "CV",
+"title": "Hemşire",
+"industry": "HEALTHCARE",
+"city": "Mersin",
+"context": {
+"ozet": "Diyaliz merkezinde, hastaların uzun ve zorlu tedavi süreçlerinde yanlarında olan bir yol arkadaşıyım. Hemodiyaliz makinelerinin kalibrasyonu, su sistemlerinin kontrolü ve damar yolu girişimi konularında teknik bilgiye sahibim. Seans boyunca hasta verilerini medikal bilgi sistemlerine doğru aktararak komplikasyonları önlerim.",
+"beceriler": "Hemodiyaliz Cihaz Kullanımı, Arteriovenöz Fistül Girişimi, Sıvı-Elektrolit Dengesi, Diyaliz Bilgi Sistemleri, Enfeksiyon Kontrolü",
+"deneyim": [
+"Diyaliz Hemşiresi (2019-09 - Günümüz): Fistül ve kateter girişimi, diyaliz süresince hastanın monitörizasyonu, sıvı dengesi hesaplamaları."
+],
+"egitim": [
+"Mersin Üniversitesi - Ön Lisans (Diyaliz) 2017 - 2019"
+]
+}
+},
+{
+"id": "C10069",
+"kind": "CV",
+"title": "Hemşire",
+"industry": "HEALTHCARE",
+"city": "Eskişehir",
+"context": {
+"ozet": "Çocuk polikliniğinde minik hastaların aşı takvimlerini yönetiyor ve gelişim süreçlerini dijital sistemler üzerinden titizlikle raporluyorum. Çocuklarla doğru frekansta iletişim kurmak, sağlık hizmetinin kalitesini artıran en önemli unsurdur. Ebeveynlerin kaygılarını anlar ve onlara en doğru bilgiyi anlaşılır şekilde aktarırım.",
+"beceriler": "Pediatrik İletişim, Aşı Uygulamaları, Büyüme Takibi, Hastane Yönetim Sistemleri, Çocuk Psikolojisi",
+"deneyim": [
+"Pediatri Hemşiresi (2021-01 - Günümüz): Pediatrik vital bulgu ölçümleri, aşı uygulamaları, ebeveyn eğitimleri ve poliklinik akışının organizasyonu."
+],
+"egitim": [
+"Osmangazi Üniversitesi - Ön Lisans (Çocuk Gelişimi ve Sağlığı) 2018 - 2020"
+]
+}
+},
+{
+"id": "J0090",
+"kind": "JOB",
+"title": "Hemşire",
+"industry": "HEALTHCARE",
+"city": "Adana",
+"position_level": "UNSPECIFIED",
+"mode": "OnSite",
+"context": {
+"aciklama": "Pozisyon kapsamında üstlenilecek temel sorumluluklar ve aranan yetkinlikler: Hastaların vital bulgularının düzenli takibi ve kayıt altına alınması, hekim tarafından planlanan tedavi ve ilaç uygulamalarının eksiksiz yerine getirilmesi, hasta ve hasta yakınlarının bilgilendirilmesi ve bakım süreçlerinin titizlikle yürütülmesi. Sağlık Meslek Lisesi veya Üniversitelerin Hemşirelik bölümlerinden mezun, hasta memnuniyeti odaklı, iletişim becerileri kuvvetli ve vardiyalı çalışma düzenine uyum sağlayabilecek hemşire çalışma arkadaşları arıyoruz."
+}
+},
+{
+"id": "C21016",
+"kind": "CV",
+"title": "Hemşirelik Fakültesi Stajyeri",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Sağlık Bilimleri Üniversitesi Hemşirelik 3. sınıf öğrencisiyim. Vital bulgu takibi, enjeksiyon, asepsi ve hasta iletişimi konularında teorik ve simülasyon eğitimi aldım.",
+"beceriler": "Vital Bulgu Takibi, Damar Yolu, Asepsi ve Pansuman, Hasta Bakımı, BLS Sertifikası",
+"deneyim": [
+"Gönüllü (2023): Tansiyon ölçümü ve donör yönlendirme."
+],
+"egitim": [
+"Sağlık Bilimleri Üniversitesi - Lisans (Hemşirelik) 2022-Devam Ediyor"
+]
+}
+},
+{
+"id": "J2758",
+"kind": "JOB",
+"title": "Hemşirelik Hizmetleri Direktörü (Chief Nursing Officer - CNO)",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Grubumuza bağlı tüm hastanelerdeki binlerce hemşirenin klinik bakım kalitesine, hemşirelik vizyonuna ve organizasyonuna liderlik edecek Hemşirelik Hizmetleri Direktörü arıyoruz. Rol ve Sorumluluklar: - Memorial Sağlık Grubu hemşirelik hizmetleri stratejisini, etik standartlarını ve hasta bakım felsefesini belirlemek - Tüm hastanelerin başhemşirelerine doğrudan liderlik ederek JCI akreditasyon standartlarının sürdürülmesini sağlamak - Hemşirelikte dijitalleşme, yapay zeka destekli bakım sistemleri ve uluslararası hemşire değişim programlarını y…"
+}
+},
+{
+"id": "J0638",
+"kind": "JOB",
+"title": "Huzurevi ve Evde Yaşlı Bakım Elemanı",
+"industry": "HEALTHCARE",
+"city": "Mersin",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren [şehir] Sanayi ve İmalat Ltd. Şti. ekibimize değer katacak dinamik 'Huzurevi ve Evde Yaşlı Bakım Elemanı' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Huzurevi sakinlerinin sabah uyandırılması, kişisel temizlik ve kıyafet seçimlerine yardımcı olunması. - Yemek salonunda sakinlerin yemek yemelerine refakat edilmesi veya yatakta beslenmelerinin sağlanması. - Sosyal aktivitelere, yürüyüş ve bahçe saatlerine yaşlı bireylerle birlikte katılım sağlanması. - Ruhsal ve fiziksel durum değişiklikl…"
+}
+},
+{
+"id": "C10860",
+"kind": "CV",
+"title": "Immunology & Vaccine Development Scientist",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Dedicated Immunology & Vaccine Development Scientist with 4 years of demonstrated experience in Healthcare, Medicine & Pharmaceuticals. Skilled in Regulatory Affairs & Product Dossier Preparation, Analytical Lab Instruments (HPLC, GC-MS) and Patient Consultation & Empathy with a focus on project accuracy, process efficiency, and continuous improve…",
+"beceriler": "Regulatory Affairs & Product Dossier Preparation, Analytical Lab Instruments (HPLC, GC-MS), Patient Consultation & Empathy, Clinical Diagnosis & Patient Care Protocols, Good Clinical Practice (GCP) & GMP Standards, Phar…",
+"deneyim": [
+"Immunology & Vaccine Development Scientist (2023 - Present): Delivered patient-centered care and managed clinical documentation in full compliance with healthcare accred…",
+"Immunology & Vaccine Development Scientist (2021 - 2023): Maintained calibration standards and preventive maintenance logs for advanced diagnostic and biomedical medical…",
+"Intern (January 2021 - February 2021): Supported the analytical team with exploratory data collection, cross-verifying spreadsheets, and preparing draft summary decks fo…"
+],
+"egitim": [
+"Sabanci University - Bachelor's Degree (Faculty of Medicine) 2018 - 2022"
+]
+}
+},
+{
+"id": "C10080",
+"kind": "CV",
+"title": "Industrial Psychologist",
+"industry": "HEALTHCARE",
+"city": "İzmir",
+"context": {
+"ozet": "Focusing on workplace well-being and organizational behavior. I aim to create healthier work environments by implementing employee support programs and assessing psychological risks in corporate settings.",
+"beceriler": "Organizational Assessment, Conflict Resolution, Talent Management, SurveyMonkey",
+"deneyim": [
+"Organizational Consultant (2020-2024): Designed wellness initiatives and managed employee assistance programs."
+],
+"egitim": [
+"Middle East Technical University - Lisans (Psychology) 2015-2020"
+]
+}
+},
+{
+"id": "J0217",
+"kind": "JOB",
+"title": "Infectious Diseases & Clinical Microbiology Specialist (MD)",
+"industry": "HEALTHCARE",
+"city": "Bursa",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "An exciting opportunity has arisen for a talented Infectious Diseases & Clinical Microbiology Specialist (MD) to drive key initiatives and cross-functional performance at Vodafone Turkey. In this position, you will take ownership of scalable initiatives involving Good Clinical Practice (GCP) & GMP Standards and Analytical Lab Instruments (HPLC, GC-MS). You will work closely with departmental leadership to optimize Pharmacovigilance & Drug Safety workflows and maintain strict quality benchmarks. If you thrive in collaborative environments and a…"
+}
+},
+{
+"id": "C10513",
+"kind": "CV",
+"title": "İlaç Patent ve Ruhsat Dosyası (CTD) Uzmanı",
+"industry": "HEALTHCARE",
+"city": "Ankara",
+"context": {
+"ozet": "Eczacılık Fakültesi alanındaki güçlü akademik temelim ve 3 yılı aşkın sektör deneyimimle, İlaç Patent ve Ruhsat Dosyası (CTD) Uzmanı rolünde uçtan uca başarılı projeler yürütmekteyim. Klinik Araştırma ve Faz Çalışmaları, Farmakovijilans Raporlaması ve İyi Klinik Uygulamaları (GCP) & GMP Standartları başta olmak üzere modern araç ve metodolojilere …",
+"beceriler": "Klinik Araştırma ve Faz Çalışmaları, Farmakovijilans Raporlaması, İyi Klinik Uygulamaları (GCP) & GMP Standartları, Klinik Teşhis ve Tedavi Protokolleri, Laboratuvar Analiz Cihazları (HPLC, GC-MS), İlaç Ruhsatlandırma &…",
+"deneyim": [
+"İlaç Patent ve Ruhsat Dosyası (CTD) Uzmanı (2024 - Günümüz): Farmakovijilans ve rasyonel ilaç kullanım ilkeleri doğrultusunda advers etki bildirimlerini ve klinik çalışm…",
+"Stajyer (Haziran 2022 - Ağustos 2022): ERP ve veri tabanı sistemlerine veri girişi sağlayarak raporlama öncesi veri tutarlılık ve doğrulama kontrollerini gerçekleştirdim."
+],
+"egitim": [
+"Bilkent Üniversitesi - Lisans (Eczacılık Fakültesi) 2019 - 2023"
+]
+}
+},
+{
+"id": "J1113",
+"kind": "JOB",
+"title": "İlaç Patent ve Ruhsat Dosyası (CTD) Uzmanı",
+"industry": "HEALTHCARE",
+"city": "Antalya",
+"position_level": "ENTRY_LEVEL",
+"mode": "Remote",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda veya remote düzende sorumluluk üstlenecek dinamik bir İlaç Patent ve Ruhsat Dosyası (CTD) Uzmanı takımımıza katılacaktır. Bu rolde temel amacımız, İyi Klinik Uygulamaları (GCP) & GMP Standartları ve Klinik Teşhis ve Tedavi Protokolleri konularında kurumsal standartları en üst seviyeye taşımaktır. Adayın Farmakovijilans Raporlaması süreçlerinde inisiyatif alması, ekipler arası iletişimi koordine etmesi ve operasyonel mükemmelliğe doğrudan katkı sağlaması hedeflenmektedir. Yenilikçi, çözüm odaklı ve kurumsal kültürümüze de…"
+}
+},
+{
+"id": "J1258",
+"kind": "JOB",
+"title": "İlaç Ruhsatlandırma (Regulatory) Uzmanı",
+"industry": "HEALTHCARE",
+"city": "Antalya",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Deva Holding Ruhsatlandırma Direktörlüğünde, [şehir] merkezimizde görevlendirilmek üzere 'İlaç Ruhsatlandırma (Regulatory) Uzmanı' aramaktayız. Rol ve Kurum Hakkında: Deva Holding, Türkiye'nin lider yerli ilaç üreticilerinden biri olarak geniş ürün portföyünün ulusal ve uluslararası ruhsatlandırma süreçlerini başarıyla yürütmektedir. Görev ve Sorumluluklar: - TİTCK nezdinde yeni beşeri tıbbi ürün ruhsat başvurularının e-CTD formatında hazırlanması ve elektronik başvuru sisteminden (EBS) sunulması, - Mevcut ruhsatlar için Tip IA, Tip IB ve Tip …"
+}
+},
+{
+"id": "J1133",
+"kind": "JOB",
+"title": "İmmünoloji ve Aşı Geliştirme Uzmanı",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Koçak Farma Çerkezköy Biyoteknoloji Kampüsünde görev yapacak 'İmmünoloji ve Aşı Geliştirme Uzmanı' aramaktayız. Rol ve Kurum Hakkında: Koçak Farma Biyoteknolojik Tesisleri, Türkiye'nin ilk yerli aşı ve biyolojik ürün üretim yetkinliğine sahip BSL-3 altyapılı merkezlerindendir. Görev ve Sorumluluklar: - Viral ve bakteriyel aşı geliştirme projelerinde antijen tasarımı, inaktif aşı ve rekombinant aşı formulasyonlarının geliştirilmesi, - Aşı adayları için uygun adjuvan sistemlerinin (alüminyum tuzları, emülsiyonlar) seçimi ve formülasyon uyumluluk…"
+}
+},
+{
+"id": "J2729",
+"kind": "JOB",
+"title": "İşyeri Hemşiresi / Diğer Sağlık Personeli (DSP)",
+"industry": "HEALTHCARE",
+"city": "Bursa",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Çelik boru üretim fabrikamızın sağlık biriminde işyeri hekimiyle koordineli çalışacak, ilk yardım ve periyodik sağlık taramalarını yürütecek DSP arıyoruz. Neler Yapacaksınız? - Fabrikadaki olası iş kazalarında ve acil sağlık problemlerinde ilk yardım müdahalesini yapmak - Çalışanların periyodik odyometri (işitme), solunum fonksiyon testi (SFT) ve kan tahlillerini organize etmek - Revir ilaç, tıbbi sarf ve pansuman malzemelerinin stok takibini yapmak - İş sağlığı kayıtlarını ve revir defterini İBYS sistemi üzerinden düzenli tutmak Nitelikler ve…"
+}
+},
+{
+"id": "J2737",
+"kind": "JOB",
+"title": "Kadın Hastalıkları ve Doğum Uzmanı",
+"industry": "HEALTHCARE",
+"city": "Antalya",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Gebe takibi, normal doğum, sezaryen ve jinekolojik laparoskopik cerrahi operasyonlarını yönetecek Kadın Doğum Uzmanı arıyoruz. Görev ve Sorumluluklar: - Riskli ve normal gebelik takiplerini ultrasonografi ve NST tetkikleriyle yürütmek - Doğumhanede spontan vajinal doğum ve sezaryen operasyonlarını gerçekleştirmek - Jinekolojik hastalıkların tanı, medikal ve laparoskopik cerrahi tedavilerini uygulamak - Yabancı uyruklu sağlık turizmi hastalarının jinekolojik tedavilerini koordine etmek Aranan Nitelikler: - Kadın Hastalıkları ve Doğum uzmanlık e…"
+}
+},
+{
+"id": "J0885",
+"kind": "JOB",
+"title": "Kalite Kontrol Kimyageri",
+"industry": "HEALTHCARE",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "Remote",
+"context": {
+"aciklama": "Koçak Farma Çerkezköy Üretim Tesisleri Kalite Kontrol Laboratuvarında görev alacak 'Kalite Kontrol Kimyageri' aramaktayız. Rol ve Kurum Hakkında: Koçak Farma, steril enjektabl, onkolojik ilaçlar ve biyoteknolojik ürünlerde Türkiye'nin en büyük entegre ilaç üretim kampüslerinden birine sahiptir. Görev ve Sorumluluklar: - Üretimde kullanılan hammadde, yardımcı madde, ambalaj ve bitmiş ürün serilerinin farmakope (EP, USP) yöntemleriyle fiziksel ve kimyasal analizlerinin yapılması, - HPLC, GC, UV-Vis Spektrofotometre, IR, erime noktası ve otomatik…"
+}
+},
+{
+"id": "J0390",
+"kind": "JOB",
+"title": "Kanser Biyolojisi ve Gen Terapisi Araştırmacısı",
+"industry": "HEALTHCARE",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "İzmir Biyotıp ve Genom Merkezi (İBG) Onkoloji Araştırma Programında görev yapacak 'Kanser Biyolojisi ve Gen Terapisi Araştırmacısı' aranmaktadır. Rol ve Kurum Hakkında: İBG, yaşam bilimleri ve sağlık biyoteknolojisinde Türkiye'nin öncü mükemmeliyet merkezi olup ileri translasyonel tıp araştırmaları yürütmektedir. Görev ve Sorumluluklar: - Kanser hücresi modellerinde onkojenik sinyal yolaklarının, tümör mikroçevresi etkileşimlerinin moleküler düzeyde aydınlatılması, - Viral vektörler (Lentivirüs, AAV) ve rekombinant DNA teknolojisi ile gen akta…"
+}
+},
+{
+"id": "J2732",
+"kind": "JOB",
+"title": "Kardiyoloji Uzman Hekimi",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Kardiyoloji poliklinik hastalarını muayene edecek, ekokardiyografi (EKO), efor testi ve koroner anjiyografi laboratuvarında girişimsel işlemleri yapacak Kardiyoloji Uzmanı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - İskemik kalp hastalıkları, kalp yetersizliği ve hipertansiyon hastalarının poliklinik takibini yapmak - Transtorasik ve transözofageal ekokardiyografi (EKO) incelemelerini gerçekleştirmek - Kateter laboratuvarında koroner anjiyografi, balon anjiyoplasti ve stent implantasyonu uygulamak - Akut koroner sendrom (STEMI) nöbetlerinde …"
+}
+},
+{
+"id": "J2747",
+"kind": "JOB",
+"title": "Kardiyovasküler Cerrahi (KVC) Uzman Hekimi",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Koroner arter baypas (CABG), kalp kapak replasmanı ve aort anevrizması operasyonlarını yönetecek Kıdemli Kalp Damar Cerrahı arıyoruz. Neler Yapacaksınız? - Açık ve kapalı kalp ameliyatlarını bizzat cerrahi ekip lideri olarak gerçekleştirmek - Minimal invaziv kalp kapak cerrahisi ve robotik cerrahi girişimlerini uygulamak - Postoperatif KVC yoğun bakım sürecinde hastaların hemodinamik stabilitesini yönetmek - Konsey toplantılarında kardiyologlar ile hastaların cerrahi endikasyonlarını kararlaştırmak Nitelikler ve Teknik Yetkinlikler: - Tıp Fakü…"
+}
+},
+{
+"id": "J2742",
+"kind": "JOB",
+"title": "Kemik İliği Nakil Ünitesi Hemşiresi (BMT Nurse)",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Erişkin Hematoloji ve Kemik İliği Nakil Ünitemizde (HEPA filtreli steril odalar) kök hücre infüzyonu ve nötropenik hasta bakımını yürütecek hemşire arıyoruz. Temel İş ve Sorumluluk Alanları: - Pozitif basınçlı HEPA filtreli steril odalarda nötropenik izolasyon kurallarını tavizsiz uygulamak - Otolog ve allojeneik kök hücre infüzyonlarını ve premedikasyonlarını hekimle birlikte yapmak - Graft versus Host Hastalığı (GvHD) semptomlarını ve enfeksiyon bulgularını yakından izlemek - Santral venöz kateter bakımı ve kan ürünü transfüzyonlarını eksiks…"
+}
+},
+{
+"id": "J2734",
+"kind": "JOB",
+"title": "Kıdemli Ameliyathane Sorumlu Hemşiresi",
+"industry": "HEALTHCARE",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ameliyathane salonlarının günlük cerrahi vaka planlamasını, alet sterilizasyonunu ve ameliyathane hemşire ekibinin koordinasyonunu yürütecek Sorumlu Hemşire arıyoruz. Rol ve Sorumluluklar: - Cerrahi branşların (Genel Cerrahi, Ortopedi, KVC, Beyin Cerrahi) günlük vaka listelerine göre salon dağılımlarını yapmak - Ameliyathane alet setleri, laparoskopik ve robotik cerrahi cihazlarının bakım ve sterilizasyonunu denetlemek - Ameliyathane hemşirelerinin aylık nöbet çizelgelerini ve vaka içi görevlendirmelerini düzenlemek - Cerrahi güvenlik kontrol …"
+}
+},
+{
+"id": "J2794",
+"kind": "JOB",
+"title": "Kıdemli Ameliyathaneler ve Sterilizasyon Direktör Yardımcısı",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "15 ameliyat salonu ve Merkezi Sterilizasyon Ünitemizin (MSÜ) günlük vaka akışını, sterilizasyon döngülerini ve cerrahi alet parkurunu sevk ve idare edecek müdür arıyoruz. Rol ve Sorumluluklar: - Günlük cerrahi vaka takvimini optimize ederek salon boşluklarını ve gecikmeleri minimize etmek - Merkezi Sterilizasyon Ünitesi'nde buhar, plazma ve etilen oksit sterilizasyon validasyonlarını denetlemek - Cerrahi branş direktörleriyle koordineli olarak cerrahi set yatırımlarını planlamak - Ameliyathane ve MSÜ hemşire ve teknisyenlerinden oluşan 80+ kiş…"
+}
+},
+{
+"id": "J2748",
+"kind": "JOB",
+"title": "Kıdemli Beyin ve Sinir Cerrahisi (Nöroşirürji) Uzmanı",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Omurga cerrahisi (skolyoz, bel/boyun fıtığı), beyin tümörleri mikrocerrahisi ve anevrizma kliplenmesi ameliyatlarını gerçekleştirecek Kıdemli Nöroşirürji Uzmanı arıyoruz. Temel İş ve Sorumluluk Alanları: - Kraniotomi, tümör rezeksiyonu ve mikrodiskektomi operasyonlarını mikroskop altında uygulamak - Kompleks spinal füzyon, omurga deformitesi ve enstrümantasyon cerrahilerini yürütmek - Nöroşirürji yoğun bakımındaki hastaların nöromonitörizasyon takiplerini koordine etmek - Sağlık turizmi kapsamında gelen yabancı omurga ve tümör hastalarının cer…"
+}
+},
+{
+"id": "J2779",
+"kind": "JOB",
+"title": "Kıdemli Biyokimya Laboratuvar Sorumlusu",
+"industry": "HEALTHCARE",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Referans laboratuvarımızda Siemens/Roche otoanalizör parkurunun işleyişini, dış kalite kontrol (EQA) değerlendirmelerini denetleyecek Kıdemli Tekniker arıyoruz. Görev ve Sorumluluklar: - Günde binlerce numunenin analiz edildiği biyokimya hattının cihaz çalışma sürekliliğini denetlemek - Uluslararası dış kalite kontrol programı (RIQAS, CAP) sonuçlarını analiz ederek metodolojik sapmaları gidermek - Yeni test parametrelerinin cihazlara tanımlanması ve metot validasyon çalışmalarını yürütmek - Laboratuvar teknikerlerinin vardiya düzeni ve teknik …"
+}
+},
+{
+"id": "J2788",
+"kind": "JOB",
+"title": "Kıdemli Biyomedikal Hizmetler Müdürü (Chief Biomedical Engineer)",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "20'den fazla hastanemizin yüz milyonlarca dolarlık tıbbi teknoloji envanterini, bakım-onarım bütçesini ve tedarikçi kontratlarını yönetecek Kıdemli Müdür arıyoruz. Rol ve Sorumluluklar: - Tüm grup hastanelerinin biyomedikal mühendislik operasyonlarını ve SLA performanslarını yönetmek - Global tıbbi cihaz üreticileri (Siemens, GE, Philips, Intuitive) ile yıllık bakım kontratlarını müzakere etmek - Tıbbi cihaz arıza sıklığını azaltıcı kestirimci bakım (predictive maintenance) sistemlerini kurmak - Hastane yatırımlarında medikal cihaz planlama, y…"
+}
+},
+{
+"id": "J2798",
+"kind": "JOB",
+"title": "Kıdemli Diyetetik ve Kurumsal Beslenme Hizmetleri Müdürü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Grubumuzun tüm hastanelerindeki klinik beslenme standartlarını, enteral nütrisyon protokollerini ve diyet mutfağı gıda güvenliği süreçlerini yönetecek Kıdemli Diyetisyen arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Tüm hastanelerin klinik diyetisyen kadrosunun vaka protokollerini ve bilimsel kılavuzlarını yönetmek - Onkoloji, bariatrik cerrahi ve yoğun bakım klinik nütrisyon standartlarını standardize etmek - Yemek üretim tesislerinin ISO 22000 gıda güvenliği ve diyet menü reçetelerini denetlemek - Uluslararası klinik beslenme kongrelerinde k…"
+}
+},
+{
+"id": "J2793",
+"kind": "JOB",
+"title": "Kıdemli Eczacılık Hizmetleri ve İlaç Lojistiği Müdürü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Hastanemizin merkezi eczane operasyonunu, kemoterapi hazırlama robotlarını, klinik eczacılık vizitlerini ve ilaç tedarik zincirini yönetecek Baş Eczacı arıyoruz. Pozisyonun Temel Görevleri: - On binlerce kalem ilacın akılcı kullanımını, bütçe optimizasyonunu ve tedarik sürekliliğini sağlamak - Kemoterapi hazırlama temiz odası (Cleanroom ISO 7) ve TPN hazırlama ünitelerinin sterilite denetimlerini yapmak - Klinik eczacıların yoğun bakım ve onkoloji hekim vizitlerine aktif katılımını koordine etmek - JCI ilaç yönetim ve kullanım (MMU) standartla…"
+}
+},
+{
+"id": "J2792",
+"kind": "JOB",
+"title": "Kıdemli Fizik Tedavi ve Rehabilitasyon Koordinatörü",
+"industry": "HEALTHCARE",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "FTR merkezimizin hidroterapi, nörolojik rehabilitasyon, pediatrik rehabilitasyon ve sporcu sağlığı birimlerinin klinik organizasyonunu yönetecek Kıdemli Fizyoterapist arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Klinik fizyoterapi protokollerinin bilimsel kılavuzlar ışığında güncellenmesine liderlik etmek - Fizyoterapist ve tekniker kadrosunun vaka atamalarını, seans verimliliğini ve mesleki gelişimini yönetmek - Robotik yürüme ve denge rehabilitasyon sistemlerinin klinik kullanım kalitesini denetlemek - FTR Anabilim Dalı öğretim üyeleriyle k…"
+}
+},
+{
+"id": "J2873",
+"kind": "JOB",
+"title": "Kıdemli Hasta Deneyimi ve Hizmet Kalite Denetim Uzmanı",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Memorial Sağlık Grubu hastanelerinde hasta memnuniyeti ölçümlerini yapacak ve JCI kalite standartlarının sürekliliğini denetleyecek kıdemli uzmanlar arıyoruz. Neler Yapacaksınız? - Grup hastanelerinde hasta ve refakatçi deneyim haritalarını (Customer Journey) analiz etmek ve iyileştirme projeleri tasarlamak - NPS (Net Promoter Score) ve hasta şikayet geri bildirimlerini inceleyerek kök neden raporları hazırlamak - JCI (Joint Commission International) akreditasyon denetimleri öncesi iç denetimleri (mock survey) gerçekleştirmek - Hastanelerdeki …"
+}
+},
+{
+"id": "J2789",
+"kind": "JOB",
+"title": "Kıdemli Hasta Hizmetleri ve Gelir Döngüsü Müdürü (Revenue Cycle Manager)",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Hastanelerimizin hasta kabul bankoları, özel sigorta provizyonları, faturalama ve tahsilat süreçlerini yönetecek Kıdemli Gelir Döngüsü Müdürü arıyoruz. Neler Yapacaksınız? - Özel sigorta ve SGK faturalama hata ve kesinti oranlarını sıfıra indirme projelerine liderlik etmek - Hasta kabul ve karşılama ekiplerinin hizmet kalitesini ve bekleme sürelerini optimize etmek - Sigorta şirketleri ile yıllık fiyat tarifeleri ve anlaşma şartlarını müzakere etmek - 50'den fazla hasta hizmetleri personeline doğrudan liderlik etmek Nitelikler ve Teknik Yetkin…"
+}
+},
+{
+"id": "J2752",
+"kind": "JOB",
+"title": "Kıdemli Hemşirelik Hizmetleri Eğitim ve Gelişim Müdürü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Grubumuza bağlı 20'den fazla hastanede görev yapan binlerce hemşirenin mesleki gelişim akademisini, simülasyon eğitimlerini ve klinik yetkinlik standartlarını yönetecek müdür arıyoruz. Rol ve Sorumluluklar: - Tüm hemşirelik branşları için kanıta dayalı klinik bakım kılavuzlarını ve eğitim müfredatını yönetmek - Acıbadem Simülasyon Merkezi'nde (CASE) klinik vaka senaryoları ve ileri yaşam desteği eğitimleri kurgulamak - Yeni mezun hemşire oryantasyon programını ve klinik mentorluk sistemini koordine etmek - Hemşirelik bakım kalitesi göstergeler…"
+}
+},
+{
+"id": "J2756",
+"kind": "JOB",
+"title": "Kıdemli Kalite ve Hasta Güvenliği Müdürü (JCI Koordinatörü)",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Tüm hastanelerimizin Joint Commission International (JCI) ve Sağlıkta Kalite Standartları (SKS) akreditasyon süreçlerini yönetecek Kıdemli Müdür arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Hastanelerin uluslararası JCI akreditasyon denetim hazırlıklarını ve öz değerlendirmelerini koordine etmek - İstenmeyen olay bildirim (Kök Neden Analizi - RCA) süreçlerini yöneterek klinik riskleri bertaraf etmek - Hasta güvenliği hedefleri (doğru hasta kimlik doğrulaması, ilaç güvenliği, cerrahi kontrol) uyumunu denetlemek - Hastane başhekimleri ve direkt…"
+}
+},
+{
+"id": "J2791",
+"kind": "JOB",
+"title": "Kıdemli Klinik Laboratuvarlar Kalite ve Akreditasyon Müdürü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Tüm şubelerimizin ISO 15189 Tıbbi Laboratuvar Akreditasyonu standartlarına tam uyumunu denetleyecek, dış kalite kontrol programlarını yönetecek müdür arıyoruz. Görev ve Sorumluluklar: - Laboratuvar kalite yönetim sistemini (QMS) ISO 15189 ve CAP gerekliliklerine göre sürekli güncellemek - TÜRKAK ve uluslararası denetimlerde baş denetçi muhatabı olarak laboratuvarı temsil etmek - Analitik ölçüm belirsizlikleri, metot doğrulama ve validasyon dosyalarını onaylamak - Şube laboratuvar sorumluları ve kalite uzmanlarından oluşan ekibe liderlik etmek …"
+}
+},
+{
+"id": "J2797",
+"kind": "JOB",
+"title": "Kıdemli Klinik Mühendislik ve Sağlık Teknolojileri Müdürü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Şehir hastaneleri ve özel hastane projelerinde gelişmiş MR, Tomografi ve Anjiyo sistemlerinin anahtar teslim kurulum ve klinik entegrasyonunu yönetecek müdür arıyoruz. Görev ve Sorumluluklar: - Yüksek teknolojili görüntüleme cihazlarının hastane mimari yerleşim ve zırhlama projelerini denetlemek - Saha servis mühendisleri ve aplikasyon uzmanlarından oluşan ekibin proje takvimlerini yönetmek - Hastanelerin radyoloji ve nükleer tıp direktörleri ile teknik performans toplantıları yürütmek - Büyük kamu-özel işbirliği (PPP) projelerinde cihaz kulla…"
+}
+},
+{
+"id": "J2868",
+"kind": "JOB",
+"title": "Kıdemli Medikal Bilimsel İrtibat Uzmanı (Sr. MSL - Nöroloji)",
+"industry": "HEALTHCARE",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Multipl Skleroz ve nörodejeneratif hastalıklar alanındaki yenilikçi tedavilerimizin medikal stratejilerini sahada yönetecek kıdemli MSL arıyoruz. Temel İş ve Sorumluluk Alanları: - Türkiye genelindeki önde gelen nöroloji profesörleri ve kilit fikir liderleri ile stratejik bilimsel ortaklıklar kurmak - Nöroloji alanındaki global Faz III ve gerçek yaşam verilerinin bilimsel sunumlarını kongre ve toplantılarda yürütmek - Klinik araştırma merkezlerinin belirlenmesine medikal katkı sağlamak ve araştırmacı toplantılarını yönetmek - Bölge medikal pla…"
+}
+},
+{
+"id": "J2869",
+"kind": "JOB",
+"title": "Kıdemli Medikal Danışman (Sr. Medical Advisor - Hematoloji)",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Hematolojik maligniteler alanında hedefe yönelik ve bispesifik antikor tedavilerimizin medikal lansman stratejilerine liderlik edecek kıdemli hekimler arıyoruz. Görev ve Sorumluluklar: - Hematoloji portföyünün 3-5 yıllık medikal planını, klinik kanıt üretim stratejilerini ve bilimsel hedeflerini belirlemek - Ulusal kılavuz güncellemeleri ve tanı algoritmalarında tıp dernekleriyle bilimsel projeler yürütmek - Ruhsatlandırma ve pazara erişim dosyalarının etkililik/güvenlilik klinik bölümlerine bilimsel liderlik etmek - Pazarlama materyallerinin …"
+}
+},
+{
+"id": "J2875",
+"kind": "JOB",
+"title": "Kıdemli Medikal İletişim ve Tıbbi Eğitim Müdürü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Solunum ve aşı alanlarındaki bilimsel yayınları, hekim eğitim modüllerini ve dijital medikal iletişim stratejilerini yönetecek kıdemli müdürler arıyoruz. Görev ve Sorumluluklar: - Sağlık profesyonellerine yönelik sürekli tıp eğitimi (CME) programlarını ve bilimsel webinar serilerini tasarlamak - Bilimsel yayınların, kongre bildirilerinin ve medikal bültenlerin içerik kalitesini denetlemek - Medikal ekiplerin bilimsel yetkinliklerini artıracak kurumsal eğitim müfredatını yönetmek - Tıp dernekleri ile ortak yürütülen ulusal sağlık tarama ve bili…"
+}
+},
+{
+"id": "J2772",
+"kind": "JOB",
+"title": "Kıdemli MR ve Bilgisayarlı Tomografi (BT) Teknikeri",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "### Hakkımızda Acıbadem Sağlık Grubu, ileri teknoloji 3 Tesla Manyetik Rezonans ve çok kesitli spektral Tomografi cihazlarıyla teşhis ve görüntüleme alanında küresel standartları belirlemektedir. Pozisyon Özeti: İleri kardiyak MR, difüzyon traktografi, multiparametrik prostat MR ve koroner BT anjiyo çekimlerini protokollerine uygun icra edecek Kıdemli Tekniker arıyoruz. Temel İş ve Sorumluluk Alanları: - 3 Tesla MR cihazında ileri nöroradyolojik ve kas-iskelet sistemi sekanslarını uygulamak - Kontrast maddeli BT ve MR anjiyo çekimlerinde otoma…"
+}
+},
+{
+"id": "J2749",
+"kind": "JOB",
+"title": "Kıdemli Onkoloji ve Kemoterapi Sorumlu Hemşiresi",
+"industry": "HEALTHCARE",
+"city": "Kocaeli",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Kanser merkezimizdeki ayaktan kemoterapi ve yataklı medikal onkoloji servislerinin hemşirelik hizmetlerini, ilaç güvenliğini ve hasta bakımını yönetecek Kıdemli Hemşire arıyoruz. Görev ve Sorumluluklar: - Kemoterapi hazırlama robotları ve laminar flow kabinlerindeki ilaç güvenliği standartlarını denetlemek - Ekstravazasyon, anafilaksi ve nötropenik ateş protokollerini hemşirelik ekibine uygulatmak - Onkoloji hemşirelerinin mesleki eğitimlerini ve Johns Hopkins sertifikasyon süreçlerini yürütmek - Kanser hastalarının palyatif bakım ve yaşam kal…"
+}
+},
+{
+"id": "J2787",
+"kind": "JOB",
+"title": "Kıdemli Radyoloji Teknik Hizmetler Müdürü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Grubumuza bağlı tüm hastanelerin radyoloji tekniker kadrosunu, görüntüleme kalite standartlarını ve cihaz verimliliğini yönetecek Kıdemli Müdür arıyoruz. Pozisyonun Temel Görevleri: - Grup hastanelerindeki onlarca MR, BT, Nükleer Tıp ve Anjiyo ünitesinin çekim protokollerini standardize etmek - Radyoloji teknikerlerinin sürekli mesleki eğitimlerini ve rotasyon planlarını yönetmek - Cihaz çekim kapasitelerini ve randevu bekleme sürelerini optimize eden projeler geliştirmek - Tıbbi Teknoloji Direktörlüğü ile yeni görüntüleme cihazı yatırımlarını…"
+}
+},
+{
+"id": "J2796",
+"kind": "JOB",
+"title": "Kıdemli Sağlık Hukuku ve Mevzuat Uyum Müdürü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Sağlık Bakanlığı özel hastaneler mevzuatı, hekim malpraktis davaları, aydınlatılmış onam formları ve tıbbi etik kurullarının hukuki uyumunu yönetecek müdür arıyoruz. Temel İş ve Sorumluluk Alanları: - Tıbbi malpraktis iddialarında bilirkişi raporlarını inceleyerek savunma stratejilerini belirlemek - Özel Hastaneler Yönetmeliği ve ruhsatlandırma süreçlerinde İl Sağlık Müdürlükleri ile ilişkileri yönetmek - Klinik araştırmalar etik kurul onayları ve hasta verilerinin gizliliği (KVKK Sağlık Verileri) süreçlerini denetlemek - Klinik hekimlere ve h…"
+}
+},
+{
+"id": "J2795",
+"kind": "JOB",
+"title": "Kıdemli Sağlık Turizmi Operasyonları ve VIP Hasta Müdürü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Avrupa ve [şehir] ülkelerinden gelen binlerce yabancı göz hastamızın uçtan uca transfer, otel, hastane yatış ve VIP hizmet operasyonlarını yönetecek müdür arıyoruz. Neler Yapacaksınız? - Yabancı hastaların havalimanı karşılama, otel konaklama ve hastane refakat zincirini sıfır hatayla işletmek - Çok dilli (İngilizce, Almanca, Fransızca, Arapça, Rusça) hasta danışmanları ekibini sevk ve idare etmek - Yurtdışı sigorta şirketleri ve medikal tur operatörleriyle hizmet seviyesi anlaşmalarını (SLA) yönetmek - Yabancı hasta memnuniyet oranlarını ve t…"
+}
+},
+{
+"id": "J2871",
+"kind": "JOB",
+"title": "Kıdemli Tıbbi Cihaz Satış ve Pazarlama Yöneticisi",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Ortopedi, cerrahi dikiş ve enerji bazlı cerrahi sistemlerimizin Türkiye pazar stratejilerini ve distribütör ağını yönetecek kıdemli yöneticiler arıyoruz. Pozisyonun Temel Görevleri: - Cerrahi tıbbi cihaz ürün grubunun yıllık iş planlarını, satış hedeflerini ve fiyatlandırma politikalarını belirlemek - Kamu ve özel hastane ihalelerinin şartname analizlerini ve teklif stratejilerini yönetmek - Kilit cerrahlar ve hastane yönetimleri ile stratejik ortaklıklar kurmak - Distribütör ve direkt satış ekiplerinin ürün eğitimlerini ve saha performansları…"
+}
+},
+{
+"id": "J2854",
+"kind": "JOB",
+"title": "Kıdemli Tıbbi Satış Temsilcisi (Kardiyoloji & Diyabet)",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Kardiyometabolik alandaki yenilikçi portföyümüzün üniversite ve eğitim araştırma hastanelerinde bilimsel tanıtımını yönetecek deneyimli tıbbi satış temsilcileri arıyoruz. Rol ve Sorumluluklar: - Kardiyoloji, endokrinoloji ve nefroloji uzman hekimleriyle kanıta dayalı bilimsel toplantılar ve ürün sunumları gerçekleştirmek - Bölgesel kilit hekimler (KOL) ile güçlü bilimsel ilişkiler tesis etmek ve medikal projeleri yürütmek - Bölge satış stratejilerini pazar analitiği verilerine göre oluşturmak ve hedef gerçekleşmelerini takip etmek - Kongre ve …"
+}
+},
+{
+"id": "J2790",
+"kind": "JOB",
+"title": "Kıdemli Uluslararası Sağlık Turizmi ve İş Geliştirme Müdürü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Avrupa, Balkanlar ve Ortadoğu pazarlarından yabancı hasta çekim hacmini katlayacak, küresel temsilcilik ağımızı yönetecek Kıdemli Sağlık Turizmi Müdürü arıyoruz. Temel İş ve Sorumluluk Alanları: - Yurtdışı hedef ülkelerde hasta yönlendirme acenteleri ve hekim ağları ile stratejik iş birlikleri kurmak - Uluslararası sağlık fuarlarına, roadshow'lara ve B2B medikal toplantılara liderlik etmek - Sağlık turizmi teşvikleri (Ticaret Bakanlığı destekleri) başvuru ve hak ediş süreçlerini yönetmek - Yurtdışı ofis yöneticileri ve medikal tercüman ekipler…"
+}
+},
+{
+"id": "J2754",
+"kind": "JOB",
+"title": "Kıdemli Yenidoğan ve Çocuk Yoğun Bakım Koordinatör Hemşiresi",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Yüzden fazla küvöz kapasiteli YYBÜ ve Çocuk Yoğun Bakım ünitelerimizin klinik işleyişini, enfeksiyon kontrolünü ve hemşire kadrosunu yönetecek Kıdemli Koordinatör arıyoruz. Temel İş ve Sorumluluk Alanları: - YYBÜ ve ÇYBÜ servislerinin günlük hasta doluluk, hemşire-hasta oranları ve cihaz atamalarını yönetmek - Prematüre bebek bakımında santral kateter ilişkili kan dolaşımı enfeksiyonlarını (BSİ) sıfırlama hedefini denetlemek - Sorumlu hemşireler ve nöbetçi ekiplerin sürekli klinik denetimlerini gerçekleştirmek - Yenidoğan hekimleriyle vizitler…"
+}
+},
+{
+"id": "J2746",
+"kind": "JOB",
+"title": "Kıdemli Yoğun Bakımlar Koordinatör Hemşiresi",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Tüm erişkin, koroner ve cerrahi yoğun bakım ünitelerimizin klinik bakım kalitesini, hemşirelik standartlarını ve JCI akreditasyon uyumunu yönetecek Kıdemli Koordinatör arıyoruz. Rol ve Sorumluluklar: - Yoğun bakım ünitelerindeki klinik hemşirelik bakım protokollerini kanıta dayalı tıp ilkelerine göre güncellemek - Ventilatör ilişkili olaylar (VAE), santral kateter enfeksiyonları ve düşme oranlarını sıfıra indirme projelerine liderlik etmek - Yoğun bakım sorumlu hemşirelerinin performansını, vardiya planlarını ve yetkinlik gelişimini yönetmek -…"
+}
+},
+{
+"id": "J1217",
+"kind": "JOB",
+"title": "Klinik Araştırma Uzmanı (CRA)",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "IQVIA Türkiye Klinik Operasyonlar Departmanında görev alacak 'Klinik Araştırma Uzmanı (CRA)' arayışımız bulunmaktadır. Rol ve Kurum Hakkında: IQVIA, dünya lideri bir klinik araştırma kuruluşu (CRO) olarak Faz I-IV uluslararası klinik çalışmaların yürütülmesinde en yüksek etik ve bilimsel standartları sağlar. Görev ve Sorumluluklar: - Sorumlu olunan hastane merkezlerinde Merkez Başlatma (SIV), Rutin İzleme (IMV) ve Kapatma (COV) vizitlerinin ICH-GCP ve yerel yönetmeliklere uygun yapılması, - Kaynak Veri Doğrulaması (SDV / SDR) yapılarak elektro…"
+}
+},
+{
+"id": "J0401",
+"kind": "JOB",
+"title": "Klinik Biyoistatistikçi",
+"industry": "HEALTHCARE",
+"city": "İzmir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Novo Nordisk Klinik Geliştirme Departmanında, [şehir] ofisimizde görevlendirilmek üzere 'Klinik Biyoistatistikçi' aramaktayız. Rol ve Kurum Hakkında: Novo Nordisk, kronik hastalıklar alanında öncü tedaviler geliştirirken klinik araştırmalarda yüksek veri güvenilirliği ve metodolojik titizlik uygulamaktadır. Görev ve Sorumluluklar: - Klinik araştırma protokollerinin istatistiksel metodolojisinin kurgulanması, örneklem büyüklüğü ve güç (power) hesaplamalarının yapılması, - İstatistiksel Analiz Planı (SAP) ve sahte tablo, şekil ve listeleme (TFL)…"
+}
+},
+{
+"id": "J0887",
+"kind": "JOB",
+"title": "Klinik Biyokimya Uzmanı",
+"industry": "HEALTHCARE",
+"city": "Bursa",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Medicana Sağlık Grubu Merkez Laboratuvarında, [şehir] hastanemizde görev yapacak 'Klinik Biyokimya Uzmanı' aramaktayız. Rol ve Kurum Hakkında: Medicana Klinik Biyokimya Laboratuvarları, yüksek otomasyonlu sistemleri ve ileri analitik güvencesiyle teşhiste hekimlerin en büyük klinik dayanağıdır. Görev ve Sorumluluklar: - Preanalitik, analitik ve postanalitik süreçlerin denetlenmesi ve laboratuvar iş akışının yönetilmesi, - Biyokimya otoanalizörleri (Roche Cobas, Beckman Coulter vb.) ve hormon cihazlarının iç/dış kalite kontrol verilerinin (Leve…"
+}
+},
+{
+"id": "J2774",
+"kind": "JOB",
+"title": "Klinik Diyetisyen ve Beslenme Uzmanı",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Yatan hasta nutrisyonel durum değerlendirmelerini yapacak, enteral/parenteral beslenme protokolleri ve bariatrik cerrahi sonrası diyet planlarını hazırlayacak Diyetisyen arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Yataklı servis ve yoğun bakım hastalarının nütrisyon risk taramasını (NRS-2002) yaparak beslenme planı oluşturmak - Bariatrik cerrahi (tüp mide, gastrik bypass) geçiren hastaların kademeli postop diyet eğitimlerini vermek - Diyabet, onkoloji ve böbrek yetmezliği hastalarına tıbbi beslenme tedavisi uygulamak - Hastane diyet mutfağın…"
+}
+},
+{
+"id": "J1337",
+"kind": "JOB",
+"title": "Klinik Genomik ve Varyant Analizi Uzmanı",
+"industry": "HEALTHCARE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Genoks Biyoteknoloji bünyesinde, [şehir] merkezimizde görevlendirilmek üzere 'Klinik Genomik ve Varyant Analizi Uzmanı' aramaktayız. Rol ve Kurum Hakkında: Genoks, Yeni Nesil Dizileme (NGS), Tüm Ekzom Dizileme (WES) ve non-invaziv prenatal testlerde (NIPT) Türkiye'nin lider genomik tanı merkezlerindendir. Görev ve Sorumluluklar: - NGS platformlarından gelen ham FASTQ/BAM verilerinin biyoinformatik filtreleme boru hatlarından geçirilerek VCF varyant dosyalarının incelenmesi, - ACMG/AMP kılavuz kurallarına göre tek nükleotid polimorfizmleri (SNP…"
+}
+},
+{
+"id": "J2784",
+"kind": "JOB",
+"title": "Klinik Psikolog (Yetişkin & Ergen)",
+"industry": "HEALTHCARE",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Psikiyatri polikliniğimiz ve yataklı servislerimizde psikolojik değerlendirme, psikoterapi ve psikometrik test uygulamalarını gerçekleştirecek Klinik Psikolog arıyoruz. Temel İş ve Sorumluluk Alanları: - Yetişkin ve ergen danışanlara Bilişsel Davranışçı Terapi (BDT) veya EMDR ekolüyle bireysel terapi uygulamak - MMPI, Rorschach ve nöropsikolojik test bataryalarını uygulayarak raporlamak - Kanser ve kronik hastalığı bulunan yatan hastalara konsültasyon-liyezon psikolojisi desteği vermek - Hastanede çalışan sağlık personeline yönelik tükenmişlik…"
+}
+},
+{
+"id": "J0851",
+"kind": "JOB",
+"title": "Klinik Veri Yönetimi (CDM) Uzmanı",
+"industry": "HEALTHCARE",
+"city": "Bursa",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Syneos Health bünyesinde uluslararası klinik çalışmalarda görev alacak 'Klinik Veri Yönetimi (CDM) Uzmanı' arayışımız bulunmaktadır. Rol ve Kurum Hakkında: Syneos Health, biyofarmasötik çözümlerde entegre klinik ve ticari hizmet sunan küresel bir kuruluştur. Görev ve Sorumluluklar: - Klinik çalışma protokolüne uygun olarak e-CRF ekran tasarımlarının yapılması ve kullanıcı kabul testlerinin (UAT) icrası, - Veri Yönetim Planı (DMP), Veri Doğrulama Spesifikasyonları (DVS) ve edit-check kurallarının yazılması ve test edilmesi, - Elektronik veri ta…"
+}
+},
+{
+"id": "C10994",
+"kind": "CV",
+"title": "Kozmetik Ürün Güvenlik Değerlendiricisi",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Moleküler Biyoloji ve Genetik alanındaki güçlü akademik temelim ve 1 yılı aşkın sektör deneyimimle, Kozmetik Ürün Güvenlik Değerlendiricisi rolünde uçtan uca başarılı projeler yürütmekteyim. Hasta İletişimi ve Takibi, İlaç Ruhsatlandırma & Mevzuat Takibi ve Farmakovijilans Raporlaması başta olmak üzere modern araç ve metodolojilere hakimim. Süreç …",
+"beceriler": "Hasta İletişimi ve Takibi, İlaç Ruhsatlandırma & Mevzuat Takibi, Farmakovijilans Raporlaması, Klinik Araştırma ve Faz Çalışmaları, İyi Klinik Uygulamaları (GCP) & GMP Standartları, Klinik Teşhis ve Tedavi Protokolleri",
+"deneyim": [
+"Kozmetik Ürün Güvenlik Değerlendiricisi (2024 - Günümüz): Hasta dosya ve anamnez kayıtlarının gizlilik ilkelerine bağlı kalınarak güncel tutulmasını ve sağlık bilgi sist…",
+"Stajyer (Ekim 2022 - Mayıs 2023): Birim içi süreç iyileştirme projelerinde literatür ve mevzuat araştırmaları yürüterek üst yönetime sunulan özet brifinglerin hazırlanma…"
+],
+"egitim": [
+"Koç Üniversitesi - Lisans (Moleküler Biyoloji ve Genetik) 2020 - 2024"
+]
+}
+},
+{
+"id": "J0754",
+"kind": "JOB",
+"title": "Kozmetik Ürün Güvenlik Değerlendiricisi",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Farmasi Kozmetik bünyesinde, [şehir] merkezimizde görevlendirilmek üzere 'Kozmetik Ürün Güvenlik Değerlendiricisi' aramaktayız. Rol ve Kurum Hakkında: Farmasi, küresel ölçekte doğrudan satış ve ihracat yapan tesislerinde en yüksek kozmetik kalite ve güvenlik standartlarını benimsemiştir. Görev ve Sorumluluklar: - Kozmetik ürün formülasyonlarının AB Kozmetik Tüzüğü (EC No 1223/2009) ve TİTCK Kozmetik Yönetmeliğine uygun güvenlik değerlendirmesinin yapılması, - Hammaddelerin toksikolojik profillerinin tespiti, Sistemik Maruziyet Dozu (SED) ve Gü…"
+}
+},
+{
+"id": "C10915",
+"kind": "CV",
+"title": "Kromatografi (HPLC",
+"industry": "HEALTHCARE",
+"city": "Bursa",
+"context": {
+"ozet": "Kromatografi (HPLC / GC-MS) Analisti olarak 6 yıllık profesyonel deneyime sahibim. Hasta İletişimi ve Takibi, İyi Klinik Uygulamaları (GCP) & GMP Standartları ve Klinik Teşhis ve Tedavi Protokolleri alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapt…",
+"beceriler": "Hasta İletişimi ve Takibi, İyi Klinik Uygulamaları (GCP) & GMP Standartları, Klinik Teşhis ve Tedavi Protokolleri, Farmakovijilans Raporlaması, İlaç Ruhsatlandırma & Mevzuat Takibi, Laboratuvar Analiz Cihazları (HPLC, G…",
+"deneyim": [
+"Kromatografi (HPLC (2023 - Günümüz): Hasta dosya ve anamnez kayıtlarının gizlilik ilkelerine bağlı kalınarak güncel tutulmasını ve sağlık bilgi sistemlerine aktarımını k…",
+"Kromatografi (HPLC (2020 - 2023): Klinik protokol ve hasta bakım yönergelerine tam uyum göstererek tanı, tedavi ve rehabilitasyon süreçlerini multidisipliner ekiple yürü…",
+"Stajyer (Ocak 2020 - Şubat 2020): Birim içi süreç iyileştirme projelerinde literatür ve mevzuat araştırmaları yürüterek üst yönetime sunulan özet brifinglerin hazırlanma…"
+],
+"egitim": [
+"Bursa Uludağ Üniversitesi - Yüksek Lisans (Eczacılık Fakültesi ve Yönetim) 2021 - 2023",
+"Bursa Uludağ Üniversitesi - Lisans (Eczacılık Fakültesi) 2017 - 2021"
+]
+}
+},
+{
+"id": "J1390",
+"kind": "JOB",
+"title": "Kromatografi (HPLC / GC-MS) Kıdemli Analisti",
+"industry": "HEALTHCARE",
+"city": "Kocaeli",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "İlko İlaç Ar-Ge Merkezi Analitik Geliştirme Bölümünde, [şehir] tesisimizde görev yapacak 'Kromatografi (HPLC / GC-MS) Kıdemli Analisti' aramaktayız. Rol ve Kurum Hakkında: İlko İlaç Ar-Ge Merkezi, yenilikçi jenerik ilaçlar ve biyobenzer ürünler için ileri kromatografik metot geliştirme altyapısına sahiptir. Görev ve Sorumluluklar: - Yeni farmasötik etken madde ve bitmiş ürünler için HPLC, UPLC, GC ve GC-MS kromatografik ayırma metotlarının geliştirilmesi, - İlgili safsızlıklar (related substances), degradasyon ürünleri ve kalıntı çözücüler (re…"
+}
+},
+{
+"id": "J2745",
+"kind": "JOB",
+"title": "Kulak Burun Boğaz (KBB) Uzman Hekimi",
+"industry": "HEALTHCARE",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Rinoplasti, endoskopik sinüs cerrahisi, tonsillektomi ve timpanoplasti ameliyatlarını gerçekleştirecek KBB Uzmanı arıyoruz. Pozisyonun Temel Görevleri: - KBB polikliniğinde endoskopik muayeneler ve odyolojik değerlendirmeler yapmak - Fonksiyonel ve estetik burun cerrahisi (rinoplasti) ile sinüzit cerrahilerini icra etmek - Çocuk hastalarda geniz eti ve bademcik ameliyatlarını gerçekleştirmek - Acil KBB vakalarında (burun kanaması, yabancı cisim vb.) ilk müdahaleyi yapmak Beklenen Deneyim ve Yetenekler: - Tıp Fakültesi ve KBB Hastalıkları uzman…"
+}
+},
+{
+"id": "C10547",
+"kind": "CV",
+"title": "Kulak Burun Boğaz (KBB) Uzmanı",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Moleküler Biyoloji ve Genetik alanındaki güçlü akademik temelim ve 5 yılı aşkın sektör deneyimimle, Kulak Burun Boğaz (KBB) Uzmanı rolünde uçtan uca başarılı projeler yürütmekteyim. İyi Klinik Uygulamaları (GCP) & GMP Standartları, Hasta İletişimi ve Takibi ve Klinik Teşhis ve Tedavi Protokolleri başta olmak üzere modern araç ve metodolojilere hak…",
+"beceriler": "İyi Klinik Uygulamaları (GCP) & GMP Standartları, Hasta İletişimi ve Takibi, Klinik Teşhis ve Tedavi Protokolleri, Farmakovijilans Raporlaması, İlaç Ruhsatlandırma & Mevzuat Takibi, Klinik Araştırma ve Faz Çalışmaları",
+"deneyim": [
+"Kulak Burun Boğaz (KBB) Uzmanı (2023 - Günümüz): Farmakovijilans ve rasyonel ilaç kullanım ilkeleri doğrultusunda advers etki bildirimlerini ve klinik çalışma dokümantas…",
+"Kulak Burun Boğaz (KBB) Uzmanı (2020 - 2023): Tıbbi cihazların validasyon ve kalibrasyon takip süreçlerini denetleyerek sağlık mevzuatı ve kalite akreditasyon standartla…",
+"Stajyer (Haziran 2021 - Ağustos 2021): Proje toplantı tutanaklarının tutulması, departmanlar arası veri akışının takibi ve kurumsal arşiv sisteminin güncellenmesi görevl…"
+],
+"egitim": [
+"Koç Üniversitesi - Yüksek Lisans (Moleküler Biyoloji ve Genetik ve Yönetim) 2022 - 2024",
+"Koç Üniversitesi - Lisans (Moleküler Biyoloji ve Genetik) 2018 - 2022"
+]
+}
+},
+{
+"id": "J1035",
+"kind": "JOB",
+"title": "Kulak Burun Boğaz (KBB) Uzmanı",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda veya hybrid düzende sorumluluk üstlenecek dinamik bir Kulak Burun Boğaz (KBB) Uzmanı takımımıza katılacaktır. Bu rolde temel amacımız, Klinik Teşhis ve Tedavi Protokolleri ve Farmakovijilans Raporlaması konularında kurumsal standartları en üst seviyeye taşımaktır. Adayın İyi Klinik Uygulamaları (GCP) & GMP Standartları süreçlerinde inisiyatif alması, ekipler arası iletişimi koordine etmesi ve operasyonel mükemmelliğe doğrudan katkı sağlaması hedeflenmektedir. Yenilikçi, çözüm odaklı ve kurumsal kültürümüze değer katacak …"
+}
+},
+{
+"id": "J1356",
+"kind": "JOB",
+"title": "Kütle Spektrometrisi (MS/MS) Uzmanı",
+"industry": "HEALTHCARE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Biofarma İlaç Ar-Ge Analitik Geliştirme Bölümünde görevlendirilmek üzere 'Kütle Spektrometrisi (MS/MS) Uzmanı' aramaktayız. Rol ve Kurum Hakkında: Biofarma İlaç, modern analiz teknolojileriyle ilaç güvenliğinde kritik olan eser safsızlık ve nitrozamin analizlerinde yüksek hassasiyetli test kapasitesine sahiptir. Görev ve Sorumluluklar: - LC-MS/MS (üçlü kuadropol) ve GC-MS/MS sistemlerinde farmasötik hammadde ve bitmiş ürünlerde eser düzey nitrozamin (NDMA, NDEA vb.) tayinlerinin yapılması, - Genotoksik ve mutajenik safsızlıkların ppb/ppm düzey…"
+}
+},
+{
+"id": "J0163",
+"kind": "JOB",
+"title": "Maaşlı Psikolog",
+"industry": "HEALTHCARE",
+"city": "Van",
+"position_level": "SPECIALIST",
+"mode": "Remote",
+"context": {
+"aciklama": "Synapse Lynk bünyesinde faaliyet gösteren Danışan Ağı olarak, ruh sağlığı uzmanlarının yalnızca mesleğine odaklandığı bir çalışma düzeni kuruyoruz. Kurumsal anlaşmalarımız sayesinde uzmanlarımıza düzenli danışan akışı sağlıyor; tüm yasal, operasyonel ve özlük hakları süreçlerini biz üstleniyoruz. Maaşlı, tamamen online ve kendi saatlerinde çalışmak isteyen psikolog / klinik psikolog arıyoruz. Başvuran tüm uzmanlar, Danışan Ağı standartlarını ve portal kullanımını içeren zorunlu bir eğitim programından geçer. Bu eğitim sonunda başarılı olan ve …"
+}
+},
+{
+"id": "C10589",
+"kind": "CV",
+"title": "Mass Spectrometry (LC-MS",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Recent graduate in Molecular Biology & Genetics from Kadir Has University, seeking to launch a professional career as a Mass Spectrometry (LC-MS/MS) Specialist. Equipped with solid academic foundations and practical project experience in Pharmacovigilance & Drug Safety, Good Clinical Practice (GCP) & GMP Standards and Regulatory Affairs & Product …",
+"beceriler": "Pharmacovigilance & Drug Safety, Good Clinical Practice (GCP) & GMP Standards, Regulatory Affairs & Product Dossier Preparation, Clinical Trials & Medical Documentation, Analytical Lab Instruments (HPLC, GC-MS)",
+"deneyim": [
+"Intern (January 2022 - February 2022): Shadowed experienced consultants during client discovery workshops and compiled structured notes for requirement specifications."
+],
+"egitim": [
+"Kadir Has University - Bachelor's Degree (Molecular Biology & Genetics) 2019 - 2023"
+]
+}
+},
+{
+"id": "C10798",
+"kind": "CV",
+"title": "Medical Writer & Clinical Protocol Author",
+"industry": "HEALTHCARE",
+"city": "Bursa",
+"context": {
+"ozet": "Dedicated Medical Writer & Clinical Protocol Author with 1 years of demonstrated experience in Healthcare, Medicine & Pharmaceuticals. Skilled in Clinical Trials & Medical Documentation, Regulatory Affairs & Product Dossier Preparation and Patient Consultation & Empathy with a focus on project accuracy, process efficiency, and continuous improveme…",
+"beceriler": "Clinical Trials & Medical Documentation, Regulatory Affairs & Product Dossier Preparation, Patient Consultation & Empathy, Analytical Lab Instruments (HPLC, GC-MS), Clinical Diagnosis & Patient Care Protocols, Pharmacov…",
+"deneyim": [
+"Medical Writer & Clinical Protocol Author (2024 - Present): Maintained calibration standards and preventive maintenance logs for advanced diagnostic and biomedical medic…",
+"Medical Writer & Clinical Protocol Author (2022 - 2024): Delivered patient-centered care and managed clinical documentation in full compliance with healthcare accreditat…",
+"Intern (January 2023 - February 2023): Shadowed experienced consultants during client discovery workshops and compiled structured notes for requirement specifications."
+],
+"egitim": [
+"Bursa Uludag University - Bachelor's Degree (Faculty of Dentistry) 2020 - 2024"
+]
+}
+},
+{
+"id": "J2855",
+"kind": "JOB",
+"title": "Medikal Bilimsel İrtibat Uzmanı (MSL - Onkoloji)",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "### Biz Kimiz? Yenilikçi biyoteknoloji ve kişiselleştirilmiş onkoloji tedavilerinde dünya lideri olan Roche, hastaların yaşam süresini ve kalitesini artırmak için bilimin sınırlarını genişletmektedir. Pozisyon Özeti: Onkoloji ve hematoloji alanındaki klinik çalışmalarımızın ve moleküllerimizin bilimsel verilerini tıp camiasına aktaracak Medikal Bilimsel İrtibat Uzmanı (MSL) arıyoruz. Neler Yapacaksınız? - Tıbbi onkologlar, hematologlar ve kilit fikir liderleri (KOL) ile akran düzeyinde bilimsel diyaloglar yürütmek - Yeni klinik çalışma sonuçla…"
+}
+},
+{
+"id": "J2856",
+"kind": "JOB",
+"title": "Medikal Danışman (Medical Advisor)",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Aşı ve nadir hastalıklar portföyümüzün medikal stratejilerini kurgulayacak ve medikal pazarlama projelerini yönetecek hekim veya eczacı danışmanlar arıyoruz. Temel İş ve Sorumluluk Alanları: - Ürünlerin medikal lansman planlarını, medikal strateji dokümanlarını ve bilimsel mesajlarını oluşturmak - Pazarlama materyallerinin bilimsel doğruluğunu ve regülasyonlara uygunluğunu inceleyerek medikal onay vermek - Ulusal danışma kurulu (Advisory Board) toplantılarını tasarlamak ve bilimsel oturumları yönetmek - Hekimlerden ve regülatörlerden gelen med…"
+}
+},
+{
+"id": "C10950",
+"kind": "CV",
+"title": "Medikal Direktör (İlaç Sektörü)",
+"industry": "HEALTHCARE",
+"city": "Kocaeli",
+"context": {
+"ozet": "Medikal Direktör (İlaç Sektörü) olarak 6 yıllık profesyonel deneyime sahibim. İyi Klinik Uygulamaları (GCP) & GMP Standartları, Hasta İletişimi ve Takibi ve Klinik Araştırma ve Faz Çalışmaları alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olab…",
+"beceriler": "İyi Klinik Uygulamaları (GCP) & GMP Standartları, Hasta İletişimi ve Takibi, Klinik Araştırma ve Faz Çalışmaları, İlaç Ruhsatlandırma & Mevzuat Takibi, Farmakovijilans Raporlaması, Klinik Teşhis ve Tedavi Protokolleri",
+"deneyim": [
+"Medikal Direktör (İlaç Sektörü) (2024 - Günümüz): Farmakovijilans ve rasyonel ilaç kullanım ilkeleri doğrultusunda advers etki bildirimlerini ve klinik çalışma dokümanta…",
+"Medikal Direktör (İlaç Sektörü) (2022 - 2024): Hasta dosya ve anamnez kayıtlarının gizlilik ilkelerine bağlı kalınarak güncel tutulmasını ve sağlık bilgi sistemlerine ak…"
+],
+"egitim": [
+"Gebze Teknik Üniversitesi - Yüksek Lisans (Moleküler Biyoloji ve Genetik ve Yönetim) 2021 - 2023",
+"Gebze Teknik Üniversitesi - Lisans (Moleküler Biyoloji ve Genetik) 2017 - 2021"
+]
+}
+},
+{
+"id": "J0389",
+"kind": "JOB",
+"title": "Medikal Direktör (İlaç Sektörü)",
+"industry": "HEALTHCARE",
+"city": "Ankara",
+"position_level": "DIRECTOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Pfizer Türkiye Yönetim Kadrosunda, [şehir] genel merkezimizde görev alacak 'Medikal Direktör (İlaç Sektörü)' aramaktayız. Rol ve Kurum Hakkında: Pfizer, çığır açan tedavileri hastalara ulaştırma misyonuyla yenilikçi biyofarmasötik portföyüne liderlik eden küresel bir ilaç devidir. Görev ve Sorumluluklar: - Şirketin medikal departman vizyonunun, ürün lansman medikal stratejilerinin ve kanıt üretme planlarının belirlenmesi, - Kilit Fikir Liderleri (KOL), tıp dernekleri, akademik kurumlar ve sağlık otoriteleri ile üst düzey bilimsel iş birlikleri…"
+}
+},
+{
+"id": "J2881",
+"kind": "JOB",
+"title": "Medikal Direktör (Medical Director)",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "### Biz Kimiz? Bilimin sınırlarını zorlayarak hayat değiştiren ilaçlar geliştiren AstraZeneca, onkoloji, kardiyovasküler, solunum ve nadir hastalıklar alanlarında küresel çapta öncülük etmektedir. Pozisyon Özeti: Türkiye Medikal Departmanımızın tüm operasyonel, stratejik ve bilimsel liderliğini üstlenecek, Yönetim Kurulu seviyesinde temsil sağlayacak Medikal Direktör arıyoruz. Görev ve Sorumluluklar: - Şirketin tüm tedavi alanlarındaki medikal stratejilerini, kanıt üretim planlarını ve medikal lansman yol haritalarını belirlemek - Medikal Danı…"
+}
+},
+{
+"id": "J2860",
+"kind": "JOB",
+"title": "Medikal İletişim ve Kongre Yönetimi Uzmanı",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Ulusal ve uluslararası tıp kongrelerindeki bilimsel katılımımızı, hekim sponsorluklarını ve medikal iletişim kampanyalarımızı yönetecek uzmanlar arıyoruz. Rol ve Sorumluluklar: - Yıllık medikal kongre takvimini oluşturmak ve tıp dernekleri ile sponsorluk sözleşmelerini yönetmek - Hekimlerin kongre kayıt, konaklama ve TİTCK onay süreçlerini yasal kurallara uygun tamamlamak - Kongre stand alanlarının bilimsel içerik tasarımını ve interaktif dijital medikal sunumlarını koordine etmek - Kongre bütçesini takip etmek ve etkinlik sonrası ROI analizle…"
+}
+},
+{
+"id": "J2848",
+"kind": "JOB",
+"title": "Medikal Mümessil (Genel Tıp)",
+"industry": "HEALTHCARE",
+"city": "Adana",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] bölgesinde genel tıp ve gastroenteroloji ürün portföyümüzün medikal tanıtımını yürütecek mümessiller arıyoruz. Rol ve Sorumluluklar: - [şehir] ve çevre ilçelerdeki poliklinik ve aile sağlığı merkezlerinde düzenli tanıtım turları gerçekleştirmek - Ürün broşürleri, bilimsel makaleler ve klinik kılavuzlar eşliğinde hekim bilgilendirmesi yapmak - Bölgesel eczane depoları ve eczane kanalı ile sağlıklı ilişkiler kurmak - Ziyaret verilerini tablet üzerindeki kurumsal satış portalına düzenli girmek Kimleri Arıyoruz? - Üniversite mezunu (Biyolo…"
+}
+},
+{
+"id": "J2760",
+"kind": "JOB",
+"title": "Medikal Operasyonlar ve Klinik Yönetim Direktörü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Türkiye genelindeki 30'a yakın hastanemizin klinik verimliliğini, hekim planlamasını, ameliyathane kullanım oranlarını ve klinik kalite standartlarını yönetecek Direktör arıyoruz. Temel İş ve Sorumluluk Alanları: - Grup hastanelerinin ameliyathane, yoğun bakım ve poliklinik kapasite optimizasyonunu yönetmek - Yeni hastane açılışlarında tıbbi teknoloji yatırımlarının ve hekim kadrolarının fizibilitesini belirlemek - Klinik kalite indikatörleri ve tıbbi sarf maliyet verimliliğini grup düzeyinde denetlemek - Grup İcra Kurulu ve Hastane Genel Müdü…"
+}
+},
+{
+"id": "J2872",
+"kind": "JOB",
+"title": "Medikal Pazarlama ve Ürün Müdürü",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Klinik beslenme ve enteral beslenme ürün portföyümüzün marka konumlandırmasını ve çok kanallı pazarlama stratejilerini yönetecek Ürün Müdürü arıyoruz. Rol ve Sorumluluklar: - Marka stratejilerini, pazar segmentasyonunu ve yıllık pazarlama bütçesini yönetmek - Tıbbi satış ekipleri için bilimsel tanıtım kampanyaları ve dijital pazarlama içerikleri tasarlamak - Klinik beslenme dernekleri ve fikir liderleriyle bilimsel farkındalık projeleri yürütmek - Pazar payı, satış trendleri ve rakip analizlerini düzenli olarak üst yönetime raporlamak Kimleri …"
+}
+},
+{
+"id": "J2845",
+"kind": "JOB",
+"title": "Medikal Temsilci / Eczane ve Hekim Tanıtım Elemanı",
+"industry": "HEALTHCARE",
+"city": "İzmir",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ve çevre illerde reçeteli ilaç portföyümüzün tanıtımını etik kurallar çerçevesinde yürütecek genç medikal temsilciler arıyoruz. Görev ve Sorumluluklar: - Hedef branş hekimlerine ve serbest eczanelere planlı bilimsel ziyaretler gerçekleştirmek - Ürün faydalarını kanıta dayalı klinik verilerle açıklayarak medikal farkındalık oluşturmak - Bölge pazar payı dinamiklerini analiz etmek ve haftalık/aylık ziyaret raporlarını sunmak - Sağlık otoritelerinin ve şirketimizin mevzuat ve etik tanıtım kurallarına eksiksiz uymak Aranan Nitelikler: - Li…"
+}
+},
+{
+"id": "J0852",
+"kind": "JOB",
+"title": "Medikal Yazar (Clinical Study Protocol Writer)",
+"industry": "HEALTHCARE",
+"city": "Bursa",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Roche Türkiye Medikal Direktörlüğünde, [şehir] ofisimizde görev alacak 'Medikal Yazar (Clinical Study Protocol Writer)' aramaktayız. Rol ve Kurum Hakkında: Roche, biyoteknoloji ve kişiselleştirilmiş sağlık hizmetlerinde global lider olup bilimsel verinin etik ve doğru aktarılmasında en yüksek standartları uygular. Görev ve Sorumluluklar: - Faz I-IV klinik çalışmalar için bilimsel ve regülatuvar açıdan eksiksiz Klinik Araştırma Protokolleri yazılması, - Bilgilendirilmiş Gönüllü Olur Formları (ICF) ve Araştırmacı Broşürlerinin (IB) derlenmesi ve…"
+}
+},
+{
+"id": "C20571",
+"kind": "CV",
+"title": "Merkezi Sterilizasyon Ünitesi (MSÜ) Teknisyeni",
+"industry": "HEALTHCARE",
+"city": "Sakarya",
+"context": {
+"ozet": "Merkezi sterilizasyon (MSÜ) ve enfeksiyon kontrolü alanında 2 yıllık deneyime sahibim. Merkezi Sterilizasyon Ünitesi (MSÜ) Teknisyeni olarak cerrahi aletlerin dekontaminasyonu, paketlenmesi, otoklav döngüleri ve sterilizasyon indikatör takibini kurallara tam uyumla yönetirim.",
+"beceriler": "Buharlı Otoklav ve Plazma Sterilizasyonu, Cerrahi Alet Yıkama ve Paketleme, Biyolojik ve Kimyasal İndikatör Takibi, Steril Depo ve Sevkiyat Yönetimi",
+"deneyim": [
+"Merkezi Sterilizasyon Ünitesi (MSÜ) Teknisyeni ([TARİH]): [ŞİRKET] hastanesinde ameliyathane cerrahi setlerinin dekontaminasyon, ultrasonik yıkama ve fonksiyon testlerin…",
+"Merkezi Sterilizasyon Ünitesi (MSÜ) Teknisyeni ([TARİH]): [ŞİRKET] bünyesinde kirli alandan gelen cerrahi motor ve aletlerin teslim alınıp kaba kirlerinden arındırılması…"
+],
+"egitim": [
+"[OKUL] - Lise (Sağlık Hizmetleri) [TARİH]"
+]
+}
+},
+{
+"id": "J0522",
+"kind": "JOB",
+"title": "Merkezi Sterilizasyon Ünitesi (MSÜ) Teknisyeni",
+"industry": "HEALTHCARE",
+"city": "Gaziantep",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ([şehir] 1-5. OSB Sanayi Bölgesi) yerleşkemizde tam zamanlı görev alacak Merkezi Sterilizasyon Ünitesi (MSÜ) Teknisyeni aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde merkezi sterilizasyon ünitesi (msü) teknisyeni operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması. - Ulaşım personel servisimiz ile sağlanmaktadır."
+}
+},
+{
+"id": "J0486",
+"kind": "JOB",
+"title": "Microbiology Specialist",
+"industry": "HEALTHCARE",
+"city": "İzmir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Garanti BBVA Bank is seeking an ambitious and results-driven Microbiology Specialist to strengthen our growing enterprise. In this position, you will take ownership of scalable initiatives involving Regulatory Affairs & Product Dossier Preparation and Analytical Lab Instruments (HPLC, GC-MS). You will work closely with departmental leadership to optimize Clinical Diagnosis & Patient Care Protocols workflows and maintain strict quality benchmarks. If you thrive in collaborative environments and are passionate about high-impact execution, we loo…"
+}
+},
+{
+"id": "J0833",
+"kind": "JOB",
+"title": "Moleküler Biyoloji ve Kök Hücre Araştırmacısı",
+"industry": "HEALTHCARE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Acıbadem Labcell Hücresel Tedavi Laboratuvarında, [şehir] kampüsümüzde görevlendirilmek üzere 'Moleküler Biyoloji ve Kök Hücre Araştırmacısı' aramaktayız. Rol ve Kurum Hakkında: Acıbadem Labcell, cGMP standartlarındaki temiz oda ortamında mezenkimal kök hücre, kordon kanı ve immünoterapi (CAR-T) hücre ürünleri üreten öncü bir merkezdir. Görev ve Sorumluluklar: - Temiz oda (Class B ve Class A kabinler) koşullarında primer dokulardan mezenkimal ve hematopoiyetik kök hücre izolasyonu ve pasajlama, - Hücre bankacılığı standartlarında hücre dondurm…"
+}
+},
+{
+"id": "J0365",
+"kind": "JOB",
+"title": "Moleküler Biyoloji ve Sitogenetik Laboratuvar Şefi",
+"industry": "HEALTHCARE",
+"city": "Antalya",
+"position_level": "MANAGER",
+"mode": "OnSite",
+"context": {
+"aciklama": "Düzen Laboratuvarlar Grubu Genetik Tanı Merkezinde görevlendirilmek üzere 'Moleküler Biyoloji ve Sitogenetik Laboratuvar Şefi' aramaktayız. Rol ve Kurum Hakkında: Düzen Laboratuvarlar Grubu, yarım asırlık tecrübesiyle Türkiye'nin en saygın referans laboratuvarlarından biri olup sitogenetik ve moleküler genetikte liderdir. Görev ve Sorumluluklar: - Sitogenetik, moleküler sitogenetik (FISH) ve moleküler genetik laboratuvarlarının operasyonel, idari ve teknik yönetiminin sağlanması, - Periferik kan, kemik iliği ve prenatal örneklerin karyotip ban…"
+}
+},
+{
+"id": "C20229",
+"kind": "CV",
+"title": "Morg Görevlisi / Gasilhane Hizmetlisi",
+"industry": "HEALTHCARE",
+"city": "Ankara",
+"context": {
+"ozet": "Cenaze hizmetleri ve gasilhane birimlerinde 2 yıllık profesyonel deneyime sahibim. Morg Görevlisi / Gasilhane Hizmetlisi olarak vefat eden kişilerin morga kabulü, sıhhi usullere uygun yıkanması, kefenlenmesi ve defin belgeleri takibi süreçlerini saygı ve ketumiyetle yürütürüm.",
+"beceriler": "Hijyen Kuralları, Cenaze Hazırlama, Resmi Evrak Takibi",
+"deneyim": [
+"Morg Görevlisi / Gasilhane Hizmetlisi ([TARİH]): Hastanede vefat eden kişilerin servislerden morga kabulünü kimlik bilekliği ve ölüm tutanağı kontrolleriyle sağlayarak s…"
+],
+"egitim": [
+"[OKUL] - Lise (Sağlık Bakım Teknisyenliği) [TARİH]"
+]
+}
+}
+]

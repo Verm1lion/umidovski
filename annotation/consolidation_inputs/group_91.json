@@ -1,0 +1,262 @@
+[
+{
+"specialty": "Ev Yardımcısı",
+"isco4": "9111",
+"isco_title": "Domestic cleaners and helpers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gündüzlü Temizlik ve Yemek Elemanı"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çaycı",
+"isco4": "9112",
+"isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"MUTFAK & TEMİZLİK PERSONELİ",
+"OTOMOTİV FİRMASI İÇİN ÇAYCI ARANMAKTADIR",
+"Ofis İçi İkram ve Çay Servis Elemanı",
+"Çaycı / Hizmetli"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Temizlik Operatörü",
+"isco4": "9112",
+"isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel Temizlik Operatörü (Fabrika)",
+"Hastane Zemin Bakım & Otomat Makine Operatörü"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Genel Alan Meydancısı",
+"isco4": "9112",
+"isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otel / AVM Genel Alan Meydancısı",
+"Otel Genel Alan Meydancısı (Public Area Attendant)"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hastane Temizlik Personeli",
+"isco4": "9112",
+"isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+"n_cv": 4,
+"n_job": 2,
+"ornek_unvanlar": [
+"Diyaliz & Enfeksiyon İzolasyon Servisi Hijyen Personeli",
+"Diş Hastanesi & Klinik Sterilizasyon Temizlikçisi",
+"Hastane Ameliyathane Dezenfeksiyon Görevlisi",
+"Hastane Hijyen ve Sanitasyon Görevlisi",
+"Hastane Temizlik Personeli"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kat Görevlisi",
+"isco4": "9112",
+"isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otel Kat Hizmetleri Görevlisi (Housekeeping)",
+"VIP Süit & Rezidans Kat Görevlisi"
+],
+"sektorler": [
+"CHEF_HORECA",
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kat Hizmetleri Elemanı",
+"isco4": "9112",
+"isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kat Hizmetleri Elemanı (Housekeeper)",
+"Kat Hizmetleri Personeli"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kat Hizmetleri Görevlisi",
+"isco4": "9112",
+"isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kat Hizmetleri Elemanı (Housekeeper)",
+"Kat Hizmetleri Personeli",
+"Otel Kat Görevlisi (Housekeeper & Bed Making)",
+"Otel Kat Hizmetleri Görevlisi (Housekeeping)"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Laboratuvar ve Temiz Oda Temizlik Personeli",
+"isco4": "9112",
+"isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Laboratuvar & Temiz Oda (Cleanroom) Hijyen Görevlisi"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Minibar Görevlisi",
+"isco4": "9112",
+"isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Minibar Dolum & Kat Kontrol Görevlisi"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Temizlik Görevlisi",
+"isco4": "9112",
+"isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+"n_cv": 9,
+"n_job": 8,
+"ornek_unvanlar": [
+"Amele / Hizmetli",
+"Genel Temizlik Personeli",
+"Havalimanı Temizlik Personeli",
+"Ofis, Okul ve Tesis Temizlik Görevlisi",
+"Okul ve Kurum Destek Görevlisi"
+],
+"sektorler": [
+"CHEF_HORECA",
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Temizlik ve Çay Görevlisi",
+"isco4": "9112",
+"isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Temizlik ve Çay Personeli"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Paskara Ütücüsü",
+"isco4": "9121",
+"isco_title": "Hand launderers and pressers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sanayi Tipi Paskara Ütücüsü"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "De-icing Operatörü",
+"isco4": "9122",
+"isco_title": "Vehicle cleaners",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"De-icing Operatörü",
+"Deicing Elemanı"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oto Yıkama Görevlisi",
+"isco4": "9122",
+"isco_title": "Vehicle cleaners",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oto Yıkama Görevlisi",
+"Oto Yıkama ve İç Dış Kuaför Elemanı"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uçak Kabin Temizlik Görevlisi",
+"isco4": "9122",
+"isco_title": "Vehicle cleaners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Havalimanı Uçak Kabin Temizlik ve Ramp Görevlisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dış Cephe Cam Temizlikçisi",
+"isco4": "9123",
+"isco_title": "Window cleaners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dış Cephe Cam Temizlik Operatörü (Endüstriyel Dağcı)"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+}
+]

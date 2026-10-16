@@ -1,0 +1,22 @@
+[
+{"specialty": "Banket Müdürü", "isco4": "1412", "canonical_specialty": "Banket Müdürü", "canonical_isco4": "1412"},
+{"specialty": "Bar Müdürü", "isco4": "1412", "canonical_specialty": "Bar Müdürü", "canonical_isco4": "1412"},
+{"specialty": "Restoran Müdürü", "isco4": "1412", "canonical_specialty": "Restoran Müdürü", "canonical_isco4": "1412"},
+{"specialty": "Restoran Operasyon Müdürü", "isco4": "1412", "canonical_specialty": "Restoran Operasyon Müdürü", "canonical_isco4": "1412"},
+{"specialty": "Yiyecek İçecek Müdürü", "isco4": "1412", "canonical_specialty": "Yiyecek ve İçecek Müdürü", "canonical_isco4": "1412"},
+{"specialty": "Yiyecek ve İçecek Müdürü", "isco4": "1412", "canonical_specialty": "Yiyecek ve İçecek Müdürü", "canonical_isco4": "1412"},
+{"specialty": "Mağaza Müdürü", "isco4": "1420", "canonical_specialty": "Mağaza Müdürü", "canonical_isco4": "1420"},
+{"specialty": "Perakende Bölge Müdürü", "isco4": "1420", "canonical_specialty": "Perakende Satış Müdürü", "canonical_isco4": "1420"},
+{"specialty": "Perakende Satış Müdürü", "isco4": "1420", "canonical_specialty": "Perakende Satış Müdürü", "canonical_isco4": "1420"},
+{"specialty": "Spor Salonu Müdürü", "isco4": "1431", "canonical_specialty": "Spor Salonu Müdürü", "canonical_isco4": "1431"},
+{"specialty": "Çağrı Merkezi Kalite Müdürü", "isco4": "1439", "canonical_specialty": "Çağrı Merkezi Kalite Müdürü", "canonical_isco4": "1439"},
+{"specialty": "Çağrı Merkezi Müdürü", "isco4": "1439", "canonical_specialty": "Müşteri Hizmetleri Müdürü", "canonical_isco4": "1439"},
+{"specialty": "Çağrı Merkezi Operasyon Müdürü", "isco4": "1439", "canonical_specialty": "Müşteri Hizmetleri Müdürü", "canonical_isco4": "1439"},
+{"specialty": "Güvenlik Operasyonları Müdürü", "isco4": "1439", "canonical_specialty": "Güvenlik Müdürü", "canonical_isco4": "1349"},
+{"specialty": "İş Gücü Planlama Müdürü", "isco4": "1439", "canonical_specialty": "İş Gücü Planlama Müdürü", "canonical_isco4": "1439"},
+{"specialty": "Marina Müdürü", "isco4": "1439", "canonical_specialty": "Marina Müdürü", "canonical_isco4": "1439"},
+{"specialty": "Marina Operasyon Sorumlusu", "isco4": "1439", "canonical_specialty": "Marina Müdürü", "canonical_isco4": "1439"},
+{"specialty": "Müşteri Deneyimi Müdürü", "isco4": "1439", "canonical_specialty": "Müşteri Deneyimi Müdürü", "canonical_isco4": "1439"},
+{"specialty": "Müşteri Hizmetleri Müdürü", "isco4": "1439", "canonical_specialty": "Müşteri Hizmetleri Müdürü", "canonical_isco4": "1439"},
+{"specialty": "Teknik Servis Müdürü", "isco4": "1439", "canonical_specialty": "Teknik Servis Müdürü", "canonical_isco4": "1439"}
+]

@@ -1,0 +1,682 @@
+[
+{
+"specialty": "İktisat Akademisyeni",
+"isco4": "2310",
+"isco_title": "University and higher education teachers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Akademisyen",
+"Akademisyen / Araştırma Görevlisi (İktisat ve İdari Bilimler)",
+"Assistant Professor"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mühendislik Akademisyeni",
+"isco4": "2310",
+"isco_title": "University and higher education teachers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Academic Research Assistant (Engineering)",
+"Akademisyen / Araştırma Görevlisi (Mühendislik)"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Öğretim Görevlisi",
+"isco4": "2310",
+"isco_title": "University and higher education teachers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Öğretim Görevlisi (Doktoralı)"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Öğretim Üyesi",
+"isco4": "2310",
+"isco_title": "University and higher education teachers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Profesör"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sosyoloji Akademisyeni",
+"isco4": "2310",
+"isco_title": "University and higher education teachers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Araştırma Görevlisi"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Temel Bilimler Akademisyeni",
+"isco4": "2310",
+"isco_title": "University and higher education teachers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Akademisyen",
+"Akademisyen / Araştırma Görevlisi (Temel Bilimler)"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Almanca Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Almanca Öğretmeni",
+"Almanca Öğretmeni (K12 İkinci Yabancı Dil)"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilişim Teknolojileri Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bilişim Teknolojileri ve Robotik Kodlama Öğretmeni",
+"Information Technology & Coding Teacher"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyoloji Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Biology Teacher",
+"Biyoloji Öğretmeni",
+"Biyoloji Öğretmeni (K12)",
+"BİYOLOJİ ÖĞRETMENİ"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Coğrafya Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Coğrafya Öğretmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Felsefe Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Felsefe ve Mantık Öğretmeni",
+"Philosophy & Logic Teacher"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fen Bilimleri Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Fen Bilgisi Öğretmeni",
+"Fen Bilimleri Öğretmeni",
+"Science Education Teacher",
+"Science Teacher"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fizik Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Fizik Öğretmeni",
+"Fizik Öğretmeni (Lise / YKS Hazırlık)",
+"Physics Teacher"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fransızca Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Fransızca Öğretmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "IB Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"IB (Uluslararası Bakalorya) Eğitmeni ve Koordinatör Yardımcısı"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İngilizce Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 1,
+"n_job": 4,
+"ornek_unvanlar": [
+"Uluslararası Bakalorya (IB) İngilizce Dil Eğitmeni",
+"İngilizce Öğretmeni",
+"İngilizce Öğretmeni (İlkokul / Ortaokul)"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kimya Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Chemistry Teacher",
+"Kimya Öğretmeni",
+"Kimya Öğretmeni (Fen Lisesi)"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Matematik Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 2,
+"n_job": 4,
+"ornek_unvanlar": [
+"MATEMATİK ÖĞRETMENİ",
+"Matematik Öğretmeni",
+"Matematik Öğretmeni (Ortaokul / Başlangıç)",
+"Mathematics Teacher",
+"İlköğretim Matematik Öğretmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tarih Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"History Teacher",
+"Tarih Öğretmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Türk Dili ve Edebiyatı Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Turkish Language & Literature Teacher",
+"Türkçe ve Edebiyat Öğretmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Türkçe Öğretmeni",
+"isco4": "2330",
+"isco_title": "Secondary education teachers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Türkçe Öğretmeni (Ortaokul)"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sınıf Öğretmeni",
+"isco4": "2341",
+"isco_title": "Primary school teachers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sınıf Öğretmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Okul Öncesi Öğretmeni",
+"isco4": "2342",
+"isco_title": "Early childhood educators",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Okul Öncesi Öğretmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "E-Öğrenme İçerik Geliştirici",
+"isco4": "2351",
+"isco_title": "Education methods specialists",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Dijital Eğitim İçerik ve LMS Geliştirme Uzmanı",
+"E-Öğrenme ve İnteraktif İçerik Geliştirici"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fen Bilimleri Zümre Başkanı",
+"isco4": "2351",
+"isco_title": "Education methods specialists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Fen Bilimleri Zümre Başkanı"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "IB Koordinatörü",
+"isco4": "2351",
+"isco_title": "Education methods specialists",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"International Baccalaureate (IB) Coordinator"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Matematik Zümre Başkanı",
+"isco4": "2351",
+"isco_title": "Education methods specialists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Matematik Zümre Başkanı (K12)"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Montessori ve Erken Çocukluk Eğitim Danışmanı",
+"isco4": "2351",
+"isco_title": "Education methods specialists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Montessori & Early Childhood Education Consultant",
+"Montessori ve Erken Çocukluk Eğitim Danışmanı"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Öğretim Tasarımı Uzmanı",
+"isco4": "2351",
+"isco_title": "Education methods specialists",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Eğitim Programları ve Öğretim Tasarımı Uzmanı"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ölçme ve Değerlendirme Müdürü",
+"isco4": "2351",
+"isco_title": "Education methods specialists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Ölçme ve Değerlendirme Müdürü"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Program Geliştirme ve Müfredat Müdürü",
+"isco4": "2351",
+"isco_title": "Education methods specialists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli K12 Program Geliştirme ve Müfredat Müdürü"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uluslararası Bakalorya Diploma Programı Koordinatörü",
+"isco4": "2351",
+"isco_title": "Education methods specialists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uluslararası Bakalorya (IB) Diploma Programı Koordinatörü"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yabancı Diller Bölüm Başkanı",
+"isco4": "2351",
+"isco_title": "Education methods specialists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Yabancı Diller Bölüm Başkanı (Head of English)"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Özel Eğitim Öğretmeni",
+"isco4": "2352",
+"isco_title": "Special needs teachers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Özel Eğitim Öğretmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Özel Eğitim ve Kaynaştırma Koordinatörü",
+"isco4": "2352",
+"isco_title": "Special needs teachers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Özel Eğitim ve Kaynaştırma Koordinatörü"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İngilizce Öğretmeni",
+"isco4": "2353",
+"isco_title": "Other language teachers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"English Teacher",
+"İngilizce Öğretmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yabancı Dil Olarak Türkçe Okutmanı",
+"isco4": "2353",
+"isco_title": "Other language teachers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yabancı Dil Olarak Türkçe (TÖMER) Okutmanı"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müzik Öğretmeni",
+"isco4": "2354",
+"isco_title": "Other music teachers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Music Teacher",
+"Müzik ve Enstrüman Öğretmeni (Piyano/Keman)"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Resim Eğitmeni",
+"isco4": "2355",
+"isco_title": "Other arts teachers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ressam ve Resim Atölyesi Eğitmeni"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tiyatro Eğitmeni",
+"isco4": "2355",
+"isco_title": "Other arts teachers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tiyatro ve Sahne Sanatları Eğitmeni"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "STEM ve Robotik Kodlama Eğitmeni",
+"isco4": "2356",
+"isco_title": "Information technology trainers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"STEM ve Robotik Kodlama Eğitmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yazılım Eğitmeni",
+"isco4": "2356",
+"isco_title": "Information technology trainers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Technical Trainer",
+"Yazılım Eğitmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Münazara ve Hitabet Koçu",
+"isco4": "2359",
+"isco_title": "Teaching professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Münazara ve Hitabet Koçu"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Rehberlik ve Psikolojik Danışman",
+"isco4": "2359",
+"isco_title": "Teaching professionals not elsewhere classified",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Kıdemli Rehberlik ve Psikolojik Danışman (K12)",
+"REHBER ÖĞRETMENİ",
+"Rehber Öğretmen / Psikolojik Danışman",
+"Rehberlik ve Eğitim Danışmanlığı Stajyeri",
+"Rehberlik ve Psikolojik Danışman"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yurt Dışı Üniversite Danışmanı",
+"isco4": "2359",
+"isco_title": "Teaching professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Yurt Dışı Üniversite Danışmanı (College Counselor)",
+"Overseas University & Fulbright Admissions Counselor",
+"Yurtdışı Üniversite ve Burs Danışmanı"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Zeka Oyunları Eğitmeni",
+"isco4": "2359",
+"isco_title": "Teaching professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bilişsel Gelişim ve Zeka Oyunları Eğitmeni"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+}
+]

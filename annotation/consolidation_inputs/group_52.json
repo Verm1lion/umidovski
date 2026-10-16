@@ -1,0 +1,234 @@
+[
+{
+"specialty": "Mağaza Satış Danışmanı",
+"isco4": "5223",
+"isco_title": "Shop sales assistants",
+"n_cv": 2,
+"n_job": 11,
+"ornek_unvanlar": [
+"KESTANE ŞEKERİ ve LOKUM MAĞAZAMIZA BAYAN PERSONEL ARIYORUZ",
+"MAĞAZA DESTEK ELEMANI",
+"MAĞAZA SATIŞ DANIŞMANI VE KASİYER",
+"Mağaza Destek Elemanı",
+"Mağaza Satış Danışmanı"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomobil Satış Danışmanı",
+"isco4": "5223",
+"isco_title": "Shop sales assistants",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"VIP Müşteri Temsilcisi"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Satış Danışmanı",
+"isco4": "5223",
+"isco_title": "Shop sales assistants",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Otomotiv Sıfır Araç Satış Danışmanı (Junior)",
+"Sıfır Araç Showroom Satış Danışmanı ve Temsilcisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sporcu Takviyeleri Satış Danışmanı",
+"isco4": "5223",
+"isco_title": "Shop sales assistants",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Beslenme ve Sporcu Takviyeleri Danışmanı"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tezgahtar",
+"isco4": "5223",
+"isco_title": "Shop sales assistants",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tezgahtar",
+"Tezgahtar / Reyon Görevlisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kasiyer",
+"isco4": "5230",
+"isco_title": "Cashiers and ticket clerks",
+"n_cv": 4,
+"n_job": 4,
+"ornek_unvanlar": [
+"KASİYER",
+"Kasa ve Pos Sorumlusu (Kasiyer)",
+"Kasiyer",
+"Market Kasiyeri ve Reyon Elemanı",
+"Perakende Kasiyeri (Cashier)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Promotör",
+"isco4": "5242",
+"isco_title": "Sales demonstrators",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"MAĞAZA SATIŞ DANIŞMANI",
+"Promotör"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tanıtım ve Promosyon Elemanı",
+"isco4": "5242",
+"isco_title": "Sales demonstrators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Fuar ve Tanıtım Etkinlik Destek Personeli",
+"Halkla İlişkiler"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çağrı Merkezi Satış Temsilcisi",
+"isco4": "5244",
+"isco_title": "Contact centre salespersons",
+"n_cv": 2,
+"n_job": 5,
+"ornek_unvanlar": [
+"Giden Çağrı (Outbound) Satış ve Bilgilendirme Temsilcisi",
+"Müşteri Temsilcisi ve Takım Lideri (Home Office)",
+"Çağrı Merkezi Elemanı",
+"Çağrı Merkezi Satış Temsilcisi (Müşteri Temsilcisi)",
+"Çağrı Merkezi Satış Temsilcisi (Telesatış)"
+],
+"sektorler": [
+"CUSTOMER_SERVICE",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tele Satış Temsilcisi",
+"isco4": "5244",
+"isco_title": "Contact centre salespersons",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Tele Satış Temsilcisi (Ofis - Tam Zamanlı)",
+"Telesatış Uzmanı"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Telesatış Temsilcisi",
+"isco4": "5244",
+"isco_title": "Contact centre salespersons",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Konuk Koordinatörü 32.000 - 60.000 Maaş + Prim",
+"Outbound Tele-Satış Operatörü"
+],
+"sektorler": [
+"CHEF_HORECA",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Akaryakıt Pompacısı",
+"isco4": "5245",
+"isco_title": "Service station attendants",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Akaryakıt Satış Görevlisi (Pompacı)",
+"Akaryakıt Satış ve Dolum Elemanı (Pompacı)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pompacı",
+"isco4": "5245",
+"isco_title": "Service station attendants",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Pompacı / Akaryakıt İstasyonu Görevlisi",
+"Pompacı Alımı"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yemek Servis Elemanı",
+"isco4": "5246",
+"isco_title": "Food service counter attendants",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yemek Servis Elemanı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Online Satış Temsilcisi",
+"isco4": "5249",
+"isco_title": "Sales workers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"DİSTRİBİTÖR"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+}
+]

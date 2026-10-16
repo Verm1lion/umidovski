@@ -1,0 +1,656 @@
+[
+{
+"specialty": "Kasap",
+"isco4": "7511",
+"isco_title": "Butchers, fishmongers and related food preparers",
+"n_cv": 7,
+"n_job": 6,
+"ornek_unvanlar": [
+"Burger Köftesi & Marine Et Kasabı",
+"Et Parçalama ve Reyon Kasabı",
+"Karkas Parçalama & Kemik Sıyırma Kasabı",
+"Kasap (Butcher)",
+"Kasap / Et Ustası"
+],
+"sektorler": [
+"CHEF_HORECA",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şarküteri Ustası",
+"isco4": "7511",
+"isco_title": "Butchers, fishmongers and related food preparers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şarküteri & Sucuk/Sosis İmalat Kasabı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Baklava Ustası",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Baklava / Tatlı Ustası",
+"Gaziantep Baklava & Yufka Ustası",
+"Gaziantep Usulü Baklava Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Börek Ustası",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kol Böreği ve Boşnak Böreği Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ekmek Ustası",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Taş Fırın Ekşi Mayalı Ekmek Ustası",
+"Taş Fırın ve Ekmek Pişirme Ustası",
+"Unlu Mamuller ve Fırın Ustası (Baker)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fırıncı",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Fırın ve Unlu Mamuller Hazırlık Elemanı",
+"Fırıncı / Ekmek Ustası",
+"Kıdemli Fırıncılık ve Ekşi Mayalı Ekmek Başustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kuru Pasta ve Kurabiye Ustası",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kuru Pasta & Kurabiye İmalat Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lavaş Ustası",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Lavaş & Tırnak Pide Fırıncısı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pasta Ustası",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yaş Pasta & Butik Pasta Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pastacı",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 4,
+"n_job": 4,
+"ornek_unvanlar": [
+"Butik Pastane ve Çikolata Şefi (Pastry Chef de Partie)",
+"Fransız Pastacılık & Eclair / Macaron Ustası",
+"Pasta ve Tatlı Şefi",
+"Pastahaneci / Hamur İşleri Ustası",
+"Pastane ve Tatlı Komisi (Junior Pastry)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": [
+"34"
+]
+},
+{
+"specialty": "Pide ve Lahmacun Ustası",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Pide ve Lahmacun Ustası",
+"Taş Fırın Karadeniz Pide Ustası",
+"Taş Fırın Pide ve Lahmacun Ustası",
+"Çıtır Lahmacun & Fırın Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şerbetli Tatlı Ustası",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Geleneksel Şerbetli Tatlı Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Simit Ustası",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Taş Fırın Simit & Poğaça Ustası",
+"Taş Fırın Simit Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sütlü Tatlı Ustası",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sütlü Tatlı & Muhallebi Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tandır Ekmeği Ustası",
+"isco4": "7512",
+"isco_title": "Bakers, pastry-cooks and confectionery makers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Geleneksel Tandır Ekmeği Ustası"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobilya Marangozu",
+"isco4": "7522",
+"isco_title": "Cabinet-makers and related workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ahşap ve Mobilya Marangozu"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Ahşap Router Operatörü",
+"isco4": "7523",
+"isco_title": "Woodworking-machine tool setters and operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"CNC Ahşap / Panel Ebatlama Router Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gelinlik ve Abiye Terzisi",
+"isco4": "7531",
+"isco_title": "Tailors, dressmakers, furriers and hatters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gelinlik ve Abiye Terzisi"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Numune Dikim Ustası",
+"isco4": "7531",
+"isco_title": "Tailors, dressmakers, furriers and hatters",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Modelhane Numune Dikim Ustası",
+"Numune Dikim Ustası"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Terzi",
+"isco4": "7531",
+"isco_title": "Tailors, dressmakers, furriers and hatters",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"Bayan Terzi ve Dikiş Elemanı (Seamstress)",
+"Kalıp ve Konfeksiyon Terzisi",
+"Terzi / Tadilat Terzisi",
+"Usta Terzi (Tailor)"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Kumaş Kesim Operatörü",
+"isco4": "7532",
+"isco_title": "Garment and related patternmakers and cutters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"CNC Otomatik Kumaş Kesim (Cutter) Operatörü"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Modelist",
+"isco4": "7532",
+"isco_title": "Garment and related patternmakers and cutters",
+"n_cv": 5,
+"n_job": 1,
+"ornek_unvanlar": [
+"Modelist",
+"Modelist / Bilgisayarlı Kalıp ve Gerber Operatörü",
+"Pattern Maker"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pastal Kesimci",
+"isco4": "7532",
+"isco_title": "Garment and related patternmakers and cutters",
+"n_cv": 5,
+"n_job": 3,
+"ornek_unvanlar": [
+"Hızar Makinesi & Şerit Bıçak Kumaş Kesim Elemanı",
+"Kesimci / Pastal Kesim Elemanı",
+"Kesimhane Şefi / Kesim Motorcusu",
+"Motorlu Dik Bıçak Pastal Kesim Ustası",
+"Pastal Kesim Motoru (Hızarcı) Elemanı"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pastal Serme Elemanı",
+"isco4": "7532",
+"isco_title": "Garment and related patternmakers and cutters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kumaş Pastal Serme & Raporlama Elemanı"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tekstil Modelisti",
+"isco4": "7532",
+"isco_title": "Garment and related pattern-makers and cutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tekstil Modelisti (Gerber / Lectra)"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Triko Modelisti",
+"isco4": "7532",
+"isco_title": "Garment and related patternmakers and cutters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Modelist"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Döşeme Ustası",
+"isco4": "7534",
+"isco_title": "Upholsterers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mobilya ve Oto Döşeme Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobilya Döşeme Ustası",
+"isco4": "7534",
+"isco_title": "Upholsterers and related workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Döşeme Ustası (Upholsterer)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ayakkabı Montaj Ustası",
+"isco4": "7536",
+"isco_title": "Shoemakers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ayakkabı İmalat ve Montaj Ustası"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Saraç Ustası",
+"isco4": "7536",
+"isco_title": "Shoemakers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Deri Konfeksiyon ve Saraç İmalat Ustası"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sanayi Dalgıcı",
+"isco4": "7541",
+"isco_title": "Underwater divers",
+"n_cv": 5,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kurbağa Adam / Sualtı Uzmanı",
+"Profesyonel Dalgıç",
+"Sanayi Dalgıcı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sualtı Dalgıcı",
+"isco4": "7541",
+"isco_title": "Underwater divers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kurbağa Adam / Sualtı Uzmanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sualtı Kaynakçısı",
+"isco4": "7541",
+"isco_title": "Underwater divers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sualtı Kaynakçısı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": [
+"72"
+]
+},
+{
+"specialty": "Araç Son Kontrol Test Ustası",
+"isco4": "7543",
+"isco_title": "Product graders and testers (excluding foods and beverages)",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv Son Kontrol ve Rampa Test Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fonksiyon Test ve Ayar Ustası",
+"isco4": "7543",
+"isco_title": "Product graders and testers (excluding foods and beverages)",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Fren Sistemleri Fonksiyon Test ve Ayar Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Kontrol Elemanı",
+"isco4": "7543",
+"isco_title": "Product graders and testers (excluding foods and beverages)",
+"n_cv": 0,
+"n_job": 4,
+"ornek_unvanlar": [
+"Kalite Kontrol -Üretim Destek Personeli",
+"Kalite Kontrol Elemanı",
+"Kalite Kontrol ve Üretim Destek Elemanı",
+"Talaşlı İmalat Kalite Kontrol ve Ölçüm Postabaşısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Kontrol ve Metroloji Ustası",
+"isco4": "7543",
+"isco_title": "Product graders and testers (excluding foods and beverages)",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Hat İçi Kalite Denetim ve Metroloji Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Kontrolörü",
+"isco4": "7543",
+"isco_title": "Product graders and testers (excluding foods and beverages)",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Saha Boyutsal Kalite Kontrolörü (Talaşlı & Montaj)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tekstil Kalite Kontrol Elemanı",
+"isco4": "7543",
+"isco_title": "Product graders and testers (excluding foods and beverages)",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tekstil Kumaş Kalite Kontrol Sorumlusu"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Haşere İlaçlama Operatörü",
+"isco4": "7544",
+"isco_title": "Fumigators and other pest and weed controllers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biyosidal Ürün ve Haşere İlaçlama Operatörü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Haşere İlaçlama Uzmanı",
+"isco4": "7544",
+"isco_title": "Fumigators and other pest and weed controllers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Haşere İlaçlama Uzmanı"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaçlama ve Haşere Kontrol Uzmanı",
+"isco4": "7544",
+"isco_title": "Fumigators and other pest and weed controllers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tesis İlaçlama ve Haşere Kontrol (Pest Control) Uzmanı"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vektör ve Haşere Kontrol Teknisyeni",
+"isco4": "7544",
+"isco_title": "Fumigators and other pest and weed controllers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Vektör ve Haşere Kontrol Teknisyeni"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kompozit Otoklav Kürleme Ustası",
+"isco4": "7549",
+"isco_title": "Craft and related workers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İleri Kompozit Kürleme ve Otoklav Başustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+}
+]

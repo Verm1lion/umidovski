@@ -1,0 +1,179 @@
+[
+{
+"specialty": "Bağcılık Elemanı",
+"isco4": "6112",
+"isco_title": "Tree and shrub crop growers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bağcılık ve Şaraplık Üzüm Üretim Elemanı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Budama Ustası",
+"isco4": "6112",
+"isco_title": "Tree and shrub crop growers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Meyve Ağacı ve Peyzaj Budama Ustası"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Meyve Bahçesi İşletme Şefi",
+"isco4": "6112",
+"isco_title": "Tree and shrub crop growers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Meyve Bahçesi İşletme Şefi"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Zeytinlik Bakım ve Hasat Elemanı",
+"isco4": "6112",
+"isco_title": "Tree and shrub crop growers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Zeytinlik Bakım ve Hasat Sorumlusu"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bahçıvan",
+"isco4": "6113",
+"isco_title": "Gardeners, horticultural and nursery growers",
+"n_cv": 5,
+"n_job": 3,
+"ornek_unvanlar": [
+"Bahçıvan",
+"Bahçıvan (Gardener)",
+"Bahçıvan ve Peyzaj Bakım Elemanı",
+"Peyzaj ve Bahçe Bakım Elemanı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fidan Aşılama Elemanı",
+"isco4": "6113",
+"isco_title": "Gardeners, horticultural and nursery growers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Meyve Fidanı ve Ağaç Aşılama Elemanı",
+"Tarım ve Meyve Fidanı Aşılama Elemanı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fidanlık Üretim Sorumlusu",
+"isco4": "6113",
+"isco_title": "Gardeners, horticultural and nursery growers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Süs Bitkileri ve Fidanlık Üretim Sorumlusu"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sera İşçisi",
+"isco4": "6113",
+"isco_title": "Gardeners, horticultural and nursery growers",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Modern Sera İçi Bakım ve Üretim Elemanı",
+"Sera İşçisi / Seracı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sera Üretim Sorumlusu",
+"isco4": "6113",
+"isco_title": "Gardeners, horticultural and nursery growers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sera Üretim ve Bakım Sorumlusu"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çoban",
+"isco4": "6121",
+"isco_title": "Livestock and dairy producers",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Küçükbaş ve Büyükbaş Çobanı",
+"Sürü Yönetimi ve Çoban (Shepherd)",
+"Çoban / Hayvan Bakıcısı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sağım Operatörü",
+"isco4": "6121",
+"isco_title": "Livestock and dairy producers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomatik Süt Sağım Ünitesi Operatörü",
+"Sağımcı / Sağım Operatörü"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Arıcı",
+"isco4": "6123",
+"isco_title": "Apiarists and sericulturists",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Arıcı / Fenni Arıcı",
+"Fenni Arıcılık ve Bal Üretim Elemanı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+}
+]

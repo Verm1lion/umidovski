@@ -1,0 +1,1350 @@
+[
+{
+"id": "J0439",
+"kind": "JOB",
+"title": "Yazılım Test ve Otomasyon Mühendisi (QA)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "MID_LEVEL",
+"mode": "Remote",
+"context": {
+"aciklama": "Departmanımızda görev alarak operasyonel ve stratejik hedeflerimize katkı sağlayacak: 'Yazılım Test ve Otomasyon Mühendisi (QA)' istihdam edilecektir. Görev Kapsamı: Selenium, Cypress veya Appium kullanarak uçtan uca regresyon test otomasyonları yazacak ve CI sürecine entegre edecek. Aday Kriterleri: - Mikroservisler, REST API, WebSocket ve ilişkisel/NoSQL veritabanı tasarımında yetkin - Problem çözme, hata ayıklama (debugging) ve sistem performansı optimizasyonunda analitik yaklaşan - Git versiyon kontrolü, GitHub/GitLab akışları ve kod incel…"
+}
+},
+{
+"id": "J0585",
+"kind": "JOB",
+"title": "Yazılım ve RPA Robotik Süreç Geliştiricisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "TAV Technologies bünyesinde, [şehir] Genel Merkezimizde havalimanı ve kurumsal iş süreçlerini robotik yazılımlarla otomatikleştirecek 'Yazılım ve RPA Robotik Süreç Geliştiricisi' aramaktayız. Rol ve Şirket Hakkında: TAV Technologies; havalimanı operasyonları, finans, insan kaynakları ve lojistik süreçlerinde tekrarlayan iş yüklerini yapay zeka destekli RPA çözümleriyle dijitalleştiren havacılık teknolojisi lideridir. Görev ve Sorumluluklar: - UiPath veya Blue Prism platformları kullanılarak uçtan uca RPA botlarının tasarlanması, geliştirilmesi…"
+}
+},
+{
+"id": "J0607",
+"kind": "JOB",
+"title": "Yazılım ve SaaS Satış Uzmanı",
+"industry": "IT_SOFTWARE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Logo Yazılım bünyesinde, [şehir] ofisimizde veya hibrit çalışma modelinde bulut tabanlı kurumsal yazılım çözümlerimizin B2B satışlarını yürütecek 'Yazılım ve SaaS Satış Uzmanı' aramaktayız. Rol ve Şirket Hakkında: Logo Yazılım; Türkiye'nin en büyük yerli yazılım kuruluşu olup yüz binlerce şirkete ERP, CRM, İK ve bulut SaaS çözümleri sunarak dijitalleşmelerine öncülük etmektedir. Görev ve Sorumluluklar: - Kurumsal şirketlere yönelik bulut SaaS ve ERP yazılım çözümlerimizin uçtan uca B2B satış döngüsünün yönetilmesi, - Yeni müşteri adaylarının (…"
+}
+},
+{
+"id": "C10000",
+"kind": "CV",
+"title": "Yazılımcı",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Küçüklükten beri bilgisayarlarla iç içeyim. Son 4 yıldır ağırlıklı olarak backend geliştirme yapıyorum, sistemlerin hızlı ve kesintisiz çalışması en büyük tutkum. Yeni nesil bulut teknolojileri üzerine kafa yoruyorum.",
+"beceriler": "Python, Django, Docker, PostgreSQL",
+"deneyim": [
+"Backend Geliştirici (2020-2024): Mikroservis mimarisinde API geliştirmeleri."
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) 2015-2019"
+]
+}
+},
+{
+"id": "C10001",
+"kind": "CV",
+"title": "Yazılımcı",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Görsel arayüzler tasarlamayı ve kullanıcı deneyimini iyileştirmeyi seviyorum. React ve Vue ile modern frontend projeleri hayata geçiriyorum. Hızlı, performanslı ve responsive uygulamalar olmazsa olmazım.",
+"beceriler": "JavaScript, React, CSS, HTML",
+"deneyim": [
+"Frontend Developer (2018-2023): Kullanıcı dostu web uygulamaları."
+],
+"egitim": [
+"Hacettepe Üniversitesi - Lisans (Yazılım Mühendisliği) 2014-2018"
+]
+}
+},
+{
+"id": "C10002",
+"kind": "CV",
+"title": "Yazılımcı",
+"industry": "IT_SOFTWARE",
+"city": "İzmir",
+"context": {
+"ozet": "Mobil dünyası benim oyun alanım. Hem iOS hem Android için native kalitesinde çapraz platform uygulamalar geliştiriyorum. Flutter ile karmaşık arayüzleri performanstan ödün vermeden koda dökmekten keyif alıyorum.",
+"beceriler": "Flutter, Dart, Firebase, Git",
+"deneyim": [
+"Mobil Geliştirici (2021-2024): Çoklu platform mobil çözümler."
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Bilgisayar Bilimleri) 2016-2020"
+]
+}
+},
+{
+"id": "C10003",
+"kind": "CV",
+"title": "Yazılımcı",
+"industry": "IT_SOFTWARE",
+"city": "Bursa",
+"context": {
+"ozet": "Küçük ve orta ölçekli işletmelerin web ihtiyaçlarını karşılıyorum. WordPress ve PHP üzerine yoğunlaştım. İhtiyaca yönelik temalar yazıp, sitelerin arama motorlarına dost olmasını sağlıyorum.",
+"beceriler": "PHP, WordPress, MySQL, jQuery",
+"deneyim": [
+"Web Geliştirici (2019-2023): Kurumsal web siteleri tasarımı ve kodlaması."
+],
+"egitim": [
+"Uludağ Üniversitesi - Ön Lisans (Bilgisayar Programcılığı) 2017-2019"
+]
+}
+},
+{
+"id": "C10004",
+"kind": "CV",
+"title": "Yazılımcı",
+"industry": "IT_SOFTWARE",
+"city": "Kocaeli",
+"context": {
+"ozet": "Veritabanı işlemleri ve entegrasyonlar konusunda deneyimliyim. Özellikle C# ve MSSQL kullanarak kurum içi masaüstü ve web uygulamaları yazıyorum. Süreçleri otomatize edip hataları en aza indirmeyi hedeflerim.",
+"beceriler": "C#, .NET, MSSQL, Entity Framework",
+"deneyim": [
+"Yazılım Uzmanı (2015-2022): ERP modül entegrasyonları."
+],
+"egitim": [
+"Kocaeli Üniversitesi - Ön Lisans (Bilgisayar Teknolojisi) 2012-2014"
+]
+}
+},
+{
+"id": "C10005",
+"kind": "CV",
+"title": "Yazılımcı",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Siber güvenlik uygulamaları geliştiren bir araştırmacıyım. C++ ve Go kullanarak yüksek performanslı güvenlik duvarı kuralları yazıyorum. Akademik bilgi birikimimi pratik çözümlerle harmanlamayı tercih ediyorum.",
+"beceriler": "Go, C++, Linux, Network Protocols",
+"deneyim": [
+"Geliştirici (2017-2024): Ağ güvenliği ürünleri çekirdek gelişimi."
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Yüksek Lisans (Bilgisayar Mühendisliği) 2015-2017"
+]
+}
+},
+{
+"id": "C10006",
+"kind": "CV",
+"title": "Yazılımcı",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Yapay zeka ve makine öğrenmesi algoritmalarını optimize etmek üzere çalışıyorum. Özellikle derin öğrenme modellerinin donanımsal ivmelendirilmesi konusunda derinlemesine bilgi sahibiyim. Veriden değer üretmek felsefemdir.",
+"beceriler": "Python, TensorFlow, CUDA, PyTorch",
+"deneyim": [
+"Ar-Ge Mühendisi (2018-2024): Yapay zeka modelleme ve optimizasyon."
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Doktora (Bilgisayar Mühendisliği) 2018-2023"
+]
+}
+},
+{
+"id": "C11208",
+"kind": "CV",
+"title": "Yük Dengeleme ve Ters Vekil Sunucu Uzmanı (Nginx & HAProxy)",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Saniyede yüzbinlerce HTTP/HTTPS isteğini karşılayan Nginx, HAProxy ve Envoy proxy sunucularının yüksek performanslı yapılandırmasında uzmanım. SSL/TLS sonlandırma, HTTP/2-HTTP/3 desteği, Lua scripting ve caching kurallarında tecrübeliyim.",
+"beceriler": "Nginx High Performance Tuning, HAProxy Load Balancing, Envoy Proxy, SSL/TLS Offloading, WAF (ModSecurity), Keepalived (VRRP), Lua Scripting",
+"deneyim": [
+"Yük Dengeleme ve Ters Vekil Sunucu Uzmanı (Nginx & HAProxy) ([TARİH]): Medya grubu için Nginx ve Keepalived ile aktif-aktif yüksek erişilebilir yük dengeleme katmanı kur…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11193",
+"kind": "CV",
+"title": "Yüz Tanıma ve Biyometrik Görüntü İşleme Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Yüz tespiti, yüz tanıma (ArcFace, InsightFace), canlılık tespiti (liveness detection / anti-spoofing) ve kalabalık analizi sistemleri geliştiren biyometrik güvenlik mühendisiyim. 3D maske ve ekran sahteciliklerini engellerim.",
+"beceriler": "Facial Recognition (InsightFace / ArcFace), Passive & Active Liveness Detection, Anti-Spoofing Algorithms, PyTorch, OpenCV, Biometric Privacy Standards",
+"deneyim": [
+"Yüz Tanıma ve Biyometrik Görüntü İşleme Mühendisi ([TARİH]): Mobil bankacılık uzaktan müşteri edinimi için fotoğraf ve canlı video üzerinden kimlik kartı OCR ve yüz canl…",
+"Veri Bilimi Stajyeri ([TARİH]): Müşteri segmentasyonu projesinde kayıp veri analizi (missing value handling) ve aykırı değer temizleme scriptlerini Python (Pandas/Scikit…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11090",
+"kind": "CV",
+"title": "Zafiyet Yönetimi ve Tarama Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "Ankara",
+"context": {
+"ozet": "Kurumsal ağ, sunucu ve web uygulamalarında Tenable Nessus, Qualys ve Rapid7 ile periyodik zafiyet taramaları yapan, risk önceliklendirmesi (CVSS skoru) belirleyen ve yama takibi yapan uzmanım.",
+"beceriler": "Vulnerability Management, Tenable Nessus / Qualys VMDR, Risk-Based Prioritization, Patch Management Governance, CVSS Scoring, Asset Discovery",
+"deneyim": [
+"Zafiyet Yönetimi ve Tarama Mühendisi ([TARİH]): 3000 uç nokta ve sunucuda çalışan Qualys zafiyet tarama sürecini yapılandırarak kritik zafiyetlerin kapatılma süresini or…"
+],
+"egitim": [
+"Gazi Üniversitesi - Lisans (Bilgisayar Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C11080",
+"kind": "CV",
+"title": "Zaman Serisi ve Tahminleme (Forecasting) ML Mühendisi",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Enerji tüketimi, perakende talep tahmini ve finansal fiyat hareketleri üzerine zaman serisi modelleri (Prophet, ARIMA, Temporal Fusion Transformer, LightGBM) geliştiren kıdemli makine öğrenmesi mühendisiyim. Sezonsallık ve dış değişken entegrasyonunda uzmanım.",
+"beceriler": "Time Series Forecasting, Temporal Fusion Transformer (TFT), LightGBM & XGBoost, Prophet, Feature Engineering, Python (Pandas, Darts), SQL",
+"deneyim": [
+"Zaman Serisi ve Tahminleme (Forecasting) ML Mühendisi ([TARİH]): Süpermarket zincirinin 15.000 ürün için günlük talep tahminleme modelini LightGBM ve TFT ile kurarak sto…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Endüstri Mühendisliği) [TARİH]"
+]
+}
+},
+{
+"id": "C10821",
+"kind": "CV",
+"title": "Zirai İlaç Formülasyon Kimyageri",
+"industry": "IT_SOFTWARE",
+"city": "İstanbul",
+"context": {
+"ozet": "Yıldız Teknik Üniversitesi Otomotiv Mühendisliği bölümünden başarıyla mezun oldum. Zirai İlaç Formülasyon Kimyageri alanında kariyer hedefim doğrultusunda teorik bilgi birikimimi ve Sonlu Elemanlar Analizi (FEA / ANSYS), PLC & Otomasyon ve Maliyet Düşürme & Verimlilik konularındaki staj/proje tecrübelerimi iş hayatına aktarmak istiyorum. Öğrenmeye…",
+"beceriler": "Sonlu Elemanlar Analizi (FEA / ANSYS), PLC & Otomasyon, Maliyet Düşürme & Verimlilik, Teknik Resim & CAD (SolidWorks, AutoCAD), Üretim Planlama & MRP, Yalın Üretim & Kaizen",
+"deneyim": [
+"Stajyer (Ocak 2022 - Şubat 2022): Departman bünyesinde haftalık operasyonel veri setlerinin derlenmesi ve analistlerin hazırladığı teknik raporların ön inceleme süreçler…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Otomotiv Mühendisliği) 2019 - 2023"
+]
+}
+},
+{
+"id": "C20306",
+"kind": "CV",
+"title": "Amele / Hizmetli",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"context": {
+"ozet": "Günlük bedensel işlerde, yük taşıma ve temizlik gibi görevlerde aktif rol alan enerjik bir çalışanım. Verilen fiziksel görevleri pratik bir şekilde yerine getirir, çalışma ortamının düzenini sağlarım. Sorumluluk sahibi yapımla verilen işi yarım bırakmadan tamamlarım.",
+"beceriler": "Çevre Düzenlemesi, Temizlik ve Düzen",
+"deneyim": [
+"Amele / Hizmetli ([TARİH]): [ŞİRKET] şantiye ve tesis alanında kum, çakıl, çimento ve tuğla gibi kaba yapı malzemelerinin kürek, kazma ve el arabasıyla taşınması ve harç…"
+],
+"egitim": [
+"[OKUL] - Ortaokul () [TARİH]"
+]
+}
+},
+{
+"id": "C20308",
+"kind": "CV",
+"title": "Amele / Hizmetli",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"context": {
+"ozet": "Kurum ve işletmelerin genel temizlik, eşya taşıma veya evrak götür-getir işlerini yürüten güvenilir bir hizmetliyim. İş disiplinim yüksektir; mesai saatleri içinde her zaman görevimin başında olurum. Güler yüzlü ve saygılı iletişimimle çalışma arkadaşlarımın takdirini kazanırım.",
+"beceriler": "Araç Gereç Temini, Taşıma ve Yerleştirme, Çevre Düzenlemesi, Beden İşçiliği",
+"deneyim": [
+"Amele / Hizmetli ([TARİH]): [ŞİRKET] depolama sahasında gelen ağır malzeme sandıklarının taşınması, istif alanlarının endüstriyel süpürge ve zemin yıkama makineleriyle t…"
+],
+"egitim": [
+"[OKUL] - Lise (Makine Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20309",
+"kind": "CV",
+"title": "Amele / Hizmetli",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"context": {
+"ozet": "İnşaat, nakliye veya depo alanlarında ihtiyaç duyulan her türlü ayak işine hızla koşan, uyumlu bir yardımcı elemanım. Bedensel dayanıklılığım yüksektir ve talimatları anında kavrayıp harekete geçerim. Ekip çalışmasına katkı sağlamaktan ve işleri kolaylaştırmaktan keyif alırım.",
+"beceriler": "Araç Gereç Temini, Çevre Düzenlemesi, Temizlik ve Düzen",
+"deneyim": [
+"Amele / Hizmetli ([TARİH]): [ŞİRKET] işletmesinde bina ortak alanları, kazan dairesi, atölye zeminleri ve çevre yollarının süpürülmesi, paspaslanması ve dezenfeksiyonunu…"
+],
+"egitim": [
+"[OKUL] - Lise (Makine Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20549",
+"kind": "CV",
+"title": "Apartman ve Site Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"context": {
+"ozet": "Bina ve site yönetimi hizmetlerinde 3 yıllık çalışma tecrübesine sahibim. Apartman ve Site Görevlisi olarak ortak alanların temizliği, bahçe bakımı, çöp toplama, kazan/tesisat takibi ve site sakinlerinin günlük ihtiyaçlarını düzenli olarak karşılarım.",
+"beceriler": "Blok ve Merdiven Temizliği, Bahçe Sulama ve Çim Biçme, Temel Sıhhi ve Elektrik Tesisat Tamiratı, Çöp Toplama ve Geri Dönüşüm",
+"deneyim": [
+"Apartman ve Site Görevlisi ([TARİH]): [ŞİRKET] toplu konut sitesinde blokların günlük temizlik planını, ortak alan aydınlatma ve hidrofor sistemi kontrollerini denetledi…",
+"Apartman ve Site Görevlisi ([TARİH]): [ŞİRKET] bünyesinde katlardan çöplerin toplanması, merdiven ve asansörlerin yıkanması ile yeşil alanların sulanması işlerini eksiks…",
+"Apartman ve Site Görevlisi ([TARİH]): [ŞİRKET] sitesinde kazan dairesi periyodik basınç kontrolleri, sığınak temizliği ve patlayan ampullerin yenilenmesine destek verdim."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Halkla İlişkiler ve Tanıtım) [TARİH]"
+]
+}
+},
+{
+"id": "J0370",
+"kind": "JOB",
+"title": "Apartman ve Site Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] Metal ve Kalıp Fabrikası ailesi olarak, [şehir] sahasındaki projelerimizde tam zamanlı istihdam edilmek üzere 'Apartman ve Site Görevlisi' alımı yapılacaktır. İş Tanımı ve Temel Sorumluluklar: - Site ve apartman bloklarının merdiven, asansör, giriş ve ortak kullanım alanlarının günlük temizliği. - Daire sakinlerinin çöplerinin belirlenen saatlerde toplanması ve atık konteynerlerine taşınması. - Bahçe çimlerinin biçilmesi, bitkilerin sulanması ve ortak bahçe düzeninin sağlanması. - Kazan dairesi, hidrofor ve aydınlatma otomatlarının bas…"
+}
+},
+{
+"id": "J2981",
+"kind": "JOB",
+"title": "AVM ve Yaşam Merkezi Temizlik Operasyon Sorumlusu",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Büyük ölçekli bir AVM projemizde ziyaretçi sirkülasyonu yüksek alanların hijyen standardını ve temizlik ekibini yönetecek sorumlular arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Food court, koridorlar, otoparklar ve müşteri tuvaletlerinin sürekli hijyen kontrolünü sağlamak - Açılış öncesi ve kapanış sonrası derin temizlik (deep cleaning) operasyonlarını koordine etmek - Zemin cilalama, mermir kristalizasyon ve halı yıkama periyodik programlarını uygulamak - Temizlik personeli motivasyonunu yüksek tutmak ve İSG kurallarının uygulanmasını sağla…"
+}
+},
+{
+"id": "C20449",
+"kind": "CV",
+"title": "Bina Bakım ve Temizlik Görevlisi (Janitor)",
+"industry": "JANITORIAL_FACILITY",
+"city": "Trabzon",
+"context": {
+"ozet": "1 yıldır Bina Bakım ve Temizlik Görevlisi (Janitor) personeli olarak çalışmaktayım. Günlük rutin temizlik planlarına uyum, yüzey dezenfeksiyonu ve atık ayrıştırmada sorumluluk sahibiyim. Düzenli ve özenli bir hizmet anlayışını benimserim.",
+"beceriler": "Bina İç ve Dış Alan Temizliği, Basit Tesisat ve Ampul Değişimi, Giriş ve Merdiven Bakımı, Atık Ayrıştırma ve Geri Dönüşüm",
+"deneyim": [
+"Bina Bakım ve Temizlik Görevlisi (Janitor) ([TARİH]): [ŞİRKET] binasında kat aralıkları, asansörler ve yangın merdivenlerinin periyodik temizlik ve dezenfeksiyonunu yürü…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "J0949",
+"kind": "JOB",
+"title": "Bina Bakım ve Temizlik Görevlisi (Janitor)",
+"industry": "JANITORIAL_FACILITY",
+"city": "Diyarbakır",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Altınova Tersane Girişimcileri Bölgesi civarındaki işletmemize acil Bina Bakım ve Temizlik Görevlisi (Janitor) arıyoruz. İş ağır değildir; düzenli çalışacak, verilen işi yapacak eli çabuk personel arıyoruz. Vardiya 08:00 - 18:00, Pazar tatil. 40.000 TL - 48.000 TL Usta Maaşı + AGİ. Ulaşım için servis imkanı sunulmaktadır. İlgilenenlerin şahsen veya telefonla müracaatı rica olunur."
+}
+},
+{
+"id": "C20195",
+"kind": "CV",
+"title": "Bina Görevlisi / Kapıcı",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"context": {
+"ozet": "Sorumluluk bilinci yüksek, erken kalkmayı alışkanlık edinmiş ve apartmanın genel güvenliğini gözetleyen deneyimli bir kapıcıyım. Gelen kargo veya postaların teslim alınması, aidat makbuzlarının dağıtılması gibi idari küçük işlerde yönetime destek olurum. Enerjik yapım ve iş disiplinimle binanın her zaman temiz ve bakımlı görünmesini temin ederim.",
+"beceriler": "Site Bakımı, Bina Giriş Yönetimi",
+"deneyim": [
+"Bina Görevlisi / Kapıcı ([TARİH]): [ŞEHİR] bölgesinde Bina Görevlisi / Kapıcı olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "C20196",
+"kind": "CV",
+"title": "Bina Görevlisi / Kapıcı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Mersin",
+"context": {
+"ozet": "Apartman ve sitelerin günlük temizlik, çöp toplama ve genel bakım işlerini üstlenen, güvenilir ve iletişimi kuvvetli bir bina görevlisiyim. Sakinlerin taleplerini güler yüzle karşılar, binanın ortak kullanım alanlarının düzenli ve hijyenik kalmasını sağlarım. Kalorifer kazanlarının yakılması veya merkezi ısıtma sistemlerinin periyodik kontrolleri …",
+"beceriler": "Çöp Toplama, Bina Giriş Yönetimi, Site Bakımı, Kargo Teslim Alma",
+"deneyim": [],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Beden Eğitimi) [TARİH]"
+]
+}
+},
+{
+"id": "C20197",
+"kind": "CV",
+"title": "Bina Görevlisi / Kapıcı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Kocaeli",
+"context": {
+"ozet": "Site yönetimi kurallarına harfiyen uyan, küçük çaplı elektrik ve su tesisatı arızalarına ilk müdahaleyi yapabilen pratik zekalı bir apartman görevlisiyim. Bahçe bakımı, peyzaj sulaması ve asansör temizliği gibi rutin işleri aksatmadan, planlı bir şekilde yürütürüm. Bina sakinleriyle saygı çerçevesinde kurduğum ilişkiler sayesinde apartmanda huzurl…",
+"beceriler": "Site Bakımı, Çöp Toplama, Bina Giriş Yönetimi",
+"deneyim": [
+"Bina Görevlisi / Kapıcı ([TARİH]): [ŞEHİR] bölgesinde Bina Görevlisi / Kapıcı olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "J0045",
+"kind": "JOB",
+"title": "Bulaşıkhane Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Pozisyon Hakkında Mutfakta hijyenin sağlanmasında kritik bir rol oynayacak bir Bulaşıkhane Elemanı arıyoruz. Bu pozisyonda, mutfak ekipmanlarının hijyenik şekilde yıkanması ve düzenli olarak temizlenmesi sağlanacaktır. Sorumluluklar Mutfakta kullanılan tüm ekipmanların (kazan, tepsi, tencere, tabak, çatal-bıçak vb.) hijyenik şekilde yıkanmasını sağlamak Bulaşık öncesi kaba atık ve çöp ayrıştırma işlemlerini kuralına uygun şekilde yapmak Yıkanan ve sterilize edilen mutfak araç-gereçlerini kurutarak ilgili depolama ve kullanım alanlarına düzenli…"
+}
+},
+{
+"id": "J0407",
+"kind": "JOB",
+"title": "Bulaşıkhane ve Stewarding Personeli",
+"industry": "JANITORIAL_FACILITY",
+"city": "Bursa",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ekibimizi güçlendirmek amacıyla aramıza katılacak çalışma arkadaşları arıyoruz: 'Bulaşıkhane ve Stewarding Personeli' ekibimize katılacak çalışma arkadaşı aranmaktadır. Neler Yapacaksınız? Sanayi tipi bulaşık makinelerinin kullanımı, mutfak genel hijyeni ve ekipman temizliğinden sorumlu personel. Gereksinimler: - Benzer restoran veya otel mutfağında en az 2-3 yıl deneyim sahibi - MEB onaylı Aşçılık / Ustalık Belgesi veya Gastronomi diplomasına sahip - Alakart servis temposuna ve mutfak içi yoğun iş akışına ayak uydurabilecek - Porsiyonlama, re…"
+}
+},
+{
+"id": "C20198",
+"kind": "CV",
+"title": "Çaycı / Hizmetli",
+"industry": "JANITORIAL_FACILITY",
+"city": "Adana",
+"context": {
+"ozet": "İşyerinin genel temizliğine destek veren, ofis boy görevlerini ve içecek servisini bir arada yürütebilen güvenilir bir hizmetliyim. Sabahları ofisi çalışmaya hazır hale getirmekten, gün boyu ikramların taze kalmasını sağlamaya kadar tüm süreçleri titizlikle yönetirim. İşimi severek yapar, takım arkadaşlarıma saygılı ve yardımsever bir tutumla yakl…",
+"beceriler": "Evrak Dağıtımı, Çay/Kahve Servisi, Mutfak Düzeni",
+"deneyim": [
+"Stajyer Çaycı ([TARİH]): Çaycı / Hizmetli pozisyonunda staj yaptım ve sektörel deneyim kazandım."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Meslek Yüksekokulu (Ön Lisans) (İktisat) [TARİH]"
+]
+}
+},
+{
+"id": "C20199",
+"kind": "CV",
+"title": "Çaycı / Hizmetli",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"context": {
+"ozet": "Ofis ortamlarında sıcak ve soğuk içecek servisini güler yüzle ve hızlı bir şekilde gerçekleştiren, mutfak düzeninden sorumlu bir personelim. Çay demleme teknikleri ve kahve sunumları konusunda şirket çalışanlarının beğenisini kazanan pratik bir el becerisine sahibim. Mutfak sarf malzemelerinin stok kontrolünü yapar, eksiklerin zamanında sipariş ed…",
+"beceriler": "Evrak Dağıtımı, Mutfak Düzeni",
+"deneyim": [
+"Stajyer Çaycı ([TARİH]): Çaycı / Hizmetli pozisyonunda staj yaptım ve sektörel deneyim kazandım.",
+"Çaycı / Hizmetli ([TARİH]): [ŞEHİR] bölgesinde Çaycı / Hizmetli olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Meslek Yüksekokulu (Ön Lisans) (İşletme Yönetimi) [TARİH]"
+]
+}
+},
+{
+"id": "J2970",
+"kind": "JOB",
+"title": "Dış Cephe Cam Temizlik Operatörü (Endüstriyel Dağcı)",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Yüksek katlı plazaların ve iş merkezlerinin dış cephe cam temizliğini iple erişim teknikleriyle gerçekleştirecek sertifikalı operasyon personelleri arıyoruz. Pozisyonun Temel Görevleri: - İple erişim donanımlarını (harness, kask, statik ip) güvenlik protokollerine uygun kuşanmak ve ankraj noktalarını kontrol etmek - Yüksek katlı binaların cam ve kompozit dış cephe yüzeylerini profesyonel kimyasallarla temizlemek - Sepetli vinç veya bina cephe asansörü (BMU) sistemlerini talimatlara uygun işletmek - Saha zemininde güvenlik şeridi çekerek düşme/…"
+}
+},
+{
+"id": "C20998",
+"kind": "CV",
+"title": "Diş Hastanesi & Klinik Sterilizasyon Temizlikçisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Elazığ",
+"context": {
+"ozet": "Ağız ve diş sağlığı merkezlerinde diş üniti, kreşuar, reflektör ve aspiratör hortumlarının hastalar arasında hızlı dezenfeksiyonunda çalışan klinik görevlisiyim. Otoklav öncesi kirli dental aletlerin ultrasonik banyoda ön temizliği, paketlenmesi ve klinik tıbbi atık kutularının güvenli toplanmasında uzmanım.",
+"beceriler": "Diş Üniti ve Kreşuar Dezenfeksiyonu, Cerrahi Aspiratör Hortumu Kimyasal Yıkama, Ultrasonik Alet Temizleme Banyosu, Klinik Yüzey Dezenfektan Spreyleri, Amalgam Atığı Özel Ayrıştırması, Hızlı Hasta Arası Mizanplas Kurulumu",
+"deneyim": [
+"Diş Hastanesi & Klinik Sterilizasyon Temizlikçisi ([TARİH]): 20 ünitlik diş polikliniğinde her gün 150 hasta kabulünde ünitler hasta aralarında 3 dakikalık antiseptik sp…"
+],
+"egitim": [
+"Balıkesir Karesi Mesleki Eğitim Merkezi - Lise (Sağlık Temizlik Hizmetleri) [TARİH]"
+]
+}
+},
+{
+"id": "C20979",
+"kind": "CV",
+"title": "Diyaliz & Enfeksiyon İzolasyon Servisi Hijyen Personeli",
+"industry": "JANITORIAL_FACILITY",
+"city": "İzmir",
+"context": {
+"ozet": "Hemodiyaliz üniteleri ve temas izolasyonundaki enfeksiyon servislerinde görev yapan tecrübeli temizlik personeliyim. Seans aralarında diyaliz koltuğu dezenfeksiyonu, kan dökülmelerinde 10.000 ppm sodyum hipoklorit uygulaması ve koruyucu bariyer önlük kullanımı konusunda yüksek sorumluluk taşırım.",
+"beceriler": "Diyaliz Ünitesi Seans Arası Hızlı Dezenfeksiyon, Kan ve Vücut Sıvısı Dökülmelerinde Müdahale, 1000 - 10.000 ppm Klor Solüsyonu Hazırlama, Temas ve Solunum İzolasyon Odaları Temizliği, Tıbbi Cihaz Yüzeylerine Zarar Verme…",
+"deneyim": [
+"Diyaliz & Enfeksiyon İzolasyon Servisi Hijyen Personeli ([TARİH]): Özel diyaliz merkezinde 30 diyaliz koltuğu her seans arasında kan kaynaklı enfeksiyon risklerine karşı…"
+],
+"egitim": [
+"Konya Selçuklu Mesleki Eğitim Merkezi - Ustalık Belgesi (Hasta Bakım ve Hijyen) [TARİH]"
+]
+}
+},
+{
+"id": "J2980",
+"kind": "JOB",
+"title": "Endüstriyel Hijyen ve Kimyasal Uygulama Uzmanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Bursa",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Gıda üretim tesislerimizin CIP (Clean-in-Place) sistemleri, açık alan köpüklü yıkama ve dezenfeksiyon süreçlerini yönetecek hijyen uzmanları arıyoruz. Görev ve Sorumluluklar: - Gıda üretim hatlarının günlük üretim sonu alkali ve asidik köpüklü temizlik protokollerini yönetmek - ATP biyolüminesans ve mikrobiyolojik yüzey svab kontrolleriyle temizlik etkinliğini doğrulamak - Dozaj pompalarının kalibrasyonunu ve kimyasal tüketim optimizasyonunu gerçekleştirmek - HACCP ve IFS/BRC gıda güvenliği hijyen dokümantasyonunu eksiksiz tutmak Aranan Niteli…"
+}
+},
+{
+"id": "J2968",
+"kind": "JOB",
+"title": "Endüstriyel Temizlik Operatörü (Fabrika)",
+"industry": "JANITORIAL_FACILITY",
+"city": "Kocaeli",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Otomotiv yan sanayi fabrikamızın üretim sahası, talaşlı imalat yolları ve depo zeminlerinin temizliğini yürütecek operatörler arıyoruz. Görev ve Sorumluluklar: - Binicili ve arkadan itmeli zemin yıkama otomatlarını (zemin otomatı) kurallara uygun kullanmak - Üretim hatları etrafındaki yağ, kimyasal ve talaş döküntülerini endüstriyel vakum makineleriyle temizlemek - Fabrika atık sahasında tehlikeli ve tehlikesiz atıkların ayrıştırılmasına yardımcı olmak - Soyunma odaları, duşlar ve dinlenme alanlarının periyodik dezenfeksiyonunu tamamlamak Aran…"
+}
+},
+{
+"id": "J0154",
+"kind": "JOB",
+"title": "Genel Temizlik Personeli",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"position_level": "UNSPECIFIED",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] GENELİ TEMİZLİK PERSONELİ ARANIYOR! ALIM OLAN SEKTÖRLER: OKUL-SPOR SALONU- BANKA-DEPO-OFİS-HASTANE LOKASYONLAR [şehir] İSTENİLENEN VARDİYADA ÇALIŞIRSINIZ -SEÇME HAKKI- 07.00-15.00 14:00 - 22:00 ARANAN NİTELİKLER -İÇERİSİNDEKİ TEMİZLİKTEN SORUMLU -MOP ATMA - TOZ ALMA , -ÜRETİM HARİCİ İŞLERİ YAPACAK 18-45 ARASI SABIKA SORUNU OLMAYAN GÜNLÜK 1350TL YEVMİYE + SGK + HAFTALIK ÖDEME"
+}
+},
+{
+"id": "C20325",
+"kind": "CV",
+"title": "Geri Dönüşüm Ayrıştırma Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"context": {
+"ozet": "Sıfır atık projelerine destek veren, çevre bilinci yüksek ve disiplinli çalışan bir ayrıştırma görevlisiyim. Elektronik atıkların içindeki değerli parçaların sökümü ve ayrımı konusunda el becerisine sahibim. Gelen atık kamyonlarının boşaltılması ve tasnifi süreçlerinde enerjik bir performans sergilerim.",
+"beceriler": "Geri Dönüşüm Süreçleri, Dikkat ve Odaklanma, Hızlı Ayıklama, Malzeme Tanıma, Bant Üzeri Çalışma",
+"deneyim": [
+"Geri Dönüşüm Ayrıştırma Elemanı ([TARİH]): ENV_ESG sektöründe Geri Dönüşüm Ayrıştırma Elemanı olarak günlük operasyonları yürüttüm. Sorumluluk alanıma giren işleri eksik…"
+],
+"egitim": [
+"[OKUL] - Lise (Çevre Sağlığı) [TARİH]"
+]
+}
+},
+{
+"id": "C20334",
+"kind": "CV",
+"title": "Geri Dönüşüm Ayrıştırma Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"context": {
+"ozet": "Geri dönüşüm tesislerinde plastik, kağıt, cam ve metal atıkların bant üzerinde hızlıca sınıflandırılmasını sağlayan dikkatli bir ayrıştırma elemanıyım. Değerlendirilebilir malzemeleri çöpten ayırarak doğaya ve ekonomiye katkı sağlamaktan gurur duyarım. Yoğun koku ve gürültülü ortamlara karşı fiziksel direncim yüksektir.",
+"beceriler": "Hızlı Ayıklama, Geri Dönüşüm Süreçleri, Malzeme Tanıma, Dikkat ve Odaklanma",
+"deneyim": [
+"Geri Dönüşüm Ayrıştırma Elemanı ([TARİH]): Ayıklama konveyör bandı üzerinden geçen karışık atıkları PET, HDPE, karton, teneke ve alüminyum sınıflarına göre hızla ayırdım…",
+"Stajyer ([TARİH]): Tesis kabul alanında atık türlerinin sınıflandırılması, kesilmez eldiven ve maske kullanımı ile kantar fişi eşleştirmelerinde deneyim kazandım."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Çevre Sağlığı) [TARİH]"
+]
+}
+},
+{
+"id": "C20343",
+"kind": "CV",
+"title": "Geri Dönüşüm Ayrıştırma Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"context": {
+"ozet": "Balyalama makinelerini kullanan ve tehlikeli atıkların standartlara uygun ayrılmasını yöneten deneyimli bir geri dönüşüm işçisiyim. Atık türlerini kolayca tanır, hattın tıkanmaması için pratik hareket ederim. İş sağlığı gereği eldiven ve maske kullanımını hiçbir zaman ihmal etmem.",
+"beceriler": "Dikkat ve Odaklanma, Hızlı Ayıklama, Malzeme Tanıma",
+"deneyim": [
+"Geri Dönüşüm Ayrıştırma Elemanı ([TARİH]): ENV_ESG sektöründe Geri Dönüşüm Ayrıştırma Elemanı olarak günlük operasyonları yürüttüm. Sorumluluk alanıma giren işleri eksik…"
+],
+"egitim": [
+"[OKUL] - Lise (Lise Diploması) [TARİH]"
+]
+}
+},
+{
+"id": "J0132",
+"kind": "JOB",
+"title": "Gündüzlü Temizlik ve Yemek Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Danışmanlığını yaptığımız üst düzey ailemizin [şehir] Büyükdere‘deki villasında çalışacak tecrübeli bayan eleman arıyoruz Temizlik ve yemek yapılacak Haftada 5.5 gün Hafta içi 09.00 - 18.00 Cumartesi yarım gün Evde yatılı bir yardımcı daha var oda temizlik ve yemek yapıyor Aile 2 kişi yaşyor karı koca olarak Temizlik ve yemek işinden referans verebilen 30-46 yaş arası Tercihen [şehir] veya beykoz ilçelerinde ikamet eden kişilerin ulaşımı daha kolay olacaktır. Maaş görüşmede tekrar konuşulacak 70-80 bin ₺ + Yol ücreti + Sigorta"
+}
+},
+{
+"id": "J0055",
+"kind": "JOB",
+"title": "Güzellik uzmanı ve temizlik görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "ekibimize katılacak 1 güzellik uzmanı bayan ve 1 temizlik görevlisi bayan çalışana ihtiyacımız vardır"
+}
+},
+{
+"id": "C20205",
+"kind": "CV",
+"title": "Haşere İlaçlama Uzmanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"context": {
+"ozet": "Sahada aktif olarak çalışmaktan keyif alan, fiziksel dayanıklılığı yüksek ve iş güvenliği kurallarına (maske, tulum kullanımı vb.) katı bir şekilde uyan bir ilaçlama görevlisiyim. İlaç hazırlama oranları ve kimyasal karışımlar konusunda sıfır hata toleransıyla çalışırım. Günlük operasyon raporlarını düzenli olarak hazırlayarak müşterilere ve şirke…",
+"beceriler": "Kimyasal Püskürtme, Zirai Mücadele, İlaçlama Teknikleri",
+"deneyim": [
+"Stajyer Haşere ([TARİH]): Haşere İlaçlama Uzmanı pozisyonunda staj yaptım ve sektörel deneyim kazandım.",
+"Haşere İlaçlama Uzmanı ([TARİH]): [ŞEHİR] bölgesinde Haşere İlaçlama Uzmanı olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Kamu Yönetimi) [TARİH]"
+]
+}
+},
+{
+"id": "C20996",
+"kind": "CV",
+"title": "Hastane Ameliyathane Dezenfeksiyon Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Bursa",
+"context": {
+"ozet": "Hastanelerin ameliyathane, yoğun bakım ve kemik iliği nakil üniteleri gibi yüksek steril alanlarında 6 yıllık dezenfeksiyon tecrübem var. Operasyon aralarında hızlı oda sanitasyonu, hidrojen peroksit ortam sisleme cihazı kullanımı, ameliyat lambası ve masasının antiseptik solüsyonlarla silinmesinde uzmanım.",
+"beceriler": "Steril Alan Temizlik ve Dezenfeksiyon Protokolleri, Hidrojen Peroksit Ortam Sisleme (Fogging), Ameliyat Masası ve Medikal Lamba Sanitasyonu, HEPA Filtre Uyumlu Partikül Temizliği, Kişisel Koruyucu Donanım (KKD) Giyinme …",
+"deneyim": [
+"Hastane Ameliyathane Dezenfeksiyon Görevlisi ([TARİH]): Şehir hastanesinde 16 ameliyathane salonunun cerrahi operasyon arası ve gün sonu terminal dezenfeksiyonları mikro…"
+],
+"egitim": [
+"Adana Seyhan Mesleki ve Teknik Anadolu Lisesi - Lise (Hasta ve Yaşlı Hizmetleri / Sağlık) [TARİH]"
+]
+}
+},
+{
+"id": "J2982",
+"kind": "JOB",
+"title": "Hastane Çevre Sağlığı ve Atık Yönetimi Şefi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Adana",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Şehir hastanemizde tıbbi atık, tehlikeli atık ve evsel atık yönetim süreçlerini yasal mevzuata uygun sevk edecek şefler arıyoruz. Pozisyonun Temel Görevleri: - Kırmızı [şehir] tıbbi atıkların ve delici-kesici kutuların güvenli toplanmasını ve geçici depoda tartımını denetlemek - Büyükşehir Belediyesi lisanslı tıbbi atık sterilizasyon araçlarına teslimat süreçlerini yönetmek - Çevre, Şehircilik ve İklim Değişikliği Bakanlığı MOTAT (Mobil Atık Takip Sistemi) kayıtlarını tutmak - Hastane temizlik personeline tıbbi atık ayrıştırma ve dökülme/saçıl…"
+}
+},
+{
+"id": "J2969",
+"kind": "JOB",
+"title": "Hastane Hijyen ve Sanitasyon Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Hastanemizin poliklinik ve yataklı servislerinde enfeksiyon kontrol standartlarına uygun oda temizliği yapacak personeller arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Hasta taburculukları sonrası hasta odalarının terminal dezenfeksiyonunu talimatlara göre yapmak - Renk kodlu mikrofiber bez sistemine uygun olarak yüzey temizliklerini gerçekleştirmek - Tıbbi atık, evsel atık ve kesici-delici atık kutularını güvenlik prosedürlerine göre toplamak - Hastane ortak alanlarının, koridorların ve bekleme salonlarının zemin temizliğini sağlamak Adayda …"
+}
+},
+{
+"id": "J0171",
+"kind": "JOB",
+"title": "Hastane Temizlik Personeli",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"position_level": "UNSPECIFIED",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] BULUNAN HASTANEMİZE TEMİZLİK PERSONELİ ARANIYOR Etlik / [şehir] Personel Alımı Hastane Temizlik Personeli Vardiyalar: 3 vardiya dönüşümlüdür • 07:30 - 15:00 • 14:00 - 22:00 • 22:00 - 07:00 Günlük Ücret: 1.250 TL Yemekhane Haftalık Ödeme SGK"
+}
+},
+{
+"id": "C20977",
+"kind": "CV",
+"title": "Hastane Zemin Bakım & Otomat Makine Operatörü",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"context": {
+"ozet": "Hastane ana koridorları, poliklinik girişleri ve acil bekleme alanlarında binicili ve arkadan itmeli zemin yıkama otomatı (scrubber dryer) operatörüyüm. Hastane tipi antibakteriyel düşük köpüklü kimyasallar kullanımı, kaygan zemin güvenlik levhaları yerleşimi ve sessiz zemin temizliğinde uzmanım.",
+"beceriler": "Binicili ve İtmeli Zemin Otomatı Kullanımı, Antibakteriyel Zemin Temizlik Kimyasalları, Ped ve Fırça Seçimi (Beyaz / Kırmızı Ped), Zemin Kurutma ve Kayma Tehlikesi Önleme, Zemin Otomatı Akü ve Filtre Günlük Bakımı, Yoğu…",
+"deneyim": [
+"Hastane Zemin Bakım & Otomat Makine Operatörü ([TARİH]): Şehir hastanesi poliklinik ana holünde 15.000 m² zemin gün boyu zemin otomatıyla yıkanıp kurulanarak hasta düşme…"
+],
+"egitim": [
+"Kocaeli İzmit Mesleki Eğitim Merkezi - Lise (Tesis Bakım) [TARİH]"
+]
+}
+},
+{
+"id": "J0164",
+"kind": "JOB",
+"title": "Havalimanı Temizlik Personeli",
+"industry": "JANITORIAL_FACILITY",
+"city": "Muğla",
+"position_level": "UNSPECIFIED",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ekibimizi güçlendirmek amacıyla aramıza katılacak çalışma arkadaşları arıyoruz: TEMİZLİK PERSONELİ ALIMI YAPILACAKTIR. Çalışma Sistemi: * 3 vardiya düzeni 07:00 - 15:00 15:00 - 23:00 23:00 - 07:00 SABİT VARDİYA SEÇME İMKANI ✅ Fazla mesai imkânı bulunmaktadır. Yan Haklar: * Yemekhane * Servis * Aylık Ödeme Sistemi Günlük: 1500 TL İşe Alım Kriterleri: * 18-45 aralığında olmak. * Adli sicil kaydının bulunmaması. * Sağlık sorunu olmaması"
+}
+},
+{
+"id": "J0489",
+"kind": "JOB",
+"title": "Kat Hizmetleri Elemanı (Housekeeper)",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren Yunusemre Metal ve Kalıp Fabrikası ekibimize değer katacak dinamik 'Kat Hizmetleri Elemanı (Housekeeper)' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Otel odalarının standartlara uygun biçimde yatak yapımı, çarşaf ve havlu değişimlerinin yapılması. - Oda banyolarının dezenfeksiyonu, fayans, ayna ve armatürlerin parlatılması. - Mini bar, buklet malzemeleri (şampuan, sabun vb.) ve ikram setlerinin eksiksiz tamamlanması. - Odalarda unutulan misafir eşyalarının (Lost & Found) prosedüre uygu…"
+}
+},
+{
+"id": "J0539",
+"kind": "JOB",
+"title": "Kat Hizmetleri Personeli",
+"industry": "JANITORIAL_FACILITY",
+"city": "Diyarbakır",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sektöründe öncü kuruluşumuzun [şehir] yerleşkesinde görev alacak yetkin ve deneyimli 'Kat Hizmetleri Personeli' aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Tesis kat koridorları, merdiven boşlukları ve yangın çıkışlarının günlük paspas ve süpürme işlemleri. - Kat arabasının gerekli tekstil ve temizlik kimyasallarıyla düzenli biçimde hazırlanması. - Dolu ve boş odaların belirlenen servis saatleri içinde hijyenik temizliğinin tamamlanması. - Tesis içi arızalı donanımların teknik servise iletilmek üzere not alınması. Aranan Nitelikler ve Ye…"
+}
+},
+{
+"id": "C20332",
+"kind": "CV",
+"title": "Katı Atık Toplama İşçisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"context": {
+"ozet": "Belediye ve özel çevre temizlik şirketleri bünyesinde çöp kamyonu arkasında görev yapan, fiziksel dayanıklılığı yüksek bir atık toplama işçisiyim. Konteyner boşaltma işlemlerini seri ve güvenli bir şekilde yapar, çevreye atık dökülmemesine özen gösteririm. Trafik akışını engellemeden ve iş güvenliği kurallarını gözeterek çalışırım.",
+"beceriler": "İş Güvenliği, Vardiyalı Çalışma, Fiziksel Dayanıklılık, Atık Sınıflandırma",
+"deneyim": [
+"Katı Atık Toplama İşçisi ([TARİH]): ENV_ESG sektöründe Katı Atık Toplama İşçisi olarak günlük operasyonları yürüttüm. Sorumluluk alanıma giren işleri eksiksiz yerine get…"
+],
+"egitim": [
+"[OKUL] - Lise (Çevre Koruma) [TARİH]"
+]
+}
+},
+{
+"id": "C20340",
+"kind": "CV",
+"title": "Katı Atık Toplama İşçisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"context": {
+"ozet": "Tıbbi ve geri dönüştürülebilir katı atıkların ayrı toplanması süreçlerinde görev almış, talimatlara uyan dikkatli bir işçiyim. Koruyucu ekipmanlarımı eksiksiz kullanır, iş kazalarına karşı sürekli uyanık olurum. Yorucu mesai saatlerine rağmen işimi severek ve yüksek enerjiyle yaparım.",
+"beceriler": "Araç Arkası Çalışma, Fiziksel Dayanıklılık",
+"deneyim": [
+"Katı Atık Toplama İşçisi ([TARİH]): Çöp kamyonu arkasında belirlenen mahalle güzergahında çöp konteynerlerini hidrolik kaldırma kollarına takarak presleme haznesine boşa…",
+"Stajyer ([TARİH]): Atık toplama rotalarında araç arkası basamak güvenliği kuralları, reflektörlü yelek ve iş güvenliği donanımı kullanımı ile konteyner kilitleme mekaniz…"
+],
+"egitim": [
+"[OKUL] - Lise (Çevre Koruma) [TARİH]"
+]
+}
+},
+{
+"id": "C20347",
+"kind": "CV",
+"title": "Katı Atık Toplama İşçisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"context": {
+"ozet": "Sokak ve caddelerin temiz kalması için her türlü hava şartında azimle çalışan pratik bir temizlik görevlisiyim. Sürücü ile telsiz veya işaret yoluyla tam bir uyum içinde hareket ederim. Mahalle sakinleriyle diyaloglarımda her zaman saygılı ve ölçülü bir tutum sergilerim.",
+"beceriler": "Araç Arkası Çalışma, Vardiyalı Çalışma, Fiziksel Dayanıklılık, Atık Sınıflandırma, İş Güvenliği",
+"deneyim": [
+"Katı Atık Toplama İşçisi ([TARİH]): Sanayi siteleri ve pazar yerlerinde biriken hacimli ticari atıkları hidrolik damperli çöp kamyonuna ve kancalı konteynerlere yükledim…",
+"Stajyer ([TARİH]): Sanayi tipi büyük boy çöp konteynerlerinin vinç kanca bağlantıları, yük sabitleme halatları ve çevre koruma hijyen kurallarında saha desteği verdim."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Çevre Koruma) [TARİH]"
+]
+}
+},
+{
+"id": "J2994",
+"kind": "JOB",
+"title": "Kıdemli Çoklu Tesis (Multi-Site) Hizmet Yöneticisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "İç Anadolu bölgesindeki 40'tan fazla banka şubesi ve perakende mağazasının entegre temizlik operasyonlarını yönetecek Bölge Müdürü arıyoruz. Pozisyonun Temel Görevleri: - Bölgedeki tüm lokasyonların temizlik personeli planlamasını, malzeme sevkiyatlarını ve denetimlerini koordine etmek - Gezici denetim ekiplerinin rota verimliliğini ve müşteri memnuniyet skorlarını takip etmek - Bölge bütçesini, taşeron sözleşmelerini ve malzeme maliyetlerini yönetmek - Müşteri bölge yöneticileri ile periyodik hizmet kalitesi değerlendirme toplantıları yapmak …"
+}
+},
+{
+"id": "J2993",
+"kind": "JOB",
+"title": "Kıdemli Endüstriyel Tesis Temizlik ve Operasyon Müdürü",
+"industry": "JANITORIAL_FACILITY",
+"city": "Kocaeli",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Otomotiv ve beyaz eşya fabrikalarımızda endüstriyel boyahane temizliği, talaş temizliği ve saha hijyenini sevk ve idare edecek Operasyon Müdürü arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Fabrikaların planlı bakım ve duruş (shut-down) dönemlerinde kritik endüstriyel temizlik projelerini yönetmek - Kuru buzla temizlik (dry-ice blasting), yüksek basınçlı su jeti ve kimyasal yıkama operasyonlarını denetlemek - Endüstriyel atık yönetimi ve arıtma tesisi bertaraf süreçlerinin mevzuata uygunluğunu sağlamak - Sözleşme bütçelerini yönetmek ve müşter…"
+}
+},
+{
+"id": "J2995",
+"kind": "JOB",
+"title": "Kıdemli Sağlık Kurumları Temizlik ve Enfeksiyon Kontrol Müdürü",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "A+ hastanelerimizde ameliyathane, yoğun bakım ve kemik iliği nakil ünitelerinin uluslararası JCI hijyen standartlarını yönetecek Enfeksiyon Kontrol Müdürü arıyoruz. Rol ve Sorumluluklar: - Hastane Enfeksiyon Kontrol Komitesi ile haftalık hijyen protokollerini ve dezenfektan rotasyonlarını belirlemek - Ameliyathanelerin partikül ölçümleri, mikrobiyolojik yüzey kontrolleri ve HEPA hava akış doğrulamalarını denetlemek - 200 kişilik hastane temizlik personeline nozokomiyal enfeksiyonların önlenmesi eğitimlerini vermek - JCI ve Sağlık Bakanlığı kal…"
+}
+},
+{
+"id": "J2992",
+"kind": "JOB",
+"title": "Kıdemli Tesis Hizmetleri ve Hijyen Müdürü",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Çok uluslu bir finans merkezinin temizlik, atık yönetimi ve destek hizmetler operasyonunu yönetecek Tesis Hizmetleri Müdürü arıyoruz. Görev ve Sorumluluklar: - 150 kişilik temizlik ve tesis destek personelinin vardiyalarını, bütçesini ve malzeme tedariğini yönetmek - Müşteri SLA ve KPI göstergelerinin üzerinde hizmet kalitesi sağlamak ve aylık performans raporları sunmak - Yenilikçi robotik temizlik makineleri ve sürdürülebilir yeşil temizlik kimyasalları projelerini hayata geçirmek - İş sağlığı ve güvenliği denetimlerini gerçekleştirerek sıfı…"
+}
+},
+{
+"id": "C20454",
+"kind": "CV",
+"title": "Kuru Temizleme ve Leke Çıkarma Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Mersin",
+"context": {
+"ozet": "Tekstil bakımı sektöründe 2 yıllık tecrübeye sahibim. Kuru Temizleme ve Leke Çıkarma Elemanı olarak leke çıkarma, buharlı ütü kullanımında uzmanım. Hassas kumaşların dokusuna zarar vermeden temizlenmesini sağlarım.",
+"beceriler": "Kuru Temizleme Makinesi Operatörlüğü, Kumaş Analizi ve Leke Çıkarma, Buharlı Pres ve Paskaralı Ütü, Tekstil Kimyasalları Kullanımı",
+"deneyim": [
+"Kuru Temizleme ve Leke Çıkarma Elemanı ([TARİH]): [ŞİRKET] işletmesinde hassas ve yünlü kumaşların türüne göre leke masasında ön kimyasal müdahaleleri uyguladım ve perkl…",
+"Kuru Temizleme ve Leke Çıkarma Elemanı ([TARİH]): [ŞİRKET] bünyesinde müşterilerden gelen giysilerin barkodlanması, aksesuar koruma aparatlarının takılması ve kumaş türü…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "J0765",
+"kind": "JOB",
+"title": "Kuru Temizleme ve Leke Çıkarma Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] Sanayi ve İmalat Ltd. Şti. bünyesinde, [şehir] lokasyonumuzdaki operasyonlarımızda görevlendirilmek üzere tam zamanlı 'Kuru Temizleme ve Leke Çıkarma Elemanı' bünyemizde görev alacak yetkin adaylar değerlendirilecektir. İş Tanımı ve Temel Sorumluluklar: - Kuru temizlemeye gelen giysi ve tekstillerin kumaş türü ve leke cinsine göre ayrılması. - Özel leke çıkarma kimyasalları ve leke masası kullanılarak ön leke müdahalesinin yapılması. - Kuru temizleme makinelerinin (perkloroetilen/hidrokarbon) talimatlara uygun çalıştırılması ve filtre …"
+}
+},
+{
+"id": "C20200",
+"kind": "CV",
+"title": "Kuru Temizlemeci",
+"industry": "JANITORIAL_FACILITY",
+"city": "Eskişehir",
+"context": {
+"ozet": "Kumaş türlerini tanıyan, tekstil ürünlerinin özelliklerine göre en uygun leke çıkarma ve kuru temizleme yöntemlerini uygulayan deneyimli bir ustayım. Hassas kıyafetlerin, abiyelerin veya takım elbiselerin renklerine ve dokularına zarar vermeden ilk günkü görünümüne kavuşmasını sağlarım. Ütü ve presleme tekniklerinde kusursuz bir el işçiliğine sahi…",
+"beceriler": "Leke Çıkarma, Kumaş Bakımı, Ütüleme ve Pres, Kuru Temizleme Makinesi Kullanımı",
+"deneyim": [
+"Kuru Temizlemeci ([TARİH]): [ŞEHİR] bölgesinde Kuru Temizlemeci olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "C20201",
+"kind": "CV",
+"title": "Kuru Temizlemeci",
+"industry": "JANITORIAL_FACILITY",
+"city": "Konya",
+"context": {
+"ozet": "Kuru temizleme makinelerinin kullanımı, kimyasal solventlerin doğru dozajlanması ve periyodik bakımları konusunda uzmanlaşmış bir profesyonelim. Müşteri memnuniyetini ön planda tutarak, teslimat sürelerine harfiyen uyar ve gelen ürünlerin kalite kontrolünü titizlikle yaparım. Gelişen tekstil teknolojilerini takip eder, yeni nesil kumaşlara uygun t…",
+"beceriler": "Kumaş Bakımı, Leke Çıkarma",
+"deneyim": [],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "C20202",
+"kind": "CV",
+"title": "Kuru Temizlemeci",
+"industry": "JANITORIAL_FACILITY",
+"city": "Bursa",
+"context": {
+"ozet": "Sanayi tipi ütüleme, leke analizi yapma ve paketleme süreçlerinde hızlı ve pratik bir çalışma stiline sahip kuru temizleme elemanıyım. Yoğun çalışma temposunda kalite standartlarından taviz vermeden günlük üretim hedeflerini yakalarım. İş sağlığı kurallarına uygun olarak kimyasallarla güvenli bir şekilde çalışma konusunda tam donanımlıyım.",
+"beceriler": "Kuru Temizleme Makinesi Kullanımı, Ütüleme ve Pres, Leke Çıkarma",
+"deneyim": [
+"Stajyer Kuru ([TARİH]): Kuru Temizlemeci pozisyonunda staj yaptım ve sektörel deneyim kazandım."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (İşletme Yönetimi) [TARİH]"
+]
+}
+},
+{
+"id": "C20965",
+"kind": "CV",
+"title": "Laboratuvar & Temiz Oda (Cleanroom) Hijyen Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Diyarbakır",
+"context": {
+"ozet": "Mikrobiyoloji, biyokimya laboratuvarları ve ilaç üretim temiz odalarında (cleanroom ISO 7/8) partikül üretmeyen antistatik bezler ve özel solüsyonlarla çalışan temizlik uzmanıyım. Hava kilitleri (airlock), yapışkan paspas değişimi, biyogüvenlik kabini yüzey temizliği ve partikül sayım standartlarını bilirim.",
+"beceriler": "Cleanroom Temizlik Standartları (ISO Sınıfları), Partikül Bırakmayan Tyvek Tulum ve Eldivenler, Antistatik Zemin Temizliği ve Cila Bakımı, Biyogüvenlik Kabinleri Yüzey Sanitasyonu, Kimyasal Dökülme ve Nötralizasyon Prot…",
+"deneyim": [
+"Laboratuvar & Temiz Oda (Cleanroom) Hijyen Görevlisi ([TARİH]): Merkezi genetik ve mikrobiyoloji laboratuvarında steril çalışma bankoları ve temiz oda zeminleri partikül…"
+],
+"egitim": [
+"İzmir Bornova Mesleki ve Teknik Anadolu Lisesi - Lise (Laboratuvar Hizmetleri / Kimya) [TARİH]"
+]
+}
+},
+{
+"id": "J0066",
+"kind": "JOB",
+"title": "MEYDANCI",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Pozisyon kapsamında üstlenilecek temel sorumluluklar ve aranan yetkinlikler: belirtilen niteliklere sahip MEYDANCI ekibimize katılacak çalışma arkadaşı aranmaktadır. Fabrikanın temizlik ve düzeninin sağlanması . Üretim tezgahlarından çıkan ürünlerin ilgili yerlere taşınması . İş akışına destek verilmesi . Fiziksel çalışma engeli olmayan, askerlik hizmetini tamamlamış, sorumluluk sahibi, tercihen fabrika deneyimi olan"
+}
+},
+{
+"id": "C20972",
+"kind": "CV",
+"title": "Minibar Dolum & Kat Kontrol Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "İzmir",
+"context": {
+"ozet": "Otel odalarındaki minibar buzdolaplarının günlük sayımı, eksilen içecek ve atıştırmalıkların el terminaliyle misafir folyosuna işlenmesi ve dolumunu yapan personelim. Ürünlerin son kullanma tarihi kontrolü, dolap içi buzlanma temizliği ve depo minibar stok mutabakatında titizim.",
+"beceriler": "El Terminali ile Minibar Tüketim Girişi, Minibar Depo ve Kat Dağıtım Arabası Düzeni, İçecek ve Atıştırmalık SKT Kontrolü, Minibar Soğutucu Arıza Tespiti ve Temizliği, Misafirle Karşılaşmada Nezaket Kuralları, Gün Sonu S…",
+"deneyim": [
+"Minibar Dolum & Kat Kontrol Görevlisi ([TARİH]): 400 odalı otelde günlük minibar kontrolleri 4 saat içinde tamamlandı, sisteme hatasız girilerek resepsiyon faturalandırm…"
+],
+"egitim": [
+"Eskişehir Tepebaşı Mesleki Eğitim Merkezi - Lise (Lojistik / Konaklama) [TARİH]"
+]
+}
+},
+{
+"id": "J0160",
+"kind": "JOB",
+"title": "MUTFAK & TEMİZLİK PERSONELİ",
+"industry": "JANITORIAL_FACILITY",
+"city": "Adana",
+"position_level": "UNSPECIFIED",
+"mode": "OnSite",
+"context": {
+"aciklama": "Takımımıza dahil olacak profesyonelde aradığımız temel özellikler ve iş kapsamı: Mutfak ve Temizlik Personeli bünyemizde görev alacak yetkin adaylar değerlendirilecektir. 📌 Görev Tanımı Ofislerin ve ortak kullanım alanlarının günlük temizliğini yapmak, Patron ve misafirlerini karşılamak, çay-kahve-ikram servisi yapmak. Çalışanların çay, kahve ve benzeri ikramlarını servis yapmak, Mutfak düzenini ve temizliğini sağlamak, Yemek sonrası mutfak ve kullanılan ekipmanların temizliğini yapmak, Hijyen ve temizlik kurallarına uygun şekilde çalışmak, 📌 …"
+}
+},
+{
+"id": "J0731",
+"kind": "JOB",
+"title": "Mutfak Bulaşıkhane Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] (Turizm & Hizmet Hattı) yerleşkemizde tam zamanlı görev alacak Mutfak Bulaşıkhane Elemanı aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde mutfak bulaşıkhane elemanı operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması."
+}
+},
+{
+"id": "J0228",
+"kind": "JOB",
+"title": "Mutfak Hijyen ve Steward Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Samsun",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren [şehir] Metal ve Kalıp Fabrikası ekibimize değer katacak dinamik 'Mutfak Hijyen ve Steward Elemanı' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Endüstriyel mutfak ekipmanlarının, ocakların, davlumbazların ve hazırlık tezgahlarının dezenfeksiyonu. - Tabak, çatal-bıçak, tava ve kazanların tazyikli su ve sanayi tipi bulaşık makinelerinde yıkanması. - Yıkanan malzemelerin kurulanarak mutfak istasyonlarına düzenli yerleştirilmesi. - Mutfak zeminlerinin kaymaz deterjanlarla yıkanması ve organ…"
+}
+},
+{
+"id": "C20451",
+"kind": "CV",
+"title": "Ofis İçi İkram ve Çay Servis Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"context": {
+"ozet": "1 yıldır Ofis İçi İkram ve Çay Servis Elemanı personeli olarak çalışmaktayım. Günlük rutin temizlik planlarına uyum, yüzey dezenfeksiyonu ve atık ayrıştırmada sorumluluk sahibiyim. Düzenli ve özenli bir hizmet anlayışını benimserim.",
+"beceriler": "Çay Kazanı ve Kahve Makinesi Operasyonu, Toplantı İkramı ve Masa Servisi, Mutfak ve Çay Ocağı Hijyeni, Güler Yüzlü Personel İletişimi",
+"deneyim": [
+"Ofis İçi İkram ve Çay Servis Elemanı ([TARİH]): [ŞİRKET] ofisinde çay ocağının günlük açılışını yaparak çay demleme, kahve hazırlama ve personelin içecek ikramlarını eks…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "J0442",
+"kind": "JOB",
+"title": "Ofis İçi İkram ve Çay Servis Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren [şehir] Sanayi ve İmalat Ltd. Şti. ekibimize değer katacak dinamik 'Ofis İçi İkram ve Çay Servis Elemanı' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Şirket yöneticilerine, personele ve kurumsal misafirlere sıcak/soğuk içecek servisinin yapılması. - Toplantı salonlarının toplantı öncesinde su, bardak ve ikramlıklarla hazır hale getirilmesi. - Ofis mutfağının, kahve makinelerinin, çay kazanlarının günlük temizlik ve hijyeninin sağlanması. - Mutfak sarf malzemelerinin (çay, kahve, şeker, …"
+}
+},
+{
+"id": "C20447",
+"kind": "CV",
+"title": "Ofis, Okul ve Tesis Temizlik Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Eskişehir",
+"context": {
+"ozet": "Tesis ve ofis hizmetlerinde 2 yıllık deneyime sahibim. Ofis, Okul ve Tesis Temizlik Görevlisi olarak endüstriyel vakum süpürgesi ve temizlik kimyasallarının doğru kullanımında uzmanım. Ortak alan, lavabo ve cam temizliğini titizlikle tamamlarım.",
+"beceriler": "Endüstriyel Zemin Yıkama ve Cilalama, Yüzey Dezenfeksiyonu ve Kimyasal Dozaj, Ofis ve Ortak Alan Temizliği, Tıbbi ve Evsel Atık Ayrıştırma",
+"deneyim": [
+"Ofis, Okul ve Tesis Temizlik Görevlisi ([TARİH]): [ŞİRKET] tesislerinde ofisler, toplantı odaları ve ortak kullanım alanlarının günlük toz alma, vakumlama ve zemin silme…",
+"Ofis, Okul ve Tesis Temizlik Görevlisi ([TARİH]): [ŞİRKET] yerleşkesinde çöp kovalarının boşaltılması, atık torbalarının toplanıp konteynerlere taşınması işlerini yürütt…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "J0630",
+"kind": "JOB",
+"title": "Ofis, Okul ve Tesis Temizlik Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ([şehir] OSB) yerleşkemizde tam zamanlı görev alacak Ofis, Okul ve Tesis Temizlik Görevlisi aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde ofis, okul ve tesis temizlik görevlisi operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması. - Maaş & Olanaklar: 34.000 TL - 40.000 TL Net Maaş + Prim."
+}
+},
+{
+"id": "C20450",
+"kind": "CV",
+"title": "Okul ve Kurum Destek Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "İzmir",
+"context": {
+"ozet": "2 yıldır Okul ve Kurum Destek Görevlisi personeli olarak çalışmaktayım. Günlük rutin temizlik planlarına uyum, yüzey dezenfeksiyonu ve atık ayrıştırmada sorumluluk sahibiyim. Düzenli ve özenli bir hizmet anlayışını benimserim.",
+"beceriler": "Derslik ve İdari Ofis Temizliği, Ortak Alan Dezenfeksiyonu, Etkinlik Alanı Kurulum ve Düzeni, Temizlik Ekipmanı ve Kimyasal Kullanımı",
+"deneyim": [
+"Okul ve Kurum Destek Görevlisi ([TARİH]): [ŞİRKET] eğitim kurumunda dersliklerin, laboratuvarların ve koridorların zemin temizliği ile tahta ve sıra dezenfeksiyonunu yap…",
+"Okul ve Kurum Destek Görevlisi ([TARİH]): [ŞİRKET] bünyesinde konferans salonu sandalye düzeni, koli taşıma ve bahçe temizliği işlerinde destek verdim. Geri dönüşüm atık…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "J1364",
+"kind": "JOB",
+"title": "Okul ve Kurum Destek Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] Endüstriyel Teknik Hizmetler A.Ş. ailesi olarak, [şehir] sahasındaki projelerimizde tam zamanlı istihdam edilmek üzere 'Okul ve Kurum Destek Görevlisi' alımı yapılacaktır. İş Tanımı ve Temel Sorumluluklar: - Sınıflar, amfiler, koridorlar ve idari birimlerin periyodik temizlik ve havalandırma işlerinin yapılması. - Öğrenci ve personel lavabolarının gün boyu hijyenik tutulması ve sarf malzemelerinin yenilenmesi. - Okul bahçesi ve çevre alanların çöplerden arındırılması, geri dönüşüm kutularının boşaltılması. - Etkinlik ve törenlerde masa…"
+}
+},
+{
+"id": "J0441",
+"kind": "JOB",
+"title": "Otel / AVM Genel Alan Meydancısı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Diyarbakır",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sektöründe öncü kuruluşumuzun [şehir] yerleşkesinde görev alacak yetkin ve deneyimli 'Otel / AVM Genel Alan Meydancısı' aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Otel lobisi, AVM koridorları, food court ve giriş alanlarının zemin cilalama ve yıkama otomatıyla temizlenmesi. - Genel alan tuvaletlerinin periyodik aralıklarla kontrol edilip hijyen standartlarının korunması. - Çöp kutularının düzenli boşaltılması, kül tablaları ve cam yüzeylerin silinmesi. - Müşteri yoğunluğunun olduğu saatlerde hızlı müdahale ile ortak alan düzeninin temin…"
+}
+},
+{
+"id": "C20988",
+"kind": "CV",
+"title": "Otel Çamaşırhane & Silindir Ütü Operatörü",
+"industry": "JANITORIAL_FACILITY",
+"city": "Antalya",
+"context": {
+"ozet": "Büyük otellerin çamaşırhane departmanında sanayi tipi yıkama, kurutma makineleri ve silindir (mangal) ütü operatörüyüm. Çarşaf, nevresim ve yastık kılıflarının silindir ütüden pürüzsüz geçirilmesi, kimyasal leke çıkarma (pas, kan, şarap) ve havlu katlama makinesi kullanımında tecrübeliyim.",
+"beceriler": "Endüstriyel Silindir Ütü (Mangal) Kullanımı, Sanayi Tipi Yıkama ve Kurutma Kazanları, Otel Tekstili Leke Çıkarma Kimyasalları, Nevresim ve Havlu Otomatik Katlama Makinesi, Yırtık ve Deforme Keten Ayrıştırması, Temiz Ket…",
+"deneyim": [
+"Otel Çamaşırhane & Silindir Ütü Operatörü ([TARİH]): 500 odalı otelin çamaşırhanesinde günlük 3 ton otel tekstili yıkanıp silindir ütüden geçirilerek kat görevlilerine z…"
+],
+"egitim": [
+"Bursa Osmangazi Mesleki Eğitim Merkezi - Ustalık Belgesi (Tekstil Bakım ve Çamaşırhane) [TARİH]"
+]
+}
+},
+{
+"id": "C20993",
+"kind": "CV",
+"title": "Otel Genel Alan Meydancısı (Public Area Attendant)",
+"industry": "JANITORIAL_FACILITY",
+"city": "Bursa",
+"context": {
+"ozet": "Otel lobisi, asansörler, genel tuvaletler, restoran fuayesi ve spa alanlarının 24 saat parıldamasını sağlayan meydancıyım. Tek diskli cila makinesi (rotowash) ile mermer zemin kristalizasyonu, halı yıkama makinesi kullanımı, pirinç ve krom korkuluk parlatmada ustayım.",
+"beceriler": "Tek Diskli Zemin Cila Makinesi Kullanımı, Mermer Kristalize Cila Uygulaması, Enjeksiyonlu Halı Yıkama Makinesi, Genel Tuvaletlerin Periyodik Kontrol Çizelgesi, Pirinç, Bakır ve Cam Yüzey Parlatma, Lobi Alanı Sürekli Düz…",
+"deneyim": [
+"Otel Genel Alan Meydancısı (Public Area Attendant) ([TARİH]): Kongre oteli lobi ve fuaye alanında 2500 m² mermer zemin haftalık kristalize cila ile parlatıldı, etkinlik …"
+],
+"egitim": [
+"Trabzon Ortahisar Mesleki Eğitim Merkezi - Kalfalık Belgesi (Tesis Hijyeni) [TARİH]"
+]
+}
+},
+{
+"id": "C20971",
+"kind": "CV",
+"title": "Otel Kat Görevlisi (Housekeeper & Bed Making)",
+"industry": "JANITORIAL_FACILITY",
+"city": "Gaziantep",
+"context": {
+"ozet": "Resort ve şehir otellerinde kat arabası (trolley) düzeni, standart sürede (20-25 dk) oda temizliği ve profesyonel yatak yapımı (bed making) ustasıyım. Çarşaf köşelerini zarf (hospital corner) katlama, toz alma, banyo kireç ve saç temizliği ile buklet malzemelerini nizami dizmede yüksek hız ve titizliğe sahibim.",
+"beceriler": "Zarf Köşe (Hospital Corner) Yatak Yapımı, 20 Dakikada Standart Check-out Oda Temizliği, Banyo Kireç, Ayna ve Duşakabin Temizliği, Kat Arabası (Trolley) Düzeni ve Stoklama, Leke ve Saç Kılı Sıfır Tolerans Kontrolü, DND (…",
+"deneyim": [
+"Otel Kat Görevlisi (Housekeeper & Bed Making) ([TARİH]): Tatil köyünde yoğun yaz sezonunda günlük ortalama 16 oda temizliği, yatak değişimi ve banyo hijyeni misafir şika…"
+],
+"egitim": [
+"Muğla Fethiye Mesleki Eğitim Merkezi - Ustalık Belgesi (Kat Hizmetleri) [TARİH]"
+]
+}
+},
+{
+"id": "J0542",
+"kind": "JOB",
+"title": "Otel Kat Hizmetleri Görevlisi (Housekeeping)",
+"industry": "JANITORIAL_FACILITY",
+"city": "Balıkesir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sektöründe öncü kuruluşumuzun [şehir] yerleşkesinde görev alacak yetkin ve deneyimli 'Otel Kat Hizmetleri Görevlisi (Housekeeping)' aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Günlük oda temizlik planına göre giriş yapacak ve konaklayan misafir odalarının hijyeninin sağlanması. - Tekstil değişimleri, yatak yapımı, mobilya toz alma ve zemin vakumlama işlemlerinin yürütülmesi. - Banyo sanitasyonu ve kişisel bakım malzemelerinin eksiksiz donatılması. - Kat arabası stoklarının düzenli tutulması ve oda kontrol formlarının doldurulması. Aranan…"
+}
+},
+{
+"id": "C20982",
+"kind": "CV",
+"title": "Otel Kat Şefi (Housekeeping Supervisor)",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"context": {
+"ozet": "5 yıldızlı otellerde kat görevlilerinin (maid/housekeeper) oda temizlik kalitesini denetleyen, oda statülerini (clean/dirty/inspected) PMS sisteminde güncelleyen kat şefiyim. Eksik buklet malzemesi, tekstil fire takibi, oda arızalarının teknik servise bildirilmesi ve VIP oda hazırlığında uzmanım.",
+"beceriler": "Otel Oda Denetim Standartları ve Kontrol Listesi, PMS Otel Yazılımı (Opera / Fidelio) Kullanımı, Housekeeping Ekip Yönetimi ve Vardiya Planı, Kayıp ve Buluntu (Lost & Found) Prosedürü, Keten (Linen) ve Buklet Envanter T…",
+"deneyim": [
+"Otel Kat Şefi (Housekeeping Supervisor) ([TARİH]): 350 odalı uluslararası otelde 18 kişilik kat görevlisi ekibinin günlük 120 oda çıkış (check-out) ve konaklama kontroll…"
+],
+"egitim": [
+"Antalya Muratpaşa Mesleki ve Teknik Anadolu Lisesi - Lise (Konaklama Hizmetleri (Kat Hizmetleri)) [TARİH]"
+]
+}
+},
+{
+"id": "C20203",
+"kind": "CV",
+"title": "Oto Yıkama Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"context": {
+"ozet": "Araç temizliği sektöründe uzun yıllar çalışmış, müşteri iletişimi kuvvetli ve takım çalışmasına yatkın bir yıkama elemanıyım. Kurulama aşamasında su lekesi bırakmayan bez kullanımından, kokulandırma ve iç vakumlamaya kadar tüm detayları eksiksiz uygularım. Kullanılan malzemelerin sarfiyatını kontrol altında tutarak israfı önler, verimli bir çalışm…",
+"beceriler": "Detaylı Temizlik, Cila ve Boya Koruma",
+"deneyim": [],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Sosyal Hizmetler) [TARİH]"
+]
+}
+},
+{
+"id": "C20204",
+"kind": "CV",
+"title": "Oto Yıkama Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"context": {
+"ozet": "Araçların iç ve dış detaylı temizliğini büyük bir özenle yapan, fırçasız yıkama, cila ve pasta uygulamalarında deneyimli bir oto yıkama görevlisiyim. Koltuk yıkama, motor temizliği ve jant bakımı gibi ince işçilik gerektiren konularda profesyonel seviyede bilgi sahibiyim. Müşterilerin araçlarını kendiminkine gösterdiğim özenle temizler, %100 memnu…",
+"beceriler": "İç/Dış Yıkama, Araç Kurulama, Detaylı Temizlik",
+"deneyim": [],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "C20453",
+"kind": "CV",
+"title": "Oto Yıkama ve İç Dış Kuaför Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Aydın",
+"context": {
+"ozet": "Araç temizliği alanında 1 yıllık deneyime sahibim. Oto Yıkama ve İç Dış Kuaför Elemanı olarak basınçlı yıkama, detaylı temizlik ve pasta-cila uygulamalarını ustalıkla yaparım.",
+"beceriler": "Basınçlı Yıkama ve Köpük Uygulama, İç-Dış Detaylı Araç Kuaförü, Pasta-Cila ve Boya Koruma, Koltuk ve Döşeme Yıkama",
+"deneyim": [
+"Oto Yıkama ve İç Dış Kuaför Elemanı ([TARİH]): [ŞİRKET] servis alanında binek ve ticari araçların basınçlı yıkama, fırçasız köpükleme ve mikrofiber kurulama işlemlerini …"
+],
+"egitim": [
+"[OKUL] - Lise (Motorlu Araçlar Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0402",
+"kind": "JOB",
+"title": "Oto Yıkama ve İç Dış Kuaför Elemanı",
+"industry": "JANITORIAL_FACILITY",
+"city": "Trabzon",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren [şehir] Sanayi ve İmalat Ltd. Şti. ekibimize değer katacak dinamik 'Oto Yıkama ve İç Dış Kuaför Elemanı' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Müşteri araçlarının basınçlı su ve oto şampuanlarıyla dış yüzey fırçasız yıkamasının yapılması. - Araç içinin süpürülmesi, paspasların yıkanması, torpido ve kapı döşemelerinin detaylı silinmesi. - Koltuk ve tavan döşemelerine ahtapot yıkama ve buharlı temizlik makineleriyle detaylı oto kuaför uygulanması. - Pasta-cila, hare giderici ve sera…"
+}
+},
+{
+"id": "J0141",
+"kind": "JOB",
+"title": "OTOMOTİV FİRMASI İÇİN ÇAYCI ARANMAKTADIR",
+"industry": "JANITORIAL_FACILITY",
+"city": "Adana",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "OTOMOTİV FİRMASINDA UZUN SÜRELİ ÇAYCI ARANMAKTADIR SHOWROOM OFİS TEMİZLİĞİ MÜŞTERİLERE ÇAY İKRAMI YAPILACAKTIR"
+}
+},
+{
+"id": "C20975",
+"kind": "CV",
+"title": "Renk Kodlu Bez & Mop Hastane Hijyen Personeli",
+"industry": "JANITORIAL_FACILITY",
+"city": "İzmir",
+"context": {
+"ozet": "Hastanelerde çapraz bulaşmayı (cross-contamination) önlemek amacıyla uluslararası renk kodlu mikrofiber bez ve mop sistemini harfiyen uygulayan hijyen personelim. Mavi (genel alan), sarı (izolasyon odaları), kırmızı (ıslak hacim tuvaletler) ve yeşil (mutfak) sistemlerini çift kovalı pres arabasıyla uygularım.",
+"beceriler": "Renk Kodlu Mikrofiber Bez Sistemi (Mavi/Sarı/Kırmızı), Çift Kovalı Presli Mop Arabası Kullanımı, Çapraz Bulaşma ve Patojen İzolasyonu, Klor Bazlı Yüzey Dezenfektanı Dozajlama, S Formunda Paspas Atma Tekniği, Temas Yüzey…",
+"deneyim": [
+"Renk Kodlu Bez & Mop Hastane Hijyen Personeli ([TARİH]): Kadın doğum ve çocuk hastanesinde 80 yataklı serviste renk kodlu bez disipliniyle çapraz kontaminasyon riski sıf…"
+],
+"egitim": [
+"Diyarbakır Bağlar Mesleki Eğitim Merkezi - Kalfalık Belgesi (Temizlik Hizmetleri) [TARİH]"
+]
+}
+},
+{
+"id": "J1230",
+"kind": "JOB",
+"title": "Steward / Bulaşıkhane Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "İzmir",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sektöründe öncü kuruluşumuzun [şehir] yerleşkesinde görev alacak yetkin ve deneyimli 'Steward / Bulaşıkhane Görevlisi' aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Restoran veya banquet mutfağından gelen kirli tabak, tepsi, çatal ve bardakların tazyikli sudan geçirilmesi. - Konveyörlü veya giyotin tipi sanayi bulaşık makinelerine dizilerek uygun deterjanla yıkanması. - Kazan, tencere ve ızgara ekipmanlarının elde tel ve özel kimyasallarla temizlenmesi. - Bulaşıkhane zeminlerinin kuru ve temiz tutulması, çöp ayrıştırma kurallarına uyulması…"
+}
+},
+{
+"id": "C20192",
+"kind": "CV",
+"title": "Temizlik Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Ankara",
+"context": {
+"ozet": "Endüstriyel temizlik makineleri (zemin yıkama, cila makineleri vb.) kullanımında tecrübe sahibi, pratik ve çözüm odaklı bir temizlik elemanıyım. İş sağlığı ve güvenliği kurallarına uyarak çalışır, temizlik malzemelerinin stok takibini düzenli olarak yaparım. Ekip çalışmasına yatkın yapımla, büyük metrekareli projelerde bile kusursuz bir hijyen ort…",
+"beceriler": "Atık Ayrıştırma, Yüzey Temizliği",
+"deneyim": [
+"Temizlik Görevlisi ([TARİH]): [ŞEHİR] bölgesinde Temizlik Görevlisi olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (İşletme Yönetimi) [TARİH]"
+]
+}
+},
+{
+"id": "C20193",
+"kind": "CV",
+"title": "Temizlik Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "İstanbul",
+"context": {
+"ozet": "Fiziksel tempoya ayak uydurabilen, enerji seviyesi yüksek ve temizlik prosedürlerine tam anlamıyla hakim deneyimli bir personelim. Çöp toplama, toz alma, zemin yıkama ve dezenfeksiyon işlemlerini günlük periyotlara uygun olarak aksatmadan sürdürürüm. Bulunduğum ortamın ferahlığını ve insan sağlığına uygunluğunu sağlamak benim en büyük motivasyon k…",
+"beceriler": "Atık Ayrıştırma, Yüzey Temizliği, Dezenfeksiyon, Endüstriyel Temizlik Ekipmanları",
+"deneyim": [
+"Temizlik Görevlisi ([TARİH]): [ŞEHİR] bölgesinde Temizlik Görevlisi olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "C20194",
+"kind": "CV",
+"title": "Temizlik Görevlisi",
+"industry": "JANITORIAL_FACILITY",
+"city": "Samsun",
+"context": {
+"ozet": "Ofis, hastane, okul veya konut gibi farklı alanların temizlik ve hijyen standartlarına uygun olarak bakımını sağlayan titiz bir temizlik görevlisiyim. Farklı zemin ve yüzeylere uygun kimyasal temizleyicileri doğru oranlarda kullanarak eşyalara zarar vermeden derinlemesine temizlik yaparım. İşimi severek, detaylara önem vererek ve zamanı verimli ku…",
+"beceriler": "Atık Ayrıştırma, Endüstriyel Temizlik Ekipmanları",
+"deneyim": [
+"Temizlik Görevlisi ([TARİH]): [ŞEHİR] bölgesinde Temizlik Görevlisi olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Büro Yönetimi) [TARİH]"
+]
+}
+}
+]

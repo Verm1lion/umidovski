@@ -1,0 +1,308 @@
+[
+ {
+  "id": "S30851",
+  "target_occ_key": "9112:endustriyel_temizlik_operatoru",
+  "target_specialty": "Endüstriyel Temizlik Operatörü",
+  "target_isco4": "9112",
+  "target_isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "JANITORIAL_FACILITY",
+  "industry_tr": "Temizlik ve Tesis Hizmetleri",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Endüstriyel Temizlik Operatörü (Fabrika)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30852",
+  "target_occ_key": "9121:paskara_utucusu",
+  "target_specialty": "Paskara Ütücüsü",
+  "target_isco4": "9121",
+  "target_isco_title": "Hand launderers and pressers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "APPAREL_TEXTILE",
+  "industry_tr": "Tekstil ve Hazır Giyim",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Sanayi Tipi Paskara Ütücüsü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30853",
+  "target_occ_key": "9122:ucak_kabin_temizlik_gorevlisi",
+  "target_specialty": "Uçak Kabin Temizlik Görevlisi",
+  "target_isco4": "9122",
+  "target_isco_title": "Vehicle cleaners",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Havalimanı Uçak Kabin Temizlik ve Ramp Görevlisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30854",
+  "target_occ_key": "9123:dis_cephe_cam_temizlikcisi",
+  "target_specialty": "Dış Cephe Cam Temizlikçisi",
+  "target_isco4": "9123",
+  "target_isco_title": "Window cleaners",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "JANITORIAL_FACILITY",
+  "industry_tr": "Temizlik ve Tesis Hizmetleri",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Dış Cephe Cam Temizlik Operatörü (Endüstriyel Dağcı)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30855",
+  "target_occ_key": "9212:besi_ciftligi_bakim_elemani",
+  "target_specialty": "Besi Çiftliği Bakım Elemanı",
+  "target_isco4": "9212",
+  "target_isco_title": "Livestock farm labourers",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Besi Çiftliği Bakım Elemanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30856",
+  "target_occ_key": "9213:ciftlik_iscisi",
+  "target_specialty": "Çiftlik İşçisi",
+  "target_isco4": "9213",
+  "target_isco_title": "Mixed crop and livestock farm labourers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Adana",
+  "example_job_titles": [
+   "Çiftlik Destek Elemanı (Farmhand)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30857",
+  "target_occ_key": "9311:rok_yagcisi",
+  "target_specialty": "Rok Yağcısı",
+  "target_isco4": "9311",
+  "target_isco_title": "Mining and quarrying labourers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "ROK YAĞCISI"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30858",
+  "target_occ_key": "9311:tas_ve_maden_ocagi_iscisi",
+  "target_specialty": "Taş ve Maden Ocağı İşçisi",
+  "target_isco4": "9311",
+  "target_isco_title": "Mining and quarrying labourers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Samsun",
+  "example_job_titles": [
+   "Taş ve Maden Ocağı İşçisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30859",
+  "target_occ_key": "9329:fabrika_meydancisi",
+  "target_specialty": "Fabrika Meydancısı",
+  "target_isco4": "9329",
+  "target_isco_title": "Manufacturing labourers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "JANITORIAL_FACILITY",
+  "industry_tr": "Temizlik ve Tesis Hizmetleri",
+  "city": "Ankara",
+  "example_job_titles": [
+   "MEYDANCI"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30860",
+  "target_occ_key": "9329:pres_hatti_uretim_elemani",
+  "target_specialty": "Pres Hattı Üretim Elemanı",
+  "target_isco4": "9329",
+  "target_isco_title": "Manufacturing labourers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Progresif Pres Hattı Parça Toplama ve Ayıklama Elemanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30861",
+  "target_occ_key": "9329:toz_boya_aski_elemani",
+  "target_specialty": "Toz Boya Askı Elemanı",
+  "target_isco4": "9329",
+  "target_isco_title": "Manufacturing labourers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Elektrostatik Toz Boya Askı ve Temizleme Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30862",
+  "target_occ_key": "9334:reyon_gorevlisi",
+  "target_specialty": "Reyon Görevlisi",
+  "target_isco4": "9334",
+  "target_isco_title": "Shelf fillers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Balıkesir",
+  "example_job_titles": [
+   "Reyon Tanzim ve Teşhir Görevlisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30863",
+  "target_occ_key": "9411:fast_food_elemani",
+  "target_specialty": "Fast Food Elemanı",
+  "target_isco4": "9411",
+  "target_isco_title": "Fast food preparers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Fast Food ve Burger Mutfak Elemanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30864",
+  "target_occ_key": "9412:barboy",
+  "target_specialty": "Barboy",
+  "target_isco4": "9412",
+  "target_isco_title": "Kitchen helpers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "BARBOY TAKIM ARKADAŞI ARIYORUZ"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30865",
+  "target_occ_key": "9621:bellboy",
+  "target_specialty": "Bellboy",
+  "target_isco4": "9621",
+  "target_isco_title": "Messengers, package deliverers and luggage porters",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Otel Karşılama ve Bellboy Görevlisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30866",
+  "target_occ_key": "9629:kapi_karsilama_gorevlisi",
+  "target_specialty": "Kapı Karşılama Görevlisi",
+  "target_isco4": "9629",
+  "target_isco_title": "Elementary workers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "Samsun",
+  "example_job_titles": [
+   "Otel Doorman / Kapı Karşılama Görevlisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30867",
+  "target_occ_key": "9629:vale",
+  "target_specialty": "Vale",
+  "target_isco4": "9629",
+  "target_isco_title": "Elementary workers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Vale Park Görevlisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30868",
+  "target_occ_key": "9629:vestiyer_gorevlisi",
+  "target_specialty": "Vestiyer Görevlisi",
+  "target_isco4": "9629",
+  "target_isco_title": "Elementary workers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Vestiyer Görevlisi"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

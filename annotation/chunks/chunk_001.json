@@ -1,0 +1,1290 @@
+[
+{
+"id": "J0496",
+"kind": "JOB",
+"title": "Toprak ve Su Analiz Laboratuvar Teknisyeni",
+"industry": "AGRICULTURE",
+"city": "Adana",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Aşağıdaki niteliklere sahip ve belirtilen süreçleri yönetecek adayların başvurularını bekliyoruz: 'Toprak ve Su Analiz Laboratuvar Teknisyeni' rolünde çalışacak profesyoneller aranmaktadır. Rolün Getirdiği Başlıca Görevler: Toprak numunelerinin pH, tuzluluk ve mineral değerlerini ICP/spektrofotometre cihazlarında ölçecek kimya/ziraat teknikeri. Kimleri Arıyoruz? - Tarımsal veri tutma ve ürün gelişim raporlaması yapabilecek - Bitki besleme, hastalık/zararlı teşhisi ve zirai ilaçlama takvimine hakim - B sınıfı ehliyeti olan, aktif araç kullanabi…"
+}
+},
+{
+"id": "J2930",
+"kind": "JOB",
+"title": "Topraksız Tarım Sera Teknisyeni",
+"industry": "AGRICULTURE",
+"city": "İzmir",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Jeotermal ısıtmalı modern teknolojik seralarımızda domates ve biber yetiştiriciliği hatlarında görev alacak sera teknisyenleri arıyoruz. Neler Yapacaksınız? - Otomasyonlu sulama ve gübreleme (fertigasyon) ünitelerinin günlük EC ve pH kontrollerini yapmak - Sera iklimlendirme sistemlerinin (havalandırma, gölgeleme, sisleme) sorunsuz çalışmasını izlemek - Kültürel işlemleri (dolama, budama, yaprak alma, hasat) işçi ekipleriyle sahada koordine etmek - Sera içi sarı/mavi yapışkan tuzakları sayarak zararlı popülasyonunu kayıt altına almak Nitelikle…"
+}
+},
+{
+"id": "J2941",
+"kind": "JOB",
+"title": "Topraksız Tarım ve Modern Sera Yöneticisi",
+"industry": "AGRICULTURE",
+"city": "Antalya",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Modern cam ve polikarbon seralarımızda hidroponik kokopit üretim hatlarının tüm yetiştiricilik operasyonlarını yönetecek ziraat mühendisleri arıyoruz. Rol ve Sorumluluklar: - Günlük iklimlendirme stratejilerini (radyasyon, buhar basıncı açığı VPD, CO2 dozlama) bilgisayarlı otomasyonla yönetmek - Bitki fenolojik dönemlerine göre günlük fertigasyon reçetelerini hazırlamak ve drenaj analizlerini yapmak - Biyolojik mücadele (faydalı böcek salımı) protokollerini uygulayarak kimyasal ilaç kullanımını minimize etmek - Yaklaşık 50 kişilik sera hasat v…"
+}
+},
+{
+"id": "J0727",
+"kind": "JOB",
+"title": "Topraksız Tarım ve Sera Teknikeri",
+"industry": "AGRICULTURE",
+"city": "İzmir",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Jeotermal seramızda otomasyonlu iklimlendirme sistemleri, fide dikimi ve hasat kontrollerini yürütecek sera teknikeri veya ziraat teknikeri alınacaktır. Vardiyalı çalışma imkanı vardır."
+}
+},
+{
+"id": "C20273",
+"kind": "CV",
+"title": "traktör Operatörü",
+"industry": "AGRICULTURE",
+"city": "Adana",
+"context": {
+"ozet": "Tarlada pulluk, mibzer ve römork gibi çeşitli ekipmanları traktöre doğru şekilde bağlayıp yönetebilen deneyimli bir sürücüyüm. Zorlu arazi şartlarında aracı güvenli bir şekilde manevra ettirir, tarımsal faaliyetlerin hızla tamamlanmasını sağlarım. Motor arızalarında temel tamiratları gerçekleştirebilirim.",
+"beceriler": "Arazi Hazırlığı, Traktör Manevra ve Ek Ekipman Bağlama, Sürme ve İlaçlama",
+"deneyim": [
+"traktör Operatörü ([TARİH]): [ŞİRKET] tarım işletmesinde çiftçeker traktör ve hidrolik pulluk ile tarla sürümü, diskaro ve tırmık çekerek ekim yatağı hazırlama işlemleri…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Meslek Yüksekokulu (Ön Lisans) (Tarımsal Üretim) [TARİH]"
+]
+}
+},
+{
+"id": "C20274",
+"kind": "CV",
+"title": "traktör Operatörü",
+"industry": "AGRICULTURE",
+"city": "Hatay",
+"context": {
+"ozet": "Tarım işletmelerinde yük taşıma ve arazi hazırlığı süreçlerini profesyonelce yürüten bir makine operatörüyüm. Hasat dönemlerindeki yoğun mesailere ayak uydurur, ürünlerin tarladan depoya güvenle taşınmasını sağlarım. Sorumluluğumdaki araçların temizlik ve bakım takvimlerini eksiksiz takip ederim.",
+"beceriler": "Traktör Manevra ve Ek Ekipman Bağlama, Arazi Hazırlığı",
+"deneyim": [
+"traktör Operatörü ([TARİH]): [ŞİRKET] bünyesinde pülverizatör ve turbo atomizör takılı traktör ile meyve bahçelerinde koruyucu ilaçlama ve sıvı yaprak gübresi atımı oper…"
+],
+"egitim": [
+"[OKUL] - Lise (Tarım Teknolojileri) [TARİH]"
+]
+}
+},
+{
+"id": "C20275",
+"kind": "CV",
+"title": "traktör Operatörü",
+"industry": "AGRICULTURE",
+"city": "Hatay",
+"context": {
+"ozet": "Geniş tarım arazilerinde toprak işleme, ilaçlama ve hasat makinelerini kullanma konusunda uzmanlaşmış bir traktör operatörüyüm. Ekipmanların günlük bakımlarını yapar, güvenli sürüş kurallarına dikkat ederim. Uydu destekli dümenleme sistemleri gibi modern tarım teknolojilerini etkin şekilde kullanırım.",
+"beceriler": "Traktör Manevra ve Ek Ekipman Bağlama, Sürme ve İlaçlama, Arazi Hazırlığı",
+"deneyim": [
+"traktör Operatörü ([TARİH]): [ŞİRKET] bünyesinde çift dingilli römork takılı traktör ile hasat edilen tarım ürünlerinin tarladan kantar ve silolara güvenli nakliyesini s…"
+],
+"egitim": [
+"[OKUL] - Lise (Tarım Teknolojileri) [TARİH]"
+]
+}
+},
+{
+"id": "C20611",
+"kind": "CV",
+"title": "Usta Nalbant",
+"industry": "AGRICULTURE",
+"city": "Mersin",
+"context": {
+"ozet": "Atçılık ve binicilik kulüplerinde 1 yıllık nalbantlık tecrübesine sahibim. Usta Nalbant olarak sıcak ve soğuk nallama, atların tırnak kesimi ve törpülenmesi, anatomik basış düzeltmeleri ve ortopedik nal uygulamalarında uzmanım.",
+"beceriler": "Sıcak ve Soğuk Nallama, Tırnak Kesimi ve Düzeltme (Törpü), Ortopedik Nal Çözümleri, Örs ve Ocakta Nal Şekillendirme",
+"deneyim": [
+"Usta Nalbant ([TARİH]): [ŞİRKET] binicilik tesisinde atların yürüyüş ve basış açılarını analiz ederek tırnaklarını kerpeten ve renet ile düzeltip törpüledim. Demir ocağı…"
+],
+"egitim": [
+"[OKUL] - Lise (Hayvan Yetiştiriciliği ve Sağlığı) [TARİH]"
+]
+}
+},
+{
+"id": "J1095",
+"kind": "JOB",
+"title": "Usta Nalbant",
+"industry": "AGRICULTURE",
+"city": "Antalya",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sektöründe öncü kuruluşumuzun [şehir] yerleşkesinde görev alacak yetkin ve deneyimli 'Usta Nalbant' aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Atların tırnak yapısının incelenmesi, tırnak bıçağı ve törpü ile dengeli tesviyesinin yapılması. - Atın bastığı zemin ve kullanım amacına göre (yarış, binek, engel atlama) uygun nal seçimi. - Ocakta nalın ısıtılarak dövülmesi ve atın tırnağına birebir uyacak şekilde şekillendirilmesi. - Nal çivilerinin tırnak canlı dokusuna zarar vermeden çakılması ve perçinlenmesi. Aranan Nitelikler ve Yetkinlik…"
+}
+},
+{
+"id": "J0773",
+"kind": "JOB",
+"title": "Zeytinlik Bakım ve Hasat Sorumlusu",
+"industry": "AGRICULTURE",
+"city": "Balıkesir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Aşağıdaki niteliklere sahip ve belirtilen süreçleri yönetecek adayların başvurularını bekliyoruz: 'Zeytinlik Bakım ve Hasat Sorumlusu' pozisyonu için başvurular değerlendirilecektir. Rolün Getirdiği Başlıca Görevler: Zeytin ağaçlarının periyodik ilaçlaması, sırıkla/makineli hasadı ve budamasını yapacak tecrübeli bahçe sorumlusu. Kimleri Arıyoruz? - Damla sulama sistemleri ve temel tarım aletleri kullanımından anlayan - Erkek adaylar için askerlik hizmetini tamamlamış - Bitki besleme, hastalık/zararlı teşhisi ve zirai ilaçlama takvimine hakim -…"
+}
+},
+{
+"id": "C10226",
+"kind": "CV",
+"title": "Ziraat Mühendisi",
+"industry": "AGRICULTURE",
+"city": "Konya",
+"context": {
+"ozet": "Toprak verimliliği ve modern sulama teknikleri konusunda saha tecrübesine sahip, araştırmacı ruhlu bir ziraat teknikeriyim. Sürdürülebilir tarım uygulamalarını yaygınlaştırarak çiftçilere destek olmaya gayret ediyorum.",
+"beceriler": "Tarım Teknolojileri, Damlama Sulama Sistemleri, Toprak Analizi, MS Office",
+"deneyim": [
+"Ziraat Teknikeri (2020-02 - Devam ediyor): Tohum ıslah çalışmalarında saha gözlemleri yapıldı ve çiftçi bilgilendirme toplantıları düzenlendi."
+],
+"egitim": [
+"Selçuk Üniversitesi - Ön Lisans (Tarımsal İşletmecilik) 2017-09 - 2019-06"
+]
+}
+},
+{
+"id": "J2940",
+"kind": "JOB",
+"title": "Ziraat Mühendisi (Bitki Koruma ve Ruhsatlandırma)",
+"industry": "AGRICULTURE",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Tarımsal ilaç formülasyonlarımızın Tarım ve Orman Bakanlığı ruhsatlandırma denemelerini ve biyolojik etkinlik testlerini yürütecek uzmanlar arıyoruz. Pozisyonun Temel Görevleri: - Yeni bitki koruma ürünlerinin tarla ve sera koşullarında biyolojik etkinlik (GEP) denemelerini kurmak - Bakanlık resmi denetçileri ile deneme kontrollerini koordine etmek ve deneme raporlarını onaylatmak - Bitki koruma ürünü ruhsat başvuru dosyalarını hazırlamak ve bakanlık komisyon takiplerini yürütmek - Etiket ve broşürlerin mevzuata ve tavsiye dozlarına uygunluğun…"
+}
+},
+{
+"id": "J0260",
+"kind": "JOB",
+"title": "Ziraat Mühendisi (Bitki Koruma)",
+"industry": "AGRICULTURE",
+"city": "Antalya",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "'Ziraat Mühendisi (Bitki Koruma)' bünyemizde görev alacak yetkin adaylar değerlendirilecektir. Görev Kapsamı: Örtü altı sebze yetiştiriciliğinde hastalık ve zararlılarla mücadele, zirai ilaç ve gübreleme programı yapacak mühendis. Aday Kriterleri: - Hasat, budama ve gübreleme ekiplerini sahada organize edebilecek - Erkek adaylar için askerlik hizmetini tamamlamış - Ziraat Fakültesi veya Meslek Yüksekokulu ilgili bölümlerinden mezun - Vardiyalı sistemde (08:00-16:00 / 16:00-24:00) görev alacak"
+}
+},
+{
+"id": "J0255",
+"kind": "JOB",
+"title": "Ziraat Mühendisi (Tarımsal Üretim ve Bitki Koruma)",
+"industry": "AGRICULTURE",
+"city": "Adana",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Geniş meyve bahçelerimizde ve tarımsal işletmemizde damla sulama, gübreleme programları, budama ve zirai mücadele süreçlerini sahada yönetecek Ziraat Mühendisi arıyoruz. Bitki Koruma veya Bahçe Bitkileri mezunu, saha tecrübesi olan ve aktif araç kullanabilen adaylar aranmaktadır."
+}
+},
+{
+"id": "J2962",
+"kind": "JOB",
+"title": "Zirai Depo ve Sevkiyat Sorumlusu",
+"industry": "AGRICULTURE",
+"city": "Samsun",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] gübre üretim ve depolama tesisimizde çuvallı ve dökme gübre sevkiyatlarını takip edecek depo personelleri arıyoruz. Görev ve Sorumluluklar: - Gelen ve giden kimyevi gübre kamyonlarının kantar tartımlarını ve irsaliye kontrollerini yapmak - Forklift operatörlerine paletli gübre istifleme ve yükleme talimatlarını iletmek - Depo stok sayımlarını haftalık periyotlarla ERP sistemine işlemek - Gübre torbalarının nem ve patlama riskine karşı depolama standartlarını denetlemek Aranan Nitelikler: - Lise veya Meslek Yüksekokulu mezuniyeti - Depo…"
+}
+},
+{
+"id": "J0569",
+"kind": "JOB",
+"title": "Zirai İlaç Formülasyon Kimyageri",
+"industry": "AGRICULTURE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Tarımsal ilaç ve bitki koruma sektörünün lideri HEKTAŞ bünyesinde [şehir] İnovasyon ve Ar-Ge Merkezimizde çevre dostu, yüksek biyolojik etkinliğe sahip zirai ilaç formülasyonları geliştirecek Formülasyon Kimyageri arıyoruz. Görev Tanımı ve Sorumluluklar: - Herbisit, fungisit ve insektisit grubu aktif maddeler için süspansiyon konsantre (SC), emülsiyon konsantre (EC), yağda süspansiyon (OD) ve suda dağılabilen granül (WG) formülasyonları tasarlamak. - Formülasyonlarda yüzey aktif maddeler, emülgatörler, dispersanlar ve ıslatıcı ajanların kimyas…"
+}
+},
+{
+"id": "C20458",
+"kind": "CV",
+"title": "Zirai Tarım ve Hasat İşçisi (Çiftçi)",
+"industry": "AGRICULTURE",
+"city": "Manisa",
+"context": {
+"ozet": "Tarım ve ziraat sektöründe 1 yıllık saha tecrübesine sahibim. Zirai Tarım ve Hasat İşçisi (Çiftçi) olarak tarla/sera bakımı ve ürün toplama işlerinde pratik ve sorumluluk sahibi bir çalışanım. Doğal koşullara uyumlu ve toprak işçiliğine hakimim.",
+"beceriler": "Tarla ve Bahçe Hasadı, Damlama Sulama Sistemleri, Toprak Çapalama ve Gübreleme, Meyve-Sebze Boylama ve Kasalama",
+"deneyim": [
+"Zirai Tarım ve Hasat İşçisi (Çiftçi) ([TARİH]): [ŞİRKET] tarımsal işletmesinde meyve bahçelerinde budama, çapa, damla sulama borularının serimi ve hasat çalışmalarını ko…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Tarım Ekonomisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0383",
+"kind": "JOB",
+"title": "Zirai Tarım ve Hasat İşçisi (Çiftçi)",
+"industry": "AGRICULTURE",
+"city": "Elazığ",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren Öz [şehir] Saha ve Lojistik Hizmetleri ekibimize değer katacak dinamik 'Zirai Tarım ve Hasat İşçisi (Çiftçi)' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Endüstriyel tarla ürünlerinin (mısır, pamuk, buğday, ayçiçeği vb.) bakım ve çapalama işlerinin yürütülmesi. - Hasat zamanında biçerdöver ve römork arkası dane aktarımı ve yükleme süreçlerine destek verilmesi. - Mahsulün kurutma alanlarına serilmesi, havalandırılması ve depolara aktarılması. - Tarlada sulama ve drenaj kanallarının temiz…"
+}
+},
+{
+"id": "J0752",
+"kind": "JOB",
+"title": "4 ve 5 İplik Overlok Makinecisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Adana",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ([şehir] 1. OSB & Lojistik Köy) yerleşkemizde tam zamanlı görev alacak 4 ve 5 İplik Overlok Makinecisi aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde 4 ve 5 i̇plik overlok makinecisi operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması. - Servis yan hakkı sağlanmaktadır."
+}
+},
+{
+"id": "C20974",
+"kind": "CV",
+"title": "4-5 İplik Overlok Makinesi Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Eskişehir",
+"context": {
+"ozet": "Örme hazır giyim ve triko konfeksiyonunda 4 ve 5 iplik sanayi tipi overlok makinelerinde (Siruba, Pegasus, Juki) 8 yıllık tecrübeye sahip dikişçiyim. T-shirt, sweatshirt ve tayt üretiminde yan çatma, kol takma, diferansiyel dişli büzgü ayarı ve bıçak kesim mesafesini sıfır hatayla ayarlarım.",
+"beceriler": "4 ve 5 İplik Endüstriyel Overlok Makinesi, Diferansiyel Büzgü ve İplik Tansiyon Ayarı, Örme Kumaşta Esnek ve Patlamayan Dikiş, Bıçak Bileme ve Kumaş Payı Kesimi, Hızlı Seri Üretim Bandı Temposu, İğne Kırılması ve İplik …",
+"deneyim": [
+"4-5 İplik Overlok Makinesi Operatörü ([TARİH]): İhracat odaklı örme hazır giyim fabrikasında günlük 700 adet basic t-shirt yan çatma ve omuz birleştirme operasyonu defos…"
+],
+"egitim": [
+"Bursa Yıldırım Mesleki ve Teknik Anadolu Lisesi - Lise (Moda Tasarım Teknolojileri / Dikiş) [TARİH]"
+]
+}
+},
+{
+"id": "C20552",
+"kind": "CV",
+"title": "Armürlü ve Jakarlı Dokuma Tezgah Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Gaziantep",
+"context": {
+"ozet": "Tekstil ve hazır giyim sektöründe 2 yıllık deneyimli ustayım. Armürlü ve Jakarlı Dokuma Tezgah Operatörü olarak yüksek el hızına ve kaliteye sahibim. Modelhane kalıplarına uygun kumaş işlenmesi ve hata kontrolünde titiz çalışırım.",
+"beceriler": "Armürlü ve Jakarlı Dokuma Tezgahı, Atkı ve Çözgü İpliği Bağlama, Tahar ve Gücü Teli Ayarları, Kumaş Hata Kontrolü ve Düğüm Atma",
+"deneyim": [
+"Armürlü ve Jakarlı Dokuma Tezgah Operatörü ([TARİH]): [ŞİRKET] dokuma fabrikasında hava jetli armürlü ve jakarlı dokuma tezgahlarının desen programlarını yükleyerek taha…",
+"Armürlü ve Jakarlı Dokuma Tezgah Operatörü ([TARİH]): [ŞİRKET] bünyesinde atkı bobinlerinin tezgaha dizimi, dolan kumaş toplarının indirilmesi ve tezgahların basınçlı ha…"
+],
+"egitim": [
+"[OKUL] - Lise (Tekstil Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0770",
+"kind": "JOB",
+"title": "Armürlü ve Jakarlı Dokuma Tezgah Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Kocaeli",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] (Alikahya OSB) yerleşkemizde tam zamanlı görev alacak Armürlü ve Jakarlı Dokuma Tezgah Operatörü aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde armürlü ve jakarlı dokuma tezgah operatörü operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması. - Ulaşım personel servisimiz ile sağlanmaktadır."
+}
+},
+{
+"id": "J0928",
+"kind": "JOB",
+"title": "Ayakkabı İmalat ve Montaj Ustası",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] / Honaz ([şehir] Tekstil ve Sanayi OSB) yerleşkemizde tam zamanlı görev alacak Ayakkabı İmalat ve Montaj Ustası aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde ayakkabı i̇malat ve montaj ustası operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması."
+}
+},
+{
+"id": "J0981",
+"kind": "JOB",
+"title": "Ayakkabı Saya Dikiş Ustası",
+"industry": "APPAREL_TEXTILE",
+"city": "Antalya",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] Endüstriyel Teknik Hizmetler A.Ş. bünyesinde, [şehir] lokasyonumuzdaki operasyonlarımızda görevlendirilmek üzere tam zamanlı 'Ayakkabı Saya Dikiş Ustası' rolünde çalışacak profesyoneller aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Deri veya suni deri kesilmiş saya parçalarının modele uygun olarak saya dikiş makinelerinde birleştirilmesi. - İğne kalınlığı, dikiş adımı ve iplik tansiyonunun saya malzemesine göre hassas ayarlanması. - Saya kenar kıvırma, yapıştırma ve takviye astarı montajlarının hatasız gerçekleştirilmesi. - Dikiş …"
+}
+},
+{
+"id": "J0555",
+"kind": "JOB",
+"title": "Backoffice Veri Giriş ve Dokümantasyon Elemanı",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "'Backoffice Veri Giriş ve Dokümantasyon Elemanı' pozisyonu için başvurular değerlendirilecektir. Görev Kapsamı: Gelen müşteri sözleşmelerinin sisteme hatasız girişini yapacak, taranmış evrakları dosyalayacak dikkatli personel. Aday Kriterleri: - Zorlu müşteri krizlerinde sabırlı, sakin ve çözüm odaklı kalabilen - Vardiyalı sistemde (gece/hafta sonu dahil) çalışma engeli bulunmayan - Kulaklıkla uzun süre konsantre şekilde çağrı karşılama temposuna alışkın - Hızlı klavye kullanabilen ve bilgisayar programlarına çabuk adapte olan - Haftada 6 gün,…"
+}
+},
+{
+"id": "J1030",
+"kind": "JOB",
+"title": "Baskı ve Nakış Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Gaziantep",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Pozisyon kapsamında üstlenilecek temel sorumluluklar ve aranan yetkinlikler: 'Baskı ve Nakış Operatörü' bünyemizde görev alacak yetkin adaylar değerlendirilecektir. Neler Yapacaksınız? Tekstil ürünleri üzerine emprime serigrafi baskı ve çok kafalı nakış makinelerini kullanabilen operatörler. Gereksinimler: - Kumaş hatası, iplik gerginliği ve dikiş adımı kontrollerini yapabilen - Bant usulü seri üretim temposuna ve mesai düzenine uyum sağlayabilecek - Örme, dokuma veya kot kumaş dikiminde el pratikliği ve göz koordinasyonu yüksek - Proje bazlı …"
+}
+},
+{
+"id": "J0790",
+"kind": "JOB",
+"title": "Bayan Terzi ve Dikiş Elemanı (Seamstress)",
+"industry": "APPAREL_TEXTILE",
+"city": "Antalya",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sektöründe öncü kuruluşumuzun [şehir] yerleşkesinde görev alacak yetkin ve deneyimli 'Bayan Terzi ve Dikiş Elemanı (Seamstress)' aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Kadın giyim modellerinin (abiye, elbise, etek, ceket) kalıp parçalarının birleştirilip dikilmesi. - Müşteri veya manken provası alınarak gerekli daraltma, boy kısaltma ve tadilat işlemlerinin yapılması. - Gizli fermuar dikimi, astar yerleştirme, biye ve ince kenar kıvırma işçiliklerinin yapılması. - Dikiş sonrası ara ütü ve son ütü işlemlerinin kumaşa zarar vermeden t…"
+}
+},
+{
+"id": "C20980",
+"kind": "CV",
+"title": "CNC Otomatik Kumaş Kesim (Cutter) Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Ankara",
+"context": {
+"ozet": "Modern hazır giyim fabrikalarında bilgisayarlı CNC kumaş kesim makinelerinde (Lectra, Gerber, Bullmer) uzman operatörüm. CAD/CAM pastal çizim dosyasını yükleme, vakum naylonu örtme ve vakum basıncı ayarı, otomatik bıçak açısı kalibrasyonu ve sıfır paylı parçaları seri kesmede yetkinim.",
+"beceriler": "CNC Kumaş Kesim Makinesi (Lectra / Gerber), CAD/CAM Pastal Planı Okuma ve Yükleme, Vakum Basıncı ve Polietilen Naylon Serme, Otomatik Bıçak Kalibrasyonu ve Zımparalama, Kumaş Türüne Göre Kesim Hızı Optimizasyonu, Kesile…",
+"deneyim": [
+"CNC Otomatik Kumaş Kesim (Cutter) Operatörü ([TARİH]): Büyük tekstil fabrikasında günde 15.000 parçalık ihracat siparişi CNC kesim makinesinde %99.5 kesim hassasiyetiyle…"
+],
+"egitim": [
+"Bursa Nilüfer Mesleki ve Teknik Anadolu Lisesi - Lise (Tekstil Teknolojisi / Bilgisayarlı Kesim) [TARİH]"
+]
+}
+},
+{
+"id": "C20985",
+"kind": "CV",
+"title": "Denim (Kot) Çift İğne & Zincir Dikişçisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Ankara",
+"context": {
+"ozet": "Ağır gramajlı denim kumaşlarda kot pantolon ve kot ceket montajında kollu çift iğne zincir dikiş (feed-off-the-arm) makinelerinde uzmanım. Arka cep süs dikişleri, arka roba çatma, ağ ve yan dikişlerin kalın ipliklerle (30-50 no) büzgüsüz dikilmesinde 9 yıllık atölye deneyimim var.",
+"beceriler": "Kollu Çift İğne Zincir Dikiş Makinesi Kullanımı, Ağır Denim (12-14 Ons) Kumaş Dikiş Tekniği, Arka Cep Çift Dikiş Süsleme ve Punteriz, Kalın İplik Tansiyonu ve İğne Soğutucu Yağlama, Yıkama Öncesi Dikiş Mukavemet Kontrol…",
+"deneyim": [
+"Denim (Kot) Çift İğne & Zincir Dikişçisi ([TARİH]): Denim konfeksiyon fabrikasında günde 500 adet kot pantolonun arka roba ve ağ dikişleri yüksek mukavemetli zincir diki…"
+],
+"egitim": [
+"Gaziantep Şehitkamil Mesleki ve Teknik Anadolu Lisesi - Lise (Tekstil Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J1144",
+"kind": "JOB",
+"title": "Deri İşleme Ustası (Tanner)",
+"industry": "APPAREL_TEXTILE",
+"city": "Muğla",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Öz [şehir] Saha ve Lojistik Hizmetleri bünyesinde, [şehir] lokasyonumuzdaki operasyonlarımızda görevlendirilmek üzere tam zamanlı 'Deri İşleme Ustası (Tanner)' pozisyonu için başvurular değerlendirilecektir. İş Tanımı ve Temel Sorumluluklar: - Deri finisaj prosesinde zımpara, tıraş, ütü ve baskı makinelerinin parametrelerinin ayarlanması. - Deri boyama dolaplarında reçeteye uygun renk tutturma ve penetrasyon takibinin yapılması. - Derinin yumuşaklık, esneklik, kalınlık ve su geçirmezlik testlerinin kontrol edilmesi. - Finisaj sonrası derilerin…"
+}
+},
+{
+"id": "J0455",
+"kind": "JOB",
+"title": "Deri Konfeksiyon Dikim Ustası",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Öz [şehir] Saha ve Lojistik Hizmetleri bünyesinde, [şehir] lokasyonumuzdaki operasyonlarımızda görevlendirilmek üzere tam zamanlı 'Deri Konfeksiyon Dikim Ustası' rolünde çalışacak profesyoneller aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Hakiki kürk ve giysilik deri parçalarının deri dikiş makinelerinde bir araya getirilmesi. - Deri kalınlığına uygun bıçak uçlu iğnelerin seçimi ve dikiş aralıklarının ayarlanması. - Deri cepleri, fermuarları, yaka ve kol montajının teknik föye uygun dikilmesi. - Dikiş paylarının çekiçlenmesi, yapıştırılm…"
+}
+},
+{
+"id": "J0662",
+"kind": "JOB",
+"title": "Deri Konfeksiyon ve Dikim Elemanı",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Takımımıza dahil olacak profesyonelde aradığımız temel özellikler ve iş kapsamı: 'Deri Konfeksiyon ve Dikim Elemanı' bünyemize kazandırılacaktır. Sorumluluk Alanları: Deri ceket, çanta ve cüzdan dikiminde deneyimli, deri dikiş makinelerini kullanabilen ustalar. Aranan Yetkinlik ve Beceriler: - Örme, dokuma veya kot kumaş dikiminde el pratikliği ve göz koordinasyonu yüksek - Tekstil sektöründe veya konfeksiyon atölyelerinde en az 1-2 yıl çalışmış - Modelhane kalıplarına ve teknik föye göre dikim yapabilen - Kumaş hatası, iplik gerginliği ve dik…"
+}
+},
+{
+"id": "J0704",
+"kind": "JOB",
+"title": "Deri Konfeksiyon ve Saraç İmalat Ustası",
+"industry": "APPAREL_TEXTILE",
+"city": "İzmir",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren [şehir] Sanayi ve İmalat Ltd. Şti. ekibimize değer katacak dinamik 'Deri Konfeksiyon ve Saraç İmalat Ustası' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Deri [şehir], cüzdan, çanta ve saraç ürünlerinin kalıplara göre kesimi ve montajı. - Deri kenarlarının tıraşlanması, zımparalanması ve kenar boyası ile pürüzsüz finisajı. - Zımba, çıtçıt, toka ve perçin aksesuarlarının pres makinelerinde çakılması. - Gerektiğinde el dikişi (mumlanmış iplikle saraç dikişi) ve makine dikişinin uygulanması…"
+}
+},
+{
+"id": "J0895",
+"kind": "JOB",
+"title": "Deri Tabaklama ve İşleme İşçisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Mersin",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] Sanayi ve İmalat Ltd. Şti. bünyesinde, [şehir] lokasyonumuzdaki operasyonlarımızda görevlendirilmek üzere tam zamanlı 'Deri Tabaklama ve İşleme İşçisi' bünyemizde görev alacak yetkin adaylar değerlendirilecektir. İş Tanımı ve Temel Sorumluluklar: - Ham derilerin tabaklama tesisinde tuzdan arındırılması, ıslatılması ve kavalata makinelerinden geçirilmesi. - Sepileme (pikaj, kromlu/bitkisel tabaklama) dolaplarına kimyasal ve enzim dozajlarının yapılması. - Tabaklanan derilerin sıkma ve açma makinelerinde suyunun alınarak kurutma rayların…"
+}
+},
+{
+"id": "C20255",
+"kind": "CV",
+"title": "Dikiş Makinecisi / Konfeksiyon İşçisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Bursa",
+"context": {
+"ozet": "Kumaş türlerine göre makine ayarlarını hızla yapabilen ve detaylı dikim işlemlerini gerçekleştiren bir konfeksiyon işçisiyim. Üretim sürecinde kalite standartlarına uygun olarak seri şekilde parça birleştirme işlemlerini yaparım. Takım çalışmasına yatkın ve vardiyalı sisteme uyumluyum.",
+"beceriler": "Sanayi Tipi Düz Dikiş Makinesi, Bant Hızına Uyum, Kalite Kontrol ve Dikiş Muayenesi",
+"deneyim": [
+"Dikiş Makinecisi / Konfeksiyon İşçisi ([TARİH]): Sanayi tipi tek iğne düz dikiş makinesinde kumaş cinsine göre tansiyon, iplik ve adım ayarlarını yaparak gömlek ve panto…"
+],
+"egitim": [
+"[OKUL] - Lise (Giyim Üretim Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20256",
+"kind": "CV",
+"title": "Dikiş Makinecisi / Konfeksiyon İşçisi",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"context": {
+"ozet": "Tekstil üretim bantlarında uzun yıllar görev almış, hızlı ve hatasız dikiş yapabilen bir makineciyim. Düz dikiş, overlok ve reçme makinelerini ustalıkla kullanabiliyorum. Verilen üretim hedeflerine zamanında ulaşma konusunda disiplinli çalışırım.",
+"beceriler": "Bant Hızına Uyum, Sanayi Tipi Düz Dikiş Makinesi, Kalite Kontrol ve Dikiş Muayenesi",
+"deneyim": [
+"Stajyer ([TARİH]): Dikiş makinelerinin mekiğine masura sararak iplik yollarını ve iğne takımlarını operasyon öncesinde hazırladım. Kesimhaneden gelen numaralandırılmış k…",
+"Dikiş Makinecisi / Konfeksiyon İşçisi ([TARİH]): Sanayi tipi reçme ve çift iğne makinelerinde örme kumaşların etek ucu, kol ucu bastırma ve ribana takma işlemlerini gerç…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Tekstil Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20257",
+"kind": "CV",
+"title": "Dikiş Makinecisi / Konfeksiyon İşçisi",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"context": {
+"ozet": "Dikkatli ve el becerisi yüksek, tekstil sektöründe tecrübeli bir çalışanım. Ürünlerin dikim aşamasında oluşabilecek hataları anında fark eder ve minimum fire ile çalışırım. Fabrika ortamındaki yoğun iş temposuna kolayca ayak uydurabilirim.",
+"beceriler": "Sanayi Tipi Düz Dikiş Makinesi, Kalite Kontrol ve Dikiş Muayenesi, Bant Hızına Uyum",
+"deneyim": [
+"Dikiş Makinecisi / Konfeksiyon İşçisi ([TARİH]): Elektronik punteriz ve ilik-düğme otomatlarında giysi bağlantı noktalarının takviye dikişlerini ve milimetrik düğme diki…"
+],
+"egitim": [
+"[OKUL] - Lise (Giyim Üretim Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J1203",
+"kind": "JOB",
+"title": "Dikiş Makinesi Operatörü (Overlokçu / Reçmeci)",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "'Dikiş Makinesi Operatörü (Overlokçu / Reçmeci)' pozisyonu için başvurular değerlendirilecektir. İşin Tanımı: Penye, t-shirt ve sweatshirt dikiminde sanayi tipi overlok, düz dikiş ve reçme makinelerini seri kullanan makinacılar. Beklenen Nitelikler: - Kumaş hatası, iplik gerginliği ve dikiş adımı kontrollerini yapabilen - Bant usulü seri üretim temposuna ve mesai düzenine uyum sağlayabilecek - Örme, dokuma veya kot kumaş dikiminde el pratikliği ve göz koordinasyonu yüksek - Sanayi tipi düz dikiş, overlok veya reçme makinelerini seri ve hatasız…"
+}
+},
+{
+"id": "C20978",
+"kind": "CV",
+"title": "Dikişsiz Giyim & Ultrasonik Yapıştırma Makinecisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Ankara",
+"context": {
+"ozet": "Dikişsiz (seamless) spor kıyafetleri, su geçirmez yağmurluklar ve teknik tekstil ürünlerinde ultrasonik kaynak ve sıcak hava sızdırmazlık bantlama makinelerinde uzmanım. Isı, basınç ve hız parametrelerini kumaş yapısına göre ayarlama, lazer kesimli kenarları yapıştırma ve su testi kontrollerinde deneyimliyim.",
+"beceriler": "Ultrasonik Kumaş Kaynak Makinesi, Sıcak Hava Kaynaklı Dikiş Bantlama (Seam Sealing), Teknik Kumaş Isı ve Basınç Ayarları, Lazer Kesim Kenar Yapıştırma, Hidrostatik Su Sızdırmazlık Testi, Dikişsiz Termo-Yapıştırma Filmle…",
+"deneyim": [
+"Dikişsiz Giyim & Ultrasonik Yapıştırma Makinecisi ([TARİH]): Outdoor giyim üretiminde 3 katmanlı membranlı montların tüm dikiş hatları sıcak hava kaynak makinesiyle sızd…"
+],
+"egitim": [
+"Kocaeli Gebze Mesleki ve Teknik Anadolu Lisesi - Lise (Tekstil Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0416",
+"kind": "JOB",
+"title": "Dokuma Makinesi Operatörü (Weaver)",
+"industry": "APPAREL_TEXTILE",
+"city": "Konya",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sektöründe öncü kuruluşumuzun [şehir] yerleşkesinde görev alacak yetkin ve deneyimli 'Dokuma Makinesi Operatörü (Weaver)' aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Armürlü veya jakarlı dokuma tezgahlarının (hava jetli / rapierli) çalışma parametrelerinin izlenmesi. - Çözgü ve atkı kopukluklarına anında müdahale edilerek düğüm atılması ve tezgahın yeniden başlatılması. - Dokunan kumaş üzerinde atkı kaçığı, çözgü çizgisi ve leke gibi hataların sürekli gözlemlenmesi. - Dolan kumaş toplarının tezgâhtan indirilmesi ve yeni çözgü leventlerin…"
+}
+},
+{
+"id": "C20268",
+"kind": "CV",
+"title": "Dokumacı",
+"industry": "APPAREL_TEXTILE",
+"city": "Gaziantep",
+"context": {
+"ozet": "Geleneksel ve modern dokuma tezgahlarında deneyimli, iplik kalitesinden anlayan bir dokumacı ustasıyım. Çözgü ve atkı hazırlama süreçlerini eksiksiz takip eder, desene uygun üretim yaparım. Tezgahta oluşabilecek kopmaları hızla onararak üretim kesintilerini önlerim.",
+"beceriler": "Hata Gözlemleme, Armürlü Dokuma Tezgahı",
+"deneyim": [
+"Dokumacı ([TARİH]): [ŞİRKET] dokuma salonunda jakarlı ve armürlü hava jetli dokuma tezgahlarının çözgü-atkı iplik beslemelerini kontrol ederek kumaş dokuma sürecini yöne…"
+],
+"egitim": [
+"[OKUL] - Lise (Giyim Üretim Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20269",
+"kind": "CV",
+"title": "Dokumacı",
+"industry": "APPAREL_TEXTILE",
+"city": "Gaziantep",
+"context": {
+"ozet": "İplikleri sanata dönüştüren ve tekstilin temel taşını oluşturan dokuma alanında tutkulu bir çalışanım. Makine ayarlarını yapar, uygun gerginlikte pürüzsüz yüzeyler elde ederim. Üretim bandındaki diğer operatörlerle iletişim halinde verimliliği artırırım.",
+"beceriler": "Armürlü Dokuma Tezgahı, Hata Gözlemleme, İplik Bağlama",
+"deneyim": [
+"Dokumacı ([TARİH]): [ŞİRKET] tesisinde rapierli dokuma tezgahlarının periyodik temizlik, mekik ayarı ve tarak geçirme operasyonlarını yürüttüm. Dokunan ham kumaşın grama…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Tekstil Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20999",
+"kind": "CV",
+"title": "Döşemelik Kumaş & Ağır Sanayi Dikiş Makinecisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Bursa",
+"context": {
+"ozet": "Mobilya döşemeleri, otomotiv koltuk kılıfları, branda ve çadır imalatında yürüyen ayaklı (triple feed) ağır hizmet tipi sanayi dikiş makinelerinde uzmanım. Kalın süngerli kumaşlar, hakiki deri ve suni deri dikiminde fitil geçirme, çift iğne süs dikişi ve kavisli köşe dönüşlerinde yüksek mukavemet sağlarım.",
+"beceriler": "Yürüyen Ayaklı (Triple Feed) Ağır Sanayi Makinesi, Deri ve Kalın Döşemelik Kumaş Dikimi, Süngerli Kumaşta Fitil ve Biye Geçirme, Otomotiv Koltuk Kılıfı Çift Dikiş Süsleme, Kalın İğne (130-160 No) ve İplik Uyumu, Köşe ve…",
+"deneyim": [
+"Döşemelik Kumaş & Ağır Sanayi Dikiş Makinecisi ([TARİH]): Oto yan sanayi koltuk fabrikasında lüks araç koltuk deri kılıfları milimetrik çift iğne fitilli dikişle hava ya…"
+],
+"egitim": [
+"Kayseri Kocasinan Mesleki Eğitim Merkezi - Ustalık Belgesi (Döşemecilik ve Ağır Dikiş) [TARİH]"
+]
+}
+},
+{
+"id": "C20992",
+"kind": "CV",
+"title": "Düz Dikiş (Singer) Sanayi Makinecisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Ankara",
+"context": {
+"ozet": "Dokuma kumaş konfeksiyonunda gömlek, pantolon ve ceket imalatında tek iğne düz dikiş sanayi makinelerinde uzmanım. Yaka takma, manşet dikimi, cep fleto açma, milimetrik dikiş adımı takibi ve kumaş çekme paylarını dengelemede yüksek el ustalığına sahibim.",
+"beceriler": "Endüstriyel Tek İğne Düz Dikiş Makinesi, Gömlek Yakası ve Manşet Çatma Becerisi, Körüklü ve Fleto Cep Dikimi, Dikiş Adım Boyu ve İplik Gerginliği Ayarı, Ayak Aparatları (Kıvırma Ayağı, Fermuar Ayağı), Kumaş Dalgalanması…",
+"deneyim": [
+"Düz Dikiş (Singer) Sanayi Makinecisi ([TARİH]): Erkek gömlek üretim hattında günde 350 adet yaka takma ve manşet dikimi 1 mm kenar dikiş payı hassasiyetiyle dikilerek ka…"
+],
+"egitim": [
+"İzmir Konak Mesleki Eğitim Merkezi - Ustalık Belgesi (Kadın/Erkek Terziliği ve Dikiş) [TARİH]"
+]
+}
+},
+{
+"id": "J1201",
+"kind": "JOB",
+"title": "Endüstriyel Nakış Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sektöründe öncü kuruluşumuzun [şehir] yerleşkesinde görev alacak yetkin ve deneyimli 'Endüstriyel Nakış Operatörü' aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Çok kafalı bilgisayarlı nakış makinelerine (Tajima, Barudan vb.) desen programının yüklenmesi. - Kumaş veya konfeksiyon parçalarının kasnaklara tela ile birlikte gergin biçimde takılması. - Desen renk sırasına göre üst ve alt ipliklerin takılması, iplik kopuşlarında ekleme yapılması. - Nakış işlemi tamamlanan parçaların kasnaktan çıkarılması, artık ipliklerin temizlenmesi. Aranan N…"
+}
+},
+{
+"id": "J0498",
+"kind": "JOB",
+"title": "Gelinlik ve Abiye Terzisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ekibimizi güçlendirmek amacıyla aramıza katılacak çalışma arkadaşları arıyoruz: 'Gelinlik ve Abiye Terzisi' bünyemizde görev alacak yetkin adaylar değerlendirilecektir. Sorumluluk Alanları: Özel dikim abiye ve gelinliklerde prova alan, elde taş işleme ve drape detaylarını yapabilen uzman terzi. Aranan Yetkinlik ve Beceriler: - İşini temiz teslim eden ve ekip çalışmasına yatkın - Örme, dokuma veya kot kumaş dikiminde el pratikliği ve göz koordinasyonu yüksek - Kumaş hatası, iplik gerginliği ve dikiş adımı kontrollerini yapabilen - Sanayi tipi d…"
+}
+},
+{
+"id": "C20970",
+"kind": "CV",
+"title": "Hızar Makinesi & Şerit Bıçak Kumaş Kesim Elemanı",
+"industry": "APPAREL_TEXTILE",
+"city": "Mersin",
+"context": {
+"ozet": "Büyük pastaldan ayrılan blok kumaşların küçük hassas parçalara (yaka, cep kapağı, tela, astar) bölünmesinde şerit bıçaklı hızar makinesi (band knife) ustasıyım. Hava yastıklı tabla üzerinde kumaş bloğunu kaydırarak hassas şablon kesimi yapma ve bıçak tansiyon ayarlarında uzmanım.",
+"beceriler": "Hava Yastıklı Şerit Bıçaklı Hızar Makinesi, Küçük ve Kavisli Parça Hassas Kesimi (Yaka, Manşet), Kumaş Bloğunu Elle Yönlendirme ve Şablon Takibi, Şerit Testere Bıçak Gerginlik ve Güvenlik Ayarı, Tela ve Astar Kesim Özel…",
+"deneyim": [
+"Hızar Makinesi & Şerit Bıçak Kumaş Kesim Elemanı ([TARİH]): Takım elbise üretiminde 50 katlı yaka ve cep kapağı blokları şerit hızar makinesinde 0.5 mm toleransla kesile…"
+],
+"egitim": [
+"Eskişehir Odunpazarı Mesleki Eğitim Merkezi - Ustalık Belgesi (Konfeksiyon Kesim İmalatı) [TARİH]"
+]
+}
+},
+{
+"id": "J1064",
+"kind": "JOB",
+"title": "İlik Düğme Makine Elemanı",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sektöründe öncü kuruluşumuzun [şehir] yerleşkesinde görev alacak yetkin ve deneyimli 'İlik Düğme Makine Elemanı' aranmaktadır. İş Tanımı ve Temel Sorumluluklar: - Tekstil konfeksiyon hattında ürün cinsine göre ilik boyu ve düğme tipinin ayarlanması. - Otomatik ilik açma makinesinde kumaşın delinmesi, örülmesi ve dikiş sıklığının denetimi. - Düğme dikme otomatında düğmelerin hazneye yüklenmesi ve hatasız dikilmesi. - Hatalı ilik ve gevşek düğme kontrollerinin yapılarak ayar mekanizmasına müdahale edilmesi. Aranan Nitelikler ve Yetkinlikler: - İ…"
+}
+},
+{
+"id": "C20457",
+"kind": "CV",
+"title": "Kalıp ve Konfeksiyon Terzisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Gaziantep",
+"context": {
+"ozet": "Tekstil ve hazır giyim sektöründe 1 yıllık deneyimli ustayım. Kalıp ve Konfeksiyon Terzisi olarak yüksek el hızına ve kaliteye sahibim. Modelhane kalıplarına uygun kumaş işlenmesi ve hata kontrolünde titiz çalışırım.",
+"beceriler": "Model ve Kalıp Çıkarma, Özel Ölçü Dikim ve Tadilat, Düz Dikiş ve İnce İşçilik, Kumaş Kesimi ve Prova",
+"deneyim": [
+"Kalıp ve Konfeksiyon Terzisi ([TARİH]): [ŞİRKET] atölyesinde müşteri beden ölçülerine göre baz kalıp çıkarma, kumaş kesimi ve prova dikimlerini yürüttüm. Ceket, pantolon…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Giyim Üretim Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0331",
+"kind": "JOB",
+"title": "Kalıp ve Konfeksiyon Terzisi",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] / Merkez (Kardemir Demir Çelik Bölgesi) yerleşkemizde tam zamanlı görev alacak Kalıp ve Konfeksiyon Terzisi aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde kalıp ve konfeksiyon terzisi operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması."
+}
+},
+{
+"id": "C20261",
+"kind": "CV",
+"title": "Kesimci / Pastal Kesim Elemanı",
+"industry": "APPAREL_TEXTILE",
+"city": "Gaziantep",
+"context": {
+"ozet": "Tekstil üretiminde kalıp yerleştirme ve pastal atma işlemlerinde uzmanlaşmış bir kesimciyim. Kumaş firesini en aza indirecek şekilde planlama yapar ve motorlu kesim bıçaklarını güvenle kullanırım. Ölçülere tam sadık kalarak sıfır hata prensibiyle üretim sürecine katkı sağlarım.",
+"beceriler": "Fire Optimizasyonu, Motorlu Kesim Motoru Kullanımı, Kumaş Serme ve Pastal Atma",
+"deneyim": [
+"Stajyer ([TARİH]): Kesimhane pastal masasında usta kesimcinin yanında kumaş toplarının serim arabasına yüklenmesine ve pastal kağıdının serilmesine yardımcı oldum. Kumaş…",
+"Kesimci / Pastal Kesim Elemanı ([TARİH]): Çelik örgülü kesilmez iş güvenliği eldiveni kullanarak çok katlı yüksek pastalları dik bıçaklı motorlu kumaş kesim makinesiyle …"
+],
+"egitim": [
+"[OKUL] - Lisans (Moda Tasarımı) [TARİH]"
+]
+}
+},
+{
+"id": "C20262",
+"kind": "CV",
+"title": "Kesimci / Pastal Kesim Elemanı",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"context": {
+"ozet": "Kesimhane bölümünde iş güvenliği ve kalite odaklı çalışan bir profesyonelim. Hem manuel kesim motorlarını hem de otomatik kesim makinelerini ustalıkla yönetebilirim. Fiziksel olarak dayanıklıyım ve yoğun üretim dönemlerinde yüksek performans gösteririm.",
+"beceriler": "Motorlu Kesim Motoru Kullanımı, Fire Optimizasyonu, Kumaş Serme ve Pastal Atma",
+"deneyim": [
+"Kesimci / Pastal Kesim Elemanı ([TARİH]): Kaba kesimi yapılan pastal bloklarını sabit şerit testereli hızar kesim makinesine taşıyıp cep kapakları, manşet ve yaka gibi k…"
+],
+"egitim": [
+"[OKUL] - Lise (Giyim Üretim Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0886",
+"kind": "JOB",
+"title": "Kesimhane Şefi / Kesim Motorcusu",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "'Kesimhane Şefi / Kesim Motorcusu' ekibimize dahil edilecektir. Görev Kapsamı: Kumaş pastalını seren, dik bıçak ve motor ile hatasız kumaş kesimi yapabilen tecrübeli kesimhane ustası. Aday Kriterleri: - Tekstil sektöründe veya konfeksiyon atölyelerinde en az 1-2 yıl çalışmış - İşini temiz teslim eden ve ekip çalışmasına yatkın - Kumaş hatası, iplik gerginliği ve dikiş adımı kontrollerini yapabilen - Örme, dokuma veya kot kumaş dikiminde el pratikliği ve göz koordinasyonu yüksek - Pazartesi - Cuma günleri tam zamanlı, hafta sonu tatil"
+}
+},
+{
+"id": "J0767",
+"kind": "JOB",
+"title": "Konfeksiyon Düz Dikiş Makinacısı",
+"industry": "APPAREL_TEXTILE",
+"city": "Antalya",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren Avrasya Apparel Çözümleri ekibimize değer katacak dinamik 'Konfeksiyon Düz Dikiş Makinacısı' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Tek iğne düz dikiş makinesinde (sanayi dikiş makinesi) seri konfeksiyon parçalarının dikilmesi. - Teknik föy ve ölçü tablosuna uygun olarak dikiş paylarının ve santimlerin korunması. - İğne değişimi, çağanoz ayarı ve makine günlük yağlamasının yapılması. - Dikiş hatalarının (iplik atlaması, büzgü, potluk) anında düzeltilmesi. Aranan Nitelikler ve Yetki…"
+}
+},
+{
+"id": "J1119",
+"kind": "JOB",
+"title": "Kumaş Boya ve Apre Ustası",
+"industry": "APPAREL_TEXTILE",
+"city": "Diyarbakır",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren [şehir] Sanayi ve İmalat Ltd. Şti. ekibimize değer katacak dinamik 'Kumaş Boya ve Apre Ustası' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Kumaş boyama kazanlarının (jet, overflow, jigger) boyama reçetelerine göre programlanması. - Boyarmadde, tuz, soda ve tekstil yardımcı kimyasallarının doğru oranlarda kazana beslenmesi. - Laboratuvar onaylı renk numunesi ile boyanan kumaşın renk ve ton uyumunun spektrofotometre ile kontrolü. - Yıkama, durulama, yumuşatıcı ve su iticilik apre işlemler…"
+}
+},
+{
+"id": "C20966",
+"kind": "CV",
+"title": "Kumaş Pastal Serme & Raporlama Elemanı",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"context": {
+"ozet": "Kumaş toplarının pastal masasına otomatik veya manuel serme arabasıyla gerilimsiz (tansiyonsuz) serilmesi, kumaş hatalarının tespiti ve çizgili/ekose kumaşlarda raport eşleştirme ustasıyım. Kumaş dinlendirme süreleri, pastal başı/sonu fire kontrolleri ve kat sayısı sayımını titizlikle yönetirim.",
+"beceriler": "Otomatik ve Yarı Otomatik Kumaş Serme Arabası, Gerilimsiz (Tansiyonsuz) Kumaş Serim Tekniği, Çizgili ve Ekose Kumaşlarda Raport Çakıştırma, Kumaş Dokuma/Boya Hatalarını İşaretleme, Pastal Masası Vakum ve Hava Yastığı Ko…",
+"deneyim": [
+"Kumaş Pastal Serme & Raporlama Elemanı ([TARİH]): Gömleklik kumaş kesimhanesinde 120 metre uzunluğundaki ekose pastal raportları iğneleme sistemiyle birebir eşleştiriler…"
+],
+"egitim": [
+"Denizli Mesleki Eğitim Merkezi - Kalfalık Belgesi (Tekstil İmalatı) [TARİH]"
+]
+}
+},
+{
+"id": "J0653",
+"kind": "JOB",
+"title": "Kumaş ve Aksesuar Satın Alma Uzmanı",
+"industry": "APPAREL_TEXTILE",
+"city": "Adana",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Büyüyen ve gelişen organizasyonumuzda aktif rol alacak takım arkadaşı arayışımız için genel profil: 'Kumaş ve Aksesuar Satın Alma Uzmanı' rolünde çalışacak profesyoneller aranmaktadır. Neler Yapacaksınız? Fermuar, düğme, tela, astar ve kumaş tedarikçileriyle görüşerek maliyet ve termin planlaması yapacak satın almacı. Gereksinimler: - Sanayi tipi düz dikiş, overlok veya reçme makinelerini seri ve hatasız kullanan - Modelhane kalıplarına ve teknik föye göre dikim yapabilen - İşini temiz teslim eden ve ekip çalışmasına yatkın - Vardiyalı sistemd…"
+}
+},
+{
+"id": "J0994",
+"kind": "JOB",
+"title": "Kumaş ve Desen Tasarımcısı (Tekstil)",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "LC Waikiki Global Ürün ve Tasarım Direktörlüğü bünyesinde [şehir] merkezimizde kadın, erkek ve çocuk koleksiyonlarımız için sezon trendlerine uygun özgün kumaş desenleri ve dokuma/örme yapıları tasarlayacak Kıdemli Kumaş ve Desen Tasarımcısı arıyoruz. Görev Tanımı ve Sorumluluklar: - Premiere Vision gibi küresel tekstil fuarlarını, WGSN trend raporlarını ve renk tahminlerini analiz ederek sezonluk kumaş ve desen moodboard'ları hazırlamak. - Adobe Photoshop, Illustrator ve NedGraphics yazılımlarını kullanarak rotasyon, dijital metraj ve parça b…"
+}
+},
+{
+"id": "J1036",
+"kind": "JOB",
+"title": "Moda Tasarımcısı (Hazır Giyim)",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Rol Özeti & Temel Beklentiler: 'Moda Tasarımcısı (Hazır Giyim)' pozisyonu için başvurular değerlendirilecektir. Neler Yapacaksınız? Sezonluk kadın hazır giyim koleksiyonu hazırlayacak, trendleri takip eden ve Illustrator/Photoshop kullanan tasarımcı. Gereksinimler: - Tekstil sektöründe veya konfeksiyon atölyelerinde en az 1-2 yıl çalışmış - Örme, dokuma veya kot kumaş dikiminde el pratikliği ve göz koordinasyonu yüksek - Bant usulü seri üretim temposuna ve mesai düzenine uyum sağlayabilecek - Haftada 6 gün, 1 gün hafta içi izin şeklinde çalışı…"
+}
+},
+{
+"id": "J0579",
+"kind": "JOB",
+"title": "Moda ve Tekstil Tasarımcısı (Kadın Koleksiyon)",
+"industry": "APPAREL_TEXTILE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ekibimizi güçlendirmek amacıyla aramıza katılacak çalışma arkadaşları arıyoruz: 'Moda ve Tekstil Tasarımcısı (Kadın Koleksiyon)' pozisyonu için başvurular değerlendirilecektir. Görev Kapsamı: Sezonluk kumaş, desen ve model trendlerini belirleyip Moodboard hazırlayacak ve numune dikim sürecini izleyecek. Aday Kriterleri: - Tasarım trendlerini, tasarım sistemlerini ve malzeme teknolojilerini takip eden - Figma, Adobe XD, Illustrator veya 3ds Max/Rhino programlarından kendi alanına uygun olanları profesyonel kullanan - Geri bildirimlere açık, rev…"
+}
+},
+{
+"id": "C20551",
+"kind": "CV",
+"title": "Modelhane Numune Dikim Ustası",
+"industry": "APPAREL_TEXTILE",
+"city": "Tekirdağ",
+"context": {
+"ozet": "Tekstil ve hazır giyim sektöründe 1 yıllık deneyimli ustayım. Modelhane Numune Dikim Ustası olarak yüksek el hızına ve kaliteye sahibim. Modelhane kalıplarına uygun kumaş işlenmesi ve hata kontrolünde titiz çalışırım.",
+"beceriler": "Kalıba Göre İlk Numune Dikimi, Düz Dikiş, Overlok ve Reçme, Yaka, Cep ve Fermuar Montajı, Numune Ölçü ve Fit Kontrolü",
+"deneyim": [
+"Modelhane Numune Dikim Ustası ([TARİH]): [ŞİRKET] modelhanesinde stilist ve modelistlerin hazırladığı kalıp ve teknik föylere uygun olarak ilk numune dikimlerini baştan …"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Moda Tasarımı) [TARİH]"
+]
+}
+},
+{
+"id": "J0718",
+"kind": "JOB",
+"title": "Modelhane Numune Dikim Ustası",
+"industry": "APPAREL_TEXTILE",
+"city": "Adana",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ([şehir] 1. OSB & Lojistik Köy) yerleşkemizde tam zamanlı görev alacak Modelhane Numune Dikim Ustası aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde modelhane numune dikim ustası operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması."
+}
+},
+{
+"id": "C10173",
+"kind": "CV",
+"title": "Modelist",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"context": {
+"ozet": "Teknik çizimden üretime kadar olan süreçte kusursuz kalıp çıkarmak benim işim. Marin temalı kadın giyim koleksiyonlarında yılların verdiği bir uzmanlığım var. Kumaşın dilinden anlar, tasarımcının hayalini en iyi şekilde somutlaştırırım.",
+"beceriler": "Gerber, Lectra, Kalıp Çıkarma, Dikiş Teknikleri, Serileme",
+"deneyim": [
+"Modelist (2016-04 - Devam Ediyor): Gerber sisteminde kalıp hazırlama, serileme ve pastal planı oluşturma."
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Tekstil Mühendisliği) 2010-09 - 2014-06"
+]
+}
+},
+{
+"id": "C10174",
+"kind": "CV",
+"title": "Modelist",
+"industry": "APPAREL_TEXTILE",
+"city": "İzmir",
+"context": {
+"ozet": "Erkek giyim ve yelken kıyafetleri üzerine çalışan detay odaklı bir modelistim. Fonksiyonellik ve estetiği bir araya getiren ergonomik kalıplar yaratmaya özen gösteriyorum. Teknik kumaşlarla çalışma konusunda oldukça tecrübeliyim.",
+"beceriler": "Lectra, Ergonomik Tasarım, Teknik Kumaşlar, 3D Prova (CLO 3D), Fit Kontrolü",
+"deneyim": [
+"Modelist (2019-09 - 2023-12): Dış giyim ve teknik performans ürünleri için baz kalıp çalışmaları."
+],
+"egitim": [
+"Ege Üniversitesi - Ön Lisans (Giyim Üretim Teknolojisi) 2017-09 - 2019-06"
+]
+}
+},
+{
+"id": "C10177",
+"kind": "CV",
+"title": "Modelist",
+"industry": "APPAREL_TEXTILE",
+"city": "Bursa",
+"context": {
+"ozet": "Çocuk giyim sektöründe deneyimli, yaratıcı kalıp uzmanıyım. Özellikle denizci temalı çocuk kıyafetlerinde rahatlığı ön planda tutan tasarımlar geliştiriyorum. Ekip çalışmasına yatkın ve üretim süreçlerine hakim bir profesyonelim.",
+"beceriler": "Çocuk Giyim Kalıpları, Optitex, Modelhane Yönetimi, Dikim Talimatları, Kumaş Çekmezlik Testleri",
+"deneyim": [
+"Modelist (2014-08 - Devam Ediyor): 0-12 yaş arası çocuk koleksiyonlarının kalıplarının ve serilerinin oluşturulması."
+],
+"egitim": [
+"Uludağ Üniversitesi - Lisans (Tekstil Mühendisliği) 2009-09 - 2013-06"
+]
+}
+},
+{
+"id": "C10178",
+"kind": "CV",
+"title": "Modelist",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"context": {
+"ozet": "Triko ve örme kumaşlar konusunda uzmanlaşmış bir modelistim. Denizci yaka kazaklar, marin temalı hırkalar gibi ürünlerde iplik matematiğini iyi biliyorum. Geleneksel triko kalıplarını modern çizgilerle yorumlamak hoşuma gidiyor.",
+"beceriler": "Triko Kalıpları, Shima Seiki (Temel), Ölçü Tablosu Hazırlama, İplik Bilgisi, Maliyet Hesaplama",
+"deneyim": [
+"Triko Modelisti (2011-03 - 2022-09): Shima Seiki makineleri için desen ve kalıp koordinasyonunun sağlanması."
+],
+"egitim": [
+"Marmara Üniversitesi - Ön Lisans (Tekstil ve Giyim) 2008-09 - 2010-06"
+]
+}
+},
+{
+"id": "J1340",
+"kind": "JOB",
+"title": "Modelist / Bilgisayarlı Kalıp ve Gerber Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Mersin",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "İhracata yönelik örme ve dokuma hazır giyim imalatımızda Gerber programında kalıp çıkarma, serileme ve pastal planı hazırlama süreçlerini eksiksiz yönetecek deneyimli modelist aranmaktadır."
+}
+},
+{
+"id": "C20973",
+"kind": "CV",
+"title": "Motorlu Dik Bıçak Pastal Kesim Ustası",
+"industry": "APPAREL_TEXTILE",
+"city": "Konya",
+"context": {
+"ozet": "Konfeksiyon kesimhanelerinde 50-100 kat kumaş pastalının motorlu dik bıçak (Eastman, KM) kesim motoruyla kalıp hatlarını milimetrik takip ederek kesilmesinde 8 yıllık ustayım. Çelik zırh eldiven kullanımı, bıçak zımparalama (otomatik bileme), çentik atma ve katlar arası kaymayı önleme tekniklerine hakimim.",
+"beceriler": "Motorlu Dik Bıçak Kumaş Kesim Motoru Kullanımı, Çelik Örgü Zırh Güvenlik Eldiveni Disiplini, Kalıp Hatlarını Milimetrik Takip Etme, Bıçak Otomatik Zımpara Şeritleri Değişimi, Çentik Açma ve Parça Delme Aparatı, Yüksek K…",
+"deneyim": [
+"Motorlu Dik Bıçak Pastal Kesim Ustası ([TARİH]): Hazır giyim kesimhanesinde günlük 6000 parçalık pamuklu pastal dik bıçakla kat kayması olmadan kesildi ve numaralama eki…"
+],
+"egitim": [
+"İstanbul Güngören Mesleki Eğitim Merkezi - Ustalık Belgesi (Konfeksiyon Kesimhane) [TARİH]"
+]
+}
+},
+{
+"id": "C20270",
+"kind": "CV",
+"title": "Nakış / Baskı Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Bursa",
+"context": {
+"ozet": "Tekstil ürünlerine logo, desen ve yazı işlemeleri yapan çok başlıklı nakış makinelerini kullanan bir operatörüm. Tasarım dosyalarını makineye yükler, iplik renklerini doğru eşleştirir ve hatasız bir işleme süreci yönetirim. Detaylara odaklanarak kaliteli görsel çıktılar elde ederim.",
+"beceriler": "Desen Yükleme, İplik Gerginlik Ayarı, Bilgisayarlı Nakış Makinesi",
+"deneyim": [
+"Stajyer ([TARİH]): [ŞİRKET] tekstil baskı atölyesinde serigrafi kalıplarının emülsiyonla çekimi, pozlama ve ipek germe süreçlerinde usta personele destek verdim.",
+"Nakış / Baskı Operatörü ([TARİH]): [ŞİRKET] bünyesinde çok kafalı bilgisayarlı nakış makinelerinin desen yükleme, kasnaklama, iplik tansiyonu ve iğne değişim işlemlerini…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Tekstil Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0573",
+"kind": "JOB",
+"title": "Numune Dikim Ustası",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Rol Özeti & Temel Beklentiler: 'Numune Dikim Ustası' kadromuza katılacaktır. İşin Tanımı: Modelistten gelen kalıplara göre ilk numune ürünün tüm dikimini baştan sona tek başına yapabilecek usta terzi. Beklenen Nitelikler: - Örme, dokuma veya kot kumaş dikiminde el pratikliği ve göz koordinasyonu yüksek - Modelhane kalıplarına ve teknik föye göre dikim yapabilen - Sanayi tipi düz dikiş, overlok veya reçme makinelerini seri ve hatasız kullanan - Pazartesi - Cuma günleri tam zamanlı, hafta sonu tatil"
+}
+},
+{
+"id": "J1107",
+"kind": "JOB",
+"title": "Örgü ve Triko Makine Programcısı (Stoll / Shima Seiki)",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "'Örgü ve Triko Makine Programcısı (Stoll / Shima Seiki)' pozisyonu için başvurular değerlendirilecektir. Neler Yapacaksınız? Bilgisayarlı triko örgü makinelerine desen yükleyen, may düşürme ve gramaj ayarı yapabilen programcı usta. Gereksinimler: - Tekstil sektöründe veya konfeksiyon atölyelerinde en az 1-2 yıl çalışmış - Modelhane kalıplarına ve teknik föye göre dikim yapabilen - Kumaş hatası, iplik gerginliği ve dikiş adımı kontrollerini yapabilen - Gerektiğinde esnek çalışma saatlerine ve yoğun tempoya uyum sağlayabilecek"
+}
+},
+{
+"id": "C20986",
+"kind": "CV",
+"title": "Otomatik İlik & Düğme Makine Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Ankara",
+"context": {
+"ozet": "Gömlek, ceket ve pantolonlarda elektronik gözlü ilik, düz ilik ve otomatik düğme dikme makinelerinin (Brother, Juki) programlanması ve kullanımında uzmanım. İlik boyutu ayarı, bıçak keskinliği kontrolü, düğme merkezleme ve dikiş sonrası düğme kopma (pull test) testlerini hassasiyetle yaparım.",
+"beceriler": "Elektronik Gözlü ve Düz İlik Makineleri, Otomatik Düğme Dikme ve Ayak Bağlama, İlik Bıçak Kesim Basıncı ve Boyut Ayarı, Düğme Çekme Mukavemet Test Cihazı (Pull-Tester), Farklı Düğme Çaplarına Göre Çene Değişimi, Hızlı P…",
+"deneyim": [
+"Otomatik İlik & Düğme Makine Operatörü ([TARİH]): Dış giyim atölyesinde günde 2000 adet palto ve ceketin gözlü ilikleri ve 4 delikli düğmeleri kopma testlerinden geçiril…"
+],
+"egitim": [
+"Tokat Mesleki Eğitim Merkezi - Ustalık Belgesi (Giyim Üretim Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20550",
+"kind": "CV",
+"title": "Otomatik Nakış Makinesi Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Bursa",
+"context": {
+"ozet": "Tekstil ve hazır giyim sektöründe 2 yıllık deneyimli ustayım. Otomatik Nakış Makinesi Operatörü olarak yüksek el hızına ve kaliteye sahibim. Modelhane kalıplarına uygun kumaş işlenmesi ve hata kontrolünde titiz çalışırım.",
+"beceriler": "Çok Başlıklı Nakış Makinesi İşletimi, Kasnaklama ve Tela Yerleştirme, İplik Kopma Takibi ve Çağanoz Ayarı, Nakış Deseni Yükleme ve Renk Sıralaması",
+"deneyim": [
+"Otomatik Nakış Makinesi Operatörü ([TARİH]): [ŞİRKET] tekstil fabrikasında çok başlıklı nakış tezgahlarına dijital desen yükleyerek iplik tansiyon ve iğne ayarlarını yap…",
+"Otomatik Nakış Makinesi Operatörü ([TARİH]): [ŞİRKET] atölyesinde nakışı tamamlanan parçaların kasnaklardan çıkarılması, fazla telaların temizlenmesi ve iplik artıkların…"
+],
+"egitim": [
+"[OKUL] - İlkokul () [TARİH]"
+]
+}
+},
+{
+"id": "J1334",
+"kind": "JOB",
+"title": "Otomatik Nakış Makinesi Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ([şehir] Organize Sanayi Bölgesi) yerleşkemizde tam zamanlı görev alacak Otomatik Nakış Makinesi Operatörü aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde otomatik nakış makinesi operatörü operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması. - + Personel servisi"
+}
+},
+{
+"id": "C20258",
+"kind": "CV",
+"title": "Overlokçu / Overlok Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"context": {
+"ozet": "Farklı kalınlıktaki kumaşlarda temiz ve sağlam overlok dikişleri yapabilen deneyimli bir operatörüm. Üretim sırasında ortaya çıkabilecek ufak tefek makine arızalarına anında müdahale edebilirim. İş güvenliği kurallarına riayet eder, temiz bir işçilik sunarım.",
+"beceriler": "4 ve 5 İplik Overlok, Kenar Temizleme, Hızlı ve Hatasız Çalışma",
+"deneyim": [
+"Overlokçu / Overlok Operatörü ([TARİH]): Dört iplik endüstriyel overlok makinesinde tişört ve sweatshirtlerin omuz çatma, yan kapatma ve kol takma dikişlerini gerçekleşt…"
+],
+"egitim": [
+"[OKUL] - Lise (Giyim Üretim Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20259",
+"kind": "CV",
+"title": "Overlokçu / Overlok Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"context": {
+"ozet": "Tekstil sektöründe kenar dikişleri konusunda uzmanlaşmış, hızlı el reflekslerine sahip bir çalışanım. Esnek kumaşların deforme olmadan dikilmesinde tecrübe sahibiyim. Siparişlerin zamanında teslim edilmesi için ekip ile tam uyumlu çalışırım.",
+"beceriler": "Kenar Temizleme, Hızlı ve Hatasız Çalışma, 4 ve 5 İplik Overlok",
+"deneyim": [
+"Stajyer ([TARİH]): Overlok makinelerinin alt ve üst lüper iplik yollarını cımbız yardımıyla bağlayarak iplik kopmalarında hızlı takviye sağladım. Tezgah çevresindeki kes…",
+"Overlokçu / Overlok Operatörü ([TARİH]): Beş iplik emniyet dikişli ağır sanayi overlok makinesinde gabardin ve denim pantolonların ağ ve yan dikişlerini birleştirdim. Zi…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Tekstil Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20260",
+"kind": "CV",
+"title": "Overlokçu / Overlok Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "Bursa",
+"context": {
+"ozet": "Konfeksiyon atölyelerinde kenar temizleme ve birleştirme işlemlerini hassasiyetle yürüten bir overlok ustasıyım. İplik geçirme ve gerginlik ayarı gibi makine bakımlarını kendi başıma halledebilirim. Üretim bandının hızını kesmeden, seri ve kaliteli iş çıkarırım.",
+"beceriler": "Hızlı ve Hatasız Çalışma, Kenar Temizleme, 4 ve 5 İplik Overlok",
+"deneyim": [
+"Stajyer ([TARİH]): Üretim model föyüne göre doğru numara ve renkteki overlok bobinlerini sehpaya dizerek makineye iplik besleme düzenine yardım ettim. Overlok operasyonu…",
+"Overlokçu / Overlok Operatörü ([TARİH]): Üç iplik dar kenar ve bebe overlok makinesinde şifon, tül ve ipek gibi hassas kumaşların kenar kıvırma ve temizleme işlemlerini …"
+],
+"egitim": [
+"[OKUL] - Lisans (Moda Tasarımı) [TARİH]"
+]
+}
+},
+{
+"id": "J0153",
+"kind": "JOB",
+"title": "Paketleme ve Depo Destek Elemanı",
+"industry": "APPAREL_TEXTILE",
+"city": "Ankara",
+"position_level": "UNSPECIFIED",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ekibimizi güçlendirmek amacıyla aramıza katılacak çalışma arkadaşları arıyoruz: Kargo paketleyebilen,liste yapabilen ve biraz yemek bilgisi olan bir ekip arkadaşı ile çalışmak istiyoruz. Asgari ücret+ssk vardır.pazar çalışmıyoruz.cmtesi saat 3 e kadar çalışıyoruz.saat 9.00 ile 17.30 arası çalışma saatlerimiz"
+}
+},
+{
+"id": "C20456",
+"kind": "CV",
+"title": "Pastal Kesim Motoru (Hızarcı) Elemanı",
+"industry": "APPAREL_TEXTILE",
+"city": "Bursa",
+"context": {
+"ozet": "Tekstil ve hazır giyim sektöründe 2 yıllık deneyimli ustayım. Pastal Kesim Motoru (Hızarcı) Elemanı olarak yüksek el hızına ve kaliteye sahibim. Modelhane kalıplarına uygun kumaş işlenmesi ve hata kontrolünde titiz çalışırım.",
+"beceriler": "Pastal Kesim Motoru (Dikey Bıçak), Kalıp Yerleşimi ve Pastal Çizimi, Kumaş Fire Optimizasyonu, Numaralama ve Metolama",
+"deneyim": [
+"Pastal Kesim Motoru (Hızarcı) Elemanı ([TARİH]): [ŞİRKET] kesimhanesinde serilen çok katlı kumaş pastallarını dikey motorlu kesim bıçağı ile kalıp çizgilerine birebir sa…",
+"Pastal Kesim Motoru (Hızarcı) Elemanı ([TARİH]): [ŞİRKET] bünyesinde kumaş toplarının pastal masasına kırışıksız serilmesi, desen yönü kontrolü ve pastal kağıdının sabit…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (Moda Tasarımı) [TARİH]"
+]
+}
+},
+{
+"id": "J1202",
+"kind": "JOB",
+"title": "Pastal Kesim Motoru (Hızarcı) Elemanı",
+"industry": "APPAREL_TEXTILE",
+"city": "Gaziantep",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ([şehir] 1. OSB) yerleşkemizde tam zamanlı görev alacak Pastal Kesim Motoru (Hızarcı) Elemanı aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde pastal kesim motoru (hızarcı) elemanı operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması. - Maaş & Olanaklar: Maaş dolgundur; görüşmede tecrübeye göre belirlenecektir."
+}
+},
+{
+"id": "C10175",
+"kind": "CV",
+"title": "Pattern Maker",
+"industry": "APPAREL_TEXTILE",
+"city": "Kocaeli",
+"context": {
+"ozet": "Expert pattern maker specializing in sustainable maritime workwear. I transform sketches into precise production-ready patterns, ensuring durability and ease of movement. My approach combines traditional draping with advanced CAD systems.",
+"beceriler": "CAD Systems, Draping, Gerber, Technical Specs, Quality Control",
+"deneyim": [
+"Lead Pattern Maker (2018-01 - Present): Overseeing pattern development for heavy-duty marine uniforms and safety gear."
+],
+"egitim": [
+"Marmara University - Lisans (Textile Arts) 2013-09 - 2017-06"
+]
+}
+},
+{
+"id": "C10176",
+"kind": "CV",
+"title": "Pattern Maker",
+"industry": "APPAREL_TEXTILE",
+"city": "Antalya",
+"context": {
+"ozet": "Creative and technical pattern maker with a strong focus on resort and beachwear. I am passionate about achieving the perfect fit and flow of lightweight fabrics. Efficiency in grading and marker making is my strong suit.",
+"beceriler": "Lectra Modaris, Grading, Swimwear Fit, Stretch Fabrics, Tech Packs",
+"deneyim": [
+"Pattern Maker (2020-05 - 2024-01): Developed patterns for women's summer collections and swimwear using Lectra."
+],
+"egitim": [
+"Akdeniz University - Ön Lisans (Fashion Design) 2018-09 - 2020-06"
+]
+}
+},
+{
+"id": "J1361",
+"kind": "JOB",
+"title": "Ponterez ve İlik Düğme Makinecisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Mersin",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Avrasya Apparel Çözümleri ailesi olarak, [şehir] sahasındaki projelerimizde tam zamanlı istihdam edilmek üzere 'Ponterez ve İlik Düğme Makinecisi' alımı yapılacaktır. İş Tanımı ve Temel Sorumluluklar: - Gömlek, pantolon veya ceketlerde otomatik ilik açma makinelerinin programlanması ve çalıştırılması. - Düğme dikme makinelerinde düğmenin doğru ayak ve iplikle sağlam biçimde çakılması. - Stres noktalarına (cep kenarları, köprüler) ponterez dikişi atılarak mukavemet kazandırılması. - Bıçak keskinliğinin, ilik uzunluğunun ve düğme tutma kuvvetini…"
+}
+},
+{
+"id": "J0776",
+"kind": "JOB",
+"title": "Reçme Dikiş Makinecisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Tokat",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ([şehir] OSB (MOSB)) yerleşkemizde tam zamanlı görev alacak Reçme Dikiş Makinecisi aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde reçme dikiş makinecisi operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması."
+}
+},
+{
+"id": "C20984",
+"kind": "CV",
+"title": "Reçme Makinesi Operatörü",
+"industry": "APPAREL_TEXTILE",
+"city": "İstanbul",
+"context": {
+"ozet": "Spor giyim, iç giyim ve t-shirt üretiminde çift iğne ve üç iğne reçme makinelerinde kol ve etek ucu kıvırma uzmanıyım. Kumaş esnemesini önleyen kılavuz aparat kullanımı, alt lüper ipi tansiyonu ve dikişin kumaş elastikiyetiyle kopmadan esnemesini sağlama konusunda tecrübeliyim.",
+"beceriler": "Çift ve Üç İğneli Düz Yataklı Reçme, Kolluk ve Etek Ucu Kıvırma Kılavuzları, Alt Lüper ve Üst Süs Dikiş İplik Dengesi, Lycralı ve Elastan Kumaş Dikiş Hassasiyeti, Bant ve Biye Aparatı Takma, Seri Üretim Bandında Hızlı E…",
+"deneyim": [
+"Reçme Makinesi Operatörü ([TARİH]): Aktif spor giyim fabrikasında günlük 850 adet sporcu tişörtünün kol ve etek kıvırmaları esnek reçme dikişiyle patlama yapmayacak şeki…"
+],
+"egitim": [
+"Adana Çukurova Mesleki Eğitim Merkezi - Kalfalık Belgesi (Hazır Giyim Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "C20455",
+"kind": "CV",
+"title": "Sanayi Tipi Dikiş Makinecisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Bursa",
+"context": {
+"ozet": "Tekstil ve hazır giyim sektöründe 1 yıllık deneyimli ustayım. Sanayi Tipi Dikiş Makinecisi olarak yüksek el hızına ve kaliteye sahibim. Modelhane kalıplarına uygun kumaş işlenmesi ve hata kontrolünde titiz çalışırım.",
+"beceriler": "Düz Dikiş ve Overlok Makinesi, Kalıba Uygun Seri Dikim, Fermuar ve Cep Montajı, Dikiş Kalite Kontrolü",
+"deneyim": [
+"Sanayi Tipi Dikiş Makinecisi ([TARİH]): [ŞİRKET] konfeksiyon üretim bandında düz dikiş, reçme ve overlok makinelerini kullanarak seri parça birleştirme işlemlerini yürüt…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Giyim Üretim Teknolojisi) [TARİH]"
+]
+}
+},
+{
+"id": "J0505",
+"kind": "JOB",
+"title": "Sanayi Tipi Dikiş Makinecisi",
+"industry": "APPAREL_TEXTILE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ([şehir] Sanayi Odası OSB) yerleşkemizde tam zamanlı görev alacak Sanayi Tipi Dikiş Makinecisi aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde sanayi tipi dikiş makinecisi operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması. - Ulaşım personel servisimiz ile sağlanmaktadır."
+}
+},
+{
+"id": "J0679",
+"kind": "JOB",
+"title": "Sanayi Tipi Paskara Ütücüsü",
+"industry": "APPAREL_TEXTILE",
+"city": "Ankara",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] / Merkez (Kardemir Demir Çelik Bölgesi) yerleşkemizde tam zamanlı görev alacak Sanayi Tipi Paskara Ütücüsü aranmaktadır. İş Tanımı ve Genel Şartlar: - Üretim ve bakım süreçlerinde sanayi tipi paskara ütücüsü operasyonlarının eksiksiz yürütülmesi. - Fabrika çalışma düzenine ve İSG kurallarına tam uyum sağlanması."
+}
+},
+{
+"id": "J0564",
+"kind": "JOB",
+"title": "Teknik Dokümantasyon ve Kılavuz Yazarı",
+"industry": "APPAREL_TEXTILE",
+"city": "Antalya",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Arçelik Global Ar-Ge Direktörlüğü bünyesinde [şehir] merkezimizde dünya genelinde milyonlarca tüketiciye ulaşan beyaz eşya ve tüketici elektroniği ürünlerimizin kullanıcı kılavuzlarını ve teknik servis dokümanlarını hazırlayacak Kıdemli Teknik Dokümantasyon Yazarı arıyoruz. Görev Tanımı ve Sorumluluklar: - Yeni ürün geliştirme projelerinde mühendislik ekipleriyle çalışarak kullanım kılavuzları, kurulum rehberleri ve servis tamir el kitaplarını kaleme almak. - Uluslararası tüketici emniyeti standartlarına (IEC/EN 60335, CE direktifleri) ve paza…"
+}
+},
+{
+"id": "J0238",
+"kind": "JOB",
+"title": "Teknik Tekstil ve Koruyucu Kumaş Geliştirici",
+"industry": "APPAREL_TEXTILE",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Kordsa Global bünyesinde [şehir] Kompozit Teknolojileri Mükemmeliyet Merkezi'mizde savunma sanayii, havacılık ve endüstriyel güvenlik için yüksek performanslı koruyucu kumaşlar ve güçlendirme tekstilleri tasarlayacak Teknik Tekstil Geliştirici arıyoruz. Görev Tanımı ve Sorumluluklar: - Aramid (Kevlar/Twaron), karbon fiber, UHMWPE ve bazalt elyaflar kullanarak balistik koruyucu yelek, kask ve alev almaz (FR) kumaş yapıları geliştirmek. - EN ISO 11612 (ısı ve alev), EN 388 (kesilme direnci) ve NIJ 0101.06 (balistik koruma) standartlarına uygun f…"
+}
+}
+]

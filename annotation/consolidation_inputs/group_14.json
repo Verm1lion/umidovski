@@ -1,0 +1,299 @@
+[
+{
+"specialty": "Banket Müdürü",
+"isco4": "1412",
+"isco_title": "Restaurant managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Ziyafet ve Etkinlik Operasyon Müdürü (Banquet Manager)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bar Müdürü",
+"isco4": "1412",
+"isco_title": "Restaurant managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bar ve Miksoloji Operasyon Yöneticisi (Bar Manager)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Restoran Müdürü",
+"isco4": "1412",
+"isco_title": "Restaurant managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Restoran Müdürü (Restaurant General Manager)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Restoran Operasyon Müdürü",
+"isco4": "1412",
+"isco_title": "Restaurant managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hızlı Servis Restoranları Franchise ve Operasyon Müdürü (QSR Operations)",
+"Lüks Restoranlar İşletme Direktörü (Director of Operations)"
+],
+"sektorler": [
+"CHEF_HORECA",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yiyecek İçecek Müdürü",
+"isco4": "1412",
+"isco_title": "Restaurant managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yiyecek & İçecek Direktörü (Director of Food & Beverage)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yiyecek ve İçecek Müdürü",
+"isco4": "1412",
+"isco_title": "Restaurant managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Otel Yiyecek & İçecek Müdür Yardımcısı (Assistant F&B Manager)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mağaza Müdürü",
+"isco4": "1420",
+"isco_title": "Retail and wholesale trade managers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Lüks Tüketim ve Butik Mağazacılık Satış Müdürü (Luxury Goods Manager)",
+"Lüks Tüketim ve Mücevherat Mağaza Satış Yöneticisi",
+"Mağaza Operasyon Müdürü"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Perakende Bölge Müdürü",
+"isco4": "1420",
+"isco_title": "Retail and wholesale trade managers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ayakkabı ve Deri Mamulleri Zincir Mağazalar Satış Yöneticisi (FLO / Derimod)",
+"Ev Tekstili ve Züccaciye Perakende Satış Müdürü (English Home / Madame Coco)",
+"Müdür"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Perakende Satış Müdürü",
+"isco4": "1420",
+"isco_title": "Retail and wholesale trade managers",
+"n_cv": 5,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mobilya ve Ev Dekorasyonu Mağazacılık Bölge Satış Müdürü",
+"Moda ve Hazır Giyim Perakende Satış Müdürü (Fashion Retail / LCW / DeFacto)",
+"Mücevherat ve Lüks Saat Perakende Satış Yöneticisi (Fine Jewelry & Watches)",
+"Perakende Mağazacılık Bölge Müdürü (Area Retail Operations Manager)",
+"Perakende Mağazalar Zinciri Satış Direktörü (Retail Sales Director)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Spor Salonu Müdürü",
+"isco4": "1431",
+"isco_title": "Sports, recreation and cultural centre managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Spor Salonu Müdürü / Tesis Yöneticisi"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çağrı Merkezi Kalite Müdürü",
+"isco4": "1439",
+"isco_title": "Services managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Müşteri Hizmetleri Kalite ve Güvence Müdürü"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çağrı Merkezi Müdürü",
+"isco4": "1439",
+"isco_title": "Services managers not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yönetici"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çağrı Merkezi Operasyon Müdürü",
+"isco4": "1439",
+"isco_title": "Services managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Çağrı Merkezi Operasyon Müdürü (Contact Center Operations Manager)",
+"Çağrı Merkezi Operasyonları Genel Müdür Yardımcısı (VP of Contact Center)"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güvenlik Operasyonları Müdürü",
+"isco4": "1439",
+"isco_title": "Services managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ulusal Güvenlik Operasyonları Direktörü"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Gücü Planlama Müdürü",
+"isco4": "1439",
+"isco_title": "Services managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Senior WFM & Resource Planning Manager"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Marina Müdürü",
+"isco4": "1439",
+"isco_title": "Services managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Marina Müdürü (Harbour Master / Marina Manager)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Marina Operasyon Sorumlusu",
+"isco4": "1439",
+"isco_title": "Services managers not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sorumlu"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Deneyimi Müdürü",
+"isco4": "1439",
+"isco_title": "Services managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Müşteri Deneyimi (CX) Müdürü",
+"Müşteri Deneyimi ve Hizmetleri Direktörü (Head of Customer Experience)"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Hizmetleri Müdürü",
+"isco4": "1439",
+"isco_title": "Services managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 5,
+"ornek_unvanlar": [
+"Kıdemli Kurumsal Müşteri Hizmetleri Müdürü (B2B Key Accounts)",
+"Kıdemli Müşteri Başarısı ve Gelir Operasyonları Yöneticisi",
+"Kıdemli Müşteri Çözüm Merkezi Müdürü (Fraud & Şikayet)",
+"Müşteri İletişim Merkezi Bölüm Başkanı (Head of Contact Center)",
+"Senior Customer Support Manager (Global B2C)"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teknik Servis Müdürü",
+"isco4": "1439",
+"isco_title": "Services managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Teknik Destek ve Saha Operasyonları Müdürü"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+}
+]

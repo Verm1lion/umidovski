@@ -1,0 +1,294 @@
+[
+{
+"specialty": "Nükleer Tıp Teknikeri",
+"isco4": "3211",
+"isco_title": "Medical imaging and therapeutic equipment technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Nükleer Tıp Teknikeri (PET-CT & Sintigrafi)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radyoloji Teknikeri",
+"isco4": "3211",
+"isco_title": "Medical imaging and therapeutic equipment technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli MR ve Bilgisayarlı Tomografi (BT) Teknikeri"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Görüntüleme Teknikeri",
+"isco4": "3211",
+"isco_title": "Medical imaging and therapeutic equipment technicians",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Radyoloji ve MR/BT Teknikeri",
+"Tıbbi Görüntüleme ve Radyoloji Teknikeri",
+"Tıbbi Görüntüleme ve Röntgen Teknikeri"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Patoloji Laboratuvar Teknikeri",
+"isco4": "3212",
+"isco_title": "Medical and pathology laboratory technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Patoloji Laboratuvar Teknikeri"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Laboratuvar Teknikeri",
+"isco4": "3212",
+"isco_title": "Medical and pathology laboratory technicians",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Biyolog",
+"Kıdemli Biyokimya Laboratuvar Sorumlusu",
+"Tıbbi Laboratuvar Teknikeri"
+],
+"sektorler": [
+"HEALTHCARE",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Eczane Teknisyeni",
+"isco4": "3213",
+"isco_title": "Pharmaceutical technicians and assistants",
+"n_cv": 4,
+"n_job": 3,
+"ornek_unvanlar": [
+"Eczane Kalfa / Eczane Görevlisi",
+"Eczane Teknisyeni",
+"Eczane Teknisyeni (Hastane Eczanesi)",
+"Eczane Teknisyeni / Deneyimli Kalfa"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Diş Protez Teknisyeni",
+"isco4": "3214",
+"isco_title": "Medical and dental prosthetic technicians",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Diş Protez Laboratuvar Teknisyeni"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veteriner Sağlık Teknikeri",
+"isco4": "3240",
+"isco_title": "Veterinary technicians and assistants",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çiftlik Veteriner Sağlık Teknikeri"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Diş Hekimi Asistanı",
+"isco4": "3251",
+"isco_title": "Dental assistants and therapists",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Diş Hekimi Asistanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Optisyen",
+"isco4": "3254",
+"isco_title": "Dispensing opticians",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Gözlük Montaj Elemanı / Optisyen",
+"Optisyen / Gözlük Satış Elemanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fizyoterapi Teknikeri",
+"isco4": "3255",
+"isco_title": "Physiotherapy technicians and assistants",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Fizyoterapi ve Rehabilitasyon Teknikeri"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Masör",
+"isco4": "3255",
+"isco_title": "Physiotherapy technicians and assistants",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Masör / Masöz",
+"Spor ve Medikal Masörü"
+],
+"sektorler": [
+"BEAUTY_CARE",
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Deniz Kirliliği Müdahale Sorumlusu",
+"isco4": "3257",
+"isco_title": "Environmental and occupational health inspectors and associates",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sorumlu"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Hijyen Uzmanı",
+"isco4": "3257",
+"isco_title": "Environmental and occupational health inspectors and associates",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel Hijyen ve Kimyasal Uygulama Uzmanı"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gıda Güvenliği Denetçisi",
+"isco4": "3257",
+"isco_title": "Environmental and occupational health inspectors and associates",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Mutfak Hijyen ve Gıda Güvenliği (HACCP) Denetmeni"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İskele ve Yüksekte Çalışma Güvenlik Elemanı",
+"isco4": "3257",
+"isco_title": "Environmental and occupational health inspectors and associates",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Şantiye İskele ve Yüksekte Çalışma Güvenlik Postabaşısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sosyal Uygunluk Denetçisi",
+"isco4": "3257",
+"isco_title": "Environmental and occupational health inspectors and associates",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Etik Ticaret ve Tedarikçi Sosyal Uygunluk Denetçisi (SMETA / SEDEX / BSCI)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Atık Yönetimi Uzmanı",
+"isco4": "3257",
+"isco_title": "Environmental and occupational health inspectors and associates",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hastane Çevre Sağlığı ve Atık Yönetimi Şefi"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Anestezi Teknikeri",
+"isco4": "3259",
+"isco_title": "Health associate professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Anestezi Teknikeri",
+"Anestezi Teknikeri (KVC ve Beyin Cerrahisi)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Odyometri Teknikeri",
+"isco4": "3259",
+"isco_title": "Health associate professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Odyometri (İşitme Testi) Teknikeri"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+}
+]

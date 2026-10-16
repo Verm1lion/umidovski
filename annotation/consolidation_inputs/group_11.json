@@ -1,0 +1,58 @@
+[
+{
+"specialty": "Genel Sekreter",
+"isco4": "1114",
+"isco_title": "Senior officials of special-interest organizations",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Genel Sekreter"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Genel Müdür",
+"isco4": "1120",
+"isco_title": "Managing directors and chief executives",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tesis ve Fiziksel Varlık Güvenliği Genel Müdürü"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurucu Ortak",
+"isco4": "1120",
+"isco_title": "Managing directors and chief executives",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kurucu/Partner"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Liman Genel Müdürü",
+"isco4": "1120",
+"isco_title": "Managing directors and chief executives",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Liman İşletmesi Genel Müdürü (Port General Manager)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+}
+]

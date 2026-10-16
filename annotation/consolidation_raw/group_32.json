@@ -1,0 +1,22 @@
+[
+{"specialty": "Nükleer Tıp Teknikeri", "isco4": "3211", "canonical_specialty": "Nükleer Tıp Teknikeri", "canonical_isco4": "3211"},
+{"specialty": "Radyoloji Teknikeri", "isco4": "3211", "canonical_specialty": "Tıbbi Görüntüleme Teknikeri", "canonical_isco4": "3211"},
+{"specialty": "Tıbbi Görüntüleme Teknikeri", "isco4": "3211", "canonical_specialty": "Tıbbi Görüntüleme Teknikeri", "canonical_isco4": "3211"},
+{"specialty": "Patoloji Laboratuvar Teknikeri", "isco4": "3212", "canonical_specialty": "Patoloji Laboratuvar Teknikeri", "canonical_isco4": "3212"},
+{"specialty": "Tıbbi Laboratuvar Teknikeri", "isco4": "3212", "canonical_specialty": "Tıbbi Laboratuvar Teknikeri", "canonical_isco4": "3212"},
+{"specialty": "Eczane Teknisyeni", "isco4": "3213", "canonical_specialty": "Eczane Teknisyeni", "canonical_isco4": "3213"},
+{"specialty": "Diş Protez Teknisyeni", "isco4": "3214", "canonical_specialty": "Diş Protez Teknisyeni", "canonical_isco4": "3214"},
+{"specialty": "Veteriner Sağlık Teknikeri", "isco4": "3240", "canonical_specialty": "Veteriner Sağlık Teknikeri", "canonical_isco4": "3240"},
+{"specialty": "Diş Hekimi Asistanı", "isco4": "3251", "canonical_specialty": "Diş Hekimi Asistanı", "canonical_isco4": "3251"},
+{"specialty": "Optisyen", "isco4": "3254", "canonical_specialty": "Optisyen", "canonical_isco4": "3254"},
+{"specialty": "Fizyoterapi Teknikeri", "isco4": "3255", "canonical_specialty": "Fizyoterapi Teknikeri", "canonical_isco4": "3255"},
+{"specialty": "Masör", "isco4": "3255", "canonical_specialty": "Masör", "canonical_isco4": "3255"},
+{"specialty": "Deniz Kirliliği Müdahale Sorumlusu", "isco4": "3257", "canonical_specialty": "Deniz Kirliliği Müdahale Sorumlusu", "canonical_isco4": "3257"},
+{"specialty": "Endüstriyel Hijyen Uzmanı", "isco4": "3257", "canonical_specialty": "Endüstriyel Hijyen Uzmanı", "canonical_isco4": "3257"},
+{"specialty": "Gıda Güvenliği Denetçisi", "isco4": "3257", "canonical_specialty": "Gıda Güvenliği Denetçisi", "canonical_isco4": "3257"},
+{"specialty": "İskele ve Yüksekte Çalışma Güvenlik Elemanı", "isco4": "3257", "canonical_specialty": "İskele ve Yüksekte Çalışma Güvenlik Elemanı", "canonical_isco4": "3257"},
+{"specialty": "Sosyal Uygunluk Denetçisi", "isco4": "3257", "canonical_specialty": "Sosyal Uygunluk Denetçisi", "canonical_isco4": "3257"},
+{"specialty": "Tıbbi Atık Yönetimi Uzmanı", "isco4": "3257", "canonical_specialty": "Tıbbi Atık Yönetimi Uzmanı", "canonical_isco4": "3257"},
+{"specialty": "Anestezi Teknikeri", "isco4": "3259", "canonical_specialty": "Anestezi Teknikeri", "canonical_isco4": "3259"},
+{"specialty": "Odyometri Teknikeri", "isco4": "3259", "canonical_specialty": "Odyometri Teknikeri", "canonical_isco4": "3259"}
+]

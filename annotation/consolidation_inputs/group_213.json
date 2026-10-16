@@ -1,0 +1,835 @@
+[
+{
+"specialty": "Bitki Doku Kültürü Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tarımsal Biyoteknoloji ve Doku Kültürü Uzmanı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bitki Islahı Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Araştırmacı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyoenformatik Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biyoenformatik ve Genomik Veri Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyofarmasötik Analiz Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Biyofarmasötik Analiz Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyoinformatik Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biyoinformatik ve Genom Analitiği Uzmanı"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyokimya Araştırmacısı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Biyokimya Ar-Ge Araştırmacısı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyolog",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biyolog",
+"Junior Biyolog (Hücre Kültürü & Mikrobiyoloji)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyoproses Fermantasyon Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Endüstriyel Biyoteknoloji Fermantasyon Uzmanı",
+"Kıdemli Biyoteknolojik Proses (Upstream/Fermantasyon) Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Botanik Bahçesi Küratörü",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Peyzaj ve Botanik Bahçeleri Küratörü"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Deniz Biyoloğu",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Biologist"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Downstream Biyoproses Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Downstream Biyoproses ve Protein Saflaştırma Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Enzim Mühendisliği Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Enzim Mühendisliği ve Biyokataliz Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Enzim Mühendisliği ve Biyokataliz Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Enzim Mühendisliği ve Biyokataliz Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Farmasötik Mikrobiyoloji Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Endüstriyel Mikrobiyoloji Uzmanı",
+"Kıdemli Mikrobiyolojik Validasyon Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fermantasyon Proses Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel Biyoteknoloji Fermantasyon Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gıda Mikrobiyolojisi Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gıda Mikrobiyolojisi ve Patojen Teşhis Uzmanı"
+],
+"sektorler": [
+"AGRICULTURE",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İmmünoloji ve Aşı Geliştirme Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Immunology & Vaccine Development Scientist",
+"İmmünoloji ve Aşı Geliştirme Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kanser Biyolojisi Araştırmacısı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Cancer Biology & Gene Therapy Researcher",
+"Kanser Biyolojisi ve Gen Terapisi Araştırmacısı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kanser Biyolojisi ve Gen Terapisi Araştırmacısı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kanser Biyolojisi ve Gen Terapisi Araştırmacısı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klinik Araştırma Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Clinical Research Associate (CRA)",
+"Klinik Araştırma Uzmanı (CRA)",
+"Klinik Araştırmalar Uzmanı (Clinical Research Associate - CRA)",
+"Kıdemli Klinik Araştırmalar Uzmanı (Senior CRA)"
+],
+"sektorler": [
+"HEALTHCARE",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klinik Biyokimya Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Clinical Biochemistry Specialist"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": [
+"22"
+]
+},
+{
+"specialty": "Klinik Genomik ve Varyant Analizi Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Klinik Genomik ve Varyant Analizi Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klinik Genomik ve Varyant Yorumlama Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Clinical Genomics & Variant Interpretation Specialist"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klinik Kalite Güvence Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Klinik Kalite Güvence ve GCP Denetim Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kozmetik Ürün Güvenlik Değerlendiricisi",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kozmetik Ürün Güvenlik Değerlendiricisi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal Bilimsel İrtibat Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Medikal Bilimsel İrtibat Uzmanı (Sr. MSL - Nöroloji)",
+"Medikal Bilimsel İrtibat Uzmanı (MSL - Onkoloji)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal Danışman",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Medikal Danışman (Sr. Medical Advisor - Hematoloji)",
+"Medikal Danışman (Medical Advisor)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mikrobiyoloji Araştırmacısı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Klinik Mikrobiyoloji ve Enfeksiyon Araştırmacısı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mikrobiyoloji Laboratuvar Analisti",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mikrobiyoloji Laboratuvar Analisti"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mikrobiyoloji Laboratuvarı Biyoloğu",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tıbbi Mikrobiyoloji Laboratuvarı Uzmanı (Biyolog)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mikrobiyoloji Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Microbiology Specialist",
+"Mikrobiyoloji Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Moleküler Biyolog",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Biyolog"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Moleküler Biyoloji Araştırmacısı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Moleküler Biyoloji ve Kök Hücre Araştırmacısı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Moleküler Biyoloji ve Kök Hücre Araştırmacısı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Moleküler Biyoloji ve Kök Hücre Araştırmacısı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Moleküler Biyoloji ve Sitogenetik Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Moleküler Biyoloji ve Sitogenetik Laboratuvar Şefi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Moleküler Genetik Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biyolog / Moleküler Genetik Uzmanı",
+"Cytogenetics & Molecular Diagnostics Laboratory Lead"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Moleküler Modelleme Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Biyofizik ve Moleküler Modelleme Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tohum Islahı Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Agricultural Biotechnology & Seed Breeding Scientist",
+"Kıdemli Tohumculuk Ar-Ge Mühendisi",
+"Tarımsal Biyoteknoloji ve Tohum Islahı Uzmanı",
+"Tohum Islahı ve Ar-Ge Uzmanı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Toksikoloji Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Biyouyumluluk ve Toksikoloji Uzmanı",
+"Toksikoloji ve Güvenlik Değerlendirme Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Upstream Biyoproses Uzmanı",
+"isco4": "2131",
+"isco_title": "Biologists, botanists, zoologists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biyobenzer & Biyoteknolojik Proses Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bitki Besleme Ar-Ge Uzmanı",
+"isco4": "2132",
+"isco_title": "Farming, forestry and fisheries advisers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bitki Besleme ve Toprak Biyokimyası Uzmanı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bitki Besleme ve Toprak Biyokimyası Uzmanı",
+"isco4": "2132",
+"isco_title": "Farming, forestry and fisheries advisers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plant Nutrition & Soil Biochemistry Specialist"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Meyve Fidancılığı Uzmanı",
+"isco4": "2132",
+"isco_title": "Farming, forestry and fisheries advisers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Meyvecilik ve Fidanlık Saha Operasyon Uzmanı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Organik Tarım Sertifikasyon Uzmanı",
+"isco4": "2132",
+"isco_title": "Farming, forestry and fisheries advisers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Organik Tarım Denetim ve Sertifikasyon Uzmanı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ziraat Mühendisi",
+"isco4": "2132",
+"isco_title": "Farming, forestry and fisheries advisers",
+"n_cv": 0,
+"n_job": 5,
+"ornek_unvanlar": [
+"Gübreleme ve Bitki Besleme Saha Uzmanı",
+"Kıdemli Ziraat Mühendisi (Tarımsal Danışmanlık ve Saha Lideri)",
+"Ziraat Mühendisi (Bitki Koruma ve Ruhsatlandırma)",
+"Ziraat Mühendisi (Bitki Koruma)",
+"Ziraat Mühendisi (Tarımsal Üretim ve Bitki Koruma)"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "BREEAM Değerlendirme Uzmanı",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"BREEAM Assessor & Sustainability Auditor",
+"BREEAM Assessor ve Sürdürülebilirlik Uzmanı (ESG)"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çevre Biyoizleme ve Ekotoksikoloji Uzmanı",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çevre Biyoizleme ve Ekotoksikoloji Uzmanı"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çevre Görevlisi",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çevre Görevlisi",
+"Çevre Görevlisi / Çevre Danışmanı"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çevresel Etki Değerlendirme Uzmanı",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çevresel Etki Değerlendirme (ÇED) Uzmanı"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Karbon Ayak İzi Uzmanı",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Karbon Ayak İzi ve Sürdürülebilirlik Uzmanı (ESG)",
+"Kurumsal Karbon Ayak İzi Uzmanı"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Karbon Ticareti ve Emisyon İzni Portföy Yöneticisi",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Karbon Ticareti ve Emisyon İzni Portföy Yöneticisi"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Su ve Doğal Kaynaklar Yönetimi Danışmanı",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Su ve Doğal Kaynaklar Yönetimi Danışmanı",
+"Water & Natural Resources Consultant"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sürdürülebilirlik Danışmanı",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Sustainability Consultant (ESG)",
+"Sürdürülebilirlik Danışmanı (ESG)",
+"Sürdürülebilirlik ve Karbon Ayak İzi Danışmanı (ESG)"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sürdürülebilirlik Raporlama Uzmanı",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Integrated Sustainability Reporting Specialist",
+"Sürdürülebilirlik Raporlama ve Entegre Rapor Uzmanı"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tehlikeli Atık Yönetimi Uzmanı",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hazardous Waste Management Specialist",
+"Tehlikeli Atık Yönetimi Uzmanı"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yeşil Bina Danışmanı",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"LEED AP Certified Green Building Consultant",
+"Sürdürülebilir Yeşil Bina Danışmanı (LEED AP)"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yeşil Tedarik Zinciri ve Karbon Emisyonu Uzmanı",
+"isco4": "2133",
+"isco_title": "Environmental protection professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yeşil Tedarik Zinciri ve Kapsam 3 Karbon Emisyonu Lojistik Uzmanı (ESG)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+}
+]

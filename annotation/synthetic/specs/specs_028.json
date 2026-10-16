@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30701",
+  "target_occ_key": "4120:kisisel_asistan",
+  "target_specialty": "Kişisel Asistan",
+  "target_isco4": "4120",
+  "target_isco_title": "Secretaries (general)",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Asistan"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30702",
+  "target_occ_key": "4132:e_ticaret_urun_yukleme_elemani",
+  "target_specialty": "E-Ticaret Ürün Yükleme Elemanı",
+  "target_isco4": "4132",
+  "target_isco_title": "Data entry clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "E-Ticaret Kategori Destek Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30703",
+  "target_occ_key": "4132:veri_giris_elemani",
+  "target_specialty": "Veri Giriş Elemanı",
+  "target_isco4": "4132",
+  "target_isco_title": "Data entry clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "APPAREL_TEXTILE",
+  "industry_tr": "Tekstil ve Hazır Giyim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Backoffice Veri Giriş ve Dokümantasyon Elemanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30704",
+  "target_occ_key": "4211:banka_gise_yetkilisi",
+  "target_specialty": "Banka Gişe Yetkilisi",
+  "target_isco4": "4211",
+  "target_isco_title": "Bank tellers and related clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Banka Gişe Yetkilisi (Teller)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30705",
+  "target_occ_key": "4214:tahsilat_uzmani",
+  "target_specialty": "Tahsilat Uzmanı",
+  "target_isco4": "4214",
+  "target_isco_title": "Debt-collectors and related workers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "E-Fatura ve Tahsilat Sorumlusu"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30706",
+  "target_occ_key": "4221:bilet_satis_ve_rezervasyon_gorevlisi",
+  "target_specialty": "Bilet Satış ve Rezervasyon Görevlisi",
+  "target_isco4": "4221",
+  "target_isco_title": "Travel consultants and clerks",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Bilet Satış ve Rezervasyon Görevlisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30707",
+  "target_occ_key": "4221:saglik_turizmi_operasyon_uzmani",
+  "target_specialty": "Sağlık Turizmi Operasyon Uzmanı",
+  "target_isco4": "4221",
+  "target_isco_title": "Travel consultants and clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Sağlık Turizmi ve Yurt Dışı Medikal Operasyon Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30708",
+  "target_occ_key": "4221:saglik_turizmi_transfer_gorevlisi",
+  "target_specialty": "Sağlık Turizmi Transfer Görevlisi",
+  "target_isco4": "4221",
+  "target_isco_title": "Travel consultants and clerks",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Sağlık Turizmi Karşılama ve Transfer Görevlisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30709",
+  "target_occ_key": "4221:turizm_satis_danismani",
+  "target_specialty": "Turizm Satış Danışmanı",
+  "target_isco4": "4221",
+  "target_isco_title": "Travel consultants and clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Turizm Satış Danışmanı – Üniversite Öğrencileri"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30710",
+  "target_occ_key": "4222:servis_randevu_planlama_elemani",
+  "target_specialty": "Servis Randevu Planlama Elemanı",
+  "target_isco4": "4222",
+  "target_isco_title": "Contact centre information clerks",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CUSTOMER_SERVICE",
+  "industry_tr": "Müşteri Hizmetleri",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Saha Servis ve Randevu Planlama Asistanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30711",
+  "target_occ_key": "4226:etkinlik_ve_fuar_hostu",
+  "target_specialty": "Etkinlik ve Fuar Hostu",
+  "target_isco4": "4226",
+  "target_isco_title": "Receptionists (general)",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Diyarbakır",
+  "example_job_titles": [
+   "Etkinlik ve Fuar Hostu"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30712",
+  "target_occ_key": "4226:marina_on_buro_gorevlisi",
+  "target_specialty": "Marina Ön Büro Görevlisi",
+  "target_isco4": "4226",
+  "target_isco_title": "Receptionists (general)",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Muğla",
+  "example_job_titles": [
+   "Marina Ön Büro ve Müşteri İlişkileri Sorumlusu"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30713",
+  "target_occ_key": "4226:resepsiyonist",
+  "target_specialty": "Resepsiyonist",
+  "target_isco4": "4226",
+  "target_isco_title": "Receptionists (general)",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "OFFICE_ADMIN_MGMT",
+  "industry_tr": "Ofis, İdari İşler ve Yönetim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Spor Kulübü Danışma ve Ofis Resepsiyonisti"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30714",
+  "target_occ_key": "4226:vip_protokol_gorevlisi",
+  "target_specialty": "VIP Protokol Görevlisi",
+  "target_isco4": "4226",
+  "target_isco_title": "Receptionists (general)",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "VIP Protokol ve Karşılama Görevlisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30715",
+  "target_occ_key": "4229:hasta_haklari_uzmani",
+  "target_specialty": "Hasta Hakları Uzmanı",
+  "target_isco4": "4229",
+  "target_isco_title": "Client information workers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Hasta Hakları ve Memnuniyeti Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30716",
+  "target_occ_key": "4229:misafir_iliskileri_personeli",
+  "target_specialty": "Misafir İlişkileri Personeli",
+  "target_isco4": "4229",
+  "target_isco_title": "Client information workers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Balıkesir",
+  "example_job_titles": [
+   "Halkla İlişkiler Departmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30717",
+  "target_occ_key": "4312:banka_operasyon_yetkilisi",
+  "target_specialty": "Banka Operasyon Yetkilisi",
+  "target_isco4": "4312",
+  "target_isco_title": "Statistical, finance and insurance clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Bank Branch Operations Officer"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30718",
+  "target_occ_key": "4312:dis_ticaret_finansmani_operasyon_uzmani",
+  "target_specialty": "Dış Ticaret Finansmanı Operasyon Uzmanı",
+  "target_isco4": "4312",
+  "target_isco_title": "Statistical, finance and insurance clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Akreditif ve Kambiyo Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30719",
+  "target_occ_key": "4312:hazine_operasyon_elemani",
+  "target_specialty": "Hazine Operasyon Elemanı",
+  "target_isco4": "4312",
+  "target_isco_title": "Statistical, finance and insurance clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Hazine ve Nakit Yönetimi Operasyon Elemanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30720",
+  "target_occ_key": "4312:saha_operasyon_temsilcisi",
+  "target_specialty": "Saha Operasyon Temsilcisi",
+  "target_isco4": "4312",
+  "target_isco_title": "Statistical, finance and insurance clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Saha Operasyon Temsilcisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30721",
+  "target_occ_key": "4321:depo_operasyon_uzmani",
+  "target_specialty": "Depo Operasyon Uzmanı",
+  "target_isco4": "4321",
+  "target_isco_title": "Stock clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Otomotiv Yedek Parça Ambar ve Lojistik Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30722",
+  "target_occ_key": "4323:filo_yonetimi_uzmani",
+  "target_specialty": "Filo Yönetimi Uzmanı",
+  "target_isco4": "4323",
+  "target_isco_title": "Transport clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "OFFICE_ADMIN_MGMT",
+  "industry_tr": "Ofis, İdari İşler ve Yönetim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Filo ve Taşıt Yönetimi Uzmanı (Fleet Specialist)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30723",
+  "target_occ_key": "4323:hava_kargo_operasyon_gorevlisi",
+  "target_specialty": "Hava Kargo Operasyon Görevlisi",
+  "target_isco4": "4323",
+  "target_isco_title": "Transport clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Hava Kargo Operasyon ve Lojistik Görevlisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30724",
+  "target_occ_key": "4323:konteyner_gemisi_yuk_planlama_uzmani",
+  "target_specialty": "Konteyner Gemisi Yük Planlama Uzmanı",
+  "target_isco4": "4323",
+  "target_isco_title": "Transport clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Konteyner Gemisi Yük Planlama ve Lashing Sorumlusu"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30725",
+  "target_occ_key": "4323:tersine_lojistik_uzmani",
+  "target_specialty": "Tersine Lojistik Uzmanı",
+  "target_isco4": "4323",
+  "target_isco_title": "Transport clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Tersine Lojistik ve İade Operasyon Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ }
+]

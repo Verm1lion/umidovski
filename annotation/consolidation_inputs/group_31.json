@@ -1,0 +1,1341 @@
+[
+{
+"specialty": "Analitik Laboratuvar Teknisyeni",
+"isco4": "3111",
+"isco_title": "Chemical and physical science technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Analitik Ar-Ge Teknisyeni"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ar-Ge Laboratuvar Asistanı",
+"isco4": "3111",
+"isco_title": "Chemical and physical science technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Stajyer Ar-Ge Laboratuvar Asistanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gıda Laboratuvar Teknikeri",
+"isco4": "3111",
+"isco_title": "Chemical and physical science technicians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Araştırmacı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaç Formülasyon Teknisyeni",
+"isco4": "3111",
+"isco_title": "Chemical and physical science technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İlaç Formülasyon Teknisyeni"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalibrasyon Teknikeri",
+"isco4": "3111",
+"isco_title": "Chemical and physical science technicians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fizikçi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kimya Laboratuvar Teknisyeni",
+"isco4": "3111",
+"isco_title": "Chemical and physical science technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kimyasal Analiz Teknisyeni"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Harita Teknikeri",
+"isco4": "3112",
+"isco_title": "Civil engineering technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Harita Teknikeri / Topoğraf"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnşaat Teknikeri",
+"isco4": "3112",
+"isco_title": "Civil engineering technicians",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Stajyer Şantiye Yapı Elemanı (Meslek Lisesi / Yapı MYO)",
+"Yapı Denetim ve İnşaat Teknikeri Stajyeri"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrik-Elektronik Teknikeri",
+"isco4": "3113",
+"isco_title": "Electrical engineering technicians",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Elektrik Teknikeri",
+"Elektrik-Elektronik Teknikeri"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrik Teknikeri",
+"isco4": "3113",
+"isco_title": "Electrical engineering technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"TEKNİK PERSONEL"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomasyon Teknikeri",
+"isco4": "3113",
+"isco_title": "Electrical engineering technicians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mekatronik Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektronik Güvenlik Sistemleri Uzmanı",
+"isco4": "3114",
+"isco_title": "Electronics engineering technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"CCTV ve Elektronik Güvenlik Sistemleri Uzmanı"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC CAM Programcısı",
+"isco4": "3115",
+"isco_title": "Mechanical engineering technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC CAM Programlama ve Talaşlı İmalat Uzmanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaynak Denetçisi",
+"isco4": "3115",
+"isco_title": "Mechanical engineering technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ağır Çelik Yapılar Kaynak Koordinatörü ve Denetim Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çelik Yapı Detaylandırma Uzmanı",
+"isco4": "3118",
+"isco_title": "Draughtspersons",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Steel Detailing & Modeling Specialist (Tekla)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyomedikal Teknisyeni",
+"isco4": "3119",
+"isco_title": "Physical and engineering science technicians not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biyomedikal Saha Servis Destek Elemanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Kontrol Teknikeri",
+"isco4": "3119",
+"isco_title": "Physical and engineering science technicians not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"GİRİŞ KALİTE KONTROL TEKNİKERİ"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radyografik Muayene Uzmanı",
+"isco4": "3119",
+"isco_title": "Physical and engineering science technicians not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kaynak Dikişi Radyografik Film Değerlendirme Uzmanı (RT Level II)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tahribatsız Muayene (NDT) Uzmanı",
+"isco4": "3119",
+"isco_title": "Physical and engineering science technicians not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"NDT Seviye III Sertifikalı Baş Denetçi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tesis Yönetimi Uzmanı",
+"isco4": "3119",
+"isco_title": "Physical and engineering science technicians not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tesis Yönetimi ve Teknik Hizmetler Uzmanı (Facility Specialist)"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yangın Güvenliği Uzmanı",
+"isco4": "3119",
+"isco_title": "Physical and engineering science technicians not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yangın Güvenliği ve Acil Durum Müdahale Uzmanı"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boyahane Postabaşı",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv Boyahane ve Yüzey İşlem Postabaşısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çelik Konstrüksiyon İmalat Vardiya Amiri",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çelik Konstrüksiyon İmalat ve Kaynak Vardiya Amiri"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dökümhane Vardiya Amiri",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dökümhane İmalat ve Ergitme Vardiya Amiri"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi İnşa Üretim Sorumlusu",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sorumlu"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Kontrol Postabaşısı",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sac İşleme ve Pres Saha Kalite Kontrol Postabaşısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaynak Atölyesi Ustabaşı",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kaynak Atölyesi Ustabaşısı / Şefi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaynak Kalite Kontrol Ustabaşı",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kaynak Kalite Kontrol ve NDT Saha Postabaşısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lazer Kesim ve Abkant Büküm Vardiya Amiri",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Lazer Kesim ve Abkant Büküm Vardiya Amiri"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Montaj Hattı Postabaşı",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mekanik Montaj Hattı Vardiya Postabaşısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Montaj Hattı Şefi",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otomotiv Son Montaj Hattı Şefi ve Süreç Mühendisi (Trim & Final)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Enjeksiyon Üretim Şefi",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Plastik Enjeksiyon ve Kalıphane Üretim Şefi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Enjeksiyon Ustabaşısı",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Plastik Enjeksiyon ve Montaj Atölye Ustabaşısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pres Kalıp Değişim Postabaşısı",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Pres Kalıp Değişim ve SMED Postabaşısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Robotik Kaynak Postabaşısı",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Robotik Kaynak Hatları Postabaşısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sac Pres Ustabaşısı",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Pres ve Sac Şekillendirme Atölye Ustabaşısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Talaşlı İmalat Atölye Şefi",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Talaşlı İmalat Atölye Ustabaşısı / Şefi",
+"Talaşlı İmalat Atölye ve Takımhane Yöneticisi Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Talaşlı İmalat Ustabaşı",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kalıphane Talaşlı İmalat Postabaşısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Talaşlı İmalat Vardiya Amiri",
+"isco4": "3122",
+"isco_title": "Manufacturing supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC Talaşlı İmalat Vardiya Amiri"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Doğal Taş Kaplama Şantiye Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Doğal Taş ve Mermer Kaplama Şantiye Saha Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrik Şantiye Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektrik Tesisat Şantiye Şefi (Trafo / Jeneratör / Busbar / AG Dağıtım)",
+"Elektrikli Araç Şarj İstasyonları Altyapı ve Kurulum Şefi (DC Hızlı Şarj)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Zemin Kaplama Şantiye Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Endüstriyel Epoksi ve Poliüretan Zemin Kaplama Saha Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güneş Enerjisi Santrali Şantiye Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Güneş Enerjisi Çatı GES Elektrik Şantiye Şefi (EPC Kurulum)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hafriyat Saha Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Altyapı ve Hafriyat Saha Şefi (Pratik Kökenli)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnce İşler Formeni",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İnce Yapı ve Bitirme İşleri Formeni"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnce İşler Şantiye Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Interior Fit-Out & Architectural Finishes Chief",
+"İnce Yapı ve Dekorasyon Şefi",
+"İnce İşler Şantiye Şefi ve İç Mekan İmalat Koordinatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Makineleri Formeni",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Şantiye İş Makineleri ve Ağır Ekipman Formeni"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaba Yapı Formeni",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kaba Yapı Çelik Donatı ve Kalıp Saha Şefi (Pratik Kökenli)",
+"Kaba Yapı Şantiye Formeni / Çavuşu"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaba Yapı Şantiye Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kaba Yapı Şantiye Şefi ve Betonarme Saha Mühendisi",
+"Kaba Yapı Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaldırma Operasyonları Koordinatörü",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kule Vinç ve Kaldırma Güvenlik Postabaşısı",
+"Kule Vinç ve Şantiye Lojistiği Operasyon Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kuru Duvar ve Asma Tavan Şantiye Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kuru Duvar ve Asma Tavan Sistemleri Saha Şefi (Knauf / Rigips)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Tesisat Şantiye Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mekanik Tesisat Şantiye Şefi (HVAC / Chiller / Kazan Dairesi)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mikrotünel ve Boru İtme Saha Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Prefabrik Menfez ve Boru İtme (Pipe Jacking / Microtunnel) Saha Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Restorasyon Şantiye Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tarihi Eser Şantiye Restorasyon Şefi (Geleneksel Yapı Teknikleri)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sanat Yapıları Kısım Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otoyol ve Sanat Yapıları Saha Kısım Şefi (Köprü & Menfez)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şantiye Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Konut Projeleri Saha Şefi",
+"Kıdemli Şantiye Şefi (Kaba & İnce Yapı)",
+"Site Chief",
+"Şantiye Şefi",
+"Şantiye Şefi (Konut & Ticari Projeler)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tünel Kalıp ve Beton Saha Koordinatörü",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tünel Kalıp ve Beton Döküm Saha Koordinatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yalıtım ve Çatı Sistemleri Şantiye Şefi",
+"isco4": "3123",
+"isco_title": "Construction supervisors",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yalıtım ve Çatı Sistemleri Şantiye Saha Şefi (Membran / Poliürea)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Arıtma Tesisi Operatörü",
+"isco4": "3132",
+"isco_title": "Incinerator and water treatment plant operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Arıtma Tesisi Operatörü"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havuz Bakım Görevlisi",
+"isco4": "3132",
+"isco_title": "Incinerator and water treatment plant operators",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yüzme Havuzu Görevlisi"
+],
+"sektorler": [
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dökümhane Ergitme Ustası",
+"isco4": "3135",
+"isco_title": "Metal production process controllers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dökümhane Ergitme ve Ocak Başustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomatik Depo Sistemleri Operatörü",
+"isco4": "3139",
+"isco_title": "Process control technicians not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomatik Depolama ve Alma Sistemi (AS/RS) Operatörü"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Robot Programlama ve Devreye Alma Teknisyeni",
+"isco4": "3139",
+"isco_title": "Process control technicians not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Robot Programlama ve Devreye Alma Teknisyeni"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyoteknoloji Üretim Teknisyeni",
+"isco4": "3141",
+"isco_title": "Life science technicians (excluding medical)",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biyoteknolojik Üretim Teknisyeni"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fertigasyon Teknikeri",
+"isco4": "3142",
+"isco_title": "Agricultural technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Damla Sulama ve Gübreleme Teknik Sorumlusu"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sera Teknisyeni",
+"isco4": "3142",
+"isco_title": "Agricultural technicians",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Topraksız Tarım Sera Teknisyeni",
+"Topraksız Tarım ve Sera Teknikeri"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sulama Sistemleri Teknisyeni",
+"isco4": "3142",
+"isco_title": "Agricultural technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tarımsal Sulama Sistemleri Teknisyeni"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Toprak Analiz Laboratuvar Teknisyeni",
+"isco4": "3142",
+"isco_title": "Agricultural technicians",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Toprak ve Su Analiz Laboratuvar Teknisyeni"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ziraat Teknikeri",
+"isco4": "3142",
+"isco_title": "Agricultural technicians",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ziraat Mühendisi"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Elektrik Zabiti",
+"isco4": "3151",
+"isco_title": "Ships' engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi Elektrik Zabiti (Electro-Technical Officer - ETO)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Makine Mühendisi",
+"isco4": "3151",
+"isco_title": "Ships' engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Chief Marine Engineer (Ocean-Going Vessels)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Makine Zabiti",
+"isco4": "3151",
+"isco_title": "Ships' engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Second Marine Engineer (Unlimited Power)",
+"İkinci / Üçüncü Çarkçı (2nd / 3rd Engineer Officer)"
+],
+"sektorler": [
+"AVIATION",
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Makinisti",
+"isco4": "3151",
+"isco_title": "Ships' engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi Çarkçısı / Makinist"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uzakyol Gemi Mühendisi",
+"isco4": "3151",
+"isco_title": "Ships' engineers",
+"n_cv": 1,
+"n_job": 4,
+"ornek_unvanlar": [
+"Uzakyol 2. Mühendisi (Second Marine Engineer)",
+"Uzakyol Başmühendisi / Başçarkçı (Chief Engineer)",
+"Uzakyol Başmühendisi / Çarkçıbaşı (Chief Engineer)",
+"Uzakyol Vardiya Mühendisi (Çarkçı)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Deniz Kazaları İnceleme ve Kurtarma Uzmanı",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Deniz Kazaları İnceleme ve Kurtarma Uzmanı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Deniz Kurtarma ve Kaza İnceleme Uzmanı",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Maritime Salvage & Casualty Investigation Specialist"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dinamik Konumlandırma Operatörü",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dinamik Konumlandırma Operatörü (DPO)",
+"Dynamic Positioning Officer (DPO Certified)"
+],
+"sektorler": [
+"AVIATION",
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güverte Zabiti",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Chemical Tanker Advanced Safety Deck Officer",
+"Officer of the Watch (OOW",
+"Ro-Ro ve Araç Gemisi Yükleme Zabiti"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kılavuz Kaptan",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Kılavuz Kaptan (Senior Pilot - Liman & Boğaz)",
+"Kılavuz Kaptan (Boğaz ve Liman Baş Kılavuzu)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "LNG Tanker Kaptanı",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sıvılaştırılmış Doğal Gaz (LNG) Tanker Kaptanı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Marin Enspektör",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Tanker Güvenlik ve Enspektörü (Marine / Vetting Superintendent)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Römorkör Kaptanı",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Römorkör Kaptanı (Tugboat Captain - Liman Manevra)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tanker Güverte Zabiti",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kimyasal Madde Tankeri Güverte Zabiti",
+"Kimyasal ve Petrol Tankeri Zabiti (Chemical Tanker Officer)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uzakyol Gemi Kaptanı",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Master Mariner (Ocean-Going Ship Captain)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uzakyol Güverte Zabiti",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Uzakyol 1. Zabiti",
+"Uzakyol 1. Zabiti / 2. Kaptan (Chief Mate)",
+"Uzakyol Güverte Zabiti (OOW)",
+"Vardiya Zabiti / 3. Kaptan (Oceangoing Watchkeeping Officer)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uzakyol Kaptanı",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Uzak Yol Kaptanı",
+"Uzakyol Kaptanı (Oceangoing Master - 1. Kaptan)",
+"Uzakyol Polar Gemi Kaptanı ve Seyir Zabiti"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yat Kaptanı",
+"isco4": "3152",
+"isco_title": "Ships' deck officers and pilots",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi Kaptanı (Yat / Kıyı Seyri)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Deneysel Uçuş Test Pilotu",
+"isco4": "3153",
+"isco_title": "Aircraft pilots and related associate professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Deneysel Uçuş Test Pilotu (Experimental Test Pilot)"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havayolu Pilotu",
+"isco4": "3153",
+"isco_title": "Aircraft pilots and related associate professionals",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"First Officer (Commercial Co-Pilot)",
+"First Officer (Yardımcı Pilot)",
+"Kaptan Pilot"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Helikopter Pilotu",
+"isco4": "3153",
+"isco_title": "Aircraft pilots and related associate professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Helicopter Captain Pilot (Offshore & Air Ambulance)",
+"Helikopter Kaptan Pilotu (Offshore / Ambulans)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pilot",
+"isco4": "3153",
+"isco_title": "Aircraft pilots and related associate professionals",
+"n_cv": 4,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kaptan Pilot",
+"Pilot"
+],
+"sektorler": [
+"AVIATION",
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pilot Tip Eğitimi Eğitmeni",
+"isco4": "3153",
+"isco_title": "Aircraft pilots and related associate professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Type Rating Instructor & Examiner (TRI",
+"Uçuş Simülatörü ve Pilot Tip Eğitimi Öğretmeni (TRI/TRE)"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hava Trafik Kontrolörü",
+"isco4": "3154",
+"isco_title": "Air traffic controllers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Air Traffic Controller (ATC)",
+"Hava Trafik Kontrolörü (ATC)"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+}
+]

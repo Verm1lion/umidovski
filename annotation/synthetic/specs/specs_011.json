@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30276",
+  "target_occ_key": "1221:musteri_basari_muduru",
+  "target_specialty": "Müşteri Başarı Müdürü",
+  "target_isco4": "1221",
+  "target_isco_title": "Sales and marketing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CUSTOMER_SERVICE",
+  "industry_tr": "Müşteri Hizmetleri",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Head of Global Customer Success"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30277",
+  "target_occ_key": "1221:performans_pazarlama_muduru",
+  "target_specialty": "Performans Pazarlama Müdürü",
+  "target_isco4": "1221",
+  "target_isco_title": "Sales and marketing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Head of Performance Marketing / Performans Pazarlama Direktörü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30278",
+  "target_occ_key": "1222:dijital_itibar_muduru",
+  "target_specialty": "Dijital İtibar Müdürü",
+  "target_isco4": "1222",
+  "target_isco_title": "Advertising and public relations managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Dijital İtibar ve Sosyal Dinleme Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30279",
+  "target_occ_key": "1222:kreatif_strateji_muduru",
+  "target_specialty": "Kreatif Strateji Müdürü",
+  "target_isco4": "1222",
+  "target_isco_title": "Advertising and public relations managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Creative Strategy Director"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30280",
+  "target_occ_key": "1222:kurumsal_sosyal_sorumluluk_muduru",
+  "target_specialty": "Kurumsal Sosyal Sorumluluk Müdürü",
+  "target_isco4": "1222",
+  "target_isco_title": "Advertising and public relations managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Kurumsal Sorumluluk ve Vakıf İletişimi Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30281",
+  "target_occ_key": "1222:liderlik_iletisimi_muduru",
+  "target_specialty": "Liderlik İletişimi Müdürü",
+  "target_isco4": "1222",
+  "target_isco_title": "Advertising and public relations managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli İş Dünyası ve Liderlik İletişimi Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30282",
+  "target_occ_key": "1222:medya_satin_alma_muduru",
+  "target_specialty": "Medya Satın Alma Müdürü",
+  "target_isco4": "1222",
+  "target_isco_title": "Advertising and public relations managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Dijital İletişim ve Medya Satın Alma Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30283",
+  "target_occ_key": "1223:biyoteknoloji_proses_gelistirme_muduru",
+  "target_specialty": "Biyoteknoloji Proses Geliştirme Müdürü",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Biyoteknolojik Proses Geliştirme Direktörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30284",
+  "target_occ_key": "1223:cae_ve_simulasyon_muduru",
+  "target_specialty": "CAE ve Simülasyon Müdürü",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Lead CAE & Simülasyon Yöneticisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30285",
+  "target_occ_key": "1223:gomulu_sistemler_ar_ge_muduru",
+  "target_specialty": "Gömülü Sistemler Ar-Ge Müdürü",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Head of Embedded Systems & Electronic Controls"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30286",
+  "target_occ_key": "1223:homologasyon_muduru",
+  "target_specialty": "Homologasyon Müdürü",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Head of Vehicle Homologation & Regulatory Affairs"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30287",
+  "target_occ_key": "1223:ilac_formulasyon_ar_ge_muduru",
+  "target_specialty": "İlaç Formülasyon Ar-Ge Müdürü",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "İlaç Formülasyon ve Ar-Ge Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30288",
+  "target_occ_key": "1223:inovasyon_yoneticisi",
+  "target_specialty": "İnovasyon Yöneticisi",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "İnovasyon ve Kurum İçi Girişimcilik Lideri"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30289",
+  "target_occ_key": "1223:klinik_operasyonlar_muduru",
+  "target_specialty": "Klinik Operasyonlar Müdürü",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Klinik Araştırmalar Ülke Direktörü (Country Head of Clinical Operations)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30290",
+  "target_occ_key": "1223:klinik_proje_muduru",
+  "target_specialty": "Klinik Proje Müdürü",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Klinik Proje Müdürü (Clinical Project Manager - CPM)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30291",
+  "target_occ_key": "1223:medikal_iletisim_ve_tibbi_egitim_muduru",
+  "target_specialty": "Medikal İletişim ve Tıbbi Eğitim Müdürü",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Medikal İletişim ve Tıbbi Eğitim Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30292",
+  "target_occ_key": "1223:mekanik_ar_ge_muduru",
+  "target_specialty": "Mekanik Ar-Ge Müdürü",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Head of Mechanical R&D & Engineering"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30293",
+  "target_occ_key": "1311:ciftlik_muduru",
+  "target_specialty": "Çiftlik Müdürü",
+  "target_isco4": "1311",
+  "target_isco_title": "Agricultural and forestry production managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Çiftlik Müdürü ve Sürü Yöneticisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30294",
+  "target_occ_key": "1321:kalite_kontrol_muduru",
+  "target_specialty": "Kalite Kontrol Müdürü",
+  "target_isco4": "1321",
+  "target_isco_title": "Manufacturing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kalite Kontrol (QC) Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30295",
+  "target_occ_key": "1321:uretim_muduru",
+  "target_specialty": "Üretim Müdürü",
+  "target_isco4": "1321",
+  "target_isco_title": "Manufacturing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Fabrika Üretim Müdürü (Plant Operations Manager)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30296",
+  "target_occ_key": "1323:bim_muduru",
+  "target_specialty": "BIM Müdürü",
+  "target_isco4": "1323",
+  "target_isco_title": "Construction managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Dijital Dönüşüm ve Kurumsal BIM Direktörü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30297",
+  "target_occ_key": "1323:gunes_enerjisi_santrali_proje_muduru",
+  "target_specialty": "Güneş Enerjisi Santrali Proje Müdürü",
+  "target_isco4": "1323",
+  "target_isco_title": "Construction managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Konya",
+  "example_job_titles": [
+   "Güneş Enerjisi (GES) Santral Proje Müdürü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30298",
+  "target_occ_key": "1323:mekanik_ve_elektrik_tesisat_muduru",
+  "target_specialty": "Mekanik ve Elektrik Tesisat Müdürü",
+  "target_isco4": "1323",
+  "target_isco_title": "Construction managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Şantiye Mekanik ve Tesisat (MEP) Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30299",
+  "target_occ_key": "1323:santiye_muduru",
+  "target_specialty": "Şantiye Müdürü",
+  "target_isco4": "1323",
+  "target_isco_title": "Construction managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Şantiye Teknik Koordinasyon ve Operasyon Direktörü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30300",
+  "target_occ_key": "1323:teknik_ofis_muduru",
+  "target_specialty": "Teknik Ofis Müdürü",
+  "target_isco4": "1323",
+  "target_isco_title": "Construction managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Teknik Ofis Direktörü (Head of Technical Office)"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

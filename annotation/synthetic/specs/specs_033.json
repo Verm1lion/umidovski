@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30826",
+  "target_occ_key": "8181:seramik_firin_ustasi",
+  "target_specialty": "Seramik Fırın Ustası",
+  "target_isco4": "8181",
+  "target_isco_title": "Glass and ceramics plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Seramik Tünel Fırın Pişirim ve Sırlama Başustası"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30827",
+  "target_occ_key": "8212:kablo_demeti_montaj_elemani",
+  "target_specialty": "Kablo Demeti Montaj Elemanı",
+  "target_isco4": "8212",
+  "target_isco_title": "Electrical and electronic equipment assemblers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Otomotiv Kablo Demeti (Harness) Montaj Elemanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30828",
+  "target_occ_key": "8212:otomotiv_far_montaj_ustasi",
+  "target_specialty": "Otomotiv Far Montaj Ustası",
+  "target_isco4": "8212",
+  "target_isco_title": "Electrical and electronic equipment assemblers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Otomotiv Far Montaj ve Ayar Ustası"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30829",
+  "target_occ_key": "8219:asansor_kabin_imalat_ve_montaj_elemani",
+  "target_specialty": "Asansör Kabin İmalat ve Montaj Elemanı",
+  "target_isco4": "8219",
+  "target_isco_title": "Assemblers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Asansör Kabin İmalat ve Montaj Elemanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30830",
+  "target_occ_key": "8219:montaj_elemani",
+  "target_specialty": "Montaj Elemanı",
+  "target_isco4": "8219",
+  "target_isco_title": "Assemblers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "MONTAJ PERSONELİ"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30831",
+  "target_occ_key": "8219:uretim_hatti_operatoru",
+  "target_specialty": "Üretim Hattı Operatörü",
+  "target_isco4": "8219",
+  "target_isco_title": "Assemblers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Üretim Hattı Operatörü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30832",
+  "target_occ_key": "8311:tren_makinisti",
+  "target_specialty": "Tren Makinisti",
+  "target_isco4": "8311",
+  "target_isco_title": "Locomotive engine drivers",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "Trabzon",
+  "example_job_titles": [
+   "Tren Makinisti"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30833",
+  "target_occ_key": "8322:fabrika_ici_malzeme_tasima_soforu",
+  "target_specialty": "Fabrika İçi Malzeme Taşıma Şoförü",
+  "target_isco4": "8322",
+  "target_isco_title": "Car, taxi and van drivers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Organize Sanayi İçi Ring ve Malzeme Taşıma Şoförü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30834",
+  "target_occ_key": "8322:makam_soforu",
+  "target_specialty": "Makam Şoförü",
+  "target_isco4": "8322",
+  "target_isco_title": "Car, taxi and van drivers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Servis ve Makam Şoförü (Driver)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30835",
+  "target_occ_key": "8331:tramvay_vatmani",
+  "target_specialty": "Tramvay Vatmanı",
+  "target_isco4": "8331",
+  "target_isco_title": "Bus and tram drivers",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "Konya",
+  "example_job_titles": [
+   "Tramvay ve Hafif Raylı Sistem Vatmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30836",
+  "target_occ_key": "8332:agir_vasita_test_surucusu",
+  "target_specialty": "Ağır Vasıta Test Sürücüsü",
+  "target_isco4": "8332",
+  "target_isco_title": "Heavy truck and lorry drivers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Ağır Ticari Araç Test ve Transfer Sürücüsü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30837",
+  "target_occ_key": "8332:oto_kurtarici_soforu",
+  "target_specialty": "Oto Kurtarıcı Şoförü",
+  "target_isco4": "8332",
+  "target_isco_title": "Heavy truck and lorry drivers",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Oto Çekici ve Kurtarıcı Araç Sürücüsü (Junior)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30838",
+  "target_occ_key": "8332:tehlikeli_madde_dagitim_soforu",
+  "target_specialty": "Tehlikeli Madde Dağıtım Şoförü",
+  "target_isco4": "8332",
+  "target_isco_title": "Heavy truck and lorry drivers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Tehlikeli Madde Kuru Yük ve Gaz Tüpü Dağıtım Şoförü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30839",
+  "target_occ_key": "8342:jet_grout_operatoru",
+  "target_specialty": "Jet Grout Operatörü",
+  "target_isco4": "8342",
+  "target_isco_title": "Earthmoving and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Jet Grouting ve Yüksek Basınç Enjeksiyon Operatörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30840",
+  "target_occ_key": "8342:mini_yukleyici_operatoru",
+  "target_specialty": "Mini Yükleyici Operatörü",
+  "target_isco4": "8342",
+  "target_isco_title": "Earthmoving and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Muğla",
+  "example_job_titles": [
+   "Bobcat (Mini Yükleyici) Operatörü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30841",
+  "target_occ_key": "8342:puskurtme_beton_operatoru",
+  "target_specialty": "Püskürtme Beton Operatörü",
+  "target_isco4": "8342",
+  "target_isco_title": "Earthmoving and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Tünel İçi Püskürtme Beton (Shotcrete) Pompa Yardımcısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30842",
+  "target_occ_key": "8342:zemin_ankraj_makinesi_operatoru",
+  "target_specialty": "Zemin Ankraj Makinesi Operatörü",
+  "target_isco4": "8342",
+  "target_isco_title": "Earthmoving and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Zemin Ankrajı ve Enjeksiyon Makinesi Operatörü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30843",
+  "target_occ_key": "8343:manlift_operatoru",
+  "target_specialty": "Manlift Operatörü",
+  "target_isco4": "8343",
+  "target_isco_title": "Crane, hoist and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Diyarbakır",
+  "example_job_titles": [
+   "Manlift ve Platform Operatörü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30844",
+  "target_occ_key": "8343:mobil_kule_vinc_operatoru",
+  "target_specialty": "Mobil Kule Vinç Operatörü",
+  "target_isco4": "8343",
+  "target_isco_title": "Crane, hoist and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Mobil Kule Vinç Operatörü (Spierings / Liebherr)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30845",
+  "target_occ_key": "8343:mobil_ve_tavan_vinc_operatoru",
+  "target_specialty": "Mobil ve Tavan Vinç Operatörü",
+  "target_isco4": "8343",
+  "target_isco_title": "Crane, hoist and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Mobil ve Tavan Vinç Operatörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30846",
+  "target_occ_key": "8343:paletli_vinc_operatoru",
+  "target_specialty": "Paletli Vinç Operatörü",
+  "target_isco4": "8343",
+  "target_isco_title": "Crane, hoist and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Büyük Tonaj Paletli Vinç Operatörü (150-300 Ton)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30847",
+  "target_occ_key": "8344:reach_stacker_operatoru",
+  "target_specialty": "Reach Stacker Operatörü",
+  "target_isco4": "8344",
+  "target_isco_title": "Lifting truck operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Mersin",
+  "example_job_titles": [
+   "Konteyner Saha Reach Stacker (Dolu Elleçleme) Operatörü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30848",
+  "target_occ_key": "8344:reach_truck_operatoru",
+  "target_specialty": "Reach Truck Operatörü",
+  "target_isco4": "8344",
+  "target_isco_title": "Lifting truck operators",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Reachtruck (Yüksek İrtifa) Operatörü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30849",
+  "target_occ_key": "8350:dumenci",
+  "target_specialty": "Dümenci",
+  "target_isco4": "8350",
+  "target_isco_title": "Ships' deck crews and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Dümenci / Helmsman"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30850",
+  "target_occ_key": "9111:ev_yardimcisi",
+  "target_specialty": "Ev Yardımcısı",
+  "target_isco4": "9111",
+  "target_isco_title": "Domestic cleaners and helpers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "JANITORIAL_FACILITY",
+  "industry_tr": "Temizlik ve Tesis Hizmetleri",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Gündüzlü Temizlik ve Yemek Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30626",
+  "target_occ_key": "3115:kaynak_denetcisi",
+  "target_specialty": "Kaynak Denetçisi",
+  "target_isco4": "3115",
+  "target_isco_title": "Mechanical engineering technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Ağır Çelik Yapılar Kaynak Koordinatörü ve Denetim Ustası"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30627",
+  "target_occ_key": "3118:celik_yapi_detaylandirma_uzmani",
+  "target_specialty": "Çelik Yapı Detaylandırma Uzmanı",
+  "target_isco4": "3118",
+  "target_isco_title": "Draughtspersons",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Steel Detailing & Modeling Specialist (Tekla)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30628",
+  "target_occ_key": "3119:biyomedikal_teknisyeni",
+  "target_specialty": "Biyomedikal Teknisyeni",
+  "target_isco4": "3119",
+  "target_isco_title": "Physical and engineering science technicians not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Biyomedikal Saha Servis Destek Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30629",
+  "target_occ_key": "3119:kalite_kontrol_teknikeri",
+  "target_specialty": "Kalite Kontrol Teknikeri",
+  "target_isco4": "3119",
+  "target_isco_title": "Physical and engineering science technicians not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Ankara",
+  "example_job_titles": [
+   "GİRİŞ KALİTE KONTROL TEKNİKERİ"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30630",
+  "target_occ_key": "3119:tesis_yonetimi_uzmani",
+  "target_specialty": "Tesis Yönetimi Uzmanı",
+  "target_isco4": "3119",
+  "target_isco_title": "Physical and engineering science technicians not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "OFFICE_ADMIN_MGMT",
+  "industry_tr": "Ofis, İdari İşler ve Yönetim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Tesis Yönetimi ve Teknik Hizmetler Uzmanı (Facility Specialist)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30631",
+  "target_occ_key": "3119:yangin_guvenligi_uzmani",
+  "target_specialty": "Yangın Güvenliği Uzmanı",
+  "target_isco4": "3119",
+  "target_isco_title": "Physical and engineering science technicians not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SECURITY_EMERGENCY",
+  "industry_tr": "Güvenlik ve Acil Durum",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Yangın Güvenliği ve Acil Durum Müdahale Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30632",
+  "target_occ_key": "3122:boyahane_postabasi",
+  "target_specialty": "Boyahane Postabaşı",
+  "target_isco4": "3122",
+  "target_isco_title": "Manufacturing supervisors",
+  "target_collar": "BLUE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Otomotiv Boyahane ve Yüzey İşlem Postabaşısı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30633",
+  "target_occ_key": "3122:dokumhane_vardiya_amiri",
+  "target_specialty": "Dökümhane Vardiya Amiri",
+  "target_isco4": "3122",
+  "target_isco_title": "Manufacturing supervisors",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Dökümhane İmalat ve Ergitme Vardiya Amiri"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30634",
+  "target_occ_key": "3122:kalite_kontrol_postabasi",
+  "target_specialty": "Kalite Kontrol Postabaşı",
+  "target_isco4": "3122",
+  "target_isco_title": "Manufacturing supervisors",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Sac İşleme ve Pres Saha Kalite Kontrol Postabaşısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30635",
+  "target_occ_key": "3122:kaynak_kalite_kontrol_ustabasi",
+  "target_specialty": "Kaynak Kalite Kontrol Ustabaşı",
+  "target_isco4": "3122",
+  "target_isco_title": "Manufacturing supervisors",
+  "target_collar": "BLUE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Mersin",
+  "example_job_titles": [
+   "Kaynak Kalite Kontrol ve NDT Saha Postabaşısı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30636",
+  "target_occ_key": "3122:lazer_kesim_ve_abkant_bukum_vardiya_amiri",
+  "target_specialty": "Lazer Kesim ve Abkant Büküm Vardiya Amiri",
+  "target_isco4": "3122",
+  "target_isco_title": "Manufacturing supervisors",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Lazer Kesim ve Abkant Büküm Vardiya Amiri"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30637",
+  "target_occ_key": "3122:plastik_enjeksiyon_ustabasi",
+  "target_specialty": "Plastik Enjeksiyon Ustabaşı",
+  "target_isco4": "3122",
+  "target_isco_title": "Manufacturing supervisors",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Plastik Enjeksiyon ve Kalıphane Üretim Şefi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30638",
+  "target_occ_key": "3122:pres_kalip_degisim_postabasi",
+  "target_specialty": "Pres Kalıp Değişim Postabaşı",
+  "target_isco4": "3122",
+  "target_isco_title": "Manufacturing supervisors",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Pres Kalıp Değişim ve SMED Postabaşısı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30639",
+  "target_occ_key": "3122:robotik_kaynak_postabasi",
+  "target_specialty": "Robotik Kaynak Postabaşı",
+  "target_isco4": "3122",
+  "target_isco_title": "Manufacturing supervisors",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Robotik Kaynak Hatları Postabaşısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30640",
+  "target_occ_key": "3122:sac_pres_ustabasi",
+  "target_specialty": "Sac Pres Ustabaşı",
+  "target_isco4": "3122",
+  "target_isco_title": "Manufacturing supervisors",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Pres ve Sac Şekillendirme Atölye Ustabaşısı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30641",
+  "target_occ_key": "3123:hafriyat_saha_sefi",
+  "target_specialty": "Hafriyat Saha Şefi",
+  "target_isco4": "3123",
+  "target_isco_title": "Construction supervisors",
+  "target_collar": "BLUE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Altyapı ve Hafriyat Saha Şefi (Pratik Kökenli)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30642",
+  "target_occ_key": "3123:is_makineleri_formeni",
+  "target_specialty": "İş Makineleri Formeni",
+  "target_isco4": "3123",
+  "target_isco_title": "Construction supervisors",
+  "target_collar": "BLUE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Şantiye İş Makineleri ve Ağır Ekipman Formeni"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30643",
+  "target_occ_key": "3123:kaldirma_operasyonlari_koordinatoru",
+  "target_specialty": "Kaldırma Operasyonları Koordinatörü",
+  "target_isco4": "3123",
+  "target_isco_title": "Construction supervisors",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kule Vinç ve Kaldırma Güvenlik Postabaşısı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30644",
+  "target_occ_key": "3123:tunel_kalip_ve_beton_saha_koordinatoru",
+  "target_specialty": "Tünel Kalıp ve Beton Saha Koordinatörü",
+  "target_isco4": "3123",
+  "target_isco_title": "Construction supervisors",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Tünel Kalıp ve Beton Döküm Saha Koordinatörü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30645",
+  "target_occ_key": "3135:dokumhane_ergitme_ustasi",
+  "target_specialty": "Dökümhane Ergitme Ustası",
+  "target_isco4": "3135",
+  "target_isco_title": "Metal production process controllers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Dökümhane Ergitme ve Ocak Başustası"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30646",
+  "target_occ_key": "3142:fertigasyon_teknikeri",
+  "target_specialty": "Fertigasyon Teknikeri",
+  "target_isco4": "3142",
+  "target_isco_title": "Agricultural technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Damla Sulama ve Gübreleme Teknik Sorumlusu"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30647",
+  "target_occ_key": "3142:sera_teknisyeni",
+  "target_specialty": "Sera Teknisyeni",
+  "target_isco4": "3142",
+  "target_isco_title": "Agricultural technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Topraksız Tarım ve Sera Teknikeri"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30648",
+  "target_occ_key": "3142:sulama_sistemleri_teknisyeni",
+  "target_specialty": "Sulama Sistemleri Teknisyeni",
+  "target_isco4": "3142",
+  "target_isco_title": "Agricultural technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Konya",
+  "example_job_titles": [
+   "Tarımsal Sulama Sistemleri Teknisyeni"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30649",
+  "target_occ_key": "3142:toprak_analiz_laboratuvar_teknisyeni",
+  "target_specialty": "Toprak Analiz Laboratuvar Teknisyeni",
+  "target_isco4": "3142",
+  "target_isco_title": "Agricultural technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Adana",
+  "example_job_titles": [
+   "Toprak ve Su Analiz Laboratuvar Teknisyeni"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30650",
+  "target_occ_key": "3151:gemi_elektrik_zabiti",
+  "target_specialty": "Gemi Elektrik Zabiti",
+  "target_isco4": "3151",
+  "target_isco_title": "Ships' engineers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Gemi Elektrik Zabiti (Electro-Technical Officer - ETO)"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

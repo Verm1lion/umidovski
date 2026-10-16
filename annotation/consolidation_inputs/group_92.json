@@ -1,0 +1,48 @@
+[
+{
+"specialty": "Tarım İşçisi",
+"isco4": "9211",
+"isco_title": "Crop farm labourers",
+"n_cv": 5,
+"n_job": 4,
+"ornek_unvanlar": [
+"Mevsimlik Tarım İşçisi",
+"Saha Tarım ve Bahçe İşçisi",
+"Tarım ve Çiftlik İşçisi (Farmer)",
+"Tarım İşçisi / Mevsimlik İşçi",
+"Zirai Tarım ve Hasat İşçisi (Çiftçi)"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Besi Çiftliği Bakım Elemanı",
+"isco4": "9212",
+"isco_title": "Livestock farm labourers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Besi Çiftliği Bakım Elemanı"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çiftlik İşçisi",
+"isco4": "9213",
+"isco_title": "Mixed crop and livestock farm labourers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çiftlik Destek Elemanı (Farmhand)"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+}
+]

@@ -1,0 +1,456 @@
+[
+{
+"specialty": "Banka Gişe Memuru",
+"isco4": "4211",
+"isco_title": "Bank tellers and related clerks",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Memur"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Banka Gişe Yetkilisi",
+"isco4": "4211",
+"isco_title": "Bank tellers and related clerks",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Banka Gişe Yetkilisi (Teller)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Banka Şube Operasyon Yetkilisi",
+"isco4": "4211",
+"isco_title": "Bank tellers and related clerks",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bank Branch Operations Officer",
+"Banka Şube Operasyon Yetkilisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veznedar",
+"isco4": "4211",
+"isco_title": "Bank tellers and related clerks",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Veznedar"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Saha Tahsilat Elemanı",
+"isco4": "4214",
+"isco_title": "Debt-collectors and related workers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tahsilat Görevlisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tahsilat Uzmanı",
+"isco4": "4214",
+"isco_title": "Debt-collectors and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"E-Fatura ve Tahsilat Sorumlusu"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilet Satış ve Rezervasyon Görevlisi",
+"isco4": "4221",
+"isco_title": "Travel consultants and clerks",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bilet Satış ve Rezervasyon Görevlisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havalimanı Yolcu Hizmetleri Memuru",
+"isco4": "4221",
+"isco_title": "Travel consultants and clerks",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Havalimanı Yer Hizmetleri Personeli",
+"Havalimanı Yer Hizmetleri Yolcu Memuru (Check-in)"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sağlık Turizmi Operasyon Uzmanı",
+"isco4": "4221",
+"isco_title": "Travel consultants and clerks",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Sağlık Turizmi Operasyon Uzmanı (Rusça & İngilizce Bilen)",
+"Sağlık Turizmi ve Yurt Dışı Medikal Operasyon Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sağlık Turizmi Transfer Görevlisi",
+"isco4": "4221",
+"isco_title": "Travel consultants and clerks",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sağlık Turizmi Karşılama ve Transfer Görevlisi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Turizm Satış Danışmanı",
+"isco4": "4221",
+"isco_title": "Travel consultants and clerks",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Turizm Satış Danışmanı – Üniversite Öğrencileri"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yer Hizmetleri Görevlisi",
+"isco4": "4221",
+"isco_title": "Travel consultants and clerks",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yer Hizmetleri Görevlisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Almanca Müşteri Hizmetleri Temsilcisi",
+"isco4": "4222",
+"isco_title": "Contact centre information clerks",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Almanca Bilen Müşteri Temsilcisi (Customer Support)",
+"Almanca Müşteri Deneyimi Temsilcisi (Home Office)"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çağrı Merkezi Kalite Uzmanı",
+"isco4": "4222",
+"isco_title": "Contact centre information clerks",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Operasyon Kalite ve Çağrı Değerlendirme Uzmanı",
+"Çağrı Kalitesi Değerlendirme ve Koçluk Uzmanı",
+"Çağrı Merkezi Kalite ve Dinleme Uzmanı"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çağrı Merkezi Müşteri Temsilcisi",
+"isco4": "4222",
+"isco_title": "Contact centre information clerks",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dijital Bankacılık Müşteri İletişim Temsilcisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fransızca Müşteri Hizmetleri Temsilcisi",
+"isco4": "4222",
+"isco_title": "Contact centre information clerks",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Fransızca Müşteri Hizmetleri Temsilcisi"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Hizmetleri Temsilcisi",
+"isco4": "4222",
+"isco_title": "Contact centre information clerks",
+"n_cv": 4,
+"n_job": 13,
+"ornek_unvanlar": [
+"Banka Müşteri İletişim Merkezi Yetkilisi (Inbound)",
+"Canlı Destek (Live Chat) ve Yazılı Destek Temsilcisi",
+"Customer Rep",
+"Gelen Çağrı (Inbound) Müşteri Temsilcisi",
+"Inbound Çağrı Merkezi Müşteri Temsilcisi"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Şikayet Çözüm Uzmanı",
+"isco4": "4222",
+"isco_title": "Contact centre information clerks",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Müşteri İlişkileri ve Şikayet Çözüm Yöneticisi"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Servis Randevu Planlama Elemanı",
+"isco4": "4222",
+"isco_title": "Contact centre information clerks",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Saha Servis ve Randevu Planlama Asistanı"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Santral Görevlisi",
+"isco4": "4223",
+"isco_title": "Telephone switchboard operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Santral Görevlisi"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otel Resepsiyonisti",
+"isco4": "4224",
+"isco_title": "Hotel receptionists",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Resepsiyonist"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Etkinlik ve Fuar Hostu",
+"isco4": "4226",
+"isco_title": "Receptionists (general)",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Etkinlik ve Fuar Hostu"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hasta Kabul Görevlisi",
+"isco4": "4226",
+"isco_title": "Receptionists (general)",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"Hasta Kabul Görevlisi",
+"Hasta Kabul ve Danışma Görevlisi",
+"Hasta Kabul ve Kayıt Görevlisi (Tıbbi Sekreter)",
+"Hastane Hasta Kabul ve Kayıt Görevlisi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Marina Ön Büro Görevlisi",
+"isco4": "4226",
+"isco_title": "Receptionists (general)",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Marina Ön Büro ve Müşteri İlişkileri Sorumlusu"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Resepsiyonist",
+"isco4": "4226",
+"isco_title": "Receptionists (general)",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Resepsiyonist",
+"Spor Kulübü Danışma ve Ofis Resepsiyonisti",
+"Spor Salonu Resepsiyonist"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT",
+"SPORTS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "VIP Protokol Görevlisi",
+"isco4": "4226",
+"isco_title": "Receptionists (general)",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"VIP Protokol ve Karşılama Görevlisi"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Anketör",
+"isco4": "4227",
+"isco_title": "Survey and market research interviewers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Anketör",
+"Pazar Araştırması ve Anketör Personeli",
+"TÜRKİYE GENELİ EVDE ÇALIŞACAK CATI ANKETÖRÜ ARANIYOR"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gizli Müşteri",
+"isco4": "4227",
+"isco_title": "Survey and market research interviewers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"TÜRKİYE GENELİNDE MAĞAZA GÖZLEMLEME VE GİZLİ MÜŞTERİLER İÇİN YENİ TAKIM ÜYELERİ GEREKİYOR!",
+"Tüm Türkiye'de MAĞAZALARIN DENETİMİ İÇİN ARKADAŞLAR ARIYORUZ !"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hasta Hakları Uzmanı",
+"isco4": "4229",
+"isco_title": "Client information workers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hasta Hakları ve Memnuniyeti Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Misafir İlişkileri Personeli",
+"isco4": "4229",
+"isco_title": "Client information workers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Halkla İlişkiler Departmanı"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Servis Danışmanı",
+"isco4": "4229",
+"isco_title": "Client information workers not elsewhere classified",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Yetkili Servis Danışmanı (Hasar / Mekanik)",
+"Yetkili Servis Kabul ve Hasar Danışmanı"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+}
+]

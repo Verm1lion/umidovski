@@ -1,0 +1,477 @@
+[
+ {
+  "id": "S30026",
+  "target_occ_key": "2149:mekatronik_muhendisi",
+  "target_specialty": "Mekatronik Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Junior Mekatronik Tasarım Mühendisi",
+   "Mekatronik Mühendisi (Robotik Sistemler)",
+   "Mekatronik Sistemler Entegrasyon Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30027",
+  "target_occ_key": "2262:farmakovijilans_uzmani",
+  "target_specialty": "Farmakovijilans Uzmanı",
+  "target_isco4": "2262",
+  "target_isco_title": "Pharmacists",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Farmakovijilans Uzmanı (QPPV Yardımcısı)",
+   "Farmakovijilans ve İlaç Güvenliği Asistanı",
+   "Farmakovijilans ve İlaç Güvenliği Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30028",
+  "target_occ_key": "2262:ilac_ruhsatlandirma_uzmani",
+  "target_specialty": "İlaç Ruhsatlandırma Uzmanı",
+  "target_isco4": "2262",
+  "target_isco_title": "Pharmacists",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Medikal Ruhsatlandırma ve CTD Dosya Uzmanı",
+   "Ruhsatlandırma Uzman Yardımcısı (Regulatory Affairs Assistant)",
+   "İlaç Patent ve Ruhsat Dosyası (CTD) Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30029",
+  "target_occ_key": "2411:bagimsiz_denetci",
+  "target_specialty": "Bağımsız Denetçi",
+  "target_isco4": "2411",
+  "target_isco_title": "Accountants",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Bağımsız Denetim Asistanı (Audit Associate)",
+   "Bağımsız Denetim Lideri / Ortak (Audit Partner)",
+   "Bağımsız Dış Denetçi (Senior Auditor)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30030",
+  "target_occ_key": "2611:dava_avukati",
+  "target_specialty": "Dava Avukatı",
+  "target_isco4": "2611",
+  "target_isco_title": "Lawyers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Bölge Adliye ve Dava Avukatı",
+   "Bölge Dava ve Şirket Avukatı",
+   "Dava Avukatı (Ceza & İş Hukuku)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30031",
+  "target_occ_key": "2611:gayrimenkul_ve_insaat_hukuku_avukati",
+  "target_specialty": "Gayrimenkul ve İnşaat Hukuku Avukatı",
+  "target_isco4": "2611",
+  "target_isco_title": "Lawyers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Gayrimenkul ve İmar Hukuku Avukatı",
+   "Gayrimenkul ve İnşaat Hukuku Avukatı",
+   "Kentsel Dönüşüm ve Kat Mülkiyeti Hukuku Avukatı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30032",
+  "target_occ_key": "2611:ticari_dava_ve_tahkim_avukati",
+  "target_specialty": "Ticari Dava ve Tahkim Avukatı",
+  "target_isco4": "2611",
+  "target_isco_title": "Lawyers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "International Commercial Arbitration Attorney",
+   "Kıdemli Ticari Dava ve Tahkim Avukatı",
+   "Tahkim ve Arabuluculuk Süreçleri Danışmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30033",
+  "target_occ_key": "3211:tibbi_goruntuleme_teknikeri",
+  "target_specialty": "Tıbbi Görüntüleme Teknikeri",
+  "target_isco4": "3211",
+  "target_isco_title": "Medical imaging and therapeutic equipment technicians",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Muğla",
+  "example_job_titles": [
+   "Kıdemli MR ve Bilgisayarlı Tomografi (BT) Teknikeri",
+   "Radyoloji ve MR/BT Teknikeri",
+   "Tıbbi Görüntüleme ve Radyoloji Teknikeri"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30034",
+  "target_occ_key": "3322:musteri_basarisi_yoneticisi",
+  "target_specialty": "Müşteri Başarısı Yöneticisi",
+  "target_isco4": "3322",
+  "target_isco_title": "Commercial sales representatives",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "B2B Müşteri Başarısı Yöneticisi (Customer Success Manager)",
+   "Kıdemli Müşteri Başarısı Yöneticisi (Senior CSM - Enterprise SaaS)",
+   "Müşteri Başarı Uzmanı (Customer Success Specialist - B2B SaaS)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30035",
+  "target_occ_key": "3332:etkinlik_organizasyon_uzmani",
+  "target_specialty": "Etkinlik Organizasyon Uzmanı",
+  "target_isco4": "3332",
+  "target_isco_title": "Conference and event planners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Etkinlik ve Organizasyon Yöneticisi",
+   "Etkinlik ve Sponsorluk Operasyon Sorumlusu",
+   "Fuar ve Kongre Proje Koordinatörü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30036",
+  "target_occ_key": "4323:filo_operasyon_uzmani",
+  "target_specialty": "Filo Operasyon Uzmanı",
+  "target_isco4": "4323",
+  "target_isco_title": "Transport clerks",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli E-Ticaret ve Kargo Dağıtım Filo Amiri",
+   "Kıdemli Kurye ve Son Kilometre (Last Mile) Operasyon Şefi",
+   "Kıdemli Soğuk Zincir ve İlaç Filo Süpervizörü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30037",
+  "target_occ_key": "5132:barmen",
+  "target_specialty": "Barmen",
+  "target_isco4": "5132",
+  "target_isco_title": "Bartenders",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "Muğla",
+  "example_job_titles": [
+   "Barmeid",
+   "Barmen / Barista (Bartender)",
+   "Kokteyl Barmeni"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30038",
+  "target_occ_key": "7119:iskele_ustasi",
+  "target_specialty": "İskele Ustası",
+  "target_isco4": "7119",
+  "target_isco_title": "Building frame and related trades workers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Mersin",
+  "example_job_titles": [
+   "Endüstriyel İskele Kurulum Ustası",
+   "Kıdemli Güvenlikli İskele Başustası ve Denetçisi",
+   "İskele Kurulum ve Söküm Elemanı (Başlangıç Düzeyi)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30039",
+  "target_occ_key": "7121:cati_ustasi",
+  "target_specialty": "Çatı Ustası",
+  "target_isco4": "7121",
+  "target_isco_title": "Roofers",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Samsun",
+  "example_job_titles": [
+   "Kaba Yapı Ahşap Çatı ve Sundurma Ustası",
+   "Kıdemli Ahşap Çatı ve Su İzolasyon Başustası",
+   "Çatı Kaplama Ustası (Roofer)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30040",
+  "target_occ_key": "7231:oto_mekanik_ustasi",
+  "target_specialty": "Oto Mekanik Ustası",
+  "target_isco4": "7231",
+  "target_isco_title": "Motor vehicle mechanics and repairers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Hafif Ticari Araç Servis Şefi",
+   "OTOMOTİV BAKIMCI",
+   "Oto Mekanik ve Motor Ustası"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30041",
+  "target_occ_key": "8142:plastik_enjeksiyon_operatoru",
+  "target_specialty": "Plastik Enjeksiyon Operatörü",
+  "target_isco4": "8142",
+  "target_isco_title": "Plastic products machine operators",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Plastik Enjeksiyon Kalıp Operatörü",
+   "Plastik Enjeksiyon Operatörü & Ayarcısı (Engel & Arburg)",
+   "Plastik Enjeksiyon ve İmalat Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30042",
+  "target_occ_key": "8332:transmikser_soforu",
+  "target_specialty": "Transmikser Şoförü",
+  "target_isco4": "8332",
+  "target_isco_title": "Heavy truck and lorry drivers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Hazır Beton Transmikser Şoförü (Kıdemli Operatör)",
+   "Kıdemli Beton Santrali Lojistik ve Mikser Başşoförü",
+   "MİKSER OPERATÖRÜ"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30043",
+  "target_occ_key": "8342:asfalt_finiser_operatoru",
+  "target_specialty": "Asfalt Finişer Operatörü",
+  "target_isco4": "8342",
+  "target_isco_title": "Earthmoving and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Asfalt Finişer Operatörü (Vögele & Dynapac)",
+   "Asfalt Serici Operatörü",
+   "Finisher Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30044",
+  "target_occ_key": "1211:hazine_muduru",
+  "target_specialty": "Hazine Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Hazine ve Kurumsal Finansman Direktörü (Head of Treasury & Corporate Finance)",
+   "Kıdemli Hazine ve Finansman Müdürü",
+   "Senior Treasury Operations & Liquidity Manager"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30045",
+  "target_occ_key": "1211:yatirimci_iliskileri_muduru",
+  "target_specialty": "Yatırımcı İlişkileri Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Kıdemli Finansal İletişim ve Yatırımcı İlişkileri İletişim Müdürü",
+   "Kıdemli Kurumsal Yönetim ve Yatırımcı İlişkileri Müdürü",
+   "Yatırımcı İlişkileri (IR) Yöneticisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30046",
+  "target_occ_key": "1212:insan_kaynaklari_is_ortagi_muduru",
+  "target_specialty": "İnsan Kaynakları İş Ortağı Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kıdemli İnsan Kaynakları İş Ortağı Müdürü (Global Satış & Pazarlama)",
+   "Kıdemli İnsan Kaynakları İş Ortağı Müdürü (Senior HRBP Manager)",
+   "Kıdemli İnsan Kaynakları İş Ortağı Müdürü (Ticari & Pazarlama)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30047",
+  "target_occ_key": "1212:ise_alim_muduru",
+  "target_specialty": "İşe Alım Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "Gaziantep",
+  "example_job_titles": [
+   "Head of Talent Acquisition / Yetenek Kazanımı Direktörü",
+   "Kıdemli Yetenek Kazanımı Müdürü (Senior Talent Acquisition Manager)",
+   "İnsan Kaynakları ve Yetenek Kazanımı Yöneticisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30048",
+  "target_occ_key": "1212:ucret_ve_yan_haklar_muduru",
+  "target_specialty": "Ücret ve Yan Haklar Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Head of Total Rewards & People Operations",
+   "Kıdemli Ücret ve Yan Haklar Müdürü (Total Rewards Manager)",
+   "Performans ve Ücretlendirme Yöneticisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30049",
+  "target_occ_key": "1219:hukuk_muduru",
+  "target_specialty": "Hukuk Müdürü",
+  "target_isco4": "1219",
+  "target_isco_title": "Business services and administration managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "LEGAL",
+  "industry_tr": "Hukuk",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Genel Hukuk Danışmanı ve Mevzuat Direktörü",
+   "Hukuk Başmüşaviri / Hukuk Direktörü",
+   "Hukuk Hizmetleri Başkanı (General Counsel)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30050",
+  "target_occ_key": "1219:tesis_yonetimi_muduru",
+  "target_specialty": "Tesis Yönetimi Müdürü",
+  "target_isco4": "1219",
+  "target_isco_title": "Business services and administration managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "OFFICE_ADMIN_MGMT",
+  "industry_tr": "Ofis, İdari İşler ve Yönetim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Tesis ve Kampüs Yönetimi Müdürü (Facility Director)",
+   "Tesis Hizmetleri ve Operasyon Direktörü",
+   "Tesis ve Gayrimenkul Operasyonları Direktörü (Head of Real Estate & Facilities)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ }
+]

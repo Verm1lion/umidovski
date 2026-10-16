@@ -1,0 +1,22 @@
+[
+{"specialty": "Akıllı Ev Otomasyon Elektrikçisi", "isco4": "7411", "canonical_specialty": "Akıllı Ev Otomasyon Elektrikçisi", "canonical_isco4": "7411"},
+{"specialty": "Bina Elektrik Tesisatçısı", "isco4": "7411", "canonical_specialty": "Bina Elektrikçisi", "canonical_isco4": "7411"},
+{"specialty": "Busbar Montaj Elektrikçisi", "isco4": "7411", "canonical_specialty": "Pano Elektrikçisi", "canonical_isco4": "7412"},
+{"specialty": "Elektrikçi", "isco4": "7411", "canonical_specialty": "Bina Elektrikçisi", "canonical_isco4": "7411"},
+{"specialty": "Güneş Enerjisi Teknisyeni", "isco4": "7411", "canonical_specialty": "Güneş Enerjisi Teknisyeni", "canonical_isco4": "7411"},
+{"specialty": "Şantiye Elektrikçisi", "isco4": "7411", "canonical_specialty": "Bina Elektrikçisi", "canonical_isco4": "7411"},
+{"specialty": "Topraklama ve Paratoner Tesisatçısı", "isco4": "7411", "canonical_specialty": "Topraklama ve Paratoner Tesisatçısı", "canonical_isco4": "7411"},
+{"specialty": "Zayıf Akım Elektrikçisi", "isco4": "7411", "canonical_specialty": "Zayıf Akım Elektrikçisi", "canonical_isco4": "7411"},
+{"specialty": "Asansör Teknisyeni", "isco4": "7412", "canonical_specialty": "Asansör Teknisyeni", "canonical_isco4": "7412"},
+{"specialty": "Elektrik Pano Teknisyeni", "isco4": "7412", "canonical_specialty": "Pano Elektrikçisi", "canonical_isco4": "7412"},
+{"specialty": "Endüstriyel Elektrik Teknisyeni", "isco4": "7412", "canonical_specialty": "Endüstriyel Elektrik Teknisyeni", "canonical_isco4": "7412"},
+{"specialty": "Kompanzasyon Pano Elektrikçisi", "isco4": "7412", "canonical_specialty": "Pano Elektrikçisi", "canonical_isco4": "7412"},
+{"specialty": "Oto Elektrik Teknisyeni", "isco4": "7412", "canonical_specialty": "Oto Elektrik Teknisyeni", "canonical_isco4": "7412"},
+{"specialty": "Pano Elektrikçisi", "isco4": "7412", "canonical_specialty": "Pano Elektrikçisi", "canonical_isco4": "7412"},
+{"specialty": "Pano Montaj ve Tesisat Elektrikçisi", "isco4": "7412", "canonical_specialty": "Pano Elektrikçisi", "canonical_isco4": "7412"},
+{"specialty": "Termografik Pano Bakım Elektrikçisi", "isco4": "7412", "canonical_specialty": "Pano Elektrikçisi", "canonical_isco4": "7412"},
+{"specialty": "Uçak Aviyonik Teknikeri", "isco4": "7421", "canonical_specialty": "Uçak Aviyonik Teknikeri", "canonical_isco4": "7421"},
+{"specialty": "Ağ ve Kablolama Teknisyeni", "isco4": "7422", "canonical_specialty": "Ağ ve Kablolama Teknisyeni", "canonical_isco4": "7422"},
+{"specialty": "Bilgisayar Teknisyeni", "isco4": "7422", "canonical_specialty": "Bilgisayar Teknisyeni", "canonical_isco4": "7422"},
+{"specialty": "Yapısal Kablolama Elektrikçisi", "isco4": "7422", "canonical_specialty": "Ağ ve Kablolama Teknisyeni", "canonical_isco4": "7422"}
+]

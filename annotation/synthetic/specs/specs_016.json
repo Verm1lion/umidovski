@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30401",
+  "target_occ_key": "2144:asansor_ve_yuruyen_merdiven_muhendisi",
+  "target_specialty": "Asansör ve Yürüyen Merdiven Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Asansör ve Yürüyen Merdiven Sistem Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30402",
+  "target_occ_key": "2144:boru_hatti_butunlugu_muhendisi",
+  "target_specialty": "Boru Hattı Bütünlüğü Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Adana",
+  "example_job_titles": [
+   "Boru Hattı (Pipeline) Bütünlüğü Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30403",
+  "target_occ_key": "2144:doner_ekipman_muhendisi",
+  "target_specialty": "Döner Ekipman Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Döner Ekipman ve Triboloji Mühendisi (Rulman & Aşınma)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30404",
+  "target_occ_key": "2144:elektrikli_arac_mekanik_entegrasyon_muhendisi",
+  "target_specialty": "Elektrikli Araç Mekanik Entegrasyon Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Junior Elektrikli Araç Mekanik Entegrasyon Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30405",
+  "target_occ_key": "2144:fren_sistemleri_muhendisi",
+  "target_specialty": "Fren Sistemleri Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Fren Sistemleri ve Hidrolik Fren Devresi Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30406",
+  "target_occ_key": "2144:gemi_insaati_muhendisi",
+  "target_specialty": "Gemi İnşaatı Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Gemi İnşa ve Deniz Teknolojisi Mühendisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30407",
+  "target_occ_key": "2144:gemi_klaslama_ve_sorvey_muhendisi",
+  "target_specialty": "Gemi Klaslama ve Sörvey Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Gemi Klaslama ve Sörvey Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30408",
+  "target_occ_key": "2144:guc_aktarma_organlari_entegrasyon_ve_nvh_muhendisi",
+  "target_specialty": "Güç Aktarma Organları Entegrasyon ve NVH Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Lead Powertrain Integration & NVH Engineer"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30409",
+  "target_occ_key": "2144:gudum_seyrusefer_ve_kontrol_muhendisi",
+  "target_specialty": "Güdüm, Seyrüsefer ve Kontrol Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Uçuş Kontrol ve Otopilot Algoritmaları Mühendisi (GNC)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30410",
+  "target_occ_key": "2144:hareketli_govde_parcalari_tasarim_muhendisi",
+  "target_specialty": "Hareketli Gövde Parçaları Tasarım Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kıdemli Hareketli Gövde Parçaları Tasarım Uzmanı (Closures - Kapı & Kaput)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30411",
+  "target_occ_key": "2144:havacilik_itki_sistemi_test_muhendisi",
+  "target_specialty": "Havacılık İtki Sistemi Test Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Havacılık Tahrik Sistemleri Test Mühendisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30412",
+  "target_occ_key": "2144:havacilik_sertifikasyon_ve_uyumluluk_muhendisi",
+  "target_specialty": "Havacılık Sertifikasyon ve Uyumluluk Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Havacılık Yapısal Sertifikasyon ve Uyumluluk Yetkilisi (CVE - Structure)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30413",
+  "target_occ_key": "2144:havalandirma_ve_yangin_guvenligi_muhendisi",
+  "target_specialty": "Havalandırma ve Yangın Güvenliği Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Havalandırma ve Yangın Güvenlik Sistemleri Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30414",
+  "target_occ_key": "2144:hidroelektrik_santral_turbin_muhendisi",
+  "target_specialty": "Hidroelektrik Santral Türbin Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Hidroelektrik Santral (HES) Türbin Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30415",
+  "target_occ_key": "2144:hidrojen_yakit_hucresi_entegrasyon_muhendisi",
+  "target_specialty": "Hidrojen Yakıt Hücresi Entegrasyon Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Hidrojen Yakıt Hücreli Araç (FCEV) Entegrasyon Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30416",
+  "target_occ_key": "2144:insansiz_hava_araci_ucus_test_muhendisi",
+  "target_specialty": "İnsansız Hava Aracı Uçuş Test Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "İHA Uçuş Test ve Saha Operasyon Şefi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30417",
+  "target_occ_key": "2144:makine_bakim_ve_ikmal_muhendisi",
+  "target_specialty": "Makine Bakım ve İkmal Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Şantiye Makine Bakım ve İkmal Şefi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30418",
+  "target_occ_key": "2144:mekanik_ve_elektrik_tesisat_koordinasyon_muhendisi",
+  "target_specialty": "Mekanik ve Elektrik Tesisat Koordinasyon Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Şantiye Elektrik & Mekanik (MEP) Koordinatörü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30419",
+  "target_occ_key": "2144:motor_kalibrasyon_muhendisi",
+  "target_specialty": "Motor Kalibrasyon Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Junior Otomotiv Motor Kalibrasyon Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30420",
+  "target_occ_key": "2144:motor_mekanik_tasarim_muhendisi",
+  "target_specialty": "Motor Mekanik Tasarım Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "İçten Yanmalı Motor Mekanik Tasarım Mühendisi (Engine Mechanical)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30421",
+  "target_occ_key": "2144:otomotiv_cam_sistemleri_muhendisi",
+  "target_specialty": "Otomotiv Cam Sistemleri Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Otomotiv Cam Sistemleri ve Mekanik Entegrasyon Mühendisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30422",
+  "target_occ_key": "2144:otomotiv_ergonomi_muhendisi",
+  "target_specialty": "Otomotiv Ergonomi Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Otomotiv Kabin İçi Ergonomi ve HMI Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30423",
+  "target_occ_key": "2144:sogutma_ve_iklimlendirme_muhendisi",
+  "target_specialty": "Soğutma ve İklimlendirme Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Soğutma ve İklimlendirme Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30424",
+  "target_occ_key": "2144:teknik_enspektor",
+  "target_specialty": "Teknik Enspektör",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Teknik Enspektör (Technical Superintendent)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30425",
+  "target_occ_key": "2144:titresim_yalitimi_ve_elastomer_muhendisi",
+  "target_specialty": "Titreşim Yalıtımı ve Elastomer Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Titreşim Yalıtımı ve Elastomer Mühendisi (Engine Mounts)"
+  ],
+  "style": "detayli"
+ }
+]

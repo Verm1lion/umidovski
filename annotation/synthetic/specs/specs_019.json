@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30476",
+  "target_occ_key": "2163:endustriyel_urun_tasarimcisi",
+  "target_specialty": "Endüstriyel Ürün Tasarımcısı",
+  "target_isco4": "2163",
+  "target_isco_title": "Product and garment designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Endüstriyel Ürün Tasarımcısı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30477",
+  "target_occ_key": "2163:mobilya_tasarimcisi",
+  "target_specialty": "Mobilya Tasarımcısı",
+  "target_isco4": "2163",
+  "target_isco_title": "Product and garment designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Mobilya Tasarımcısı ve İç Mekan Çizimcisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30478",
+  "target_occ_key": "2163:tekstil_desen_tasarimcisi",
+  "target_specialty": "Tekstil Desen Tasarımcısı",
+  "target_isco4": "2163",
+  "target_isco_title": "Product and garment designers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "APPAREL_TEXTILE",
+  "industry_tr": "Tekstil ve Hazır Giyim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kumaş ve Desen Tasarımcısı (Tekstil)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30479",
+  "target_occ_key": "2163:yat_tasarimcisi",
+  "target_specialty": "Yat Tasarımcısı",
+  "target_isco4": "2163",
+  "target_isco_title": "Product and garment designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Yat ve Lüks Tekne Tasarımcısı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30480",
+  "target_occ_key": "2164:akilli_sehir_sistemleri_stratejisti",
+  "target_specialty": "Akıllı Şehir Sistemleri Stratejisti",
+  "target_isco4": "2164",
+  "target_isco_title": "Town and traffic planners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Akıllı Şehir Sistemleri Stratejisti"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30481",
+  "target_occ_key": "2164:ulasim_ve_trafik_planlama_muhendisi",
+  "target_specialty": "Ulaşım ve Trafik Planlama Mühendisi",
+  "target_isco4": "2164",
+  "target_isco_title": "Town and traffic planners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Ulaşım ve Trafik Planlama Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30482",
+  "target_occ_key": "2165:cografi_bilgi_sistemleri_uzmani",
+  "target_specialty": "Coğrafi Bilgi Sistemleri Uzmanı",
+  "target_isco4": "2165",
+  "target_isco_title": "Cartographers and surveyors",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Geographic Information Systems (GIS) Spatial Analyst"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30483",
+  "target_occ_key": "2166:3d_cevre_sanatcisi",
+  "target_specialty": "3D Çevre Sanatçısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Ankara",
+  "example_job_titles": [
+   "3D Çevre ve Mekan Konsept Sanatçısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30484",
+  "target_occ_key": "2166:3d_karakter_modelleme_sanatcisi",
+  "target_specialty": "3D Karakter Modelleme Sanatçısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "3D Karakter Modelleme ve Render Sanatçısı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30485",
+  "target_occ_key": "2166:3d_karakter_rigging_ve_animasyon_sanatcisi",
+  "target_specialty": "3D Karakter Rigging ve Animasyon Sanatçısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Bursa",
+  "example_job_titles": [
+   "3D Karakter Rigging ve Animasyon Sanatçısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30486",
+  "target_occ_key": "2166:gorsel_efekt_sanatcisi",
+  "target_specialty": "Görsel Efekt Sanatçısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Visual Effects (VFX) Supervisor"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30487",
+  "target_occ_key": "2166:kullanici_deneyimi_arastirmacisi",
+  "target_specialty": "Kullanıcı Deneyimi Araştırmacısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Kullanıcı Araştırmacısı (UX Researcher)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30488",
+  "target_occ_key": "2166:servis_tasarimcisi",
+  "target_specialty": "Servis Tasarımcısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CUSTOMER_SERVICE",
+  "industry_tr": "Müşteri Hizmetleri",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Müşteri Deneyimi ve Servis Tasarımı Lideri"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30489",
+  "target_occ_key": "2166:tasarim_sistemleri_yoneticisi",
+  "target_specialty": "Tasarım Sistemleri Yöneticisi",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Tasarım Sistemleri (Design Systems) Yöneticisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30490",
+  "target_occ_key": "2166:web_tasarimcisi",
+  "target_specialty": "Web Tasarımcısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Web Tasarımcısı ve Arayüz Kodlayıcı (HTML/CSS)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30491",
+  "target_occ_key": "2166:yazi_karakteri_tasarimcisi",
+  "target_specialty": "Yazı Karakteri Tasarımcısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Tipografi ve Yazı Karakteri (Font) Tasarımcısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30492",
+  "target_occ_key": "2212:enfeksiyon_hastaliklari_ve_klinik_mikrobiyoloji_uzmani",
+  "target_specialty": "Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Infectious Diseases & Clinical Microbiology Specialist (MD)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30493",
+  "target_occ_key": "2212:kadin_hastaliklari_ve_dogum_uzmani",
+  "target_specialty": "Kadın Hastalıkları ve Doğum Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Kadın Hastalıkları ve Doğum Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30494",
+  "target_occ_key": "2212:kalp_ve_damar_cerrahisi_uzmani",
+  "target_specialty": "Kalp ve Damar Cerrahisi Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kardiyovasküler Cerrahi (KVC) Uzman Hekimi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30495",
+  "target_occ_key": "2212:patoloji_uzmani",
+  "target_specialty": "Patoloji Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Patoloji Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30496",
+  "target_occ_key": "2212:plastik_rekonstruktif_ve_estetik_cerrahi_uzmani",
+  "target_specialty": "Plastik, Rekonstrüktif ve Estetik Cerrahi Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Plastik, Rekonstrüktif ve Estetik Cerrahi Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30497",
+  "target_occ_key": "2212:radyasyon_onkolojisi_uzmani",
+  "target_specialty": "Radyasyon Onkolojisi Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Adana",
+  "example_job_titles": [
+   "Radyasyon Onkolojisi Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30498",
+  "target_occ_key": "2212:tibbi_onkoloji_uzmani",
+  "target_specialty": "Tıbbi Onkoloji Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Tıbbi Onkoloji Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30499",
+  "target_occ_key": "2221:ameliyathane_hemsiresi",
+  "target_specialty": "Ameliyathane Hemşiresi",
+  "target_isco4": "2221",
+  "target_isco_title": "Nursing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Ameliyathane Hemşiresi (Scrub/Circulating - Yetiştirilmek Üzere)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30500",
+  "target_occ_key": "2221:diyaliz_hemsiresi",
+  "target_specialty": "Diyaliz Hemşiresi",
+  "target_isco4": "2221",
+  "target_isco_title": "Nursing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Trabzon",
+  "example_job_titles": [
+   "Diyaliz Ünitesi Hemşiresi"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

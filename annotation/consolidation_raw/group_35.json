@@ -1,0 +1,11 @@
+[
+{"specialty": "Sistem Odası Görevlisi", "isco4": "3511", "canonical_specialty": "Sistem Odası Görevlisi", "canonical_isco4": "3511"},
+{"specialty": "BT Destek Teknisyeni", "isco4": "3512", "canonical_specialty": "BT Destek Uzmanı", "canonical_isco4": "3512"},
+{"specialty": "BT Destek Uzmanı", "isco4": "3512", "canonical_specialty": "BT Destek Uzmanı", "canonical_isco4": "3512"},
+{"specialty": "Sistem Destek Analisti", "isco4": "3512", "canonical_specialty": "Sistem Destek Analisti", "canonical_isco4": "3512"},
+{"specialty": "Teknik Destek Uzmanı", "isco4": "3512", "canonical_specialty": "BT Destek Uzmanı", "canonical_isco4": "3512"},
+{"specialty": "Foley ve Ses Efekti Tasarımcısı", "isco4": "3521", "canonical_specialty": "Ses Tasarımcısı", "canonical_isco4": "3521"},
+{"specialty": "Kamera Operatörü", "isco4": "3521", "canonical_specialty": "Kamera Operatörü", "canonical_isco4": "3521"},
+{"specialty": "Ses Mühendisi", "isco4": "3521", "canonical_specialty": "Ses Mühendisi", "canonical_isco4": "3521"},
+{"specialty": "Ses Tasarımcısı", "isco4": "3521", "canonical_specialty": "Ses Tasarımcısı", "canonical_isco4": "3521"}
+]

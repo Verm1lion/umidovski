@@ -1,0 +1,273 @@
+[
+{
+"specialty": "İklimlendirme ve Radyatör Montaj Elemanı",
+"isco4": "8211",
+"isco_title": "Mechanical machinery assemblers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İklimlendirme & Radyatör Montaj Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kombi ve Isıtma Cihazları Montaj Elemanı",
+"isco4": "8211",
+"isco_title": "Mechanical machinery assemblers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kombi & Isıtma Cihazları Montaj Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Montaj Elemanı",
+"isco4": "8211",
+"isco_title": "Mechanical machinery assemblers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Mekanik Montaj Elemanı",
+"Üretim ve Montaj Kalfası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekatronik ve Pnömatik Montaj Elemanı",
+"isco4": "8211",
+"isco_title": "Mechanical machinery assemblers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mekatronik & Pnömatik Montaj Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Cam Montaj Operatörü",
+"isco4": "8211",
+"isco_title": "Mechanical machinery assemblers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv Cam Montaj ve Robotik Tutkallama Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Kaporta ve Sac Montaj Elemanı",
+"isco4": "8211",
+"isco_title": "Mechanical machinery assemblers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv Kaporta ve Sac Montaj Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Mekanik Montaj Elemanı",
+"isco4": "8211",
+"isco_title": "Mechanical machinery assemblers",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Otomotiv Kapı ve Kilit Mekanizması Montaj Elemanı",
+"Otomotiv Mekanik Montaj Elemanı",
+"Otomotiv Mekanik Montaj Hattı Elemanı (Yetiştirilmek Üzere)",
+"Otomotiv Şasi ve Motor Montaj Başustası",
+"Otomotiv Şasi ve Yürür Aksam Montaj Hat Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tarım Makineleri Montaj İşçisi",
+"isco4": "8211",
+"isco_title": "Mechanical machinery assemblers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tarım Makinaları & Römork Montaj İşçisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Beyaz Eşya Montaj İşçisi",
+"isco4": "8212",
+"isco_title": "Electrical and electronic equipment assemblers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Beyaz Eşya Hat Montaj İşçisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrik Pano Montajcısı",
+"isco4": "8212",
+"isco_title": "Electrical and electronic equipment assemblers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektrik Pano & Kablaj Montaj Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektronik Kart Dizgi ve Lehim Elemanı",
+"isco4": "8212",
+"isco_title": "Electrical and electronic equipment assemblers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektronik Kart (DIP/SMD) Manuel Dizgi & Lehim Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kablo Demeti Montaj Elemanı",
+"isco4": "8212",
+"isco_title": "Electrical and electronic equipment assemblers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv Kablo Demeti (Harness) Montaj Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Far Montaj Ustası",
+"isco4": "8212",
+"isco_title": "Electrical and electronic equipment assemblers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Otomotiv Far Montaj ve Ayar Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Asansör Kabin İmalat ve Montaj Elemanı",
+"isco4": "8219",
+"isco_title": "Assemblers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Asansör Kabin İmalat ve Montaj Elemanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bant Montaj İşçisi",
+"isco4": "8219",
+"isco_title": "Assemblers not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bant Montaj İşçisi (Assembler)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobilya Montaj Elemanı",
+"isco4": "8219",
+"isco_title": "Assemblers not elsewhere classified",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mobilya & Ahşap Montaj Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Montaj Elemanı",
+"isco4": "8219",
+"isco_title": "Assemblers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"MONTAJ PERSONELİ"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üretim Bandı Montaj Elemanı",
+"isco4": "8219",
+"isco_title": "Assemblers not elsewhere classified",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Montaj Elemanı - Üretim Bandı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üretim Hattı Operatörü",
+"isco4": "8219",
+"isco_title": "Assemblers not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Üretim Hattı Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+}
+]

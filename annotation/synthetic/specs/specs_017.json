@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30426",
+  "target_occ_key": "2144:turbosarj_sistemleri_muhendisi",
+  "target_specialty": "Turboşarj Sistemleri Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Turboşarj ve Aşırı Doldurma Mühendisi (Turbocharger Systems)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30427",
+  "target_occ_key": "2144:ucak_motoru_revizyon_muhendisi",
+  "target_specialty": "Uçak Motoru Revizyon Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Uçak Motoru Montaj ve Revizyon (MRO) Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30428",
+  "target_occ_key": "2144:ucak_yapisal_tasarim_muhendisi",
+  "target_specialty": "Uçak Yapısal Tasarım Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Uçak / Havacılık Yapısal Tasarım Mühendisi (CAD & Kompozit)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30429",
+  "target_occ_key": "2144:vana_ve_armatur_tasarim_muhendisi",
+  "target_specialty": "Vana ve Armatür Tasarım Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Pompa ve Vana Tasarım Mühendisi (Hidrolik & Akış)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30430",
+  "target_occ_key": "2144:yakit_sistemleri_tasarim_muhendisi",
+  "target_specialty": "Yakıt Sistemleri Tasarım Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Junior Otomotiv Yakıt Sistemleri ve Borulama Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30431",
+  "target_occ_key": "2145:biyokutle_ve_biyoenerji_proses_muhendisi",
+  "target_specialty": "Biyokütle ve Biyoenerji Proses Mühendisi",
+  "target_isco4": "2145",
+  "target_isco_title": "Chemical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Biyokütle ve Biyoenerji Proses Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30432",
+  "target_occ_key": "2145:biyoproses_saflastirma_muhendisi",
+  "target_specialty": "Biyoproses Saflaştırma Mühendisi",
+  "target_isco4": "2145",
+  "target_isco_title": "Chemical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Biyoproses Saflaştırma Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30433",
+  "target_occ_key": "2145:hidrojen_ve_yakit_pili_ar_ge_muhendisi",
+  "target_specialty": "Hidrojen ve Yakıt Pili Ar-Ge Mühendisi",
+  "target_isco4": "2145",
+  "target_isco_title": "Chemical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Hidrojen ve Yakıt Pili Ar-Ge Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30434",
+  "target_occ_key": "2145:kimya_ar_ge_muhendisi",
+  "target_specialty": "Kimya Ar-Ge Mühendisi",
+  "target_isco4": "2145",
+  "target_isco_title": "Chemical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Ar-Ge Mühendisi (Tüpraş)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30435",
+  "target_occ_key": "2145:tahil_ve_yem_proses_uzmani",
+  "target_specialty": "Tahıl ve Yem Proses Uzmanı",
+  "target_isco4": "2145",
+  "target_isco_title": "Chemical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Tahıl ve Yem Teknolojileri Proses Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30436",
+  "target_occ_key": "2146:acik_deniz_platform_muhendisi",
+  "target_specialty": "Açık Deniz Platform Mühendisi",
+  "target_isco4": "2146",
+  "target_isco_title": "Mining engineers, metallurgists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Açık Deniz (Offshore) Petrol ve Gaz Platform Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30437",
+  "target_occ_key": "2146:hassas_dokum_ve_metalurji_proses_uzmani",
+  "target_specialty": "Hassas Döküm ve Metalurji Proses Uzmanı",
+  "target_isco4": "2146",
+  "target_isco_title": "Mining engineers, metallurgists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Hassas Döküm ve Metalurji Proses Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30438",
+  "target_occ_key": "2146:jeotermal_enerji_sondaj_ve_kuyu_muhendisi",
+  "target_specialty": "Jeotermal Enerji Sondaj ve Kuyu Mühendisi",
+  "target_isco4": "2146",
+  "target_isco_title": "Mining engineers, metallurgists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Jeotermal Enerji Sondaj ve Kuyu Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30439",
+  "target_occ_key": "2146:korozyon_muhendisi",
+  "target_specialty": "Korozyon Mühendisi",
+  "target_isco4": "2146",
+  "target_isco_title": "Mining engineers, metallurgists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Junior Malzeme Seçimi ve Korozyon Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30440",
+  "target_occ_key": "2146:seramik_ve_refrakter_malzeme_muhendisi",
+  "target_specialty": "Seramik ve Refrakter Malzeme Mühendisi",
+  "target_isco4": "2146",
+  "target_isco_title": "Mining engineers, metallurgists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Seramik ve Refrakter Malzeme Geliştirme Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30441",
+  "target_occ_key": "2146:toz_metalurjisi_ve_katmanli_imalat_muhendisi",
+  "target_specialty": "Toz Metalurjisi ve Katmanlı İmalat Mühendisi",
+  "target_isco4": "2146",
+  "target_isco_title": "Mining engineers, metallurgists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Toz Metalurjisi ve Katmanlı İmalat (3D Baskı) Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30442",
+  "target_occ_key": "2146:triboloji_muhendisi",
+  "target_specialty": "Triboloji Mühendisi",
+  "target_isco4": "2146",
+  "target_isco_title": "Mining engineers, metallurgists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Triboloji ve Aşınma Analizi Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30443",
+  "target_occ_key": "2149:aydinlatma_ve_isik_kirliligi_analisti",
+  "target_specialty": "Aydınlatma ve Işık Kirliliği Analisti",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Aydınlatma ve Işık Kirliliği Analisti"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30444",
+  "target_occ_key": "2149:bina_enerji_modelleme_uzmani",
+  "target_specialty": "Bina Enerji Modelleme Uzmanı",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Bina Enerji Modelleme ve Simülasyon Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30445",
+  "target_occ_key": "2149:cam_ergitme_ve_firin_teknolojisi_muhendisi",
+  "target_specialty": "Cam Ergitme ve Fırın Teknolojisi Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Glass Melting & Furnace Technology Engineer"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30446",
+  "target_occ_key": "2149:enerji_sistemleri_muhendisi",
+  "target_specialty": "Enerji Sistemleri Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Enerji Sistemleri Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30447",
+  "target_occ_key": "2149:fonksiyonel_guvenlik_muhendisi",
+  "target_specialty": "Fonksiyonel Güvenlik Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Fonksiyonel Güvenlik ve Gömülü Yazılım Mimarı (ISO 26262 - ASIL D)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30448",
+  "target_occ_key": "2149:hassas_tarim_muhendisi",
+  "target_specialty": "Hassas Tarım Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Hassas Tarım ve IoT Çözümleri Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30449",
+  "target_occ_key": "2149:kompozit_malzeme_muhendisi",
+  "target_specialty": "Kompozit Malzeme Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Konya",
+  "example_job_titles": [
+   "İleri Kompozit ve Karbon Fiber Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30450",
+  "target_occ_key": "2149:makine_emniyeti_muhendisi",
+  "target_specialty": "Makine Emniyeti Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Junior Güvenlikli Otomasyon ve Emniyet Devreleri Mühendisi"
+  ],
+  "style": "detayli"
+ }
+]

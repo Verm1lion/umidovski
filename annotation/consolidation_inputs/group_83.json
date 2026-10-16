@@ -1,0 +1,1201 @@
+[
+{
+"specialty": "Tren Makinisti",
+"isco4": "8311",
+"isco_title": "Locomotive engine drivers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tren Makinisti"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Motorlu Kurye",
+"isco4": "8321",
+"isco_title": "Motorcycle drivers",
+"n_cv": 15,
+"n_job": 2,
+"ornek_unvanlar": [
+"A2 / B Sınıfı Motorlu Kurye",
+"Hızlı Teslimat Moto Kuryesi",
+"Kurumsal Evrak & İlaç Moto Kuryesi",
+"Kurye / Dağıtım Elemanı",
+"Medikal & Kan Numunesi Moto Kuryesi"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ambulans Şoförü",
+"isco4": "8322",
+"isco_title": "Car, taxi and van drivers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ambulans Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fabrika İçi Malzeme Taşıma Şoförü",
+"isco4": "8322",
+"isco_title": "Car, taxi and van drivers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Organize Sanayi İçi Ring ve Malzeme Taşıma Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hafif Ticari Araç Dağıtım Şoförü",
+"isco4": "8322",
+"isco_title": "Car, taxi and van drivers",
+"n_cv": 4,
+"n_job": 3,
+"ornek_unvanlar": [
+"Saha Dağıtım ve Kargo Teslim Elemanı",
+"Soğuk Araçlı Hafif Ticari Dağıtım Şoförü",
+"Soğuk Zincir Dağıtım Şoförü (Yetiştirilmek Üzere)",
+"Şehir İçi Dağıtım Şoförü (Yetiştirilmek Üzere)",
+"Şehir İçi Hafif Ticari Dağıtım Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Makam Şoförü",
+"isco4": "8322",
+"isco_title": "Car, taxi and van drivers",
+"n_cv": 6,
+"n_job": 2,
+"ornek_unvanlar": [
+"Makam & Aile Şoförü",
+"Makam Şoförü",
+"Servis ve Makam Şoförü (Driver)",
+"Üst Düzey Yönetici Makam Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Panelvan Dağıtım Kuryesi",
+"isco4": "8322",
+"isco_title": "Car, taxi and van drivers",
+"n_cv": 8,
+"n_job": 1,
+"ornek_unvanlar": [
+"E-Ticaret Panelvan Dağıtım Kuryesi",
+"Hafif Ticari Araç Kuryesi / Dağıtım Personeli",
+"Kurye / Dağıtım Elemanı"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Apron Araç Sürücüsü",
+"isco4": "8331",
+"isco_title": "Bus and tram drivers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Apron Araç Sürücüsü",
+"Apron Emniyet ve Şoför Görevlisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Okul Servis Şoförü",
+"isco4": "8331",
+"isco_title": "Bus and tram drivers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Okul Servis Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Personel Servis Şoförü",
+"isco4": "8331",
+"isco_title": "Bus and tram drivers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Hastane & Sağlık Personeli Servis Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şehirlerarası Otobüs Şoförü",
+"isco4": "8331",
+"isco_title": "Bus and tram drivers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şehirlerarası Otobüs Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Servis Şoförü",
+"isco4": "8331",
+"isco_title": "Bus and tram drivers",
+"n_cv": 8,
+"n_job": 0,
+"ornek_unvanlar": [
+"Personel Servis Şoförü",
+"Servis Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tramvay Vatmanı",
+"isco4": "8331",
+"isco_title": "Bus and tram drivers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tramvay ve Hafif Raylı Sistem Vatmanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "ADR Tanker Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"ADR Kimyasal Tanker Şoförü (SRC 5)",
+"Akaryakıt Tankeri Şoförü (İstasyon İkmal)",
+"Bitüm & Sıcak Asfalt Tankeri Şoförü",
+"Kimyasal Madde Tankeri Şoförü",
+"Kıdemli Tehlikeli Madde (ADR) Filo Başşoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağır Vasıta Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Ağır Vasıta ve Kamyon Şoförü (E-SRC)",
+"Ağır Vasıta ve Tır Şoförü (CE Sınıfı)",
+"Kıdemli Uluslararası Hat TIR Kaptanı (Başşoför)"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağır Vasıta Test Sürücüsü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ağır Ticari Araç Test ve Transfer Sürücüsü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağır Yük Çekici Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Ağır Yük ve Lowbed Dorseli Çekici Şoförü",
+"Kıdemli Ağır Gabari ve Proje Taşımacılığı Başkaptanı"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Canlı Hayvan Nakliye Tır Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Canlı Hayvan ve Yem Nakliye Tır Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Damperli Kamyon Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 5,
+"n_job": 5,
+"ornek_unvanlar": [
+"Asfalt Serim Kamyonu Şoförü",
+"Damperli Hafriyat Kamyonu Şoförü",
+"Damperli Hafriyat Kamyonu Şoförü (Yetiştirilmek Üzere)",
+"Damperli Maden Kamyonu Şoförü",
+"Damperli Yarı Römork Kömür ve Agrega Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Frigorifik Tır Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Frigorifik Tır Şoförü (Soğuk Zincir & Yaş Sebze Meyve)"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hafriyat Kamyonu Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Hafriyat Kamyonu ve Saha Elemanı",
+"Kaya Kamyonu ve Damperli Hafriyat Kamyonu Şoförü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kamyon Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Parsiyel Yük Dağıtım ve Toplama Kamyon Şoförü",
+"Zincir Market Bölge Dağıtım Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Konteyner Tır Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Liman ve Konteyner Filo Başşoförü",
+"Liman Konteyner Taşıyıcı Şoförü (Terminal & Kamyon)"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oto Kurtarıcı Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oto Çekici ve Kurtarıcı Araç Sürücüsü (Junior)"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oto Taşıyıcı Tır Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Otomotiv Filo Taşıyıcı Başkaptanı",
+"Oto Taşıyıcı (Autoliner) Tır Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Silobas Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kuru Dökme Yük Silobas Kamyon Şoförü",
+"Kıdemli Silobas ve Çimento Filo Denetmeni"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tanker Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 6,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tanker Şoförü",
+"Tehlikeli Madde (ADR) Akaryakıt Tankeri Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tehlikeli Madde Dağıtım Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tehlikeli Madde Kuru Yük ve Gaz Tüpü Dağıtım Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "TIR Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 7,
+"n_job": 1,
+"ornek_unvanlar": [
+"TIR / Kamyon Şoförü",
+"Yurtiçi Ağır Vasıta TIR Şoförü (Kapalı Kasa / Kuru Yük)",
+"Şehirlerarası Frigo TIR Şoförü",
+"Şehirlerarası Otomobil Taşıyıcı (Oto-Taşıyıcı) TIR Şoförü",
+"Şehirlerarası Silobas TIR Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Transmikser Operatörü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"MİKSER OPERATÖRÜ"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Transmikser Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"Hazır Beton Transmikser Şoförü (Kıdemli Operatör)",
+"Kıdemli Beton Santrali Lojistik ve Mikser Başşoförü",
+"Transmikser (Hazır Beton) Şoförü",
+"Şantiye Transmikser Şoför Yardımcısı (Başlangıç)"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uluslararası TIR Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 6,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uluslararası Canlı Hayvan Taşıma TIR Şoförü",
+"Uluslararası Frigo TIR Şoförü",
+"Uluslararası Konteyner TIR Şoförü",
+"Uluslararası Sal Dorse & Ağır Nakliyat Şoförü",
+"Uluslararası Uzunyol TIR Şoförü (CE - Avrupa Hattı)"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vinçli Araç ve Çekici Şoförü",
+"isco4": "8332",
+"isco_title": "Heavy truck and lorry drivers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Vinçli Araç / Çekici Şoförü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biçerdöver Operatörü",
+"isco4": "8341",
+"isco_title": "Mobile farm and forestry plant operators",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"G Sınıfı Biçerdöver Operatörü",
+"Tarım Makineleri ve Biçerdöver Operatörü"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Traktör Operatörü",
+"isco4": "8341",
+"isco_title": "Mobile farm and forestry plant operators",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"F Sınıfı Zirai Traktör Operatörü",
+"traktör Operatörü"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Asfalt Finişer Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 3,
+"n_job": 5,
+"ornek_unvanlar": [
+"Asfalt Finişer Operatörü (Vögele & Dynapac)",
+"Asfalt Serici Finişer Operatörü",
+"Asfalt Serici Operatörü",
+"Finisher Elemanı",
+"Finişer (Asfalt Serme) Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Beko Loder Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 4,
+"n_job": 5,
+"ornek_unvanlar": [
+"Beko Loder (Kazıcı-Yükleyici) Operatörü",
+"Beko Loder Elemanı",
+"Kanal Kazıcı ve Ağır Beko Loder Ustası",
+"Kıdemli Beko Loder ve Altyapı Şantiye Başustası",
+"Yetiştirilmek Üzere Beko Loder (JCB) Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Beton Pompa Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"BETON POMPA OPERATÖRÜ",
+"Beton Pompa ve Mikser Operatörü",
+"Beton Santral ve Pompa Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Beton Pompası Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mobil Beton Pompası Operatör Yardımcısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Buldozer Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Buldozer Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dozer Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Dozer ve Ağır Toprak Hareketi Başustası",
+"Paletli Ağır Dozer Operatörü (CAT D8 / D9)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ekskavatör Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 8,
+"n_job": 7,
+"ornek_unvanlar": [
+"EKSAVATÖR OPERATÖRÜ",
+"Eksavatör Elemanı",
+"Ekskavatör / Hafriyat Operatörü",
+"Ekskavatör Operatörü",
+"Ekskavatör ve Beko Loder Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fore Kazık Makinesi Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Fore Kazık Makinesi Operatörü (Bauer & Casagrande)",
+"Fore Kazık Makinesi Yardımcısı ve Bentonit Elemanı",
+"Kıdemli Fore Kazık ve Zemin İksa Başoperatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Greyder Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 2,
+"n_job": 4,
+"ornek_unvanlar": [
+"Grader Elemanı",
+"Greyder Operatörü",
+"Kıdemli Greyder Başoperatörü (Havalimanı & Otoyol)",
+"Lazer Greyder Operatörü (Hassas Yol Tesviyesi)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Jet Grout Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Jet Grouting ve Yüksek Basınç Enjeksiyon Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Loder Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Loder (Kepçe) Operatörü",
+"Loder / Yükleyici Operatörü",
+"Loder / Yükleyici İş Makinesi Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mini Ekskavatör Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mini Ekskavatör Operatörü",
+"Mini Ekskavatör Operatörü (Temel İçi & Dar Alan)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mini Yükleyici Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bobcat (Mini Yükleyici) Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobil Beton Pompası Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Mobil Beton Pompası Operatörü ve Sürücüsü",
+"Şantiye Mobil Beton Pompası Başoperatörü"
+],
+"sektorler": [
+"CONSTRUCTION",
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Paletli Ekskavatör Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Paletli Ağır Ekskavatör Operatörü (CAT & Komatsu)",
+"Paletli Ekskavatör Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Püskürtme Beton Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Robotik Püskürtme Beton (Shotcrete) Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": [
+"71"
+]
+},
+{
+"specialty": "Silindir Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Toprak ve Asfalt Silindiri Operatörü (Başlangıç)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "TBM Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"TBM (Tünel Delme Makinesi) Operatörü",
+"Tünel Açma Makinesi (TBM) Mekanik Başoperatörü",
+"Tünel Açıcı / TBM Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yol Silindiri Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yol Silindiri Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Zemin Ankraj Makinesi Operatörü",
+"isco4": "8342",
+"isco_title": "Earthmoving and related plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Zemin Ankrajı ve Enjeksiyon Makinesi Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hiyap Operatörü",
+"isco4": "8343",
+"isco_title": "Crane, hoist and related plant operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Hiyap (Kamyon Üstü Vinç) Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kule Vinç Operatörü",
+"isco4": "8343",
+"isco_title": "Crane, hoist and related plant operators",
+"n_cv": 7,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kule Vinç Operatörü",
+"Kule Vinç Operatörü (Potain / Liebherr)",
+"Kıdemli Ağır Tonaj Kule Vinç Başoperatörü",
+"Vinç Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Manlift Operatörü",
+"isco4": "8343",
+"isco_title": "Crane, hoist and related plant operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Manlift ve Platform Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobil Kule Vinç Operatörü",
+"isco4": "8343",
+"isco_title": "Crane, hoist and related plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mobil Kule Vinç Operatörü (Spierings / Liebherr)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobil ve Tavan Vinç Operatörü",
+"isco4": "8343",
+"isco_title": "Crane, hoist and related plant operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mobil ve Tavan Vinç Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobil Vinç Operatörü",
+"isco4": "8343",
+"isco_title": "Crane, hoist and related plant operators",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Mobil ve Paletli Vinç Başoperatörü (Rigging Supervisor)",
+"Mobil Vinç Operatörü",
+"Teleskopik Mobil Vinç Operatörü (50-100 Ton)",
+"Vinç Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Paletli Vinç Operatörü",
+"isco4": "8343",
+"isco_title": "Crane, hoist and related plant operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Büyük Tonaj Paletli Vinç Operatörü (150-300 Ton)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tavan Vinci Operatörü",
+"isco4": "8343",
+"isco_title": "Crane, hoist and related plant operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tavan Vinci Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağır Tonaj Forklift Operatörü",
+"isco4": "8344",
+"isco_title": "Lifting truck operators",
+"n_cv": 5,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ağır Hizmet Dizel/LPG Forklift Operatörü",
+"Ağır Tonaj Dizel Forklift Operatörü"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Akülü Transpalet Operatörü",
+"isco4": "8344",
+"isco_title": "Lifting truck operators",
+"n_cv": 9,
+"n_job": 2,
+"ornek_unvanlar": [
+"Akülü Transpalet & Cross-Docking Elemanı",
+"Akülü Transpalet & Mal Kabul Elemanı",
+"Akülü Transpalet & Sevkiyat Elemanı",
+"Akülü Transpalet & Sipariş Toplama Elemanı",
+"Akülü Transpalet & İstifleme Operatörü"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Apron Kargo Çekici Sürücüsü",
+"isco4": "8344",
+"isco_title": "Lifting truck operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Havalimanı Kargo Taşıma ve Apron Şoförü (Başlangıç)"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ataşmanlı Forklift Operatörü",
+"isco4": "8344",
+"isco_title": "Lifting truck operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ataşmanlı Forklift Operatörü (Balya & Bobin)",
+"Ataşmanlı Forklift Operatörü (Rotatör & Dökme)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dar Koridor İstif Makinesi Operatörü",
+"isco4": "8344",
+"isco_title": "Lifting truck operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Dar Koridor (VNA) İstif Operatörü"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Forklift Operatörü",
+"isco4": "8344",
+"isco_title": "Lifting truck operators",
+"n_cv": 11,
+"n_job": 3,
+"ornek_unvanlar": [
+"Forklift Operatörü",
+"Forklift Operatörü - Depo",
+"Forklift Operatörü - Liman",
+"Forklift Operatörü - İnşaat",
+"Forklift ve Depo Taşıma Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION",
+"MARITIME",
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Reach Stacker Operatörü",
+"isco4": "8344",
+"isco_title": "Lifting truck operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Konteyner Saha Reach Stacker (Dolu Elleçleme) Operatörü"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Reach Truck Operatörü",
+"isco4": "8344",
+"isco_title": "Lifting truck operators",
+"n_cv": 11,
+"n_job": 1,
+"ornek_unvanlar": [
+"Reach Truck Operatörü",
+"Reachtruck (Yüksek İrtifa) Operatörü"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yaya Kumandalı Akülü İstifleyici Operatörü",
+"isco4": "8344",
+"isco_title": "Lifting truck operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yaya Kumandalı Akülü İstifleyici Operatörü"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dümenci",
+"isco4": "8350",
+"isco_title": "Ships' deck crews and related workers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Dümenci / Helmsman",
+"Dümenci / Serdümen"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Yağcısı",
+"isco4": "8350",
+"isco_title": "Ships' deck crews and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yağcı / Makine Dairesi Elemanı (Gemi Adamı - Yetiştirilmek Üzere)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": [
+"81"
+]
+},
+{
+"specialty": "Gemici",
+"isco4": "8350",
+"isco_title": "Ships' deck crews and related workers",
+"n_cv": 12,
+"n_job": 8,
+"ornek_unvanlar": [
+"Gemi Adamı",
+"Gemici",
+"Gemici (Usta Gemici / Ordinary Seaman - Başlangıç)",
+"Gemici / Miço",
+"Güverte Elemanı / Deckhand"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güverte Tayfası",
+"isco4": "8350",
+"isco_title": "Ships' deck crews and related workers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Güverte Elemanı / Deckhand",
+"Güverte Personeli"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lostromo",
+"isco4": "8350",
+"isco_title": "Ships' deck crews and related workers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Lostromo / Boatswain",
+"Lostromo / Güverte Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Palamar Elemanı",
+"isco4": "8350",
+"isco_title": "Ships' deck crews and related workers",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"Liman Palamar ve Bağlama Görevlisi",
+"Marina Palamar ve Bot Operatörü",
+"Palamar Elemanı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+}
+]

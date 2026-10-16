@@ -1,0 +1,197 @@
+[
+{
+"id": "C10534",
+"kind": "CV",
+"title": "Uluslararası Taşımacılık Uzmanı",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "İstanbul",
+"context": {
+"ozet": "Uluslararası Taşımacılık Uzmanı olarak 1 yıllık profesyonel deneyime sahibim. Depo Operasyonları & Sevkiyat Koordinasyonu, SAP MM / SD Modülleri ve Stok Kontrolü & Güvenlik Stoğu Analizi alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen v…",
+"beceriler": "Depo Operasyonları & Sevkiyat Koordinasyonu, SAP MM / SD Modülleri, Stok Kontrolü & Güvenlik Stoğu Analizi, Stratejik Satınalma & Tedarikçi Yönetimi, Maliyet Azaltma & Fiyat Müzakeresi",
+"deneyim": [
+"Uluslararası Taşımacılık Uzmanı (2024 - Günümüz): CI/CD otomasyon boru hatlarını yapılandırarak birim ve entegrasyon testlerinin otomatik koşulmasını ve kesintisiz sürüm…",
+"Stajyer (Haziran 2023 - Temmuz 2023): ERP ve veri tabanı sistemlerine veri girişi sağlayarak raporlama öncesi veri tutarlılık ve doğrulama kontrollerini gerçekleştirdim."
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (İşletme) 2020 - 2024"
+]
+}
+},
+{
+"id": "J0501",
+"kind": "JOB",
+"title": "Uluslararası Taşımacılık Uzmanı",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "İzmir",
+"position_level": "MID_LEVEL",
+"mode": "Remote",
+"context": {
+"aciklama": "Borusan Lojistik Uluslararası Forwarding ve Taşımacılık Departmanında [şehir] ofisimizde müşterilerimizin uluslararası parsiyel (LTL) ve komple (FTL) karayolu taşımacılık operasyonlarını yönetecek Uluslararası Taşımacılık Uzmanı arıyoruz. Görev Tanımı ve Sorumluluklar: - Avrupa, Balkanlar ve BDT ülkelerine yönelik uluslararası karayolu yük taşımacılığı operasyonlarını uçtan uca organize etmek. - Müşterilerden gelen taşıma taleplerine uygun rota, transit süre ve rekabetçi navlun teklifleri hazırlamak. - Yabancı acente ağları ve alt taşeron nakl…"
+}
+},
+{
+"id": "J0134",
+"kind": "JOB",
+"title": "Vasıfsız Bay Depo Personeli",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "Kocaeli",
+"position_level": "UNSPECIFIED",
+"mode": "Hybrid",
+"context": {
+"aciklama": "[şehir] de ikamet eden 23-50 yaş arası fiziksel engeli olmayan,ekip çalışmasına uygun depoda yükleme boşaltma,istifleme yapacak bay personeller alınacaktır. Günlük yevmiye 1.650.tl ( yemek ücreti içinde) +Sgk+Ulaşım verilecektir. Ödemeler haftalık yapılacaktır."
+}
+},
+{
+"id": "J0133",
+"kind": "JOB",
+"title": "Vasıfsız Yukleme Boşaltma,Paketleme Bay  Personel",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "İstanbul",
+"position_level": "UNSPECIFIED",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] ve [şehir] de ikamet eden 23-50 yaş arası fiziksel engeli olmayan,ekip çalışmasına uygun depoda yükleme boşaltma,istifleme yapacak bay personeller alınacaktır. Günlük yevmiye 1.650.tl ( yemek ücreti içinde) +Sgk+Ulaşım verilecektir. Ödemeler haftalık yapılacaktır."
+}
+},
+{
+"id": "J0750",
+"kind": "JOB",
+"title": "Veri Ambarı (DWH) Mimarı",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "Kocaeli",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ekol Lojistik Bilgi Teknolojileri Direktörlüğü bünyesinde [şehir] merkezimizde global lojistik operasyonlarımızın devasa veri ambarı altyapısını ve analitik veri boru hatlarını inşa edecek Veri Ambarı (DWH) Mimarı arıyoruz. Görev Tanımı ve Sorumluluklar: - Depo (WMS), nakliye (TMS), gümrük ve ERP sistemlerinden akan yüksek hacimli operasyonel verileri toplayacak kurumsal veri ambarı (Data Warehouse) mimarisini tasarlamak. - Kimball boyutsal modelleme (dimensional modeling) prensiplerine uygun yıldız (star) ve kar tanesi (snowflake) şemaları ku…"
+}
+},
+{
+"id": "C10581",
+"kind": "CV",
+"title": "Warehouse & Distribution Manager",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "Ankara",
+"context": {
+"ozet": "Results-oriented Warehouse & Distribution Manager with 9+ years of enterprise experience and a solid educational foundation in Industrial Engineering. Proven track record in optimizing operational workflows, delivering scalable initiatives, and leveraging SAP MM / SD Modules, Logistics Network & Route Optimization and Cost Reduction & Contract Neg…",
+"beceriler": "SAP MM / SD Modules, Logistics Network & Route Optimization, Cost Reduction & Contract Negotiation, Supply Chain & Demand Forecasting, Inventory Control & Safety Stock Analysis, Strategic Procurement & Vendor Management",
+"deneyim": [
+"Warehouse & Distribution Manager (2023 - Present): Established supplier scorecard evaluations that shortened procurement cycle times and mitigated supply chain disruptio…",
+"Warehouse & Distribution Manager (2021 - 2023): Optimized warehouse inventory turnover utilizing advanced ERP replenishment models to balance safety stock against carryi…",
+"Intern (January 2019 - February 2019): Conducted preliminary market benchmark studies and competitive intelligence gathering to support strategic planning initiatives."
+],
+"egitim": [
+"TOBB ETU - Master's Degree (Industrial Engineering & Strategy) 2020 - 2022",
+"TOBB ETU - Bachelor's Degree (Industrial Engineering) 2016 - 2020"
+]
+}
+},
+{
+"id": "J2280",
+"kind": "JOB",
+"title": "WMS (Depo Yönetim Sistemi) ve Envanter Kontrol Uzmanı",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Mega dağıtım merkezimizde Manhattan / SAP EWM depo yazılımı üzerinden giriş, stok yeri atama, dalga planlama ve envanter doğruluğunu yönetecek WMS Uzmanı arıyoruz. Pozisyonun Temel Görevleri: - WMS sisteminde sipariş dalgalarını (wave planning) oluşturarak toplama ekiplerine iş emri dağıtmak - Hızlı ve yavaş hareket eden ürünlerin ABC analizine göre dinamik raf gözü optimizasyonunu (slotting) yapmak - Stok sayım farklarında sanal ve fiziki lokasyon hareketlerini geçmiş işlem kütüklerinden (log) analiz etmek - Müşteri ERP sistemleriyle WMS aras…"
+}
+},
+{
+"id": "C20758",
+"kind": "CV",
+"title": "Yaya Kumandalı Akülü İstifleyici Operatörü",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "Antalya",
+"context": {
+"ozet": "Üretim fabrikası hammadde ara deposunda yaya kumandalı elektrikli istif makinesi (stax) kullanmaktayım. Dar üretim koridorlarında operatör kabini olmadan hassas çatal kumandasıyla makinelerin yanındaki ara stok raflarına parça beslemesi yaparım.",
+"beceriler": "Yaya Kumandalı Akülü İstifleyici, Dar Alan Çatal Kontrolü, Üretim Bandı Malzeme Besleme, Jel Akü Şarj Yönetimi, Yaya Yolu ve Çizgi Güvenliği",
+"deneyim": [
+"Yaya Kumandalı Akülü İstifleyici Operatörü ([TARİH]): Montaj hattı kenarındaki 4 metre yükseklikteki ara raflara plastik kasa paletleri yaya kumandalı istifleyici ile iş…"
+],
+"egitim": [
+"Bursa Nilüfer Mesleki ve Teknik Anadolu Lisesi - Lise (Makine) [TARİH]"
+]
+}
+},
+{
+"id": "C11980",
+"kind": "CV",
+"title": "Yedek Parça Lojistiği ve Servis Parçaları Planlama Uzmanı (Aftermarket SCM)",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "Ankara",
+"context": {
+"ozet": "Otomotiv ve dayanıklı tüketim mallarında satış sonrası servis yedek parçaları planlaması, merkezi parça deposu operasyonları ve acil VOR sipariş karşılama uzmanıyım.",
+"beceriler": "Satış Sonrası Yedek Parça Planlama (Aftermarket), Araç Yolda Kaldı (VOR / Emergency Order) Süreçleri, Servis Parça Çeşitliliği ve Yaşam Döngüsü, Merkezi Depo - Bölge Dağıtım Ağı Entegrasyonu, Parça İkmal Süresi (Lead Ti…",
+"deneyim": [
+"Yedek Parça Lojistiği ve Servis Parçaları Planlama Uzmanı (Aftermarket SCM) ([TARİH]): Türkiye genelindeki 140 yetkili servise hizmet veren 35 bin SKU'luk yedek parça me…"
+],
+"egitim": [
+"Kocaeli Üniversitesi - Lisans (Endüstri Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11920",
+"kind": "CV",
+"title": "Yeşil Tedarik Zinciri ve Kapsam 3 Karbon Emisyonu Lojistik Uzmanı (ESG)",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "İstanbul",
+"context": {
+"ozet": "Tedarik zincirinde karbon ayak izi hesaplama (GHG Protocol Scope 3), çevre dostu ambalaj, intermodal taşımacılık dönüşümü ve AB Yeşil Mutabakatı uyumunda uzmanım.",
+"beceriler": "Kapsam 3 (Scope 3) Emisyon Modellemesi, Yeşil Tedarik Zinciri Yönetimi (Green SCM), Karayolundan Demiryolu / Denize Geçiş (Modal Shift), Sürdürülebilir Ambalaj ve Geri Dönüştürülebilir Palet, Tedarikçi Sürdürülebilirlik…",
+"deneyim": [
+"Yeşil Tedarik Zinciri ve Kapsam 3 Karbon Emisyonu Lojistik Uzmanı (ESG) ([TARİH]): İhracat rotalarında karayolu taşımacılığını Ro-Ro ve demiryolu intermodal ağlarına kay…"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Çevre Bilimleri / Endüstri Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "J0245",
+"kind": "JOB",
+"title": "Yük Taşıma ve Tahmil-Tahliye İşçisi",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "Mersin",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Marmara Teknik Tesisat ve Bakım Ltd. bünyesinde, [şehir] lokasyonumuzdaki operasyonlarımızda görevlendirilmek üzere tam zamanlı 'Yük Taşıma ve Tahmil-Tahliye İşçisi' kadromuza katılacaktır. İş Tanımı ve Temel Sorumluluklar: - Depo, rampa ve saha alanlarında ağır malzeme ve yüklerin emniyetli biçimde taşınması. - Kamyon, konteyner ve vagonların elleçleme ve istifleme kurallarına göre yüklenip boşaltılması. - Yüklerin sabitlenmesi, takozlanması ve branda çekme işlemlerinin gerçekleştirilmesi. - İş Sağlığı ve Güvenliği kurallarına, ergonomik yük …"
+}
+},
+{
+"id": "C20291",
+"kind": "CV",
+"title": "Yükleme Boşaltma İşçisi",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "Kocaeli",
+"context": {
+"ozet": "Konteyner ve tır boşaltma operasyonlarında seri hareket edebilen, ekip çalışmasına yatkın bir sevkiyat elemanıyım. Gelen malların irsaliye ile eşleştirilerek depoya düzenli yerleştirilmesinde aktif rol alırım. Yoğun tempolu lojistik merkezlerinde enerjimi her zaman yüksek tutarım.",
+"beceriler": "Konteyner Boşaltma, Depo İstifleme",
+"deneyim": [
+"Yükleme Boşaltma İşçisi ([TARİH]): [ŞİRKET] lojistik deposunda tır ve kamyonlardan gelen paletli kolilerin akülü ve manuel transpalet kullanarak rampa üzerinden boşaltım…"
+],
+"egitim": [
+"[OKUL] - İlkokul () [TARİH]"
+]
+}
+},
+{
+"id": "C20299",
+"kind": "CV",
+"title": "Yükleme Boşaltma İşçisi",
+"industry": "SUPPLY_CHAIN_LOGISTICS",
+"city": "Ankara",
+"context": {
+"ozet": "Lojistik depolarında ve sevkiyat alanlarında ürünlerin güvenli bir şekilde araçlara yüklenmesini sağlayan bedensel olarak güçlü bir işçiyim. Ürünlerin kırılmadan ve hasar görmeden istiflenmesi konusunda dikkatli hareket ederim. Transpalet ve el arabası gibi ekipmanları kullanarak iş akışını hızlandırırım.",
+"beceriler": "Ağır Yük Taşıma, Fiziksel Dayanıklılık, Konteyner Boşaltma",
+"deneyim": [
+"Yükleme Boşaltma İşçisi ([TARİH]): [ŞİRKET] sevkiyat alanında dökme çuvallı ve ağır paketli ürünlerin el arabası ve vinç sapanı yardımıyla konteyner ve kamyon kasalarına…"
+],
+"egitim": [
+"[OKUL] - İlkokul () [TARİH]"
+]
+}
+}
+]

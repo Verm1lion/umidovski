@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30326",
+  "target_occ_key": "1345:egitim_kalite_ve_akreditasyon_muduru",
+  "target_specialty": "Eğitim Kalite ve Akreditasyon Müdürü",
+  "target_isco4": "1345",
+  "target_isco_title": "Education managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Eğitim Kurumu Kalite Akreditasyon Yöneticisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30327",
+  "target_occ_key": "1345:kariyer_merkezi_muduru",
+  "target_specialty": "Kariyer Merkezi Müdürü",
+  "target_isco4": "1345",
+  "target_isco_title": "Education managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Öğrenci Kariyer Merkezi Direktörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30328",
+  "target_occ_key": "1349:acil_durum_ve_yangin_guvenlik_muduru",
+  "target_specialty": "Acil Durum ve Yangın Güvenlik Müdürü",
+  "target_isco4": "1349",
+  "target_isco_title": "Professional services managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SECURITY_EMERGENCY",
+  "industry_tr": "Güvenlik ve Acil Durum",
+  "city": "Adana",
+  "example_job_titles": [
+   "Kıdemli Acil Durum ve Yangın Güvenlik Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30329",
+  "target_occ_key": "1412:banket_muduru",
+  "target_specialty": "Banket Müdürü",
+  "target_isco4": "1412",
+  "target_isco_title": "Restaurant managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Ziyafet ve Etkinlik Operasyon Müdürü (Banquet Manager)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30330",
+  "target_occ_key": "1412:bar_muduru",
+  "target_specialty": "Bar Müdürü",
+  "target_isco4": "1412",
+  "target_isco_title": "Restaurant managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Bar ve Miksoloji Operasyon Yöneticisi (Bar Manager)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30331",
+  "target_occ_key": "1412:restoran_muduru",
+  "target_specialty": "Restoran Müdürü",
+  "target_isco4": "1412",
+  "target_isco_title": "Restaurant managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Restoran Müdürü (Restaurant General Manager)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30332",
+  "target_occ_key": "1412:restoran_operasyon_muduru",
+  "target_specialty": "Restoran Operasyon Müdürü",
+  "target_isco4": "1412",
+  "target_isco_title": "Restaurant managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Lüks Restoranlar İşletme Direktörü (Director of Operations)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30333",
+  "target_occ_key": "1412:yiyecek_ve_icecek_muduru",
+  "target_specialty": "Yiyecek ve İçecek Müdürü",
+  "target_isco4": "1412",
+  "target_isco_title": "Restaurant managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Yiyecek & İçecek Direktörü (Director of Food & Beverage)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30334",
+  "target_occ_key": "1431:spor_salonu_muduru",
+  "target_specialty": "Spor Salonu Müdürü",
+  "target_isco4": "1431",
+  "target_isco_title": "Sports, recreation and cultural centre managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SPORTS",
+  "industry_tr": "Spor",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Spor Salonu Müdürü / Tesis Yöneticisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30335",
+  "target_occ_key": "1439:is_gucu_planlama_muduru",
+  "target_specialty": "İş Gücü Planlama Müdürü",
+  "target_isco4": "1439",
+  "target_isco_title": "Services managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CUSTOMER_SERVICE",
+  "industry_tr": "Müşteri Hizmetleri",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Senior WFM & Resource Planning Manager"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30336",
+  "target_occ_key": "1439:teknik_servis_muduru",
+  "target_specialty": "Teknik Servis Müdürü",
+  "target_isco4": "1439",
+  "target_isco_title": "Services managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CUSTOMER_SERVICE",
+  "industry_tr": "Müşteri Hizmetleri",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Teknik Destek ve Saha Operasyonları Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30337",
+  "target_occ_key": "2111:astrofizik_ve_uzay_bilimleri_arastirmacisi",
+  "target_specialty": "Astrofizik ve Uzay Bilimleri Araştırmacısı",
+  "target_isco4": "2111",
+  "target_isco_title": "Physicists and astronomers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Astrofizik ve Uzay Bilimleri Araştırmacısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30338",
+  "target_occ_key": "2111:fizik_muhendisi",
+  "target_specialty": "Fizik Mühendisi",
+  "target_isco4": "2111",
+  "target_isco_title": "Physicists and astronomers",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Junior Fizik Mühendisi (Optik & Sensör Testleri)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30339",
+  "target_occ_key": "2111:hesaplamali_fizik_uzmani",
+  "target_specialty": "Hesaplamalı Fizik Uzmanı",
+  "target_isco4": "2111",
+  "target_isco_title": "Physicists and astronomers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Hesaplamalı Fizik ve Malzeme Simülasyon Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30340",
+  "target_occ_key": "2112:meteoroloji_muhendisi",
+  "target_specialty": "Meteoroloji Mühendisi",
+  "target_isco4": "2112",
+  "target_isco_title": "Meteorologists",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Meteoroloji Mühendisi ve Sayısal Hava Tahmincisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30341",
+  "target_occ_key": "2113:aroma_ve_lezzet_kimyageri",
+  "target_specialty": "Aroma ve Lezzet Kimyageri",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Aroma ve Lezzet Kimyageri (Flavourist)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30342",
+  "target_occ_key": "2113:kromatografi_analisti",
+  "target_specialty": "Kromatografi Analisti",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kromatografi (HPLC / GC-MS) Kıdemli Analisti"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30343",
+  "target_occ_key": "2113:kutle_spektrometrisi_uzmani",
+  "target_specialty": "Kütle Spektrometrisi Uzmanı",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Kütle Spektrometrisi (MS/MS) Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30344",
+  "target_occ_key": "2113:nanoteknoloji_ve_yuzey_kimyasi_arastirmacisi",
+  "target_specialty": "Nanoteknoloji ve Yüzey Kimyası Araştırmacısı",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kıdemli Nanoteknoloji ve Yüzey Kimyası Araştırmacısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30345",
+  "target_occ_key": "2113:nukleer_manyetik_rezonans_spektroskopisti",
+  "target_specialty": "Nükleer Manyetik Rezonans Spektroskopisti",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Nükleer Manyetik Rezonans (NMR) Spektroskopisti"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30346",
+  "target_occ_key": "2113:organik_sentez_kimyageri",
+  "target_specialty": "Organik Sentez Kimyageri",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Organik Sentez ve İlaç Kimyası Araştırmacısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30347",
+  "target_occ_key": "2113:polimer_karakterizasyon_ve_reoloji_uzmani",
+  "target_specialty": "Polimer Karakterizasyon ve Reoloji Uzmanı",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Polymer Characterization & Rheology Specialist"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30348",
+  "target_occ_key": "2114:jeoloji_muhendisi",
+  "target_specialty": "Jeoloji Mühendisi",
+  "target_isco4": "2114",
+  "target_isco_title": "Geologists and geophysicists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Jeoloji Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30349",
+  "target_occ_key": "2114:osinografi_ve_deniz_bilimleri_uzmani",
+  "target_specialty": "Oşinografi ve Deniz Bilimleri Uzmanı",
+  "target_isco4": "2114",
+  "target_isco_title": "Geologists and geophysicists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Oşinografi ve Deniz Bilimleri Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30350",
+  "target_occ_key": "2120:istatistikci",
+  "target_specialty": "İstatistikçi",
+  "target_isco4": "2120",
+  "target_isco_title": "Mathematicians, actuaries and statisticians",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Junior İstatistikçi (Ar-Ge Deney Tasarımı & DoE)"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

@@ -1,0 +1,701 @@
+{
+  "A_profil": {
+    "cv_rows": 3043,
+    "cv_columns": [
+      "cv_id",
+      "collar",
+      "NaturalTitle",
+      "Category",
+      "location",
+      "cv_text",
+      "cv_json"
+    ],
+    "cv_id_range": [
+      10000,
+      21043
+    ],
+    "cv_unique_ids": 3043,
+    "cv_unique_titles": 2486,
+    "cv_collar": {
+      "BEYAZ": 2035,
+      "MAVI": 1008
+    },
+    "cv_category": {
+      "INDUSTRIAL_MANUFACTURING": 458,
+      "CONSTRUCTION": 413,
+      "IT_SOFTWARE": 369,
+      "FINANCE_ACCOUNTING": 254,
+      "SALES": 161,
+      "HEALTHCARE": 131,
+      "SUPPLY_CHAIN_LOGISTICS": 130,
+      "CHEF_HORECA": 117,
+      "MARKETING_MEDIA": 111,
+      "HR": 102,
+      "LEGAL": 89,
+      "SCIENCE_RND": 88,
+      "LOGISTICS_DRIVER": 82,
+      "CREATIVE_DESIGN": 76,
+      "MARITIME": 72,
+      "EDUCATION": 63,
+      "OFFICE_ADMIN_MGMT": 55,
+      "JANITORIAL_FACILITY": 45,
+      "AVIATION": 43,
+      "APPAREL_TEXTILE": 42,
+      "AGRICULTURE": 41,
+      "SECURITY_EMERGENCY": 31,
+      "ENV_ESG": 30,
+      "SPORTS": 20,
+      "BEAUTY_CARE": 12,
+      "CUSTOMER_SERVICE": 8
+    },
+    "cv_location_top15": {
+      "İstanbul": 909,
+      "Ankara": 642,
+      "İzmir": 274,
+      "Bursa": 185,
+      "Kocaeli": 180,
+      "Antalya": 102,
+      "Eskişehir": 96,
+      "Adana": 89,
+      "Mersin": 68,
+      "Gaziantep": 60,
+      "Konya": 57,
+      "Hatay": 53,
+      "Samsun": 51,
+      "Muğla": 35,
+      "Trabzon": 34
+    },
+    "cv_location_n": 34,
+    "cv_empty": {
+      "about_bos": 0,
+      "skills_bos": 0,
+      "experience_bos": 51,
+      "education_bos": 0,
+      "certifications_bos": 545,
+      "maske_[TARİH]": 1952,
+      "maske_[ŞİRKET]": 1928,
+      "maske_[ÜNİVERSİTE]": 304,
+      "maske_[OKUL]": 312
+    },
+    "cv_ingilizce_agirlikli": 285,
+    "cv_text_len": {
+      "count": 3043.0,
+      "mean": 1099.8,
+      "std": 269.4,
+      "min": 410.0,
+      "25%": 913.0,
+      "50%": 1051.0,
+      "75%": 1257.5,
+      "max": 2129.0
+    },
+    "cv_kidem_metinden_0_5": {
+      "0": 10,
+      "1": 65,
+      "2": 2148,
+      "3": 638,
+      "4": 168,
+      "5": 14
+    },
+    "cv_kategori_x_yaka": {
+      "AGRICULTURE": {
+        "BEYAZ": 2,
+        "MAVI": 39
+      },
+      "APPAREL_TEXTILE": {
+        "BEYAZ": 9,
+        "MAVI": 33
+      },
+      "AVIATION": {
+        "BEYAZ": 22,
+        "MAVI": 21
+      },
+      "BEAUTY_CARE": {
+        "BEYAZ": 0,
+        "MAVI": 12
+      },
+      "CHEF_HORECA": {
+        "BEYAZ": 0,
+        "MAVI": 117
+      },
+      "CONSTRUCTION": {
+        "BEYAZ": 217,
+        "MAVI": 196
+      },
+      "CREATIVE_DESIGN": {
+        "BEYAZ": 76,
+        "MAVI": 0
+      },
+      "CUSTOMER_SERVICE": {
+        "BEYAZ": 5,
+        "MAVI": 3
+      },
+      "EDUCATION": {
+        "BEYAZ": 57,
+        "MAVI": 6
+      },
+      "ENV_ESG": {
+        "BEYAZ": 26,
+        "MAVI": 4
+      },
+      "FINANCE_ACCOUNTING": {
+        "BEYAZ": 248,
+        "MAVI": 6
+      },
+      "HEALTHCARE": {
+        "BEYAZ": 100,
+        "MAVI": 31
+      },
+      "HR": {
+        "BEYAZ": 96,
+        "MAVI": 6
+      },
+      "INDUSTRIAL_MANUFACTURING": {
+        "BEYAZ": 245,
+        "MAVI": 213
+      },
+      "IT_SOFTWARE": {
+        "BEYAZ": 361,
+        "MAVI": 8
+      },
+      "JANITORIAL_FACILITY": {
+        "BEYAZ": 0,
+        "MAVI": 45
+      },
+      "LEGAL": {
+        "BEYAZ": 84,
+        "MAVI": 5
+      },
+      "LOGISTICS_DRIVER": {
+        "BEYAZ": 0,
+        "MAVI": 82
+      },
+      "MARITIME": {
+        "BEYAZ": 22,
+        "MAVI": 50
+      },
+      "MARKETING_MEDIA": {
+        "BEYAZ": 107,
+        "MAVI": 4
+      },
+      "OFFICE_ADMIN_MGMT": {
+        "BEYAZ": 46,
+        "MAVI": 9
+      },
+      "SALES": {
+        "BEYAZ": 148,
+        "MAVI": 13
+      },
+      "SCIENCE_RND": {
+        "BEYAZ": 88,
+        "MAVI": 0
+      },
+      "SECURITY_EMERGENCY": {
+        "BEYAZ": 0,
+        "MAVI": 31
+      },
+      "SPORTS": {
+        "BEYAZ": 5,
+        "MAVI": 15
+      },
+      "SUPPLY_CHAIN_LOGISTICS": {
+        "BEYAZ": 71,
+        "MAVI": 59
+      }
+    },
+    "job_rows": 3000,
+    "job_unique_titles": 2973,
+    "job_industry": {
+      "INDUSTRIAL_MANUFACTURING": 435,
+      "IT_SOFTWARE": 410,
+      "CONSTRUCTION": 320,
+      "HEALTHCARE": 207,
+      "FINANCE_ACCOUNTING": 194,
+      "SALES": 145,
+      "MARKETING_MEDIA": 143,
+      "CHEF_HORECA": 116,
+      "HR": 102,
+      "SCIENCE_RND": 97,
+      "SUPPLY_CHAIN_LOGISTICS": 93,
+      "LEGAL": 92,
+      "EDUCATION": 71,
+      "MARITIME": 71,
+      "AGRICULTURE": 67,
+      "CREATIVE_DESIGN": 61,
+      "AVIATION": 55,
+      "LOGISTICS_DRIVER": 55,
+      "CUSTOMER_SERVICE": 53,
+      "APPAREL_TEXTILE": 48,
+      "JANITORIAL_FACILITY": 43,
+      "OFFICE_ADMIN_MGMT": 37,
+      "SECURITY_EMERGENCY": 32,
+      "ENV_ESG": 29,
+      "SPORTS": 16,
+      "BEAUTY_CARE": 8
+    },
+    "job_position_level": {
+      "SPECIALIST": 762,
+      "SENIOR": 748,
+      "MID": 570,
+      "ENTRY": 351,
+      "LEAD": 160,
+      "ENTRY_LEVEL": 131,
+      "MANAGER": 85,
+      "UNSPECIFIED": 59,
+      "MID_LEVEL": 56,
+      "INTERN": 41,
+      "ASSISTANT_SPECIALIST": 12,
+      "SENIOR_SPECIALIST": 8,
+      "ASSISTANT": 8,
+      "NEW_GRADUATE": 5,
+      "DIRECTOR": 2,
+      "TEAM_LEAD": 1,
+      "EXECUTIVE": 1
+    },
+    "job_mode": {
+      "OnSite": 2026,
+      "Hybrid": 800,
+      "Remote": 174
+    },
+    "job_type": {
+      "FullTime": 2845,
+      "PartTime": 126,
+      "Internship": 12,
+      "Freelance": 8,
+      "Daily": 8,
+      "Contract": 1
+    },
+    "job_city_top15": {
+      "İstanbul": 1252,
+      "Kocaeli": 379,
+      "Ankara": 321,
+      "Bursa": 297,
+      "İzmir": 211,
+      "Antalya": 140,
+      "Eskişehir": 129,
+      "Adana": 36,
+      "Mersin": 34,
+      "Muğla": 33,
+      "Samsun": 29,
+      "Balıkesir": 25,
+      "Konya": 22,
+      "Gaziantep": 20,
+      "Trabzon": 19
+    },
+    "job_language": {
+      "TR": 2439,
+      "YOK": 500,
+      "EN": 61
+    },
+    "job_desc_len": {
+      "count": 3000.0,
+      "mean": 1049.0,
+      "std": 335.6,
+      "min": 63.0,
+      "25%": 917.8,
+      "50%": 1062.5,
+      "75%": 1244.2,
+      "max": 3399.0
+    },
+    "job_desc_kisa_lt200": 25,
+    "job_desc_bos": 0,
+    "job_sehir_maskeli": 1837,
+    "job_title_tekrar": 27,
+    "job_industry_raw_category_esit": 100.0,
+    "job_has_salary": {
+      "False": 1768,
+      "True": 34
+    },
+    "sektor_cv_ilan_orani": {
+      "AGRICULTURE": {
+        "cv": 41,
+        "ilan": 67,
+        "oran": 0.61
+      },
+      "APPAREL_TEXTILE": {
+        "cv": 42,
+        "ilan": 48,
+        "oran": 0.88
+      },
+      "AVIATION": {
+        "cv": 43,
+        "ilan": 55,
+        "oran": 0.78
+      },
+      "BEAUTY_CARE": {
+        "cv": 12,
+        "ilan": 8,
+        "oran": 1.5
+      },
+      "CHEF_HORECA": {
+        "cv": 117,
+        "ilan": 116,
+        "oran": 1.01
+      },
+      "CONSTRUCTION": {
+        "cv": 413,
+        "ilan": 320,
+        "oran": 1.29
+      },
+      "CREATIVE_DESIGN": {
+        "cv": 76,
+        "ilan": 61,
+        "oran": 1.25
+      },
+      "CUSTOMER_SERVICE": {
+        "cv": 8,
+        "ilan": 53,
+        "oran": 0.15
+      },
+      "EDUCATION": {
+        "cv": 63,
+        "ilan": 71,
+        "oran": 0.89
+      },
+      "ENV_ESG": {
+        "cv": 30,
+        "ilan": 29,
+        "oran": 1.03
+      },
+      "FINANCE_ACCOUNTING": {
+        "cv": 254,
+        "ilan": 194,
+        "oran": 1.31
+      },
+      "HEALTHCARE": {
+        "cv": 131,
+        "ilan": 207,
+        "oran": 0.63
+      },
+      "HR": {
+        "cv": 102,
+        "ilan": 102,
+        "oran": 1.0
+      },
+      "INDUSTRIAL_MANUFACTURING": {
+        "cv": 458,
+        "ilan": 435,
+        "oran": 1.05
+      },
+      "IT_SOFTWARE": {
+        "cv": 369,
+        "ilan": 410,
+        "oran": 0.9
+      },
+      "JANITORIAL_FACILITY": {
+        "cv": 45,
+        "ilan": 43,
+        "oran": 1.05
+      },
+      "LEGAL": {
+        "cv": 89,
+        "ilan": 92,
+        "oran": 0.97
+      },
+      "LOGISTICS_DRIVER": {
+        "cv": 82,
+        "ilan": 55,
+        "oran": 1.49
+      },
+      "MARITIME": {
+        "cv": 72,
+        "ilan": 71,
+        "oran": 1.01
+      },
+      "MARKETING_MEDIA": {
+        "cv": 111,
+        "ilan": 143,
+        "oran": 0.78
+      },
+      "OFFICE_ADMIN_MGMT": {
+        "cv": 55,
+        "ilan": 37,
+        "oran": 1.49
+      },
+      "SALES": {
+        "cv": 161,
+        "ilan": 145,
+        "oran": 1.11
+      },
+      "SCIENCE_RND": {
+        "cv": 88,
+        "ilan": 97,
+        "oran": 0.91
+      },
+      "SECURITY_EMERGENCY": {
+        "cv": 31,
+        "ilan": 32,
+        "oran": 0.97
+      },
+      "SPORTS": {
+        "cv": 20,
+        "ilan": 16,
+        "oran": 1.25
+      },
+      "SUPPLY_CHAIN_LOGISTICS": {
+        "cv": 130,
+        "ilan": 93,
+        "oran": 1.4
+      }
+    }
+  },
+  "B_sablon": {
+    "sablon_cumle_sayisi_ge5cv": 113,
+    "sablon_cumle_iceren_cv_orani": 38.32,
+    "en_sik_sablon_cumleler": [
+      {
+        "cumle": "takım çalışmasına uyumlu dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bilinci yüksek bir uzmanım",
+        "cv_sayisi": 218
+      },
+      {
+        "cumle": "unvan kapsamında uçtan uca süreç iyileştirme ve entegrasyon projesi",
+        "cv_sayisi": 198
+      },
+      {
+        "cumle": "a reliable team contributor committed to professional excellence and organizational goals",
+        "cv_sayisi": 155
+      },
+      {
+        "cumle": "diller english professional working proficiency native turkish professional native",
+        "cv_sayisi": 153
+      },
+      {
+        "cumle": "end to end unvan ınfrastructure and optimization ınitiative",
+        "cv_sayisi": 145
+      },
+      {
+        "cumle": "süreç verimliliğini artıran veri odaklı karar alabilen ve ekipler arası iletişimi güçlü bir profesyonel olarak çalıştığım kuruma ölçülebilir değer katmayı hedef",
+        "cv_sayisi": 66
+      },
+      {
+        "cumle": "öğrenmeye açık analitik düşünme yeteneğine sahip ve kurum hedeflerine katkı sunmaya hazır dinamik bir adayım",
+        "cv_sayisi": 60
+      },
+      {
+        "cumle": "highly motivated detail oriented and eager to deliver value in an entry level capacity",
+        "cv_sayisi": 55
+      },
+      {
+        "cumle": "diller english professional working proficiency native turkish professional native german ıntermediate b1",
+        "cv_sayisi": 54
+      },
+      {
+        "cumle": "adept at cross functional leadership stakeholder engagement and executing data driven solutions aligned with business objectives",
+        "cv_sayisi": 48
+      },
+      {
+        "cumle": "özet hakkında unvan olarak 2 yıllık profesyonel deneyime sahibim",
+        "cv_sayisi": 46
+      },
+      {
+        "cumle": "özet hakkında unvan olarak 3 yıllık profesyonel deneyime sahibim",
+        "cv_sayisi": 46
+      }
+    ],
+    "neredeyse_kopya_cift_cos_ge_0.8": 1,
+    "neredeyse_kopya_kume_icindeki_cv_cos_ge_0.8": 2,
+    "neredeyse_kopya_cift_cos_ge_0.9": 0,
+    "neredeyse_kopya_kume_icindeki_cv_cos_ge_0.9": 0,
+    "neredeyse_kopya_cift_cos_ge_0.95": 0,
+    "neredeyse_kopya_kume_icindeki_cv_cos_ge_0.95": 0
+  },
+  "C_eski_split": {
+    "train_cv": 2593,
+    "test_cv": 450,
+    "id_kesisimi": 0,
+    "test_unvani_trainde_birebir_var": 30.89,
+    "test_train_max_cos_quantiles": {
+      "0.1": 0.142,
+      "0.25": 0.185,
+      "0.5": 0.328,
+      "0.75": 0.52,
+      "0.9": 0.628
+    },
+    "test_cv_trainde_cos_ge_0.7_ikizi_var": 2.44,
+    "test_cv_trainde_cos_ge_0.8_ikizi_var": 0.0,
+    "test_cv_trainde_cos_ge_0.9_ikizi_var": 0.0,
+    "test_cv_trainle_birebir_cumle_paylasan": 54.0,
+    "kategori_js_divergence_bits": 0.0002,
+    "test_yaka": {
+      "BEYAZ": 299,
+      "MAVI": 151
+    },
+    "test_kategori_top10": {
+      "INDUSTRIAL_MANUFACTURING": 67,
+      "CONSTRUCTION": 61,
+      "IT_SOFTWARE": 54,
+      "FINANCE_ACCOUNTING": 37,
+      "SALES": 24,
+      "HEALTHCARE": 20,
+      "SUPPLY_CHAIN_LOGISTICS": 20,
+      "MARKETING_MEDIA": 17,
+      "CHEF_HORECA": 17,
+      "HR": 15
+    },
+    "trainde_pozitif_gorulen_ilan": 2076,
+    "trainde_herhangi_gorulen_ilan": 2853,
+    "test_icin_ayni_sektor_ilanlarin_trainde_pozitif_orani": 70.67
+  },
+  "D_train_etiketleri": {
+    "satir": 25906,
+    "match_type": {
+      "HARD_NEG": 12836,
+      "SOFT_POS": 6485,
+      "SOFT_NEG": 5100,
+      "EXACT_POS": 1485
+    },
+    "match_type_ozet": {
+      "EXACT_POS": {
+        "n": 1485,
+        "label_ort": 0.971,
+        "label_tekil_deger": 97,
+        "sim_ort": 0.869,
+        "pearson_label_sim": 0.545,
+        "ayni_sektor_orani": 95.69
+      },
+      "HARD_NEG": {
+        "n": 12836,
+        "label_ort": 0.0,
+        "label_tekil_deger": 1,
+        "sim_ort": -0.051,
+        "pearson_label_sim": null,
+        "ayni_sektor_orani": 0.0
+      },
+      "SOFT_NEG": {
+        "n": 5100,
+        "label_ort": 0.294,
+        "label_tekil_deger": 66,
+        "sim_ort": 0.525,
+        "pearson_label_sim": 1.0,
+        "ayni_sektor_orani": 65.9
+      },
+      "SOFT_POS": {
+        "n": 6485,
+        "label_ort": 0.647,
+        "label_tekil_deger": 101,
+        "sim_ort": 0.696,
+        "pearson_label_sim": 0.991,
+        "ayni_sektor_orani": 93.55
+      }
+    },
+    "pearson_label_sim_tum": 0.951,
+    "label_sim_dogrusal_uyum": {
+      "SOFT_POS": {
+        "egim": 0.4709,
+        "kesim": 0.3196,
+        "R2": 0.9819
+      },
+      "SOFT_NEG": {
+        "egim": 0.2502,
+        "kesim": 0.1624,
+        "R2": 0.9991
+      },
+      "EXACT_POS": {
+        "egim": 0.2618,
+        "kesim": 0.7438,
+        "R2": 0.2974
+      }
+    },
+    "job_text_sektor_tokeni_iceriyor": 100.0,
+    "job_text_pozisyon_seviyesi_iceriyor": 100.0,
+    "cand_seniority": {
+      "SPECIALIST": 2175,
+      "SENIOR": 261,
+      "ENTRY_LEVEL": 157
+    },
+    "hard_neg_farkli_sektor": 100.0,
+    "pozitif_cift_ayni_sektor": 93.95
+  },
+  "E_testpy": {
+    "E1_ornek_[2,0,0,0,0,0,0,0,0,0]_testpy_ndcg": 1.0,
+    "E1_ornek_[0,0,0,0,0,0,0,0,0,2]_testpy_ndcg": 0.2891,
+    "E1_ornek_[2,0,...]_dogru_ndcg_(havuzda_50_ilgili)": 0.2201,
+    "E2_sektor_carpani_dongusel": {
+      "rastgele": {
+        "P@10": 7.49,
+        "Top1": 3.11,
+        "NDCG@10_testpy_yerel_IDCG": 22.03,
+        "NDCG@10_dogru_IDCG": 6.68
+      },
+      "rastgele_x_sektor_carpani_0.85(match_candidate)": {
+        "P@10": 99.84,
+        "Top1": 100.0,
+        "NDCG@10_testpy_yerel_IDCG": 100.0,
+        "NDCG@10_dogru_IDCG": 99.95
+      },
+      "rastgele_x_sektor_carpani_0.50(rehber)": {
+        "P@10": 99.91,
+        "Top1": 100.0,
+        "NDCG@10_testpy_yerel_IDCG": 100.0,
+        "NDCG@10_dogru_IDCG": 100.0
+      },
+      "BM25": {
+        "P@10": 66.02,
+        "Top1": 76.44,
+        "NDCG@10_testpy_yerel_IDCG": 84.38,
+        "NDCG@10_dogru_IDCG": 68.09
+      },
+      "BM25_x_sektor_carpani_0.50": {
+        "P@10": 92.22,
+        "Top1": 96.0,
+        "NDCG@10_testpy_yerel_IDCG": 97.61,
+        "NDCG@10_dogru_IDCG": 93.17
+      }
+    },
+    "E2_analitik": {
+      "a": 0.7,
+      "b": 0.9,
+      "c=0.50": true,
+      "c=0.85": false
+    },
+    "E2_ayni_sektor_ilan_sayisi_min_medyan": [
+      8,
+      194
+    ],
+    "E3_CMQ": {
+      "rastgele_siralayici_kendi_skoruyla_kurulan_CMQ_graded_NDCG": 23.3,
+      "ayni_siralayici_bagimsiz_skorla_kurulan_CMQ_graded_NDCG": 19.98,
+      "fark_puan": 3.32
+    },
+    "E4_yaka_regex_dongusel_(rastgele_skor)": {
+      "raw_alaka=sektor": {
+        "P@5": 6.27,
+        "Top1": 3.11
+      },
+      "collar_filtre+alaka=sektor&yaka": {
+        "P@5": 9.38,
+        "Top1": 4.0
+      }
+    },
+    "E4_regex_yaka_ile_veri_yakasi_uyusmazligi_CV": 1.97
+  },
+  "F_statik": {
+    "cv_10042": {
+      "NaturalTitle": "Kontrolör",
+      "Category": "OFFICE_ADMIN_MGMT",
+      "collar": "BEYAZ"
+    },
+    "cv_10587": {
+      "NaturalTitle": "Flight Operations Dispatcher",
+      "Category": "AVIATION",
+      "collar": "BEYAZ"
+    },
+    "cv_20951": {
+      "NaturalTitle": "Gaziantep Baklava & Yufka Ustası",
+      "Category": "CHEF_HORECA",
+      "collar": "MAVI"
+    },
+    "carpanlar": {
+      "rehber_sektor": 0.5,
+      "match_candidate_sektor": 0.85,
+      "test.py_soft_rerank_sektor": "yok (CMQ icinde %25)",
+      "match_candidate_yaka": 0.0,
+      "test.py_yaka": 0.75,
+      "kidem": "0.95^(fark-1) (kod) / 0.70-1.00 (rehber)",
+      "lokasyon": "0.85 mavi / 0.95 beyaz (kod); CMQ icinde 0.40 / 0.70"
+    }
+  },
+  "figurler": [
+    "reports/figures/faz1_test_train_max_cos.png",
+    "reports/figures/faz1_sektor_cv_ilan.png"
+  ]
+}

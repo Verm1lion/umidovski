@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30301",
+  "target_occ_key": "1324:agir_nakliyat_ve_proje_tasimaciligi_muduru",
+  "target_specialty": "Ağır Nakliyat ve Proje Taşımacılığı Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Ağır Nakliyat ve Özel Proje Taşımacılığı Direktörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30302",
+  "target_occ_key": "1324:e_ticaret_operasyon_muduru",
+  "target_specialty": "E-Ticaret Operasyon Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kıdemli E-Ticaret Operasyon Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30303",
+  "target_occ_key": "1324:envanter_kontrol_muduru",
+  "target_specialty": "Envanter Kontrol Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Kıdemli Envanter ve Stok Yönetim Şefi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30304",
+  "target_occ_key": "1324:gemi_filo_muduru",
+  "target_specialty": "Gemi Filo Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Deniz Ticaret Filosu Direktörü (Fleet Director / Head of Marine)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30305",
+  "target_occ_key": "1324:havalimani_operasyon_kontrol_muduru",
+  "target_specialty": "Havalimanı Operasyon Kontrol Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Airport Operations Control (OCC) Manager"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30306",
+  "target_occ_key": "1324:kargo_operasyon_muduru",
+  "target_specialty": "Kargo Operasyon Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kargo Operasyon ve Bölgesel Dağıtım Ağı Direktörü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30307",
+  "target_occ_key": "1324:liman_operasyon_muduru",
+  "target_specialty": "Liman Operasyon Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Mersin",
+  "example_job_titles": [
+   "Kıdemli Liman Operasyon ve Rıhtım Müdürü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30308",
+  "target_occ_key": "1324:tedarik_zinciri_muduru",
+  "target_specialty": "Tedarik Zinciri Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Kıdemli Tedarik Zinciri ve Üretim Çizelgeleme Yöneticisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30309",
+  "target_occ_key": "1324:tersine_lojistik_muduru",
+  "target_specialty": "Tersine Lojistik Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Tersine Lojistik ve İade Yöneticisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30310",
+  "target_occ_key": "1324:ucus_emniyet_muduru",
+  "target_specialty": "Uçuş Emniyet Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Uçuş Emniyet ve Emniyet Yönetim Sistemleri (SMS) Müdürü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30311",
+  "target_occ_key": "1324:ucus_planlama_muduru",
+  "target_specialty": "Uçuş Planlama Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Uçuş Planlama ve Rota Optimizasyonu Yöneticisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30312",
+  "target_occ_key": "1330:acik_bankacilik_ve_api_entegrasyon_yoneticisi",
+  "target_specialty": "Açık Bankacılık ve API Entegrasyon Yöneticisi",
+  "target_isco4": "1330",
+  "target_isco_title": "Information and communications technology services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Açık Bankacılık ve API Entegrasyon Yöneticisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30313",
+  "target_occ_key": "1330:bilgi_guvenligi_muduru",
+  "target_specialty": "Bilgi Güvenliği Müdürü",
+  "target_isco4": "1330",
+  "target_isco_title": "Information and communications technology services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Chief Information Security Officer (CISO / Bilgi Güvenliği Direktörü)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30314",
+  "target_occ_key": "1330:site_guvenilirlik_muduru",
+  "target_specialty": "Site Güvenilirlik Müdürü",
+  "target_isco4": "1330",
+  "target_isco_title": "Information and communications technology services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Lead DevOps / SRE Manager"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30315",
+  "target_occ_key": "1330:soc_muduru",
+  "target_specialty": "SOC Müdürü",
+  "target_isco4": "1330",
+  "target_isco_title": "Information and communications technology services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Siber Güvenlik Operasyonları Lideri (SOC Manager)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30316",
+  "target_occ_key": "1330:veri_ve_analitik_muduru",
+  "target_specialty": "Veri ve Analitik Müdürü",
+  "target_isco4": "1330",
+  "target_isco_title": "Information and communications technology services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "Konya",
+  "example_job_titles": [
+   "Head of Data Engineering & Analytics"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30317",
+  "target_occ_key": "1342:ameliyathane_ve_sterilizasyon_muduru",
+  "target_specialty": "Ameliyathane ve Sterilizasyon Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Ameliyathaneler ve Sterilizasyon Direktör Yardımcısı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30318",
+  "target_occ_key": "1342:hastane_kalite_ve_mesul_muduru",
+  "target_specialty": "Hastane Kalite ve Mesul Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Hastane Kalite ve Mesul Müdürü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30319",
+  "target_occ_key": "1342:hemsirelik_egitim_ve_gelisim_muduru",
+  "target_specialty": "Hemşirelik Eğitim ve Gelişim Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Hemşirelik Hizmetleri Eğitim ve Gelişim Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30320",
+  "target_occ_key": "1342:hemsirelik_hizmetleri_muduru",
+  "target_specialty": "Hemşirelik Hizmetleri Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Hemşirelik Hizmetleri Direktörü (Chief Nursing Officer - CNO)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30321",
+  "target_occ_key": "1342:kalite_ve_hasta_guvenligi_muduru",
+  "target_specialty": "Kalite ve Hasta Güvenliği Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Kalite ve Hasta Güvenliği Müdürü (JCI Koordinatörü)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30322",
+  "target_occ_key": "1342:laboratuvar_kalite_ve_akreditasyon_muduru",
+  "target_specialty": "Laboratuvar Kalite ve Akreditasyon Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Klinik Laboratuvarlar Kalite ve Akreditasyon Müdürü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30323",
+  "target_occ_key": "1342:radyoloji_teknik_hizmetler_muduru",
+  "target_specialty": "Radyoloji Teknik Hizmetler Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Radyoloji Teknik Hizmetler Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30324",
+  "target_occ_key": "1342:teshis_ve_tani_merkezleri_muduru",
+  "target_specialty": "Teşhis ve Tanı Merkezleri Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Teşhis ve Tanı Merkezleri Direktörü (Laboratuvar & Radyoloji)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30325",
+  "target_occ_key": "1345:akademik_mudur",
+  "target_specialty": "Akademik Müdür",
+  "target_isco4": "1345",
+  "target_isco_title": "Education managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Akademik Direktör / Genel Müdür Yardımcısı (Eğitim)"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

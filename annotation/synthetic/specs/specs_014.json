@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30351",
+  "target_occ_key": "2120:konusma_teknolojileri_muhendisi",
+  "target_specialty": "Konuşma Teknolojileri Mühendisi",
+  "target_isco4": "2120",
+  "target_isco_title": "Mathematicians, actuaries and statisticians",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Konuşma Tanıma ve Ses Sentezi (TTS/STT) Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30352",
+  "target_occ_key": "2120:kuantum_hesaplama_uzmani",
+  "target_specialty": "Kuantum Hesaplama Uzmanı",
+  "target_isco4": "2120",
+  "target_isco_title": "Mathematicians, actuaries and statisticians",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Kuantum Hesaplama Algoritma Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30353",
+  "target_occ_key": "2120:olcme_ve_degerlendirme_istatistikcisi",
+  "target_specialty": "Ölçme ve Değerlendirme İstatistikçisi",
+  "target_isco4": "2120",
+  "target_isco_title": "Mathematicians, actuaries and statisticians",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Ölçme, Seçme ve Değerlendirme İstatistikçisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30354",
+  "target_occ_key": "2131:bitki_doku_kulturu_uzmani",
+  "target_specialty": "Bitki Doku Kültürü Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Tarımsal Biyoteknoloji ve Doku Kültürü Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30355",
+  "target_occ_key": "2131:biyofarmasotik_analiz_uzmani",
+  "target_specialty": "Biyofarmasötik Analiz Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Biyofarmasötik Analiz Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30356",
+  "target_occ_key": "2131:biyoinformatik_uzmani",
+  "target_specialty": "Biyoinformatik Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Biyoenformatik ve Genomik Veri Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30357",
+  "target_occ_key": "2131:biyokimya_arastirmacisi",
+  "target_specialty": "Biyokimya Araştırmacısı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Biyokimya Ar-Ge Araştırmacısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30358",
+  "target_occ_key": "2131:biyolog",
+  "target_specialty": "Biyolog",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Junior Biyolog (Hücre Kültürü & Mikrobiyoloji)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30359",
+  "target_occ_key": "2131:botanik_bahcesi_kuratoru",
+  "target_specialty": "Botanik Bahçesi Küratörü",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Peyzaj ve Botanik Bahçeleri Küratörü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30360",
+  "target_occ_key": "2131:downstream_biyoproses_uzmani",
+  "target_specialty": "Downstream Biyoproses Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Downstream Biyoproses ve Protein Saflaştırma Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30361",
+  "target_occ_key": "2131:immunoloji_ve_asi_gelistirme_uzmani",
+  "target_specialty": "İmmünoloji ve Aşı Geliştirme Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "İmmünoloji ve Aşı Geliştirme Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30362",
+  "target_occ_key": "2131:kanser_biyolojisi_arastirmacisi",
+  "target_specialty": "Kanser Biyolojisi Araştırmacısı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kanser Biyolojisi ve Gen Terapisi Araştırmacısı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30363",
+  "target_occ_key": "2131:klinik_biyokimya_uzmani",
+  "target_specialty": "Klinik Biyokimya Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Klinik Biyokimya Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30364",
+  "target_occ_key": "2131:klinik_genomik_ve_varyant_yorumlama_uzmani",
+  "target_specialty": "Klinik Genomik ve Varyant Yorumlama Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Klinik Genomik ve Varyant Analizi Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30365",
+  "target_occ_key": "2131:klinik_kalite_guvence_uzmani",
+  "target_specialty": "Klinik Kalite Güvence Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Kıdemli Klinik Kalite Güvence ve GCP Denetim Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30366",
+  "target_occ_key": "2131:kozmetik_urun_guvenlik_degerlendiricisi",
+  "target_specialty": "Kozmetik Ürün Güvenlik Değerlendiricisi",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kozmetik Ürün Güvenlik Değerlendiricisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30367",
+  "target_occ_key": "2131:molekuler_biyolog",
+  "target_specialty": "Moleküler Biyolog",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Moleküler Biyoloji ve Kök Hücre Araştırmacısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30368",
+  "target_occ_key": "2131:molekuler_modelleme_uzmani",
+  "target_specialty": "Moleküler Modelleme Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Biyofizik ve Moleküler Modelleme Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30369",
+  "target_occ_key": "2132:bitki_besleme_uzmani",
+  "target_specialty": "Bitki Besleme Uzmanı",
+  "target_isco4": "2132",
+  "target_isco_title": "Farming, forestry and fisheries advisers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Bitki Besleme ve Toprak Biyokimyası Uzmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30370",
+  "target_occ_key": "2132:meyve_fidanciligi_uzmani",
+  "target_specialty": "Meyve Fidancılığı Uzmanı",
+  "target_isco4": "2132",
+  "target_isco_title": "Farming, forestry and fisheries advisers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Meyvecilik ve Fidanlık Saha Operasyon Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30371",
+  "target_occ_key": "2132:organik_tarim_sertifikasyon_uzmani",
+  "target_specialty": "Organik Tarım Sertifikasyon Uzmanı",
+  "target_isco4": "2132",
+  "target_isco_title": "Farming, forestry and fisheries advisers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Organik Tarım Denetim ve Sertifikasyon Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30372",
+  "target_occ_key": "2133:breeam_degerlendirme_uzmani",
+  "target_specialty": "BREEAM Değerlendirme Uzmanı",
+  "target_isco4": "2133",
+  "target_isco_title": "Environmental protection professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Antalya",
+  "example_job_titles": [
+   "BREEAM Assessor ve Sürdürülebilirlik Uzmanı (ESG)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30373",
+  "target_occ_key": "2133:cevre_biyoizleme_ve_ekotoksikoloji_uzmani",
+  "target_specialty": "Çevre Biyoizleme ve Ekotoksikoloji Uzmanı",
+  "target_isco4": "2133",
+  "target_isco_title": "Environmental protection professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Çevre Biyoizleme ve Ekotoksikoloji Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30374",
+  "target_occ_key": "2133:cevre_gorevlisi",
+  "target_specialty": "Çevre Görevlisi",
+  "target_isco4": "2133",
+  "target_isco_title": "Environmental protection professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Çevre Görevlisi / Çevre Danışmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30375",
+  "target_occ_key": "2133:cevresel_etki_degerlendirme_uzmani",
+  "target_specialty": "Çevresel Etki Değerlendirme Uzmanı",
+  "target_isco4": "2133",
+  "target_isco_title": "Environmental protection professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Çevresel Etki Değerlendirme (ÇED) Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ }
+]

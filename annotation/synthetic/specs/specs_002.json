@@ -1,0 +1,477 @@
+[
+ {
+  "id": "S30051",
+  "target_occ_key": "1323:insaat_proje_muduru",
+  "target_specialty": "İnşaat Proje Müdürü",
+  "target_isco4": "1323",
+  "target_isco_title": "Construction managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kentsel Dönüşüm ve Toplu Konut Proje Genel Koordinatörü",
+   "Kıdemli Kentsel Dönüşüm Şantiye Yöneticisi",
+   "Proje Direktörü (Mega EPC Altyapı & Karma Projeler)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30052",
+  "target_occ_key": "1324:lojistik_muduru",
+  "target_specialty": "Lojistik Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Ankara",
+  "example_job_titles": [
+   "3PL Logistics Partner Manager",
+   "Soğuk Zincir Lojistik Yöneticisi",
+   "Tedarik Zinciri ve Lojistik Operasyonları Direktörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30053",
+  "target_occ_key": "2131:bitki_islahi_uzmani",
+  "target_specialty": "Bitki Islahı Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Kıdemli Tohumculuk Ar-Ge Mühendisi",
+   "Tarımsal Biyoteknoloji ve Tohum Islahı Uzmanı",
+   "Tohum Islahı ve Ar-Ge Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30054",
+  "target_occ_key": "2131:biyoproses_fermantasyon_uzmani",
+  "target_specialty": "Biyoproses Fermantasyon Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Biyobenzer & Biyoteknolojik Proses Uzmanı",
+   "Endüstriyel Biyoteknoloji Fermantasyon Uzmanı",
+   "Kıdemli Biyoteknolojik Proses (Upstream/Fermantasyon) Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30055",
+  "target_occ_key": "2131:klinik_arastirma_uzmani",
+  "target_specialty": "Klinik Araştırma Uzmanı",
+  "target_isco4": "2131",
+  "target_isco_title": "Biologists, botanists, zoologists and related professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Klinik Araştırma Uzmanı (CRA)",
+   "Klinik Araştırmalar Uzmanı (Clinical Research Associate - CRA)",
+   "Kıdemli Klinik Araştırmalar Uzmanı (Senior CRA)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30056",
+  "target_occ_key": "2142:altyapi_insaat_muhendisi",
+  "target_specialty": "Altyapı İnşaat Mühendisi",
+  "target_isco4": "2142",
+  "target_isco_title": "Civil engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Altyapı ve Yol Saha Mühendisi (Başlangıç Düzeyi)",
+   "Altyapı ve Yol İnşaatı Mühendisi",
+   "Altyapı, Yol ve Köprü İnşaat Mühendisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30057",
+  "target_occ_key": "2144:guc_aktarma_sistemleri_tasarim_muhendisi",
+  "target_specialty": "Güç Aktarma Sistemleri Tasarım Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Elektrikli Güç Aktarma ve E-Aks Tasarım Mühendisi (E-Axle)",
+   "Kıdemli Otomotiv Şanzıman ve Debriyaj Mühendisi",
+   "Mekanik Güç Aktarma ve Dişli Tasarım Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30058",
+  "target_occ_key": "2144:kaynak_muhendisi",
+  "target_specialty": "Kaynak Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kaynak Mühendisliği ve İmalat Yöntemleri Uzmanı (IWE)",
+   "Kaynak ve Sac Metal Üretim Mühendisi",
+   "Uluslararası Kaynak Mühendisi (IWE)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30059",
+  "target_occ_key": "2144:nvh_ve_akustik_muhendisi",
+  "target_specialty": "NVH ve Akustik Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Akustik ve NVH Mühendisi",
+   "Akustik ve NVH Simülasyon Mühendisi (Gürültü & Titreşim)",
+   "Kıdemli NVH ve Araç İçi Akustik Mühendisi (Noise, Vibration, Harshness)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30060",
+  "target_occ_key": "2144:sasi_ve_suspansiyon_tasarim_muhendisi",
+  "target_specialty": "Şasi ve Süspansiyon Tasarım Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kıdemli Direksiyon Sistemleri Tasarım Mühendisi (EPS)",
+   "Kıdemli Şasi & Süspansiyon Tasarım Mühendisi",
+   "Otomotiv Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30061",
+  "target_occ_key": "2149:biyomedikal_muhendisi",
+  "target_specialty": "Biyomedikal Mühendisi",
+  "target_isco4": "2149",
+  "target_isco_title": "Engineering professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Biyomedikal Mühendisi",
+   "Biyomedikal Mühendisi (Cihaz Bakım ve Kalibrasyon)",
+   "Stajyer Biyomedikal ve Tıbbi Cihaz Asistanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30062",
+  "target_occ_key": "2151:guc_elektronigi_muhendisi",
+  "target_specialty": "Güç Elektroniği Mühendisi",
+  "target_isco4": "2151",
+  "target_isco_title": "Electrical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Güç Elektroniği Mühendisi",
+   "Junior Motor Sürücü ve Güç Elektroniği Mühendisi (BLDC / PMSM)",
+   "Kıdemli Güç Elektroniği ve İnverter Donanım Tasarım Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30063",
+  "target_occ_key": "2161:santiye_mimari",
+  "target_specialty": "Şantiye Mimarı",
+  "target_isco4": "2161",
+  "target_isco_title": "Building architects",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli İnce İşler ve Mimari Proje Saha Yöneticisi",
+   "Saha Mimarı (İnce İşler - Başlangıç)",
+   "İnce İşler Şantiye Mimarı (Konut & Rezidans)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30064",
+  "target_occ_key": "2162:peyzaj_mimari",
+  "target_specialty": "Peyzaj Mimarı",
+  "target_isco4": "2162",
+  "target_isco_title": "Landscape architects",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Golf Sahası Tasarım ve Altyapı Mimarı",
+   "Peyzaj Mimarı",
+   "Peyzaj ve Çevre Düzenleme Saha Mimarı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30065",
+  "target_occ_key": "2166:grafik_tasarimci",
+  "target_specialty": "Grafik Tasarımcı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Grafik Tasarımcı ve Görsel İletişim Uzmanı",
+   "Görsel İletişim ve Grafik Tasarım Asistanı",
+   "Kurumsal Kimlik ve Logo Tasarımcısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30066",
+  "target_occ_key": "2166:konsept_sanatcisi",
+  "target_specialty": "Konsept Sanatçısı",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Karakter ve Konsept Tasarımcısı (2D/3D)",
+   "Konsept Çizeri ve Dijital Boyama Sanatçısı",
+   "Oyun Karakter Konsept Tasarımcısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30067",
+  "target_occ_key": "2166:sosyal_medya_icerik_ureticisi",
+  "target_specialty": "Sosyal Medya İçerik Üreticisi",
+  "target_isco4": "2166",
+  "target_isco_title": "Graphic and multimedia designers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Sosyal Medya ve Dijital İçerik Üreticisi",
+   "Sosyal Medya ve Video İçerik Üreticisi Stajyeri",
+   "Sosyal medya içerik üretebilen, kadın eleman aranıyor."
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30068",
+  "target_occ_key": "2212:goz_hastaliklari_uzmani",
+  "target_specialty": "Göz Hastalıkları Uzmanı",
+  "target_isco4": "2212",
+  "target_isco_title": "Specialist medical practitioners",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Göz Hastalıkları (Oftalmoloji) Uzmanı",
+   "Göz Hastalıkları Uzman Hekimi (Oftalmolog)",
+   "Göz Hastalıkları Uzman Hekimi (Retina ve Vitrektomi Cerrahı)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30069",
+  "target_occ_key": "2262:hastane_eczacisi",
+  "target_specialty": "Hastane Eczacısı",
+  "target_isco4": "2262",
+  "target_isco_title": "Pharmacists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Hastane Eczacısı (Klinik Eczacı)",
+   "Hastaneler Klinik Eczacılık Uzmanı",
+   "Kıdemli Eczacılık Hizmetleri ve İlaç Lojistiği Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30070",
+  "target_occ_key": "2421:surec_iyilestirme_uzmani",
+  "target_specialty": "Süreç İyileştirme Uzmanı",
+  "target_isco4": "2421",
+  "target_isco_title": "Management and organization analysts",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Müşteri Hizmetleri Süreç İyileştirme Uzmanı",
+   "Süreç Geliştirme ve Verimlilik Danışmanı",
+   "Süreç ve Yalın Üretim Danışmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30071",
+  "target_occ_key": "2423:organizasyonel_gelisim_uzmani",
+  "target_specialty": "Organizasyonel Gelişim Uzmanı",
+  "target_isco4": "2423",
+  "target_isco_title": "Personnel and careers professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Organizasyonel Gelişim Asistanı",
+   "Organizasyonel Gelişim Uzmanı",
+   "Organizasyonel Gelişim ve Norm Kadro Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30072",
+  "target_occ_key": "2424:egitim_ve_gelisim_uzmani",
+  "target_specialty": "Eğitim ve Gelişim Uzmanı",
+  "target_isco4": "2424",
+  "target_isco_title": "Training and staff development professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Eğitim ve Gelişim Operasyon Sorumlusu (L&D Coordinator)",
+   "Eğitim ve Gelişim Uzmanı (L&D Specialist)",
+   "Eğitim ve Gelişim Uzmanı (L&D)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30073",
+  "target_occ_key": "2431:marka_iletisim_uzmani",
+  "target_specialty": "Marka İletişim Uzmanı",
+  "target_isco4": "2431",
+  "target_isco_title": "Advertising and marketing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Marka İletişim Uzmanı (Dayanıklı Tüketim)",
+   "Marka İletişim Asistanı (Assistant Brand Specialist)",
+   "Marka İletişim Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30074",
+  "target_occ_key": "2431:medya_planlama_uzmani",
+  "target_specialty": "Medya Planlama Uzmanı",
+  "target_isco4": "2431",
+  "target_isco_title": "Advertising and marketing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Dijital Medya Planlama Uzmanı",
+   "Dijital Pazarlama ve Medya Planlama Uzmanı",
+   "Medya Planlama ve Reklam Pazarlama Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30075",
+  "target_occ_key": "2433:tarim_urunleri_satis_temsilcisi",
+  "target_specialty": "Tarım Ürünleri Satış Temsilcisi",
+  "target_isco4": "2433",
+  "target_isco_title": "Technical and medical sales professionals (excluding ICT)",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Bitki Besleme ve Gübre Satış Temsilcisi",
+   "Saha Ziraat Mühendisi (Yetiştirilmek Üzere)",
+   "Tohum ve Fide Satış Temsilcisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ }
+]

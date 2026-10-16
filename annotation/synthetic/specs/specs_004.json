@@ -1,0 +1,452 @@
+[
+ {
+  "id": "S30101",
+  "target_occ_key": "1120:genel_mudur",
+  "target_specialty": "Genel Müdür",
+  "target_isco4": "1120",
+  "target_isco_title": "Managing directors and chief executives",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "MARITIME",
+  "industry_tr": "Denizcilik",
+  "city": "Mersin",
+  "example_job_titles": [
+   "Liman İşletmesi Genel Müdürü (Port General Manager)",
+   "Tesis ve Fiziksel Varlık Güvenliği Genel Müdürü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30102",
+  "target_occ_key": "1211:maliyet_muhasebesi_muduru",
+  "target_specialty": "Maliyet Muhasebesi Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Maliyet Muhasebesi Müdürü (Çelik & Ağır Sanayi)",
+   "Kıdemli Maliyet Muhasebesi ve Kontrol Müdürü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30103",
+  "target_occ_key": "1211:muhasebe_muduru",
+  "target_specialty": "Muhasebe Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Head of Accounting & Tax / Muhasebe ve Vergi Grup Müdürü",
+   "Kıdemli Genel Muhasebe Müdürü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30104",
+  "target_occ_key": "1211:vergi_muduru",
+  "target_specialty": "Vergi Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Vergi Müdürü (Senior Tax Manager)",
+   "Kıdemli İhracat Muhasebesi ve Vergi Uyum Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30105",
+  "target_occ_key": "1212:egitim_ve_gelisim_muduru",
+  "target_specialty": "Eğitim ve Gelişim Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "HR",
+  "industry_tr": "İnsan Kaynakları",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Head of Learning & Organizational Development (Eğitim ve OD Direktörü)",
+   "Kıdemli Eğitim ve Gelişim Müdürü (Head of Academy)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30106",
+  "target_occ_key": "1212:isveren_markasi_muduru",
+  "target_specialty": "İşveren Markası Müdürü",
+  "target_isco4": "1212",
+  "target_isco_title": "Human resource managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli İşveren Markası ve Kültür Müdürü",
+   "Kıdemli İşveren Markası ve İK İletişimi Müdürü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30107",
+  "target_occ_key": "1221:buyume_pazarlamasi_muduru",
+  "target_specialty": "Büyüme Pazarlaması Müdürü",
+  "target_isco4": "1221",
+  "target_isco_title": "Sales and marketing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Head of Digital Growth & Acquisition",
+   "Kıdemli Büyüme Pazarlaması Yöneticisi (Growth Marketing Manager)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30108",
+  "target_occ_key": "1221:e_ticaret_muduru",
+  "target_specialty": "E-Ticaret Müdürü",
+  "target_isco4": "1221",
+  "target_isco_title": "Sales and marketing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Omnichannel ve E-Ticaret Müdürü",
+   "Kıdemli Pazaryeri ve Kanal Satış Müdürü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30109",
+  "target_occ_key": "1221:ihracat_muduru",
+  "target_specialty": "İhracat Müdürü",
+  "target_isco4": "1221",
+  "target_isco_title": "Sales and marketing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli İhracat Satış Müdürü (Global Export Sales Manager)",
+   "Uluslararası Pazarlar ve İhracat Direktörü (Global Export Director)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30110",
+  "target_occ_key": "1221:is_gelistirme_muduru",
+  "target_specialty": "İş Geliştirme Müdürü",
+  "target_isco4": "1221",
+  "target_isco_title": "Sales and marketing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Uluslararası Sağlık Turizmi ve İş Geliştirme Müdürü",
+   "Stratejik Ortaklıklar ve İttifaklar Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30111",
+  "target_occ_key": "1221:kategori_yoneticisi",
+  "target_specialty": "Kategori Yöneticisi",
+  "target_isco4": "1221",
+  "target_isco_title": "Sales and marketing managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Kategori Yöneticisi (E-Ticaret)",
+   "Kıdemli E-Ticaret Kategori Müdürü (Elektronik & Beyaz Eşya)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30112",
+  "target_occ_key": "1222:etkinlik_ve_sponsorluk_muduru",
+  "target_specialty": "Etkinlik ve Sponsorluk Müdürü",
+  "target_isco4": "1222",
+  "target_isco_title": "Advertising and public relations managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Events & Sponsorship Manager",
+   "Kıdemli Kurumsal Sponsorluk ve Etkinlik Müdürü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30113",
+  "target_occ_key": "1222:kreatif_direktor",
+  "target_specialty": "Kreatif Direktör",
+  "target_isco4": "1222",
+  "target_isco_title": "Advertising and public relations managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kreatif Direktör (Executive Creative Director - ECD)",
+   "Senior Creative Lead / Kıdemli Kreatif Ekip Lideri"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30114",
+  "target_occ_key": "1223:ar_ge_muduru",
+  "target_specialty": "Ar-Ge Müdürü",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Ar-Ge Direktörü / Baş Bilim İnsanı (Chief Scientist)",
+   "Tarımsal Üretim ve Ar-Ge Direktörü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30115",
+  "target_occ_key": "1223:medikal_mudur",
+  "target_specialty": "Medikal Müdür",
+  "target_isco4": "1223",
+  "target_isco_title": "Research and development managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Medikal Direktör (Medical Director)",
+   "Medikal Direktör (İlaç Sektörü)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30116",
+  "target_occ_key": "1311:sera_muduru",
+  "target_specialty": "Sera Müdürü",
+  "target_isco4": "1311",
+  "target_isco_title": "Agricultural and forestry production managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Kıdemli Sera Operasyonları ve Üretim Müdürü",
+   "Topraksız Tarım ve Modern Sera Yöneticisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30117",
+  "target_occ_key": "1324:dis_ticaret_muduru",
+  "target_specialty": "Dış Ticaret Müdürü",
+  "target_isco4": "1324",
+  "target_isco_title": "Supply, distribution and related managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Dış Ticaret Yöneticisi",
+   "Serbest Bölge Dış Ticaret Yöneticisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30118",
+  "target_occ_key": "1342:biyomedikal_muhendislik_muduru",
+  "target_specialty": "Biyomedikal Mühendislik Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Biyomedikal ve Tıbbi Teknoloji Direktörü (Head of Medical Technologies)",
+   "Kıdemli Biyomedikal Hizmetler Müdürü (Chief Biomedical Engineer)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30119",
+  "target_occ_key": "1342:hasta_hizmetleri_muduru",
+  "target_specialty": "Hasta Hizmetleri Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Hasta Hizmetleri ve Gelir Döngüsü Direktörü (Chief Patient Officer)",
+   "Kıdemli Hasta Hizmetleri ve Gelir Döngüsü Müdürü (Revenue Cycle Manager)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30120",
+  "target_occ_key": "1342:saglik_hizmetleri_muduru",
+  "target_specialty": "Sağlık Hizmetleri Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Medikal Operasyonlar ve Klinik Yönetim Direktörü",
+   "Sağlık Hizmetleri Genel Müdür Yardımcısı (COO / CMO)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30121",
+  "target_occ_key": "1342:saglik_turizmi_muduru",
+  "target_specialty": "Sağlık Turizmi Müdürü",
+  "target_isco4": "1342",
+  "target_isco_title": "Health services managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Sağlık Turizmi Operasyonları ve VIP Hasta Müdürü",
+   "Uluslararası Sağlık Turizmi Direktörü (Head of International Healthcare)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30122",
+  "target_occ_key": "1439:musteri_deneyimi_muduru",
+  "target_specialty": "Müşteri Deneyimi Müdürü",
+  "target_isco4": "1439",
+  "target_isco_title": "Services managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CUSTOMER_SERVICE",
+  "industry_tr": "Müşteri Hizmetleri",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Müşteri Deneyimi (CX) Müdürü",
+   "Müşteri Deneyimi ve Hizmetleri Direktörü (Head of Customer Experience)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30123",
+  "target_occ_key": "2113:boya_ve_kaplama_kimyageri",
+  "target_specialty": "Boya ve Kaplama Kimyageri",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Konya",
+  "example_job_titles": [
+   "Boya Pigmentleri ve Renk Kimyası Uzmanı",
+   "Paint & Surface Coatings Chemistry Specialist"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30124",
+  "target_occ_key": "2113:elektrokimya_ve_batarya_kimyageri",
+  "target_specialty": "Elektrokimya ve Batarya Kimyageri",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Electrochemistry & Battery Technologies Chemist",
+   "Kıdemli Elektrokimya ve Batarya Ar-Ge Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30125",
+  "target_occ_key": "2113:proses_gelistirme_kimyageri",
+  "target_specialty": "Proses Geliştirme Kimyageri",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "API (Aktif Farmasötik Madde) Sentez ve Proses Kimyageri",
+   "Kıdemli API Proses Geliştirme Kimyageri"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

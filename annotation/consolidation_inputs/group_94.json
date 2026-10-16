@@ -1,0 +1,86 @@
+[
+{
+"specialty": "Fast Food Elemanı",
+"isco4": "9411",
+"isco_title": "Fast food preparers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Fast Food Hazırlık Elemanı",
+"Fast Food ve Burger Mutfak Elemanı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Barboy",
+"isco4": "9412",
+"isco_title": "Kitchen helpers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"BARBOY TAKIM ARKADAŞI ARIYORUZ",
+"Bar Arkası Destek Elemanı (Barback)"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bulaşıkçı",
+"isco4": "9412",
+"isco_title": "Kitchen helpers",
+"n_cv": 9,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bulaşıkhane ve Mutfak Hijyen Görevlisi (Steward)",
+"Bulaşıkçı",
+"Kazan & Tava Yıkama Görevlisi (Potwasher)",
+"Konveyörlü Bulaşık Makinesi Operatörü (Steward)",
+"Mutfak Bulaşıkhane Elemanı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bulaşıkhane Elemanı",
+"isco4": "9412",
+"isco_title": "Kitchen helpers",
+"n_cv": 0,
+"n_job": 5,
+"ornek_unvanlar": [
+"Bulaşıkhane Elemanı",
+"Bulaşıkhane ve Stewarding Personeli",
+"Mutfak Bulaşıkhane Elemanı",
+"Mutfak Hijyen ve Steward Elemanı",
+"Steward / Bulaşıkhane Görevlisi"
+],
+"sektorler": [
+"JANITORIAL_FACILITY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mutfak Komisi",
+"isco4": "9412",
+"isco_title": "Kitchen helpers",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Başlangıç Seviyesi Mutfak Komisi",
+"Komi",
+"Mutfak Komisi (Yetiştirilmek Üzere)",
+"Mutfak ve Salon Komisi",
+"Soğuk Meze ve Salata Hazırlık Komisi"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+}
+]

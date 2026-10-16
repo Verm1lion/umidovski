@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30376",
+  "target_occ_key": "2133:surdurulebilirlik_raporlama_uzmani",
+  "target_specialty": "Sürdürülebilirlik Raporlama Uzmanı",
+  "target_isco4": "2133",
+  "target_isco_title": "Environmental protection professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Sürdürülebilirlik Raporlama ve Entegre Rapor Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30377",
+  "target_occ_key": "2133:tehlikeli_atik_yonetimi_uzmani",
+  "target_specialty": "Tehlikeli Atık Yönetimi Uzmanı",
+  "target_isco4": "2133",
+  "target_isco_title": "Environmental protection professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Tehlikeli Atık Yönetimi Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30378",
+  "target_occ_key": "2141:ambalaj_gelistirme_muhendisi",
+  "target_specialty": "Ambalaj Geliştirme Mühendisi",
+  "target_isco4": "2141",
+  "target_isco_title": "Industrial and production engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Ambalaj ve Paketleme Geliştirme Mühendisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30379",
+  "target_occ_key": "2141:endustri_4_0_ve_mes_muhendisi",
+  "target_specialty": "Endüstri 4.0 ve MES Mühendisi",
+  "target_isco4": "2141",
+  "target_isco_title": "Industrial and production engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Endüstriyel Otomasyon ve Üretim Dijitalleştirme (MES/SCADA) Lideri"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30380",
+  "target_occ_key": "2141:endustri_muhendisi",
+  "target_specialty": "Endüstri Mühendisi",
+  "target_isco4": "2141",
+  "target_isco_title": "Industrial and production engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Endüstri Mühendisi (Üretim ve Süreç İyileştirme)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30381",
+  "target_occ_key": "2141:kompozit_malzeme_uretim_muhendisi",
+  "target_specialty": "Kompozit Malzeme Üretim Mühendisi",
+  "target_isco4": "2141",
+  "target_isco_title": "Industrial and production engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kompozit Malzeme Üretim Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30382",
+  "target_occ_key": "2141:lojistik_planlama_muhendisi",
+  "target_specialty": "Lojistik Planlama Mühendisi",
+  "target_isco4": "2141",
+  "target_isco_title": "Industrial and production engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "SUPPLY_CHAIN_LOGISTICS",
+  "industry_tr": "Tedarik Zinciri ve Lojistik",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Lojistik Planlama Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30383",
+  "target_occ_key": "2141:plastik_enjeksiyon_proses_muhendisi",
+  "target_specialty": "Plastik Enjeksiyon Proses Mühendisi",
+  "target_isco4": "2141",
+  "target_isco_title": "Industrial and production engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kıdemli Plastik Malzeme ve Enjeksiyon Proses Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30384",
+  "target_occ_key": "2141:proses_kalite_muhendisi",
+  "target_specialty": "Proses Kalite Mühendisi",
+  "target_isco4": "2141",
+  "target_isco_title": "Industrial and production engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "İmalat ve Proses Kalite Mühendisi (APQP & PPAP)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30385",
+  "target_occ_key": "2141:teknik_tekstil_gelistirme_muhendisi",
+  "target_specialty": "Teknik Tekstil Geliştirme Mühendisi",
+  "target_isco4": "2141",
+  "target_isco_title": "Industrial and production engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "APPAREL_TEXTILE",
+  "industry_tr": "Tekstil ve Hazır Giyim",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Teknik Tekstil ve Koruyucu Kumaş Geliştirici"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30386",
+  "target_occ_key": "2141:tekstil_terbiye_ve_boyahane_proses_muhendisi",
+  "target_specialty": "Tekstil Terbiye ve Boyahane Proses Mühendisi",
+  "target_isco4": "2141",
+  "target_isco_title": "Industrial and production engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "APPAREL_TEXTILE",
+  "industry_tr": "Tekstil ve Hazır Giyim",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Tekstil Terbiye ve Boyahane Proses Şefi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30387",
+  "target_occ_key": "2141:yeni_urun_devreye_alma_proje_muhendisi",
+  "target_specialty": "Yeni Ürün Devreye Alma Proje Mühendisi",
+  "target_isco4": "2141",
+  "target_isco_title": "Industrial and production engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Mekanik Proje Mühendisi (Yeni Ürün Devreye Alma - APQP)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30388",
+  "target_occ_key": "2142:bim_yoneticisi",
+  "target_specialty": "BIM Yöneticisi",
+  "target_isco4": "2142",
+  "target_isco_title": "Civil engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli BIM Yöneticisi / BIM Manager"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30389",
+  "target_occ_key": "2142:celik_montaj_muhendisi",
+  "target_specialty": "Çelik Montaj Mühendisi",
+  "target_isco4": "2142",
+  "target_isco_title": "Civil engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Çelik Konstrüksiyon Şantiye Montaj Mühendisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30390",
+  "target_occ_key": "2142:cephe_saha_muhendisi",
+  "target_specialty": "Cephe Saha Mühendisi",
+  "target_isco4": "2142",
+  "target_isco_title": "Civil engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Mekanik ve Cephe İşleri Şantiye Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30391",
+  "target_occ_key": "2142:karayolu_tasarim_muhendisi",
+  "target_specialty": "Karayolu Tasarım Mühendisi",
+  "target_isco4": "2142",
+  "target_isco_title": "Civil engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Altyapı ve Yol Tasarım Mühendisi (Civil 3D)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30392",
+  "target_occ_key": "2142:prefabrik_montaj_saha_muhendisi",
+  "target_specialty": "Prefabrik Montaj Saha Mühendisi",
+  "target_isco4": "2142",
+  "target_isco_title": "Civil engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Prefabrik Betonarme Altyapı ve Saha Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30393",
+  "target_occ_key": "2142:sulama_muhendisi",
+  "target_specialty": "Sulama Mühendisi",
+  "target_isco4": "2142",
+  "target_isco_title": "Civil engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Adana",
+  "example_job_titles": [
+   "Tarımsal Sulama ve Otomasyon Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30394",
+  "target_occ_key": "2142:tunel_tasarim_muhendisi",
+  "target_specialty": "Tünel Tasarım Mühendisi",
+  "target_isco4": "2142",
+  "target_isco_title": "Civil engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Tünel ve Yeraltı Yapıları Tasarım Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30395",
+  "target_occ_key": "2142:yapi_malzemeleri_laboratuvar_uzmani",
+  "target_specialty": "Yapı Malzemeleri Laboratuvar Uzmanı",
+  "target_isco4": "2142",
+  "target_isco_title": "Civil engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Yapı Malzemeleri Laboratuvar Şefi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30396",
+  "target_occ_key": "2143:cevre_akustigi_muhendisi",
+  "target_specialty": "Çevre Akustiği Mühendisi",
+  "target_isco4": "2143",
+  "target_isco_title": "Environmental engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Gürültü Haritalama ve Çevre Akustiği Mühendisi"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30397",
+  "target_occ_key": "2143:cevre_muhendisi",
+  "target_specialty": "Çevre Mühendisi",
+  "target_isco4": "2143",
+  "target_isco_title": "Environmental engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "ENV_ESG",
+  "industry_tr": "Çevre ve Sürdürülebilirlik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Çevre Mühendisi (Sürdürülebilirlik & Atık Yönetimi)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30398",
+  "target_occ_key": "2144:aerodinamik_muhendisi",
+  "target_specialty": "Aerodinamik Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Junior Otomotiv Aerodinamik Test Mühendisi"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30399",
+  "target_occ_key": "2144:arac_govde_tasarim_muhendisi",
+  "target_specialty": "Araç Gövde Tasarım Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Gövde İskelet Tasarım Mühendisi (Body in White - BIW)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30400",
+  "target_occ_key": "2144:arac_iklimlendirme_muhendisi",
+  "target_specialty": "Araç İklimlendirme Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Araç İçi İklimlendirme ve Konfor Mühendisi (Climate Control)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ }
+]

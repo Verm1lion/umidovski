@@ -1,0 +1,1331 @@
+[
+{
+"specialty": "Çiftlik Müdürü",
+"isco4": "1311",
+"isco_title": "Agricultural and forestry production managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Çiftlik Müdürü ve Sürü Yöneticisi"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sera Müdürü",
+"isco4": "1311",
+"isco_title": "Agricultural and forestry production managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Topraksız Tarım ve Modern Sera Yöneticisi"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sera Üretim Müdürü",
+"isco4": "1311",
+"isco_title": "Agricultural and forestry production managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Sera Operasyonları ve Üretim Müdürü"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Güvence Müdürü",
+"isco4": "1321",
+"isco_title": "Manufacturing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hazır Beton ve Agrega Kalite Güvence Müdürü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": [
+"12"
+]
+},
+{
+"specialty": "Kalite Kontrol Müdürü",
+"isco4": "1321",
+"isco_title": "Manufacturing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kalite Kontrol (QC) Müdürü"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Laboratuvarı Müdürü",
+"isco4": "1321",
+"isco_title": "Manufacturing managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"CMM & Kalite Laboratuvarı Yöneticisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Müdürü",
+"isco4": "1321",
+"isco_title": "Manufacturing managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kalite Sistemleri ve Müşteri Kalite Güvence Müdürü",
+"Yönetici"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üretim Müdürü",
+"isco4": "1321",
+"isco_title": "Manufacturing managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Fabrika Üretim Müdürü (Plant Operations Manager)",
+"Müdür"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Altyapı Proje Müdürü",
+"isco4": "1323",
+"isco_title": "Construction managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Altyapı ve Sanat Yapıları Proje Direktörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "BIM Müdürü",
+"isco4": "1323",
+"isco_title": "Construction managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dijital Dönüşüm ve Kurumsal BIM Direktörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güneş Enerjisi Santral Proje Müdürü",
+"isco4": "1323",
+"isco_title": "Construction managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Güneş Enerjisi (GES) Santral Proje Müdürü"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güneş Enerjisi Santrali Proje Müdürü",
+"isco4": "1323",
+"isco_title": "Construction managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Solar Power Plant (PV) Project Director"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İhale Müdürü",
+"isco4": "1323",
+"isco_title": "Construction managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli İhale ve Teklif Hazırlama Müdürü (EPC)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnşaat Proje Müdürü",
+"isco4": "1323",
+"isco_title": "Construction managers",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kentsel Dönüşüm ve Toplu Konut Proje Genel Koordinatörü",
+"Kıdemli Kentsel Dönüşüm Şantiye Yöneticisi",
+"Kıdemli Proje Müdürü ve Şantiye Direktörü (Karma Kullanımlı Yüksek Yapılar)",
+"Proje Direktörü (Mega EPC Altyapı & Karma Projeler)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Güvence ve Kontrol Müdürü",
+"isco4": "1323",
+"isco_title": "Construction managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Kalite Güvence ve Kalite Kontrol (QA/QC) Müdürü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik ve Elektrik Tesisat Müdürü",
+"isco4": "1323",
+"isco_title": "Construction managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Şantiye Mekanik ve Tesisat (MEP) Müdürü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şantiye Müdürü",
+"isco4": "1323",
+"isco_title": "Construction managers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Proje Saha Müdürü (Site Operations Director)",
+"Şantiye Teknik Koordinasyon ve Operasyon Direktörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teknik Ofis Müdürü",
+"isco4": "1323",
+"isco_title": "Construction managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Teknik Ofis Direktörü (Head of Technical Office)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağır Nakliyat ve Proje Taşımacılığı Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ağır Nakliyat ve Özel Proje Taşımacılığı Direktörü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Antrepo ve Gümrüklü Saha Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uluslararası Antrepolar ve Gümrüklü Sahalar Direktörü"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dağıtım Merkezi Operasyon Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 3,
+"n_job": 5,
+"ornek_unvanlar": [
+"Dağıtım Merkezi Operasyon Şefi",
+"Distribution Center Operations Chief",
+"E-Ticaret Fulfillment Depo Vardiya Şefi",
+"E-Ticaret Fulfillment ve Mega Dağıtım Merkezi Direktörü",
+"E-Ticaret Sipariş Karşılama ve Fulfillment Operasyonları Lideri (Last-Mile)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Denizyolu Taşımacılığı Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Küresel Denizyolu Taşımacılığı ve Konteyner Lojistiği Müdürü (Ocean Freight)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Depo Operasyon Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 2,
+"n_job": 7,
+"ornek_unvanlar": [
+"Depo Operasyonları Direktörü (Head of Warehousing)",
+"Depo ve Sevkiyat Yöneticisi",
+"Gıda ve Hızlı Tüketim Soğuk Depo Operasyonları Yöneticisi (Multi-Temp Logistics)",
+"Kıdemli AS/RS ve Otomasyonlu Depo Operasyon Şefi",
+"Kıdemli Depo Şefi / Depo Operasyon Amiri"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Depo ve Dağıtım Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Warehouse & Distribution Manager"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dış Ticaret Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Dış Ticaret Yöneticisi",
+"Regional Export Manager (Middle East)",
+"Serbest Bölge Dış Ticaret Yöneticisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "E-Ticaret Operasyon Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli E-Ticaret Operasyon Müdürü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Envanter Kontrol Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Envanter ve Stok Yönetim Şefi"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Filo Operasyon Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Uluslararası Karayolu Nakliye ve Filo Direktörü",
+"Yurtiçi Dağıtım ve Filo Operasyon Direktörü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Filo Yönetim Sorumlusu",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Filo ve Araç Yönetim Sorumlusu",
+"Fleet Management Supervisor"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Filo Yönetimi Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Kurumsal Filo Yönetimi Müdürü"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Filo Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Deniz Ticaret Filosu Direktörü (Fleet Director / Head of Marine)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Operasyon Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Manager"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gümrük ve Dış Ticaret Uyum Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gümrük Operasyonları ve Dış Ticaret Uyum Müdürü (Yetkilendirilmiş Yükümlü - YYS)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gümrüklü Antrepo Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Gümrüklü Antrepo ve Depo Yöneticisi",
+"Gümrüklü Antrepo ve Serbest Bölge Lojistik Operasyonları Yöneticisi (Type-A)",
+"Kıdemli Antrepo Müdürü (Gümrüklü Saha Yöneticisi)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havalimanı Operasyon Kontrol Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Airport Operations Control (OCC) Manager",
+"Havalimanı Operasyon Kontrol (OCC) Yöneticisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Karayolu Taşımacılığı Operasyon Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Uluslararası Karayolu Taşımacılığı ve Filo Operasyonları Müdürü (FTL / LTL)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kargo Operasyon Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kargo Operasyon ve Bölgesel Dağıtım Ağı Direktörü"
+],
+"sektorler": [
+"LOGISTICS_DRIVER"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kent İçi Dağıtım Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kent İçi Dağıtım ve Mikro Mobilite Lojistik Yöneticisi (Urban Cargo / EV Fleet)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Liman Operasyon Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Liman Operasyon ve Rıhtım Müdürü"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Liman Operasyon Sorumlusu",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sorumlu"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Liman Terminal Operasyon Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Liman ve Konteyner Terminali Operasyon Müdürü (TOS / Rıhtım & Saha)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lojistik Çözüm Tasarımı Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sözleşmeli Lojistik ve 3PL / 4PL Çözüm Tasarımı Yöneticisi (Contract Logistics)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lojistik Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"3PL Logistics Partner Manager",
+"Cold Chain Logistics Manager",
+"Manager",
+"Müdür",
+"Tedarik Zinciri ve Lojistik Operasyonları Direktörü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"MARKETING_MEDIA",
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Satınalma Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ambalaj Malzemeleri ve Paketleme Satınalma Yöneticisi (Packaging Procurement)",
+"Dolaylı Satınalma ve Hizmet İhaleleri Yöneticisi (Indirect Procurement / CAPEX)",
+"Kıdemli İdari Satınalma ve Tedarikçi Yönetimi Müdürü",
+"Stratejik Doğrudan Satınalma Müdürü (Direct Materials / OEM Sourcing)",
+"Yönetici"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT",
+"SALES",
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Soğuk Zincir Lojistik Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Soğuk Zincir Lojistik Yöneticisi"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tedarik Zinciri Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Tedarik Zinciri ve Üretim Çizelgeleme Yöneticisi",
+"Müdür",
+"Tedarik Zinciri Lideri"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"INDUSTRIAL_MANUFACTURING",
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tedarik Zinciri Planlama Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Entegre Tedarik Zinciri ve S&OP Müdürü (Sales & Operations Planning / IBP)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tersine Lojistik Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tersine Lojistik ve İade Yöneticisi"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uçuş Emniyet Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uçuş Emniyet ve Emniyet Yönetim Sistemleri (SMS) Müdürü"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uçuş Planlama Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uçuş Planlama ve Rota Optimizasyonu Yöneticisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uçuş Rota Optimizasyonu ve Navigasyon Verisi Müdürü",
+"isco4": "1324",
+"isco_title": "Supply, distribution and related managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Flight Route Optimization & NavData Manager"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Açık Bankacılık ve API Entegrasyon Yöneticisi",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Açık Bankacılık ve API Entegrasyon Yöneticisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilgi Güvenliği Müdürü",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Chief Information Security Officer (CISO / Bilgi Güvenliği Direktörü)",
+"Kıdemli Bilgi Güvenliği Yöneticisi (CISO / Security Director)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bilgi Teknolojileri Müdürü",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Müdür"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "BT Proje Yöneticisi",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"BT Proje Yöneticisi",
+"Yönetici"
+],
+"sektorler": [
+"IT_SOFTWARE",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Zekası Müdürü",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kıdemli İş Zekası ve Raporlama Müdürü"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Site Güvenilirlik Müdürü",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Site Reliability Engineering (SRE) Direktörü",
+"Lead DevOps / SRE Manager"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "SOC Müdürü",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Siber Güvenlik Operasyonları Lideri (SOC Manager)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teknik Ürün Yöneticisi",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Technical Product Manager",
+"Teknik Ürün Yöneticisi",
+"Veri ve Yapay Zeka Ürün Yöneticisi (AI / Data Product Manager)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teknoloji Müdürü",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Chief Technology Officer"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ürün Yöneticisi",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Büyüme Odaklı Ürün Yöneticisi (Growth Product Manager)",
+"Finansal Teknoloji (FinTech) Ürün Yöneticisi",
+"SaaS Platform Ürün Yöneticisi (B2B SaaS Product Manager)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING",
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": [
+"25"
+]
+},
+{
+"specialty": "Ürün Yönetimi Müdürü",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kıdemli Ürün Yönetimi Direktörü (VP of Product)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Ambarı Müdürü",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kıdemli Bulut Veri Ambarı Direktörü"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri ve Analitik Müdürü",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Head of Data Engineering & Analytics"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yazılım Proje Yöneticisi",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Proje Lideri"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yazılım Test Müdürü",
+"isco4": "1330",
+"isco_title": "Information and communications technology services managers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kıdemli Kalite Güvence ve Test Müdürü (QA Manager)"
+],
+"sektorler": [
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ameliyathane ve Sterilizasyon Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Ameliyathaneler ve Sterilizasyon Direktör Yardımcısı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Başhekim",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tıbbi Direktör / Başhekim (Chief Medical Officer - CMO)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyomedikal Mühendislik Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Biyomedikal Hizmetler Müdürü (Chief Biomedical Engineer)",
+"Kıdemli Klinik Mühendislik ve Sağlık Teknolojileri Müdürü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyomedikal ve Tıbbi Teknoloji Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biyomedikal ve Tıbbi Teknoloji Direktörü (Head of Medical Technologies)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hasta Hizmetleri Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hasta Hizmetleri ve Gelir Döngüsü Direktörü (Chief Patient Officer)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hasta Hizmetleri ve Gelir Döngüsü Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Hasta Hizmetleri ve Gelir Döngüsü Müdürü (Revenue Cycle Manager)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hastane Kalite ve Mesul Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hastane Kalite ve Mesul Müdürü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hastane Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hastane İşletme ve Tıbbi Hizmetler Direktörü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hemşirelik Eğitim ve Gelişim Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Hemşirelik Hizmetleri Eğitim ve Gelişim Müdürü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hemşirelik Hizmetleri Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hemşirelik Hizmetleri Direktörü (Chief Nursing Officer - CNO)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite ve Hasta Güvenliği Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Kalite ve Hasta Güvenliği Müdürü (JCI Koordinatörü)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Laboratuvar Kalite ve Akreditasyon Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Klinik Laboratuvarlar Kalite ve Akreditasyon Müdürü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal Operasyonlar Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Medikal Operasyonlar ve Klinik Yönetim Direktörü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radyoloji Teknik Hizmetler Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Radyoloji Teknik Hizmetler Müdürü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sağlık Hizmetleri Genel Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sağlık Hizmetleri Genel Müdür Yardımcısı (COO / CMO)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sağlık Turizmi Operasyon Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Sağlık Turizmi Operasyonları ve VIP Hasta Müdürü"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teşhis ve Tanı Merkezleri Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Teşhis ve Tanı Merkezleri Direktörü (Laboratuvar & Radyoloji)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uluslararası Sağlık Turizmi Müdürü",
+"isco4": "1342",
+"isco_title": "Health services managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uluslararası Sağlık Turizmi Direktörü (Head of International Healthcare)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Akademik Müdür",
+"isco4": "1345",
+"isco_title": "Education managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Akademik Direktör / Genel Müdür Yardımcısı (Eğitim)"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Eğitim Kalite ve Akreditasyon Müdürü",
+"isco4": "1345",
+"isco_title": "Education managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Eğitim Kurumu Kalite Akreditasyon Yöneticisi"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kariyer Merkezi Müdürü",
+"isco4": "1345",
+"isco_title": "Education managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"University Career Center Director",
+"Öğrenci Kariyer Merkezi Direktörü"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Okul Müdürü",
+"isco4": "1345",
+"isco_title": "Education managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"K12 Kampüs Müdürü / Genel Müdür"
+],
+"sektorler": [
+"EDUCATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Acil Durum ve Yangın Güvenlik Müdürü",
+"isco4": "1349",
+"isco_title": "Professional services managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Acil Durum ve Yangın Güvenlik Müdürü"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güvenlik Müdürü",
+"isco4": "1349",
+"isco_title": "Professional services managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kurumsal Güvenlik Direktörü (Corporate Security Director)",
+"Kıdemli Tesis Güvenlik Müdürü (Karma Proje)"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Liman Tesisi Güvenlik Müdürü",
+"isco4": "1349",
+"isco_title": "Professional services managers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Endüstriyel Tesis ve Liman Güvenlik Müdürü (ISPS)"
+],
+"sektorler": [
+"SECURITY_EMERGENCY"
+],
+"diger_gruplarda_da_var": []
+}
+]

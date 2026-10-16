@@ -1,0 +1,1162 @@
+[
+{
+"specialty": "Borsa Aracısı",
+"isco4": "3311",
+"isco_title": "Securities and finance dealers and brokers",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Borsa İstanbul (BİST) Seans İşlem Temsilcisi",
+"Broker",
+"Stock Exchange Certified Floor Broker"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Emtia ve Enerji Türevleri Uzmanı",
+"isco4": "3311",
+"isco_title": "Securities and finance dealers and brokers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Emtia ve Enerji Türev Piyasaları Ticaret Uzmanı (Commodity Trader / Brent/Elektrik)",
+"Emtia ve Enerji Türevleri Yatırımcısı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kambiyo ve Döviz Masası Tüccarı",
+"isco4": "3311",
+"isco_title": "Securities and finance dealers and brokers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kambiyo ve Döviz Masası Tüccarı (FX Trader)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sabit Getirili Menkul Kıymetler Alım Satım Uzmanı",
+"isco4": "3311",
+"isco_title": "Securities and finance dealers and brokers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kurumsal Tahvil ve Eurobond Alım Satım Masası Uzmanı (Fixed Income Trader)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sabit Getirili Menkul Kıymetler Tüccarı",
+"isco4": "3311",
+"isco_title": "Securities and finance dealers and brokers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fixed Income & Bond Trading Specialist"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Türev Araçlar ve Takas Operasyon Uzmanı",
+"isco4": "3311",
+"isco_title": "Securities and finance dealers and brokers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Türev Araçlar ve Takas Operasyon Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Alacak ve Risk Kontrolörü",
+"isco4": "3312",
+"isco_title": "Credit and loans officers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Accounts Receivable & Credit Controller",
+"Alacak ve Risk Kontrolörü"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dış Ticaret Finansmanı Uzmanı",
+"isco4": "3312",
+"isco_title": "Credit and loans officers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dış Ticaret Finansmanı Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": [
+"24"
+]
+},
+{
+"specialty": "Finansal İstihbarat ve Mali Analiz Uzmanı",
+"isco4": "3312",
+"isco_title": "Credit and loans officers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Finansal İstihbarat ve Mali Analiz Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kredi Tahsis Uzmanı",
+"isco4": "3312",
+"isco_title": "Credit and loans officers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bireysel ve Ticari Kredi Tahsis Yetkilisi",
+"Credit Risk & Underwriting Specialist"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Problem Krediler Takip Uzmanı",
+"isco4": "3312",
+"isco_title": "Credit and loans officers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Problem Krediler ve Tasfiye Portföy Sorumlusu"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ticari Bankacılık Portföy Yöneticisi",
+"isco4": "3312",
+"isco_title": "Credit and loans officers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"KOBİ ve Ticari Krediler Portföy Yöneticisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ödeme Sistemleri Mutabakat Uzmanı",
+"isco4": "3313",
+"isco_title": "Accounting associate professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ödeme Sistemleri ve Takasbank Mutabakat Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gayrimenkul Değerleme Uzmanı",
+"isco4": "3315",
+"isco_title": "Valuers and loss assessors",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gayrimenkul Değerleme Uzmanı (SPK Lisanslı)",
+"Licensed Real Estate Appraiser (CMB Turkey)"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sigorta Hasar Uzmanı",
+"isco4": "3315",
+"isco_title": "Valuers and loss assessors",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Insurance Claims Adjuster",
+"Sigorta Hasar Denetim Uzmanı"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sigorta Acente Personeli",
+"isco4": "3321",
+"isco_title": "Insurance representatives",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sigorta Ofisi Personel İşe Alım Süreci"
+],
+"sektorler": [
+"HR"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sigorta Satış Temsilcisi",
+"isco4": "3321",
+"isco_title": "Insurance representatives",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Satış Pazarlama Ekip Lideri"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sigorta ve Risk Uzmanı",
+"isco4": "3321",
+"isco_title": "Insurance representatives",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İnşaat Sözleşmeleri Risk ve Sigorta Yöneticisi (CAR / All Risks)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Banka Saha Satış Temsilcisi",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Banka POS ve Üye İşyeri Saha Satış Temsilcisi",
+"Banka Saha Satış Temsilcisi (Kredi Kartı)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bireysel Bankacılık Müşteri Temsilcisi",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bireysel Bankacılık Müşteri Temsilcisi"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Distribütör Satış Yöneticisi",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 11,
+"n_job": 2,
+"ornek_unvanlar": [
+"Bahçe ve Tarım Ekipmanları Perakende Satış Yöneticisi (Lawn & Garden Retail)",
+"Bayi Geliştirme Yöneticisi",
+"Bebek, Anne ve Çocuk Ürünleri Satış Yöneticisi (Baby Care & Toy Retail)",
+"Bölge Satış Sorumlusu",
+"Dealer Network Development Executive"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İç Satış Uzmanı",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İç Satış ve Teklif Destek Elemanı (Inside Sales Representative)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İhale Uzmanı",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"İhale ve Resmi Sözleşmeler Uzmanı",
+"İhale ve Sözleşmeler Satış Uzmanı"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İhracat Satış Uzmanı",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 4,
+"n_job": 8,
+"ornek_unvanlar": [
+"Bölge İhracat Sorumlusu (Avrupa Birliği)",
+"Bölge İhracat Sorumlusu (BDT",
+"Bölge İhracat Sorumlusu (BDT / Rusya)",
+"Bölge İhracat Sorumlusu (Orta Doğu / Körfez)",
+"Export Sales Specialist"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Geliştirme Uzmanı",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Business Development Specialist",
+"Corporate Venturing & Innovation Lead"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": [
+"24"
+]
+},
+{
+"specialty": "Kanal Satış Yöneticisi",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 7,
+"n_job": 3,
+"ornek_unvanlar": [
+"Geleneksel Kanal ve Toptancı Satış Yöneticisi (Traditional Trade / Bakkal)",
+"Gözlük ve Optik Perakendeciliği Satış Müdürü (Eyewear Retail Management)",
+"Gıda ve Horeca Kanalı Bölge Satış Yöneticisi",
+"Horeca ve Ev Dışı Tüketim Kanal Satış Müdürü (Foodservice / On-Premise)",
+"Kanal Satış Yöneticisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kilit Müşteri Yöneticisi",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 4,
+"n_job": 3,
+"ornek_unvanlar": [
+"Key Account Manager (Büyük Müşteriler Yöneticisi)",
+"Kozmetik ve Kişisel Bakım Zincirleri Satış Yöneticisi (Gratis / Watsons KAM)",
+"Kurumsal Müşteri Danışmanı",
+"Kıdemli Ulusal Zincir Mağazalar Satış Müdürü (National KAM)",
+"Ulusal Zincir Mağazalar Müşteri Yöneticisi (National Account Manager - NAM / FMCG)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal Satış Temsilcisi",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 14,
+"n_job": 4,
+"ornek_unvanlar": [
+"Kurumsal Filo Satış ve Uzun Dönem Kiralama Müdürü (Fleet Sales)",
+"Kurumsal Lojistik ve Freight Forwarding Satış Yöneticisi (Freight B2B)",
+"Kurumsal Satış Temsilcisi (B2B Hizmet - Yetiştirilmek Üzere)",
+"Müzik Enstrümanları ve Profesyonel Ses Sistemleri Satış Yöneticisi (Pro-Audio)",
+"Ofis Mobilyaları ve Mimari Akustik Çözümler Satış Yöneticisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kurumsal Satış Uzmanı",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"B2B Corporate Sales Specialist",
+"B2B Kurumsal Satış Uzmanı",
+"Corporate Client Executive",
+"E-Ticaret Pazaryeri B2B Satıcı Edinme Uzmanı (Merchant Acquisition)",
+"Endüstriyel Ambalaj ve Oluklu Mukavva Kurumsal Satış Müdürü"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lojistik Satış Uzmanı",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uluslararası Lojistik ve Navlun Satış Uzmanı (Freight Forwarding)"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Başarısı Yöneticisi",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"B2B Müşteri Başarısı Yöneticisi (Customer Success Manager)"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plasiyer",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"PAZARLAMA VE SEVKİYAT"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Saha Satış Temsilcisi",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 3,
+"n_job": 7,
+"ornek_unvanlar": [
+"Acill saha satış ve tanıtım elemanı aranıyor.",
+"Aktif Doğrudan Satış Uzmanı",
+"E-Ticaret Saha Personeli",
+"Endüstriyel Hırdavat ve Fabrika Tedarik Satış Elemanı",
+"Saha Satış Temsilcisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Satış ve Pazarlama Uzmanı",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"SATIŞ & PAZARLAMA ELEMANI",
+"Sales and Marketing Specialist"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teklif ve İhale Uzmanı",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Teklif ve İhale Hazırlama Uzmanı"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tekstil Müşteri Temsilcisi",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Tekstil Müşteri Temsilcisi (Merchandiser)",
+"Tekstil ve Kumaş İhracat Müşteri Temsilcisi (Customer Representative)"
+],
+"sektorler": [
+"APPAREL_TEXTILE",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yurtdışı İş Geliştirme Uzmanı",
+"isco4": "3322",
+"isco_title": "Commercial sales representatives",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Yurtdışı Pazar ve İhracat İş Geliştirme Uzmanı",
+"Yurtdışı İş Geliştirme Uzmanı (Avrupa Pazarı)",
+"Yönetici"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hurda ve Geri Kazanım Uzmanı",
+"isco4": "3323",
+"isco_title": "Buyers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sanayi Tesisleri Hurda ve Atık Malzeme Satınalma / Geri Kazanım Uzmanı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şantiye Malzeme Mühendisi",
+"isco4": "3323",
+"isco_title": "Buyers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Şantiye Malzeme Tedarik ve Ambar Lojistik Mühendisi (SAP MM)",
+"Şantiye Satınalma ve Malzeme Kabul Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Satın Alma Mühendisi",
+"isco4": "3323",
+"isco_title": "Buyers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Satın Alma ve Tedarik Zinciri Mühendisi (İnşaat Malzemeleri)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Satın Alma Uzmanı",
+"isco4": "3323",
+"isco_title": "Buyers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kumaş ve Aksesuar Satın Alma Uzmanı"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Satınalma Uzmanı",
+"isco4": "3323",
+"isco_title": "Buyers",
+"n_cv": 3,
+"n_job": 4,
+"ornek_unvanlar": [
+"Kimyasal Hammadde Satınalma ve Global Tedarikçi Uzmanı (Chemical Sourcing)",
+"Procurement Specialist",
+"SATIN ALMA UZMANI",
+"Satınalma Uzmanı",
+"İdari Satınalma Asistanı"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT",
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sözleşme ve Satınalma Uzmanı",
+"isco4": "3323",
+"isco_title": "Buyers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Alt Yüklenici Sözleşmeleri ve Satınalma Uzmanı İnşaat Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Stratejik Satınalma Mühendisi",
+"isco4": "3323",
+"isco_title": "Buyers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Stratejik Satınalma Mühendisi"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Kiralama ve Brokerlik Uzmanı",
+"isco4": "3324",
+"isco_title": "Trade brokers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gemi Kiralama ve Brokerlik Uzmanı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Kiralama ve Deniz Brokerliği Uzmanı",
+"isco4": "3324",
+"isco_title": "Trade brokers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi Kiralama ve Deniz Brokerliği Uzmanı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Canlı Hayvan Lojistik Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Canlı Hayvan ve Biyolojik Materyal Lojistik Uzmanı (IATA LAR Standardı)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dış Ticaret Operasyon Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 8,
+"n_job": 3,
+"ornek_unvanlar": [
+"Dış Ticaret Operasyon Sorumlusu",
+"Dış Ticaret Operasyonları ve Akreditif Evrak Uzmanı (L/C / UCP 600)",
+"Free Trade Zone Operations Manager",
+"Import Operations Specialist",
+"Junior İhracat Operasyon ve Satış Destek Elemanı"
+],
+"sektorler": [
+"SALES",
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dış Ticaret Teşvik Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dış Ticaret Teşvikleri ve DİR Uzmanı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dış Ticaret Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Akreditif ve Kambiyo Uzmanı",
+"Dış Ticaret Teşvikleri ve DİR Uzmanı",
+"Dış Ticaret ve Uluslararası İş Geliştirme Koordinatörü",
+"Trade Incentives & Inward Processing Specialist",
+"Uluslararası Dış Ticaret ve İhracat Temsilcisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Acenteliği Operasyon Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sorumlu"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gümrük Mevzuat Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Customs & Trade Compliance Specialist",
+"Gümrük ve Dış Ticaret Mevzuat Uzmanı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gümrük Takipçisi",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 5,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gümrük Saha Elemanı",
+"Liman Gümrük Takipçisi"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hava Kargo Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Uluslararası Havayolu Kargo ve Hızlı Taşımacılık Uzmanı (Air Freight / IATA)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Intermodal Taşımacılık Operasyon Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Intermodal ve Demiryolu Taşımacılığı Operasyon Uzmanı (Kombine Taşımacılık)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Proje Kargosu Lojistik Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Proje Kargosu ve Ağır Nakliyat Lojistik Uzmanı (Heavy Lift / Breakbulk)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Soğuk Zincir İhracat Lojistiği Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Dondurulmuş Gıda ve Su Ürünleri İhracat Lojistiği Uzmanı (Reefer Container)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uluslararası Lojistik ve Gümrükleme Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uluslararası Lojistik ve Gümrükleme Uzmanı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uluslararası Taşımacılık Uzmanı",
+"isco4": "3331",
+"isco_title": "Clearing and forwarding agents",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uluslararası Taşımacılık Uzmanı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Etkinlik Organizasyon Uzmanı",
+"isco4": "3332",
+"isco_title": "Conference and event planners",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Etkinlik ve Sponsorluk Operasyon Sorumlusu",
+"Fuar ve Kongre Proje Koordinatörü"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Etkinlik Planlama Uzmanı",
+"isco4": "3332",
+"isco_title": "Conference and event planners",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plancı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Etkinlik ve Organizasyon Uzmanı",
+"isco4": "3332",
+"isco_title": "Conference and event planners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Etkinlik ve Organizasyon Yöneticisi"
+],
+"sektorler": [
+"MARKETING_MEDIA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal İletişim ve Kongre Yönetimi Uzmanı",
+"isco4": "3332",
+"isco_title": "Conference and event planners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Medikal İletişim ve Kongre Yönetimi Uzmanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Emlak Danışmanı",
+"isco4": "3334",
+"isco_title": "Real estate agents and property managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"BAY / BAYAN  ÇALIŞMA ARKADAŞLARI ARIYORUZ !"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gayrimenkul Danışmanı",
+"isco4": "3334",
+"isco_title": "Real estate agents and property managers",
+"n_cv": 0,
+"n_job": 9,
+"ornek_unvanlar": [
+"GAYRİMENKUL DANIŞMANI",
+"Gayrimenkul Satış Danışmanı",
+"Gayrimenkul Satış Danışmanı (Remax Beta)",
+"Gayrimenkul Satış Danışmanı (Saha Satış)",
+"Gayrimenkul Satış Temsilcisi ve Portföy Danışmanı"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gayrimenkul Uzmanı",
+"isco4": "3334",
+"isco_title": "Real estate agents and property managers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sözleşmeler ve Gayrimenkul İdari İşler Uzmanı"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ticari Mülk ve AVM Kiralama Yöneticisi",
+"isco4": "3334",
+"isco_title": "Real estate agents and property managers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ticari Mülk ve AVM Kiralama Yöneticisi"
+],
+"sektorler": [
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Banka Şube Operasyon Yönetmeni",
+"isco4": "3341",
+"isco_title": "Office supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Şube Operasyon Yönetmeni"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çağrı Merkezi Süpervizörü",
+"isco4": "3341",
+"isco_title": "Office supervisors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çağrı Merkezi Operasyon Süpervizörü"
+],
+"sektorler": [
+"CUSTOMER_SERVICE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İdari İşler Uzmanı",
+"isco4": "3341",
+"isco_title": "Office supervisors",
+"n_cv": 14,
+"n_job": 3,
+"ornek_unvanlar": [
+"Administrative Assistant Intern",
+"Administrative Intern",
+"Tesis ve Hizmetler Denetim Sorumlusu",
+"İDARİ İŞLER ELEMANI",
+"İdari İşler Asistanı"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ofis Yöneticisi",
+"isco4": "3341",
+"isco_title": "Office supervisors",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Ofis Yöneticisi (Office Manager)",
+"Ofis Yöneticisi (Part-Time)"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hukuk Sekreteri",
+"isco4": "3342",
+"isco_title": "Legal secretaries",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Hukuk Asistanı / Yasal İşler Görevlisi",
+"Hukuk Sekreteri / Dosya Takip Elemanı",
+"Sekreter"
+],
+"sektorler": [
+"LEGAL",
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Departman Asistanı",
+"isco4": "3343",
+"isco_title": "Administrative and executive secretaries",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Asistan"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klinik Araştırma Asistanı",
+"isco4": "3343",
+"isco_title": "Administrative and executive secretaries",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Klinik Araştırmalar Asistanı (Clinical Trial Assistant - CTA)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yönetici Asistanı",
+"isco4": "3343",
+"isco_title": "Administrative and executive secretaries",
+"n_cv": 5,
+"n_job": 8,
+"ornek_unvanlar": [
+"Administrative Assistant",
+"Müdür Yardımcısı",
+"Yönetici Asistanı",
+"Yönetici Asistanı (Executive Assistant to Board)",
+"Yönetici Asistanı (Junior Executive Assistant)"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT",
+"SALES"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Sekreter",
+"isco4": "3344",
+"isco_title": "Medical secretaries",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sekreter"
+],
+"sektorler": [
+"OFFICE_ADMIN_MGMT"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uluslararası Sağlık Turizmi Uzmanı",
+"isco4": "3344",
+"isco_title": "Medical secretaries",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uluslararası Sağlık Turizmi Uzmanı (Arapça & İngilizce Bilen)"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+}
+]

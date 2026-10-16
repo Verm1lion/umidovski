@@ -1,0 +1,427 @@
+[
+ {
+  "id": "S30526",
+  "target_occ_key": "2341:sinif_ogretmeni",
+  "target_specialty": "Sınıf Öğretmeni",
+  "target_isco4": "2341",
+  "target_isco_title": "Primary school teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Sınıf Öğretmeni"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30527",
+  "target_occ_key": "2351:montessori_ve_erken_cocukluk_egitim_danismani",
+  "target_specialty": "Montessori ve Erken Çocukluk Eğitim Danışmanı",
+  "target_isco4": "2351",
+  "target_isco_title": "Education methods specialists",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Montessori & Early Childhood Education Consultant"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30528",
+  "target_occ_key": "2351:ogretim_tasarimi_uzmani",
+  "target_specialty": "Öğretim Tasarımı Uzmanı",
+  "target_isco4": "2351",
+  "target_isco_title": "Education methods specialists",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Eğitim Programları ve Öğretim Tasarımı Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30529",
+  "target_occ_key": "2351:olcme_ve_degerlendirme_muduru",
+  "target_specialty": "Ölçme ve Değerlendirme Müdürü",
+  "target_isco4": "2351",
+  "target_isco_title": "Education methods specialists",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Kıdemli Ölçme ve Değerlendirme Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30530",
+  "target_occ_key": "2351:program_gelistirme_ve_mufredat_muduru",
+  "target_specialty": "Program Geliştirme ve Müfredat Müdürü",
+  "target_isco4": "2351",
+  "target_isco_title": "Education methods specialists",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli K12 Program Geliştirme ve Müfredat Müdürü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30531",
+  "target_occ_key": "2351:uluslararasi_bakalorya_koordinatoru",
+  "target_specialty": "Uluslararası Bakalorya Koordinatörü",
+  "target_isco4": "2351",
+  "target_isco_title": "Education methods specialists",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Uluslararası Bakalorya (IB) Diploma Programı Koordinatörü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30532",
+  "target_occ_key": "2352:ozel_egitim_ogretmeni",
+  "target_specialty": "Özel Eğitim Öğretmeni",
+  "target_isco4": "2352",
+  "target_isco_title": "Special needs teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Özel Eğitim Öğretmeni"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30533",
+  "target_occ_key": "2352:ozel_egitim_ve_kaynastirma_koordinatoru",
+  "target_specialty": "Özel Eğitim ve Kaynaştırma Koordinatörü",
+  "target_isco4": "2352",
+  "target_isco_title": "Special needs teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Kıdemli Özel Eğitim ve Kaynaştırma Koordinatörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30534",
+  "target_occ_key": "2353:yabanci_dil_olarak_turkce_okutmani",
+  "target_specialty": "Yabancı Dil Olarak Türkçe Okutmanı",
+  "target_isco4": "2353",
+  "target_isco_title": "Other language teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Yabancı Dil Olarak Türkçe (TÖMER) Okutmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30535",
+  "target_occ_key": "2354:muzik_ogretmeni",
+  "target_specialty": "Müzik Öğretmeni",
+  "target_isco4": "2354",
+  "target_isco_title": "Other music teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Müzik ve Enstrüman Öğretmeni (Piyano/Keman)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30536",
+  "target_occ_key": "2355:resim_egitmeni",
+  "target_specialty": "Resim Eğitmeni",
+  "target_isco4": "2355",
+  "target_isco_title": "Other arts teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Ressam ve Resim Atölyesi Eğitmeni"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30537",
+  "target_occ_key": "2355:tiyatro_egitmeni",
+  "target_specialty": "Tiyatro Eğitmeni",
+  "target_isco4": "2355",
+  "target_isco_title": "Other arts teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CREATIVE_DESIGN",
+  "industry_tr": "Yaratıcı Tasarım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Tiyatro ve Sahne Sanatları Eğitmeni"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30538",
+  "target_occ_key": "2359:munazara_ve_hitabet_kocu",
+  "target_specialty": "Münazara ve Hitabet Koçu",
+  "target_isco4": "2359",
+  "target_isco_title": "Teaching professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Münazara ve Hitabet Koçu"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30539",
+  "target_occ_key": "2359:zeka_oyunlari_egitmeni",
+  "target_specialty": "Zeka Oyunları Eğitmeni",
+  "target_isco4": "2359",
+  "target_isco_title": "Teaching professionals not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Bilişsel Gelişim ve Zeka Oyunları Eğitmeni"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30540",
+  "target_occ_key": "2411:adli_muhasebe_ve_hile_denetimi_uzmani",
+  "target_specialty": "Adli Muhasebe ve Hile Denetimi Uzmanı",
+  "target_isco4": "2411",
+  "target_isco_title": "Accountants",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Adli Muhasebe ve Hile Denetimi Uzmanı (CFE)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30541",
+  "target_occ_key": "2411:bagimsiz_denetim_muduru",
+  "target_specialty": "Bağımsız Denetim Müdürü",
+  "target_isco4": "2411",
+  "target_isco_title": "Accountants",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Bağımsız Denetim Müdürü (Audit Manager)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30542",
+  "target_occ_key": "2411:ic_kontrol_uzmani",
+  "target_specialty": "İç Kontrol Uzmanı",
+  "target_isco4": "2411",
+  "target_isco_title": "Accountants",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "İç Kontrol ve Uyum Uzmanı (Internal Control & Compliance)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30543",
+  "target_occ_key": "2411:ticari_finans_uzmani",
+  "target_specialty": "Ticari Finans Uzmanı",
+  "target_isco4": "2411",
+  "target_isco_title": "Accountants",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Ticari Finans ve Fiyatlandırma Uzmanı (Commercial Finance)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30544",
+  "target_occ_key": "2411:transfer_fiyatlandirmasi_uzmani",
+  "target_specialty": "Transfer Fiyatlandırması Uzmanı",
+  "target_isco4": "2411",
+  "target_isco_title": "Accountants",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Transfer Fiyatlandırması Uzmanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30545",
+  "target_occ_key": "2413:algoritmik_ve_yuksek_frekansli_islem_uzmani",
+  "target_specialty": "Algoritmik ve Yüksek Frekanslı İşlem Uzmanı",
+  "target_isco4": "2413",
+  "target_isco_title": "Financial analysts",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Algoritmik ve Yüksek Frekanslı İşlem (HFT) Uzmanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30546",
+  "target_occ_key": "2413:fon_raporlama_uzmani",
+  "target_specialty": "Fon Raporlama Uzmanı",
+  "target_isco4": "2413",
+  "target_isco_title": "Financial analysts",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Emeklilik Yatırım Fonu Fon Kurulu Raportörü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30547",
+  "target_occ_key": "2413:hisse_senedi_analisti",
+  "target_specialty": "Hisse Senedi Analisti",
+  "target_isco4": "2413",
+  "target_isco_title": "Financial analysts",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Yatırım ve Hisse Senedi Analisti"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30548",
+  "target_occ_key": "2413:islami_finans_ve_sukuk_uzmani",
+  "target_specialty": "İslami Finans ve Sukuk Uzmanı",
+  "target_isco4": "2413",
+  "target_isco_title": "Financial analysts",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "İslami Finans ve Sukuk İhraç Uzmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30549",
+  "target_occ_key": "2413:ozel_sermaye_yatirim_danismani",
+  "target_specialty": "Özel Sermaye Yatırım Danışmanı",
+  "target_isco4": "2413",
+  "target_isco_title": "Financial analysts",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Özel Sermaye (Private Equity) Yatırım Danışmanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30550",
+  "target_occ_key": "2413:surdurulebilir_finans_uzmani",
+  "target_specialty": "Sürdürülebilir Finans Uzmanı",
+  "target_isco4": "2413",
+  "target_isco_title": "Financial analysts",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Yeşil Finansman ve ESG Tahvili İhraç Danışmanı"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

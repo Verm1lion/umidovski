@@ -1,0 +1,1296 @@
+[
+{
+"specialty": "Duvar Ustası",
+"isco4": "7112",
+"isco_title": "Bricklayers and related workers",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Tuğla ve Duvar Ustası",
+"İnşaat Duvar Ustası (Mason)",
+"Şantiye Duvar ve Gazbeton Örme Elemanı (Yetiştirilmek Üzere)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mermer Ustası",
+"isco4": "7113",
+"isco_title": "Stonemasons, stone cutters, splitters and carvers",
+"n_cv": 4,
+"n_job": 2,
+"ornek_unvanlar": [
+"Mermer & Granit Basamak Ustası",
+"Mermer / Doğaltaş Ustası",
+"Mermer Kesim ve Montaj Ustası",
+"Mermer ve Doğal Taş Döşeme Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Beton ve Şap Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Betoncu / Şapçı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Betonarme Demir Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Etriye & Çiroz İmalat ve Montaj Ustası",
+"Fore Kazık & Diyafram Duvar Demir Kafesçisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Demir Donatı Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kiriş & Döşeme Demir Donatı Ustası",
+"Kıdemli Demir Donatı ve Büküm Başustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Helikopterli Şap Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Helikopterli Şap Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnşaat Demir Bağlama Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Radye Temel & Kolon Donatı Ustası",
+"Şantiye İnşaat Demir Bağlama Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnşaat Demir Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hasır Çelik Montaj & Donatı Ustası",
+"İnşaat Demir Bağlama Ustası",
+"İnşaat Demir ve Donatı Büküm Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnşaat Demircisi",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yetiştirilmek Üzere Demir Bağlama ve Donatı Elemanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": [
+"72"
+]
+},
+{
+"specialty": "Kalıp Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kalıpçı / Marangoz (Carpenter)",
+"Kalıpçı Usta",
+"Kalıpçı Yardımcısı ve Pano Temizleme Elemanı",
+"İnşaat Kalıp Ustası (Ahşap & Perde)",
+"İnşaat Kalıp Ustası (Kalıpçı / Marangoz)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalıp ve Demir Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kalıp ve Demir Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mozaik Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mozaik ve Zemin Kaplama Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Püskürtme Beton Operatörü",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tünel İçi Püskürtme Beton (Shotcrete) Pompa Yardımcısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": [
+"83"
+]
+},
+{
+"specialty": "Saha Betonu Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Saha Betonu ve Lazerli Şap Başustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şap Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Zemin Şap Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şap ve Beton Perdah Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Şap ve Saha Betonu Helikopterli Perdahlama Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tırmanır Kalıp Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tırmanır Kalıp & Çekirdek Perde Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tünel Kalıp Ustası",
+"isco4": "7114",
+"isco_title": "Concrete placers, concrete finishers and related workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tünel Kalıp Ustası",
+"Tünel Kalıp Ustası (Konut Kuleleri)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Betonarme Kalıp Ustası",
+"isco4": "7115",
+"isco_title": "Carpenters and joiners",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Doka / H20 Ahşap Kirişli Döşeme Kalıpçısı",
+"Endüstriyel Ahşap ve Çelik Kalıp Ustası (PERI & Doka)",
+"Endüstriyel Perde & Kolon Kalıpçısı",
+"Geleneksel Ahşap Merdiven & Çatı Kalıpçısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalafat Ustası",
+"isco4": "7115",
+"isco_title": "Carpenters and joiners",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kalafat Ustası"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Marangoz",
+"isco4": "7115",
+"isco_title": "Carpenters and joiners",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Marangoz / Doğrama Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tırmanır Kalıp Ustası",
+"isco4": "7115",
+"isco_title": "Carpenters and joiners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Endüstriyel Kalıp ve Tırmanır İskele Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tünel Kalıp Ustası",
+"isco4": "7115",
+"isco_title": "Carpenters and joiners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Tünel Kalıp Başustası (Tower Erection Chief)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Dağcı",
+"isco4": "7119",
+"isco_title": "Building frame and related trades workers not elsewhere classified",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel Dağcı (İple Erişim Teknisyeni)",
+"Endüstriyel Dağcı / İple Erişim Uzmanı"
+],
+"sektorler": [
+"CONSTRUCTION",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İple Erişim Teknisyeni",
+"isco4": "7119",
+"isco_title": "Building frame and related trades workers not elsewhere classified",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Rope Access / İple Erişim Teknisyeni",
+"İple Erişim ve Yüksekte Çalışma Teknisyeni"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İskele Kurulum Ustası",
+"isco4": "7119",
+"isco_title": "Building frame and related trades workers not elsewhere classified",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Endüstriyel İskele Kurulum Ustası",
+"Güvenlikli Çelik İskele Montaj Ustası (Yetkili)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İskele Ustası",
+"isco4": "7119",
+"isco_title": "Building frame and related trades workers not elsewhere classified",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kıdemli Güvenlikli İskele Başustası ve Denetçisi",
+"İskele Kurulum ve Söküm Elemanı (Başlangıç Düzeyi)",
+"İskele Kurulum ve Söküm Personeli"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Prefabrik Montaj Elemanı",
+"isco4": "7119",
+"isco_title": "Building frame and related trades workers not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Prefabrik Beton Montaj Elemanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ahşap Çatı Ustası",
+"isco4": "7121",
+"isco_title": "Roofers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kaba Yapı Ahşap Çatı ve Sundurma Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çatı Ustası",
+"isco4": "7121",
+"isco_title": "Roofers",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kıdemli Ahşap Çatı ve Su İzolasyon Başustası",
+"Çatı Kaplama Ustası (Roofer)",
+"Çatı Ustası",
+"Çatı İzolasyon ve Kaplama Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Epoksi Zemin Kaplama Ustası",
+"isco4": "7122",
+"isco_title": "Floor layers and tile setters",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Endüstriyel Epoksi Zemin & Çelik Boyacısı",
+"Epoksi Zemin Kaplama Ustası",
+"Epoksi Zemin Kaplama Ustası (Otopark & Endüstriyel)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Cephe Kaplama Ustası",
+"isco4": "7122",
+"isco_title": "Floor layers and tile setters",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mekanik Cephe Seramik & Granit Montaj Ustası",
+"Mekanik Dış Cephe Kaplama Ustası (Seramik & Kompakt)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Parke Ustası",
+"isco4": "7122",
+"isco_title": "Floor layers and tile setters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Laminat ve Ahşap Parke Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Seramik Fayans Ustası",
+"isco4": "7122",
+"isco_title": "Floor layers and tile setters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Banyo & Islak Hacim Seramik Döşeme Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Seramik/Fayans Ustası",
+"isco4": "7122",
+"isco_title": "Floor layers and tile setters",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Büyük Ebat (60x120) Granit Seramik Ustası",
+"Fayans ve Karo Döşeme Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Seramik ve Fayans Ustası",
+"isco4": "7122",
+"isco_title": "Floor layers and tile setters",
+"n_cv": 4,
+"n_job": 3,
+"ornek_unvanlar": [
+"Seramik ve Fayans Ustası",
+"Seramik ve Fayansçı Yardımcısı",
+"Seramik, Granit ve Porselen Karo Döşeme Ustası",
+"Seramikçi / Fayansçı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Seramik ve Mermer Ustası",
+"isco4": "7122",
+"isco_title": "Floor layers and tile setters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İnce İşler ve Seramik-Mermer Başustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Akustik Tavan Montajcısı",
+"isco4": "7123",
+"isco_title": "Plasterers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Akustik Ahşap & Baffle Tavan Montajcısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Alçı Levha Ustası",
+"isco4": "7123",
+"isco_title": "Plasterers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yangına ve Neme Dayanıklı Alçı Levha Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Alçı Sıva Ustası",
+"isco4": "7123",
+"isco_title": "Plasterers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Alçı Sıva ve Kartonpiyer Yardımcısı",
+"Alçı Sıva ve Saten Perdahlama Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Alçı ve Kuru Duvar Ustası",
+"isco4": "7123",
+"isco_title": "Plasterers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Alçı Sıva ve Kuru Duvar Başustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Alçıpan Derz Ustası",
+"isco4": "7123",
+"isco_title": "Plasterers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Alçıpan Derz Dolgu & Fuga Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Alçıpan Ustası",
+"isco4": "7123",
+"isco_title": "Plasterers",
+"n_cv": 6,
+"n_job": 3,
+"ornek_unvanlar": [
+"Alçıpan Bölme Duvar Ustası",
+"Alçıpan Gizli Işık Bandı & Kutu Ustası",
+"Alçıpan Ustası",
+"Alçıpan ve Asma Tavan Ustası",
+"Alçıpan, Bölme Duvar ve Asma Tavan Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Asma Tavan Ustası",
+"isco4": "7123",
+"isco_title": "Plasterers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"T24 / T15 Taşyünü Asma Tavan Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dekoratif Sıva Ustası",
+"isco4": "7123",
+"isco_title": "Plasterers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Dekoratif Mineral Sıva & Dış Cephe Kaplamacısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metal Asma Tavan Ustası",
+"isco4": "7123",
+"isco_title": "Plasterers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Metal & Clip-in Asma Tavan Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sıva Ustası",
+"isco4": "7123",
+"isco_title": "Plasterers",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kaba ve İnce Sıva Ustası",
+"Sıvacı Usta"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boru Montaj ve İzolasyon Ustası",
+"isco4": "7124",
+"isco_title": "Insulation workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Boru Montaj ve İzolasyon Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dış Cephe Mantolama Ustası",
+"isco4": "7124",
+"isco_title": "Insulation workers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Dış Cephe Mantolama (Isı Yalıtım) Ustası",
+"Dış Cephe Mantolama ve Dekoratif Sıva Ustası",
+"Dış Cephe Mantolama ve Fileli Sıva Elemanı",
+"Taşyünü ve Dış Cephe Yalıtım Elemanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Su ve Isı Yalıtım Ustası",
+"isco4": "7124",
+"isco_title": "Insulation workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Şantiye Su ve Isı Yalıtım Elemanı (Yetiştirilmek Üzere)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Su Yalıtım Ustası",
+"isco4": "7124",
+"isco_title": "Insulation workers",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kıdemli Su Yalıtımı ve Membran Başustası",
+"Membran Su Yalıtım Ustası",
+"Su Yalıtımı ve Bitümlü Membran Uygulama Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yalıtım Ustası",
+"isco4": "7124",
+"isco_title": "Insulation workers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Isı ve Ses Yalıtım Ustası",
+"Mekanik ve Su İzolasyon Ustası",
+"İzolasyon / Yalıtım Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cam Montaj Elemanı",
+"isco4": "7125",
+"isco_title": "Glaziers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oto ve Cephe Cam Montaj Elemanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Camcı",
+"isco4": "7125",
+"isco_title": "Glaziers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Cam Kesim ve Montaj Elemanı",
+"Camcı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Giydirme Cephe Ustası",
+"isco4": "7125",
+"isco_title": "Glaziers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Mekanik Cephe ve Cam Giydirme Başustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "PVC Kapı ve Pencere Montajcısı",
+"isco4": "7125",
+"isco_title": "Glaziers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"PVC Kapı ve Pencere Montaj Elemanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boru Montajcısı",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Boru Montaj Elemanı (Pipefitter)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Doğalgaz Tesisatçısı",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Bina Doğalgaz & Çelik Boru Tesisatçısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Boru Tesisatçısı",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Endüstriyel Mekanik Tesisat & Flanş Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güneş Enerjisi ve Boyler Tesisatçısı",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Güneş Enerjisi & Boyler Tesisatçısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havalandırma Kanalı Montaj Ustası",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Spiro Yuvarlak Kanal & Emiş Bacası Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kombi ve Doğalgaz Bakım Teknisyeni",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kombi ve Doğalgaz Bakım Teknisyeni"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kombi ve Kalorifer Teknisyeni",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kombi / Kalorifer Teknisyeni",
+"Kombi ve Doğalgaz Bakım Teknisyeni"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Tesisat Ustası",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mekanik Tesisat ve Sıhhi Tesisat Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Polietilen Boru Alın Kaynakçısı",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Boru Alın Kaynakçısı (HDPE & PE100 Altyapı Hatları)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": [
+"72"
+]
+},
+{
+"specialty": "Pompa ve Hidrofor Tesisatçısı",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Hidrofor & Sirkülasyon Pompa Tesisatçısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sıhhi Tesisat Ustası",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sıhhi Tesisat & PPRC Boru Ustası",
+"Sıhhi Tesisat Ustası (Plumber)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sıhhi Tesisat ve Kombi Ustası",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sıhhi Tesisat ve Kombi Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Su Tesisatçısı",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tesisatçı / Su Tesisatçısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yangın Tesisatı ve Sprinkler Ustası",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yangın Tesisatı & Sprinkler Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yerden Isıtma Tesisatçısı",
+"isco4": "7126",
+"isco_title": "Plumbers and pipe fitters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yerden Isıtma & PEX Boru Tesisatçısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İklimlendirme Tesisat Teknisyeni",
+"isco4": "7127",
+"isco_title": "Air conditioning and refrigeration mechanics",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fan-Coil & Chiller Tesisat Teknisyeni"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klima Montaj Teknisyeni",
+"isco4": "7127",
+"isco_title": "Air conditioning and refrigeration mechanics",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Isı Pompası & Split Klima Montaj Teknisyeni"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Klima ve Soğutma Teknisyeni",
+"isco4": "7127",
+"isco_title": "Air conditioning and refrigeration mechanics",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Klima / Soğutma Teknisyeni"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "VRF Bakır Boru Kaynakçısı",
+"isco4": "7127",
+"isco_title": "Air conditioning and refrigeration mechanics",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"VRF / VRV Bakır Boru & Azot Kaynakçısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "VRF Devreye Alma Teknisyeni",
+"isco4": "7127",
+"isco_title": "Air conditioning and refrigeration mechanics",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"VRF Devreye Alma & Vakum Teknisyeni"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Airless Boya Püskürtme Operatörü",
+"isco4": "7131",
+"isco_title": "Painters and related workers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Airless Boya Püskürtme Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bina Boyacısı",
+"isco4": "7131",
+"isco_title": "Painters and related workers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Boyacı Usta"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boya Ustası",
+"isco4": "7131",
+"isco_title": "Painters and related workers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Boya ve İnce Bitirme İşleri Başustası",
+"Saten Alçı & İç Cephe Boyacısı",
+"Şantiye Boya ve Yüzey Bitirme Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dekoratif Boya ve Efekt Sıva Ustası",
+"isco4": "7131",
+"isco_title": "Painters and related workers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İtalyan Boya & Efekt Sıva Sanatkarı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnşaat Boya Ustası",
+"isco4": "7131",
+"isco_title": "Painters and related workers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"İnşaat Boya ve Badana Ustası",
+"İnşaat Boyacısı ve Alçıpan Ustası",
+"İskele Kurulum & Dış Cephe Boya Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Raspa ve Boya Elemanı",
+"isco4": "7131",
+"isco_title": "Painters and related workers",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Raspa ve Boya Elemanı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrostatik Toz Boya Ustası",
+"isco4": "7132",
+"isco_title": "Spray painters and varnishers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Elektrostatik Toz Boya Uygulama Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": [
+"81"
+]
+},
+{
+"specialty": "Endüstriyel Boyacı",
+"isco4": "7132",
+"isco_title": "Spray painters and varnishers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel Boyacı (Industrial Painter)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Yaş Boya Operatörü",
+"isco4": "7132",
+"isco_title": "Spray painters and varnishers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel Yaş Boya ve Robotik Boyama Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lake ve Vernik Boya Ustası",
+"isco4": "7132",
+"isco_title": "Spray painters and varnishers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Lake ve Vernik Boya Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobilya Cila Ustası",
+"isco4": "7132",
+"isco_title": "Spray painters and varnishers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mobilya Ahşap Cila Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oto Boya Ustası",
+"isco4": "7132",
+"isco_title": "Spray painters and varnishers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oto Boya ve Fırın Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+}
+]

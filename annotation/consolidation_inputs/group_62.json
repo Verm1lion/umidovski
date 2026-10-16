@@ -1,0 +1,46 @@
+[
+{
+"specialty": "Odun Kesim ve Yarma İşçisi",
+"isco4": "6210",
+"isco_title": "Forestry and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Odun Kesim ve Yarma İşçisi"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Orman Kesim İşçisi",
+"isco4": "6210",
+"isco_title": "Forestry and related workers",
+"n_cv": 4,
+"n_job": 2,
+"ornek_unvanlar": [
+"Motorlu Testere Ağaç Kesim Elemanı",
+"Oduncu / Tomrukçu",
+"Orman Kesim ve Boylama İşçisi"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Balıkçı",
+"isco4": "6222",
+"isco_title": "Inland and coastal waters fishery workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi Balıkçısı / Balıkçı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+}
+]

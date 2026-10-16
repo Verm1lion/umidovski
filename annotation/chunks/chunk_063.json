@@ -1,0 +1,1338 @@
+[
+{
+"id": "J2866",
+"kind": "JOB",
+"title": "Klinik Veri Yöneticisi (Clinical Data Manager)",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "Remote",
+"context": {
+"aciklama": "Uluslararası klinik araştırmaların Elektronik Veri Toplama (EDC) sistemlerini tasarlayacak ve klinik veri temizleme süreçlerini yönetecek veri yöneticileri arıyoruz. Rol ve Sorumluluklar: - eCRF ekran tasarımlarını, veri doğrulama kurallarını (edit checks) ve Veri Yönetim Planını (DMP) oluşturmak - EDC sistemindeki tutarsızlıkları (discrepancy) incelemek ve merkezlere elektronik sorgular (data queries) açmak - Laboratuvar verilerinin ve üçüncü parti harici verilerin veri tabanına entegrasyonunu sağlamak - Veri tabanı kilitlenmesi (Database Loc…"
+}
+},
+{
+"id": "J0748",
+"kind": "JOB",
+"title": "Koku ve Esans Kimyacısı (Parfümör)",
+"industry": "SCIENCE_RND",
+"city": "Bursa",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "MG International Fragrance Company bünyesinde, [şehir] yerleşkemizde görev alacak 'Koku ve Esans Kimyacısı (Parfümör)' aramaktayız. Rol ve Kurum Hakkında: MG International, esans üretiminde bölgenin en büyük ve en modern entegre tesisine sahip küresel bir esans üreticisidir. Görev ve Sorumluluklar: - İnce koku (parfüm), kişisel bakım, saç bakımı ve ev temizlik ürünleri için yaratıcı esans formülasyonlarının tasarlanması, - Üst, orta ve dip notaların harmonik uyumunu sağlayan özgün koku akorlarının oluşturulması, - Esans kompozisyonlarının fark…"
+}
+},
+{
+"id": "C11334",
+"kind": "CV",
+"title": "Kompozit Hasar Mekaniği ve Delaminasyon Simülasyon Mühendisi (Abaqus / XFEM)",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Havacılık karbon elyaf sandviç yapılarda düşük hızlı darbe hasarı (BVID), kohezif elemanlar (CZM), XFEM ile çatlak ilerlemesi ve sanal çatlak kapama (VCCT) analizlerinde uzmanım.",
+"beceriler": "Abaqus / Explicit, Kohezif Bölge Modeli (CZM), Sanal Çatlak Kapatma Tekniği (VCCT), XFEM (Genişletilmiş Sonlu Elemanlar), Görünmeyen Darbe Hasarı (BVID), Basma Dayanımı (CAI)",
+"deneyim": [
+"Kompozit Hasar Mekaniği ve Delaminasyon Simülasyon Mühendisi (Abaqus / XFEM) ([TARİH]): Havacılık kompozit kanat hücum kenarı panelinde kuş çarpması senaryosunu Abaqus E…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Yüksek Lisans (Havacılık ve Uzay Mühendisliği) 2015 - 2018"
+]
+}
+},
+{
+"id": "J2817",
+"kind": "JOB",
+"title": "Liyofilize ve Steril Ürün Formülasyon Uzmanı",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Onkoloji ve aşı Ar-Ge birimimizde dondurarak kurutma (liyofilizasyon) döngülerini ve steril enjektabl formülasyonları tasarlayacak uzmanlar arıyoruz. Pozisyonun Temel Görevleri: - Liyofilize enjektabl flakonlar için formülasyon matriksi (kriyoprotektanlar, tamponlar) tasarlamak - Dondurma, birincil kurutma ve ikincil kurutma döngü parametrelerini (shelf temperature, chamber pressure) optimize etmek - Yeniden çözünme (reconstitution) süresi, kalıntı nem tayini ve kek yapısı stabilite testlerini yürütmek - Aseptik dolum ve sterilizasyon filtrasy…"
+}
+},
+{
+"id": "J1716",
+"kind": "JOB",
+"title": "Malzeme Karakterizasyonu ve Metalurji Uzmanı",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Yüksek sıcaklık ve basınca dayanıklı roket motoru alaşımlarının (süperalaşımlar, titanyum ve refrakter metaller) mikroyapı ve faz dönüşüm analizlerini yapacak uzman arıyoruz. Neler Yapacaksınız? - Taramalı Elektron Mikroskobu (SEM-EDX), X-Işını Kırınımı (XRD) ve optik mikroskopi analizlerini yürütmek - Metalik malzemelerin yorulma, sürünme (creep) ve yüksek sıcaklık çekme testlerini değerlendirmek - Kaynak ve eklemeli imalat (3D metal baskı) parçalarının metalografik incelemelerini yapmak - Hasar analizi (Failure Analysis) raporları hazırlayar…"
+}
+},
+{
+"id": "J2867",
+"kind": "JOB",
+"title": "Medikal Ruhsatlandırma ve CTD Dosya Uzmanı",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Yenilikçi ilaç portföyümüzün klinik ve preklinik ruhsatlandırma modüllerini (Modül 2, 4, 5) hazırlayacak ruhsat uzmanları arıyoruz. Neler Yapacaksınız? - Global ruhsat dosyalarındaki klinik genel bakış (Clinical Overview) ve özet metinlerini yerel mevzuata adapte etmek - Sağlık otoritelerine sunulacak bilimsel gerekçelendirme dosyalarını ve biyobenzerlik/biyoeşdeğerlik raporlarını incelemek - Ürün etiket değişikliklerini ve endikasyon genişletme başvurularını koordine etmek - Pazara erişim ve medikal direktörlük birimleriyle stratejik ruhsatla…"
+}
+},
+{
+"id": "C11311",
+"kind": "CV",
+"title": "Mikroakışkan ve Lab-on-a-Chip Akış Simülasyon Mühendisi (COMSOL)",
+"industry": "SCIENCE_RND",
+"city": "Kocaeli",
+"context": {
+"ozet": "Biyomedikal tahlil kartuşlarında kılcal (kapiler) akış, yüzey gerilimi, iki fazlı damlacık üretimi ve elektrokinetik parçacık ayrıştırma simülasyonlarında uzmanım.",
+"beceriler": "COMSOL Microfluidics, Kapiler Yüzey Gerilimi, Damlacık Tabanlı Mikroakışkanlar, Laminar İki Fazlı Akış (Level Set), Elektroosmoz & Dielektroforez, Hücre Sıralama Simülasyonu",
+"deneyim": [
+"Mikroakışkan ve Lab-on-a-Chip Akış Simülasyon Mühendisi (COMSOL) ([TARİH]): Hasta başı kan tahlili cihazı için mikrokanallarda kan plazmasını santrifüjsüz ayıran lab-on-…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Makine / Biyomedikal Mühendisliği) 2016 - 2020"
+]
+}
+},
+{
+"id": "J1727",
+"kind": "JOB",
+"title": "Mikroakışkanlar ve Biyosensör Ar-Ge Araştırmacısı",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Lab-on-a-chip teknolojileri, mikroakışkan çip tasarımı ve elektrokimyasal biyosensörler geliştiren ekibimizde araştırmacı arıyoruz. Rol ve Sorumluluklar: - PDMS ve cam tabanlı mikroakışkan kanalların fotolitografi ve yumuşak litografi ile üretimini yapmak - Biyomoleküllerin elektrot yüzeylerine immobilizasyon kimyasını optimize etmek - Mikro ölçekte sıvı akış dinamiği (COMSOL Multiphysics) simülasyonları yürütmek - Biyosensörlerin hassasiyet, seçicilik ve sınır tespit (LOD) analizlerini raporlamak Kimleri Arıyoruz? - Biyomühendislik, Kimya, Fi…"
+}
+},
+{
+"id": "J2806",
+"kind": "JOB",
+"title": "Mikrobiyoloji Laboratuvar Analisti",
+"industry": "SCIENCE_RND",
+"city": "Kocaeli",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] üretim kampüsümüzdeki Mikrobiyoloji Kalite Kontrol Laboratuvarımızda çevre izleme ve mikrobiyolojik testleri yürütecek analistler arıyoruz. Rol ve Sorumluluklar: - Steril üretim alanlarında hava partikül ölçümleri, yüzey ve personel mikrobiyolojik kontrollerini yapmak - Hammadde ve bitmiş ürünlerin toplam canlı bakteri ve mantar sayımı (TAMC/TYMC) analizlerini gerçekleştirmek - Bakteriyel endotoksin (LAL) ve sterilite test prosedürlerini aseptik tekniklere uygun yürütmek - Besiyeri hazırlama, otoklavlama ve besiyeri üreme kabiliyeti (G…"
+}
+},
+{
+"id": "C10921",
+"kind": "CV",
+"title": "Mikrobiyoloji Uzmanı",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"context": {
+"ozet": "Mikrobiyoloji Uzmanı olarak 3 yıllık profesyonel deneyime sahibim. Klinik Teşhis ve Tedavi Protokolleri, Farmakovijilans Raporlaması ve Klinik Araştırma ve Faz Çalışmaları alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına hızla adapte olabilen ve sorumluluk bi…",
+"beceriler": "Klinik Teşhis ve Tedavi Protokolleri, Farmakovijilans Raporlaması, Klinik Araştırma ve Faz Çalışmaları, Laboratuvar Analiz Cihazları (HPLC, GC-MS), İyi Klinik Uygulamaları (GCP) & GMP Standartları",
+"deneyim": [
+"Mikrobiyoloji Uzmanı (2024 - Günümüz): Farmakovijilans ve rasyonel ilaç kullanım ilkeleri doğrultusunda advers etki bildirimlerini ve klinik çalışma dokümantasyonunu yön…",
+"Mikrobiyoloji Uzmanı (2021 - 2024): Farmakovijilans ve rasyonel ilaç kullanım ilkeleri doğrultusunda advers etki bildirimlerini ve klinik çalışma dokümantasyonunu yönett…",
+"Stajyer (Ocak 2022 - Şubat 2022): Test senaryolarının koşturulması, tespit edilen anomalilerin hata takip sistemine girilmesi ve kullanıcı geri bildirimlerinin sınıfland…"
+],
+"egitim": [
+"Marmara Üniversitesi - Lisans (Biyokimya / Kimya) 2019 - 2023"
+]
+}
+},
+{
+"id": "C10971",
+"kind": "CV",
+"title": "Moleküler Biyoloji ve Kök Hücre Araştırmacısı",
+"industry": "SCIENCE_RND",
+"city": "İzmir",
+"context": {
+"ozet": "Diş Hekimliği Fakültesi alanındaki güçlü akademik temelim ve 3 yılı aşkın sektör deneyimimle, Moleküler Biyoloji ve Kök Hücre Araştırmacısı rolünde uçtan uca başarılı projeler yürütmekteyim. Klinik Araştırma ve Faz Çalışmaları, İlaç Ruhsatlandırma & Mevzuat Takibi ve Laboratuvar Analiz Cihazları (HPLC, GC-MS) başta olmak üzere modern araç ve metod…",
+"beceriler": "Klinik Araştırma ve Faz Çalışmaları, İlaç Ruhsatlandırma & Mevzuat Takibi, Laboratuvar Analiz Cihazları (HPLC, GC-MS), Klinik Teşhis ve Tedavi Protokolleri, İyi Klinik Uygulamaları (GCP) & GMP Standartları, Farmakovijil…",
+"deneyim": [
+"Moleküler Biyoloji ve Kök Hücre Araştırmacısı (2024 - Günümüz): Farmakovijilans ve rasyonel ilaç kullanım ilkeleri doğrultusunda advers etki bildirimlerini ve klinik çal…",
+"Stajyer (Temmuz 2022 - Ağustos 2022): Proje toplantı tutanaklarının tutulması, departmanlar arası veri akışının takibi ve kurumsal arşiv sisteminin güncellenmesi görevle…"
+],
+"egitim": [
+"Karadeniz Teknik Üniversitesi - Lisans (Diş Hekimliği Fakültesi) 2019 - 2023"
+]
+}
+},
+{
+"id": "C11355",
+"kind": "CV",
+"title": "Mühimmat Emniyet ve Kurma Sistemi (ESAD) Donanım Mühendisi",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Füze ve topçu mühimmatlarında MIL-STD-1316 ve STANAG 4187 normlarına uygun Elektronik Emniyet, Kurma ve Ateşleme (Electronic Safe & Arm Device - ESAD) mimarisinde uzmanım.",
+"beceriler": "MIL-STD-1316 Mühimmat Emniyet Standardı, ESAD Mimarisi, Yüksek Gerilim Ateşleme Devreleri (EFI / EBW), Bağımsız Çift Emniyet Sensörü (İvme / Hız), STANAG 4187 Uyumluluğu, Failsafe Donanım Tasarımı",
+"deneyim": [
+"Mühimmat Emniyet ve Kurma Sistemi (ESAD) Donanım Mühendisi ([TARİH]): Hassas güdümlü mühimmat için iki bağımsız çevresel algılayıcı (fırlatma ivmesi ve namlu çıkış hızı)…",
+"Aday Mühendis (Savunma Sistemleri) ([TARİH]): Son sınıfta haftada 2 gün aday mühendis olarak entegre lojistik destek biriminde bakım kılavuzlarının teknik resim eşleştir…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Elektrik-Elektronik Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "J1352",
+"kind": "JOB",
+"title": "Nanoteknoloji ve İleri Malzeme Araştırmacısı",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Sabancı Üniversitesi Nanoteknoloji Araştırma ve Uygulama Merkezinde (SUNUM) görev yapacak 'Nanoteknoloji ve İleri Malzeme Araştırmacısı' aranmaktadır. Rol ve Kurum Hakkında: SUNUM; nanomalzemeler, ileri karakterizasyon ve enerji uygulamalarında Türkiye'nin en gelişmiş altyapısına sahip ulusal araştırma merkezidir. Görev ve Sorumluluklar: - Nanopartiküller, karbon nanotüpler, grafen türevleri ve nano-kompozit malzemelerin kimyasal sentezi (sol-jel, hidrotermal, CVD), - Taramalı Elektron Mikroskobu (SEM), Geçirimli Elektron Mikroskobu (TEM), Ato…"
+}
+},
+{
+"id": "J2825",
+"kind": "JOB",
+"title": "Nükleer İlaç Radyofarmasi Kalite Kontrol Analisti",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "PET ve SPECT radyoaktif tanı ve tedavi kitlerinin kalite kontrol testlerini yürütecek nükleer kimya analistleri arıyoruz. Neler Yapacaksınız? - Kısa yarılanma ömürlü pozitron ve gama yayıcı radyofarmasötiklerin radyokimyasal saflık analizlerini (radyo-HPLC, radyo-TLC) yapmak - Gama spektrometresi ile radyonüklidik saflık ve kimyasal saflık kontrollerini gerçekleştirmek - Ürün serbest bırakma süreçlerini nükleer tıp kliniklerinin hasta enjeksiyon takvimine uygun şekilde hızla tamamlamak - Zırhlı sıcak hücrelerin (hot cell) ve manipülatörlerin t…"
+}
+},
+{
+"id": "C11446",
+"kind": "CV",
+"title": "NVH ve Araç Akustiği Simülasyon Mühendisi (Simcenter 3D / Nastran)",
+"industry": "SCIENCE_RND",
+"city": "Eskişehir",
+"context": {
+"ozet": "Gövde ve şasi yapısal titreşim transfer fonksiyonları (NTF/VTF), yol gürültüsü, motor bölmesi akustik kavitasyon ve Simcenter 3D / MSC Nastran analizlerinde 7 yıllık uzmanlığa sahibim.",
+"beceriler": "Simcenter 3D, MSC Nastran, Yapısal Akustik & NVH, Transfer Fonksiyonu (NTF / VTF), Panel Katkı Analizi (PACA), Kabin İçi Basınç Salınımları (Booming), Titreşim Sönümleme",
+"deneyim": [
+"NVH ve Araç Akustiği Simülasyon Mühendisi (Simcenter 3D / Nastran) ([TARİH]): Binek otomobil gövde kabin içi 30-100 Hz aralığındaki düşük frekanslı uğultu (booming) prob…",
+"Simülasyon ve Analiz Stajyeri ([TARİH]): CAD modellerinin analiz öncesi geometri temizliği (defeaturing) adımlarını uyguladım; basit parçaların 2D ve 3D sonlu elemanlar …"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Yüksek Lisans (Makine Mühendisliği (Mekanik & Akustik)) 2014 - 2017"
+]
+}
+},
+{
+"id": "J1723",
+"kind": "JOB",
+"title": "Optik ve Fotonik Sistemler Araştırmacısı",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Termal kameralar, lazer hedefleme sistemleri ve elektro-optik sensörler için optik tasarım ve fotonik araştırmalarını yönetecek kıdemli araştırmacı arıyoruz. Temel İş ve Sorumluluk Alanları: - Zemax / Code V kullanarak kızılötesi (IR) ve görünür bölge optik lens tasarımları yapmak - Optik elemanların dalga cephesi bozulmalarını (interferometre) ve MTF performansını ölçmek - Lazer-madde etkileşimleri ve optik kaplama spektrofotometre analizlerini yürütmek - Tasarım ekipleriyle birlikte savunma sanayii elektro-optik projelerini tamamlamak Gereks…"
+}
+},
+{
+"id": "J1223",
+"kind": "JOB",
+"title": "Optik ve Lazer Mühendisi",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Meteksan Savunma Lazer ve Elektro-Optik Sistemler Direktörlüğünde görev alacak 'Optik ve Lazer Mühendisi' aramaktayız. Rol ve Kurum Hakkında: Meteksan Savunma; lidar, lazer yönlendirme ve elektro-optik hedefleme sistemlerinde milli savunma ve ileri teknoloji projelerine imza atmaktadır. Görev ve Sorumluluklar: - Yüksek güçlü fiber lazerler, katıhal lazer rezonatörleri ve optik demet şekillendirme sistemlerinin tasarımı ve entegrasyonu, - Zemax OpticStudio yazılımı ile optik tasarım, ışın izleme (ray tracing), toleranslama ve termal sapma anali…"
+}
+},
+{
+"id": "J1720",
+"kind": "JOB",
+"title": "Organik Sentez ve İlaç Kimyası Araştırmacısı",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Yeni ilaç moleküllerinin çok basamaklı organik sentezini ve reaksiyon optimizasyonunu gerçekleştirecek araştırmacı Kimyager arıyoruz. Pozisyonun Temel Görevleri: - Çok basamaklı organik kimyasal reaksiyonları planlamak, yürütmek ve saflaştırma (kolon kromatografisi, kristallendirme) yapmak - Sentezlenen moleküllerin yapısal aydınlatmasını (NMR, LC-MS, FTIR) gerçekleştirmek - Reaksiyon verimini artıran ve zararlı atıkları azaltan yeşil kimya alternatifleri geliştirmek - Laboratuvar sentez defterlerini eksiksiz tutmak ve patent taslaklarına katk…"
+}
+},
+{
+"id": "C11451",
+"kind": "CV",
+"title": "Otomotiv Aktif Süspansiyon ve Kontrol Simülasyon Mühendisi (Adams / Simulink)",
+"industry": "SCIENCE_RND",
+"city": "Eskişehir",
+"context": {
+"ozet": "Yarı aktif (MR amortisör) ve aktif süspansiyon sistemlerinin MSC Adams çoklu cisim modeli ile MATLAB/Simulink kontrol algoritmasının ortak simülasyonunda (Co-Simulation) uzmanım.",
+"beceriler": "Adams / Controls Co-Simulation, MATLAB / Simulink, Skyhook / Groundhook Kontrol Algoritmaları, Manyetoreolojik (MR) Amortisör Modellemesi, Sürüş Konforu (ISO 2631), Tekerlek Yol Teması",
+"deneyim": [
+"Otomotiv Aktif Süspansiyon ve Kontrol Simülasyon Mühendisi (Adams / Simulink) ([TARİH]): Manyetoreolojik akışkanlı amortisörlere sahip SUV modeli için Adams-Simulink eş-…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Mekatronik / Kontrol Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11369",
+"kind": "CV",
+"title": "Otomotiv Egzoz ve Katalizör Akış Homojenliği Mühendisi (1D/3D CFD)",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Egzoz manifoldu, turboşarj ve SCR katalitik konvertör monolitlerinde akış hızı homojenlik indeksi (UI), basınç düşüşü ve GT-SUITE / Fluent eşlenik simülasyonlarında uzmanım.",
+"beceriler": "GT-SUITE (1D Motor Simülasyonu), Ansys Fluent 3D CFD, Katalizör Hız Homojenlik İndeksi (UI), Gözenekli Ortam (Porous Media) Modellemesi, Egzoz Geri Basıncı Azaltma, Termal Şok Analizleri",
+"deneyim": [
+"Otomotiv Egzoz ve Katalizör Akış Homojenliği Mühendisi (1D/3D CFD) ([TARİH]): Dizel motor SCR katalizör giriş difüzörü geometrisini Fluent ile optimize ederek akış homoj…"
+],
+"egitim": [
+"Bursa Uludağ Üniversitesi - Lisans (Otomotiv Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "J0621",
+"kind": "JOB",
+"title": "Paint & Surface Coatings Chemistry Specialist",
+"industry": "SCIENCE_RND",
+"city": "Eskişehir",
+"position_level": "SPECIALIST",
+"mode": "Remote",
+"context": {
+"aciklama": "Eczacibasi Consumer is seeking an ambitious and results-driven Paint & Surface Coatings Chemistry Specialist to strengthen our growing enterprise. In this position, you will take ownership of scalable initiatives involving Finite Element Analysis (FEA / ANSYS) and Technical Drawing & CAD (SolidWorks, AutoCAD). You will work closely with departmental leadership to optimize ISO 9001 / IATF 16949 Standards workflows and maintain strict quality benchmarks. Demonstrated industry expertise and hands-on familiarity with core business workflows. If yo…"
+}
+},
+{
+"id": "C10104",
+"kind": "CV",
+"title": "Physicist",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "A quantum physicist specializing in solid-state physics and nanomaterials. I am captivated by the bizarre and wonderful behavior of matter at the atomic level. My research focuses on developing next-generation semiconductor materials.",
+"beceriler": "Quantum Mechanics, Scanning Tunneling Microscopy, Cryogenics, Python, Nanofabrication",
+"deneyim": [
+"Senior Research Physicist (2019-01 - Present): Leading research initiatives on topological insulators, utilizing scanning tunneling microscopy and low-temperature measur…",
+"Postdoctoral Researcher (2016-09 - 2018-12): Investigated electronic properties of 2D materials."
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Doktora (Fizik) 2011-09 - 2016-06",
+"Bilkent Üniversitesi - Lisans (Fizik) 2006-09 - 2011-06"
+]
+}
+},
+{
+"id": "C11290",
+"kind": "CV",
+"title": "Plastik Parça Çarpılma ve Soğuma Simülasyon Mühendisi (Moldflow / Moldex3D)",
+"industry": "SCIENCE_RND",
+"city": "Eskişehir",
+"context": {
+"ozet": "Büyük otomotiv plastik panellerinde heterojen soğuma kaynaklı artık gerilmeler, kristalizasyon kinetiği ve enjeksiyon sonrası çarpılma (warpage) telafisinde uzmanım.",
+"beceriler": "Autodesk Moldflow Insight, Moldex3D, Diferansiyel Soğuma & Büzülme, Çarpılma (Warpage) Tahmini, Kalıp Soğutma Kanalı Verimliliği, Moleküler Yönlenme (Fiber Orientation)",
+"deneyim": [
+"Plastik Parça Çarpılma ve Soğuma Simülasyon Mühendisi (Moldflow / Moldex3D) ([TARİH]): Cam elyaf takviyeli poliamid emme manifoldu kalıbında fiber oryantasyonunu Moldflo…"
+],
+"egitim": [
+"Ege Üniversitesi - Lisans (Kimya / Makine Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "J1700",
+"kind": "JOB",
+"title": "Polimer & Biyoplastik Ar-Ge Mühendisi",
+"industry": "SCIENCE_RND",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Geri dönüştürülebilir polimerik kaplamalar ve biyobozunur ambalaj malzemeleri geliştiren Ar-Ge ekibimizde görev alacak Polimer Mühendisi veya Kimyager arıyoruz. Görev ve Sorumluluklar: - Biyobozunur polimer kompozitlerin sentezi, ekstrüzyonu ve enjeksiyon kalıplama denemelerini yürütmek - Polimerik malzemelerin termal (DSC, TGA) ve mekanik (Çekme, Darbe) testlerini gerçekleştirmek - Cam ve polimer arayüzey yapışmasını artıran kimyasal formülasyonlar geliştirmek - TÜBİTAK ve uluslararası Ar-Ge projelerinin teknik raporlamalarını hazırlamak Aran…"
+}
+},
+{
+"id": "J0693",
+"kind": "JOB",
+"title": "Polimer ve Biyoplastik Ar-Ge Mühendisi",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Petkim Ar-Ge Merkezinde, [şehir] kampüsümüzde görevlendirilmek üzere 'Polimer ve Biyoplastik Ar-Ge Mühendisi' aramaktayız. Rol ve Kurum Hakkında: Petkim, Türkiye'nin ilk ve tek entegre petrokimya üreticisi olarak döngüsel ekonomi ve sürdürülebilir biyobozunur polimer geliştirmede öncüdür. Görev ve Sorumluluklar: - Biyo-bazlı polimerler (PLA, PHA), biyokompozitler ve geri dönüştürülmüş polimer kompaund formülasyonlarının geliştirilmesi, - Çift vidalı ekstrüder, enjeksiyon ve şişirme kalıplama pilot hatlarında proses denemelerinin yürütülmesi ve…"
+}
+},
+{
+"id": "C10533",
+"kind": "CV",
+"title": "Polymer & Bioplastics R&D Engineer",
+"industry": "SCIENCE_RND",
+"city": "Bursa",
+"context": {
+"ozet": "Final-year undergraduate student at Bursa Uludag University majoring in Chemical Engineering, graduating at the end of this academic year. Passionate about launching a career in Polymer & Bioplastics R&D Engineer, backed by strong academic coursework and hands-on projects involving Finite Element Analysis (FEA / ANSYS), Lean Manufacturing & Kaizen…",
+"beceriler": "Finite Element Analysis (FEA / ANSYS), Lean Manufacturing & Kaizen, Production Planning & MRP, Root Cause Analysis (8D / 5 Why), PLC & Automation Systems",
+"deneyim": [
+"Intern (July 2025 - August 2025): Supported the analytical team with exploratory data collection, cross-verifying spreadsheets, and preparing draft summary decks for wee…"
+],
+"egitim": [
+"Bursa Uludag University - Bachelor's Degree (Chemical Engineering) 2022 - Devam Ediyor"
+]
+}
+},
+{
+"id": "J0597",
+"kind": "JOB",
+"title": "Polymer Characterization & Rheology Specialist",
+"industry": "SCIENCE_RND",
+"city": "Kocaeli",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Tupras Refineries is seeking an ambitious and results-driven Polymer Characterization & Rheology Specialist to strengthen our growing enterprise. Key Responsibilities & Qualifications: - Execute end-to-end deliverables leveraging ISO 9001 / IATF 16949 Standards. - Collaborate with multi-disciplinary stakeholders utilizing PLC & Automation Systems. - Optimize workflows, data integrity, and compliance across Technical Drawing & CAD (SolidWorks, AutoCAD). - Drive continuous technical excellence and proactive problem resolution."
+}
+},
+{
+"id": "C10788",
+"kind": "CV",
+"title": "R&D Engineer",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"context": {
+"ozet": "Results-oriented R&D Engineer with 1+ years of enterprise experience and a solid educational foundation in Electrical & Electronics Engineering. Proven track record in optimizing operational workflows, delivering scalable initiatives, and leveraging ISO 9001 / IATF 16949 Standards, Cost Reduction & Efficiency and Root Cause Analysis (8D / 5 Why). …",
+"beceriler": "ISO 9001 / IATF 16949 Standards, Cost Reduction & Efficiency, Root Cause Analysis (8D / 5 Why), Technical Drawing & CAD (SolidWorks, AutoCAD), Production Planning & MRP, PLC & Automation Systems",
+"deneyim": [
+"R&D Engineer (2023 - Present): Formulated specialty chemical compounds and executed chromatographic (HPLC, GC-MS) characterization tests in analytical R&D laboratories.",
+"Intern (June 2023 - July 2023): Assisted senior project leads in tracking departmental milestones, documenting process workflows, and organizing technical meeting minute…"
+],
+"egitim": [
+"Erciyes University - Bachelor's Degree (Electrical & Electronics Engineering) 2020 - 2024"
+]
+}
+},
+{
+"id": "J2852",
+"kind": "JOB",
+"title": "Ruhsatlandırma Uzman Yardımcısı (Regulatory Affairs Assistant)",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"position_level": "ENTRY",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Ruhsatlandırma departmanımız bünyesinde Türkiye İlaç ve Tıbbi Cihaz Kurumu (TİTCK) başvuru süreçlerini takip edecek uzman yardımcıları arıyoruz. İş Tanımı ve Temel Sorumluluklar: - İlaç ruhsat başvuru dosyalarının (CTD formatı Modül 1) hazırlanmasına ve evrak kontrollerine destek olmak - Kısa Ürün Bilgisi (KÜB) ve Kullanma Talimatı (KT) metinlerinin çeviri, mizanpaj ve sağlık otoritesi güncellemelerini takip etmek - Ruhsat yenileme (varyasyon) ve onaylı dosya revizyonlarının arşiv sistemine kaydını yapmak - TİTCK elektronik başvuru portalları …"
+}
+},
+{
+"id": "J2864",
+"kind": "JOB",
+"title": "Ruhsatlandırma Uzmanı (Regulatory Affairs Specialist)",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Reçeteli ilaç ve biyolojik ürünlerimizin TİTCK ruhsatlandırma, varyasyon ve KÜB/KT onay süreçlerini sevk ve idare edecek uzmanlar arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Yeni ilaç ruhsat başvuru dosyalarının CTD Modül 1, 2 ve 3 bölümlerini ulusal gerekliliklere göre derlemek - Sağlık Bakanlığı TİTCK komisyonlarından gelen teknik sorulara global ekiplerle koordine olarak bilimsel yanıtlar hazırlamak - Ruhsatlı ürünlerin Tip I ve Tip II varyasyon başvurularını planlamak ve onaylarını almak - Ulusal ilaç fiyatlandırma ve geri ödeme (SGK) do…"
+}
+},
+{
+"id": "C11380",
+"kind": "CV",
+"title": "Rüzgar Çiftliği Uyan ve Türbülans Etkileşimi Simülasyon Mühendisi (WindFarmer / SOWFA)",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"context": {
+"ozet": "Geniş rüzgar santrallerinde türbinler arası uyan (wake) kayıpları, arazi pürüzlülüğü, atmosferik sınır tabaka türbülansı ve yıllık enerji üretimi (AEP) optimizasyonunda uzmanım.",
+"beceriler": "DNV WindFarmer, OpenFOAM SOWFA (LES Wake Model), Jensen / Eddy Viscosity Uyan Modelleri, Yıllık Enerji Üretimi (AEP Hesapları), Santral Mikro Yerleşim (Micro-siting), Topografik Rüzgar Analizi (WAsP)",
+"deneyim": [
+"Rüzgar Çiftliği Uyan ve Türbülans Etkileşimi Simülasyon Mühendisi (WindFarmer / SOWFA) ([TARİH]): Toplam 80 MW kurulu gücündeki rüzgar çiftliğinde 20 türbinin uyan kayıp…",
+"Ar-Ge Stajyeri ([TARİH]): Ar-Ge merkezinde yeni malzeme formülasyonları için literatür taraması yaptım; çekme-kopma test numunelerinin laboratuvarda hazırlanmasına ve te…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Makine / Meteoroloji Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11465",
+"kind": "CV",
+"title": "Rüzgar Türbini Aeroelastik Yük Simülasyon Mühendisi (FAST / Bladed)",
+"industry": "SCIENCE_RND",
+"city": "Eskişehir",
+"context": {
+"ozet": "Rüzgar türbinlerinin NREL FAST ve DNV Bladed yazılımları ile aerodinamik, hidrodinamik ve elastik yapısal etkileşim simülasyonları ve IEC 61400 yorulma yük durumları uzmanıyım.",
+"beceriler": "NREL FAST / OpenFAST, DNV Bladed, Aeroelastik Simülasyon, IEC 61400 Tasarım Yük Durumları (DLC), Rüzgar Türbini Kanat Eğilme Momentleri, Pitch & Yaw Kontrolörü Entegrasyonu",
+"deneyim": [
+"Rüzgar Türbini Aeroelastik Yük Simülasyon Mühendisi (FAST / Bladed) ([TARİH]): 5 MW açık deniz rüzgar türbini için 2500 farklı rüzgar ve dalga tasarım yük durumunu (DLC)…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Meteoroloji / Uçak Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11457",
+"kind": "CV",
+"title": "Savaş Yönetim Sistemi (SYS) ve C4ISR Entegrasyon Mühendisi",
+"industry": "SCIENCE_RND",
+"city": "Eskişehir",
+"context": {
+"ozet": "Deniz ve kara platformlarında taktik veri bağı (Link 11/16/22), radar/sonar iz birleştirme (track fusion), durumsal farkındalık ekranları ve C4ISR sistem entegrasyonunda uzmanım.",
+"beceriler": "Taktik Veri Bağı (Link 16 / Link 22), C4ISR Mimarisi, İz Birleştirme (Multi-Sensor Track Fusion), Savaş Yönetim Sistemi (CMS), DDS (Data Distribution Service), STANAG Standartları",
+"deneyim": [
+"Savaş Yönetim Sistemi (SYS) ve C4ISR Entegrasyon Mühendisi ([TARİH]): MİLGEM korvet savaş yönetim sisteminde radar, IFF ve elektro-optik sensör izlerinin OpenDDS mimaris…",
+"Aday Mühendis (Savunma Sistemleri) ([TARİH]): Son sınıfta haftada 2 gün aday mühendis olarak entegre lojistik destek biriminde bakım kılavuzlarının teknik resim eşleştir…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Bilgisayar / Elektronik Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11473",
+"kind": "CV",
+"title": "Savunma Araçları C4I Durumsal Farkındalık ve Çevre Görüş Sistem Mühendisi",
+"industry": "SCIENCE_RND",
+"city": "Kocaeli",
+"context": {
+"ozet": "Zırhlı muharebe araçları için 360 derece gündüz ve gece termal çevre görüş sistemi, sürücü görüş iyileştirme (DVE), görüntü dikişleme (stitching) ve hedef işaretleme uzmanıyım.",
+"beceriler": "360° Durumsal Farkındalık, Sürücü Görüş Sistemi (DVE - Driver Vision), Düşük Gecikmeli Görüntü Dikişleme (Stitching), Geniş Açı Termal Kameralar, Askeri Dokunmatik Ekranlar (MIL-STD-810), Ethernet Tabanlı Video Aktarımı",
+"deneyim": [
+"Savunma Araçları C4I Durumsal Farkındalık ve Çevre Görüş Sistem Mühendisi ([TARİH]): Zırhlı muharebe aracı için 8 kameralı 360 derece kesintisiz çevre görüş ve dikişleme…"
+],
+"egitim": [
+"Kocaeli Üniversitesi - Lisans (Elektronik / Bilgisayar Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11403",
+"kind": "CV",
+"title": "Savunma Araçları Elektromanyetik Darbe (EMP/HEMP) Koruma Mühendisi",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Komuta kontrol merkezleri ve askeri araçların Nükleer Yüksek İrtifa Elektromanyetik Darbe (HEMP / MIL-STD-188-125) tehditlerine karşı ekranlama, filtreleme ve sertleştirilmesinde uzmanım.",
+"beceriler": "MIL-STD-188-125 HEMP Koruma, Elektromanyetik Ekranlama Etkinliği (SE > 80 dB), EMP Filtreleri & Aşırı Gerilim Koruyucular, Dalga Kılavuzu Havalandırma Petekleri, Pim Enjeksiyon Testleri (PCI), MIL-STD-461 RS105",
+"deneyim": [
+"Savunma Araçları Elektromanyetik Darbe (EMP/HEMP) Koruma Mühendisi ([TARİH]): Mobil askeri komuta kontrol konteynerinin MIL-STD-188-125-1 standardına göre HEMP kalkanlam…",
+"Aviyonik Test Stajyeri ([TARİH]): Laboratuvar ortamında aviyonik kablo demetlerinin pin süreklilik testlerini yürüttüm, multimetre ile şase kaçak kontrolleri yaptım ve t…"
+],
+"egitim": [
+"Gazi Üniversitesi - Lisans (Elektrik-Elektronik Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "C11435",
+"kind": "CV",
+"title": "Savunma Araçları Mayın Patlama ve Şok Simülasyon Mühendisi (LS-DYNA / ALE)",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Zırhlı kara araçları altı mayın ve EYP patlamalarının Arbitrary Lagrangian-Eulerian (ALE) yöntemi ile modellenmesi ve STANAG 4569 taban yapısal deformasyon analizlerinde uzmanım.",
+"beceriler": "LS-DYNA ALE / SPH Yöntemleri, Mayın Patlama Simülasyonu (STANAG 4569), Zemin-Toprak Şok Yayılımı, Manken Omurga İvme Kriterleri (DRI), V-Tipi Şasi Taban Tasarımı, Enerji Yutan Koltuklar",
+"deneyim": [
+"Savunma Araçları Mayın Patlama ve Şok Simülasyon Mühendisi (LS-DYNA / ALE) ([TARİH]): 8x8 zırhlı personel taşıyıcı gövdesi altında 8 kg TNT patlamasını LS-DYNA ALE yönte…",
+"Aday Araştırmacı (Simülasyon) ([TARİH]): Üniversite-sanayi iş birliği projesinde haftada 2 gün akışkanlar mekaniği laboratuvarında rüzgar tüneli sensör kalibrasyonlarına…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Makine Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11300",
+"kind": "CV",
+"title": "Savunma Mühimmat İtki ve İç Balistik Simülasyon Mühendisi",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Katı yakıtlı roket motorlarının iç yanma odası basınç eğrileri, lüle (nozzle) erozyonu, tane yanma yüzeyi gerilemesi ve iç balistik kodlama simülasyonlarında uzmanım.",
+"beceriler": "İç Balistik Simülasyonu, Katı Yakıtlı Roket Motorları, Nozzle Gaz Dinamiği & Şok Dalgaları, Yanma Odası Basınç-Zaman Profili, Termal Yalıtım Erozyon Analizi, MATLAB & C++",
+"deneyim": [
+"Savunma Mühimmat İtki ve İç Balistik Simülasyon Mühendisi ([TARİH]): Milli tanksavar füzesi roket motorunun yıldız geometrili katı yakıt tane yanma regresyonunu ve iç ba…",
+"Ar-Ge Stajyeri ([TARİH]): Ar-Ge merkezinde yeni malzeme formülasyonları için literatür taraması yaptım; çekme-kopma test numunelerinin laboratuvarda hazırlanmasına ve te…"
+],
+"egitim": [
+"Orta Doğu Teknik Üniversitesi - Lisans (Havacılık ve Uzay Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11399",
+"kind": "CV",
+"title": "Savunma Sanayii Test ve Doğrulama Mühendisi (Atış & Çevre Testleri)",
+"industry": "SCIENCE_RND",
+"city": "Zonguldak",
+"context": {
+"ozet": "Silah kuleleri, tanksavar roketleri ve füze sistemlerinin saha kabul atışları, telemetri takip sistemleri, yüksek hızlı balistik veri toplama ve test sahası emniyetinde uzmanım.",
+"beceriler": "Atış Poligonu Test Yönetimi, Balistik Hız Radarı (Doppler), Yüksek Hızlı Video Kameralar (Phantom), MIL-STD-810 Saha Testleri, Hedef İshabet & Dağılım Analizi, Test Güvenlik Planlaması",
+"deneyim": [
+"Savunma Sanayii Test ve Doğrulama Mühendisi (Atış & Çevre Testleri) ([TARİH]): Karapınar ve Şereflikoçhisar atış poligonlarında 35 mm hava savunma mühimmatı canlı atış t…",
+"Aviyonik Test Stajyeri ([TARİH]): Laboratuvar ortamında aviyonik kablo demetlerinin pin süreklilik testlerini yürüttüm, multimetre ile şase kaçak kontrolleri yaptım ve t…"
+],
+"egitim": [
+"Kocaeli Üniversitesi - Lisans (Makine Mühendisliği) 2013 - 2017"
+]
+}
+},
+{
+"id": "C10110",
+"kind": "CV",
+"title": "Scientist",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "I am an enthusiastic materials scientist focused on developing lightweight, high-strength composites for the aerospace industry. I enjoy bridging the gap between theoretical chemistry and practical engineering applications.",
+"beceriler": "Composite Materials, SEM, Thermal Analysis, Python, Mechanical Testing",
+"deneyim": [
+"Materials Scientist (2020-10 - Present): Designing and testing carbon fiber reinforced polymers, analyzing failure modes using electron microscopy."
+],
+"egitim": [
+"Bilkent Üniversitesi - Lisans (Malzeme Bilimi ve Nanoteknoloji) 2015-09 - 2020-06"
+]
+}
+},
+{
+"id": "J2807",
+"kind": "JOB",
+"title": "Stabilite Takip Uzman Yardımcısı",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Ruhsatlandırma ve Ar-Ge birimlerimiz bünyesinde farmasötik ürünlerin ICH kılavuzlarına uygun stabilite çalışmalarını takip edecek çalışma arkadaşları arıyoruz. Neler Yapacaksınız? - Hızlandırılmış ve uzun süreli stabilite kabinlerinin sıcaklık ve nem parametrelerini periyodik kontrol etmek - Stabilite protokollerine göre test periyotlarında numunelerin kabinlerden çekilerek analize sevkini sağlamak - Stabilite test sonuçlarını veri tabanına işleyerek trend grafiklerini ve raf ömrü raporlarını hazırlamak - Kabin arızası veya sapma durumlarında …"
+}
+},
+{
+"id": "J2803",
+"kind": "JOB",
+"title": "Stajyer Ar-Ge Laboratuvar Asistanı",
+"industry": "SCIENCE_RND",
+"city": "İstanbul",
+"position_level": "INTERN",
+"mode": "OnSite",
+"context": {
+"aciklama": "### Biz Kimiz? 1912 yılından bu yana Türk ilaç sektörünün lideri olarak modern Ar-Ge merkezimizde yenilikçi tedaviler ve yüksek kaliteli farmasötik ürünler geliştiriyoruz. Pozisyon Özeti: Ar-Ge Analitik Geliştirme ve Formülasyon laboratuvarlarımızda temel kimyasal analizlere ve numune hazırlama süreçlerine destek verecek üniversite son sınıf stajyerleri arıyoruz. Görev ve Sorumluluklar: - Kıdemli analistlerin gözetiminde laboratuvar cam malzemelerinin temizliğini ve temel çözelti hazırlıklarını yapmak - pH metre, analitik terazi, iletkenlik öl…"
+}
+},
+{
+"id": "C10107",
+"kind": "CV",
+"title": "Statistician",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Passionate about applying rigorous statistical methods to public health data. I find meaning in translating complex clinical trial results into actionable insights that can improve patient outcomes. Accuracy and integrity are my core professional values.",
+"beceriler": "SAS, R, Survival Analysis, Clinical Trials Design, Biostatistics",
+"deneyim": [
+"Biostatistician (2021-03 - Present): Performing statistical analysis for Phase II and Phase III clinical trials, ensuring compliance with regulatory standards."
+],
+"egitim": [
+"Gazi Üniversitesi - Lisans (İstatistik) 2016-09 - 2020-07"
+]
+}
+},
+{
+"id": "J2824",
+"kind": "JOB",
+"title": "Temiz Oda ve Steril Alan Validasyon Uzmanı",
+"industry": "SCIENCE_RND",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Parenteral solüsyon ve steril enjektabl üretim hatlarımızda HVAC, temiz oda ve sterilizasyon ekipmanlarının validasyonunu yürütecek uzmanlar arıyoruz. Rol ve Sorumluluklar: - A, B, C ve D sınıfı temiz odaların hava akış hızları, HEPA filtre sızdırmazlık (DOP) ve basınç farkı testlerini yürütmek - Otoklav, kuru ısı sterilizatörleri ve SIP sistemlerinin termal validasyonlarını (kablosuz datalogger ile F0 hesaplamaları) yapmak - Temiz oda ve sterilizasyon kalifikasyon protokol ve raporlarını (DQ, IQ, OQ, PQ) hazırlamak - Yıllık yeniden validasyon…"
+}
+},
+{
+"id": "C11385",
+"kind": "CV",
+"title": "Termal Yönetim ve Akış Simülasyon Mühendisi (Star-CCM+ / Batarya & Motor)",
+"industry": "SCIENCE_RND",
+"city": "İzmir",
+"context": {
+"ozet": "Elektrikli araç çekiş motorlarının su ceketi soğutması, batarya modülü hücreler arası ısı yayılımı (thermal runaway) ve Star-CCM+ eşlenik ısı transferi (CHT) analizlerinde uzmanım.",
+"beceriler": "Siemens Star-CCM+, Eşlenik Isı Transferi (CHT), Batarya Termal Kaçak (Thermal Runaway), Elektrik Motoru Su Ceketi Optimizasyonu, Çok Fazlı Akış (VOF), Soğutma Pompası Boyutlandırma",
+"deneyim": [
+"Termal Yönetim ve Akış Simülasyon Mühendisi (Star-CCM+ / Batarya & Motor) ([TARİH]): 200 kW elektrik motorunun stator spiral soğutma kanalını Star-CCM+ ile modelleyerek …"
+],
+"egitim": [
+"Boğaziçi Üniversitesi - Lisans (Makine Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "C11455",
+"kind": "CV",
+"title": "Termomekanik Yorulma ve Sürünme Simülasyon Mühendisi (Abaqus / Visco-Plasticity)",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Egzoz manifoldu ve fren disklerinin aşırı ısınma ve soğuma döngülerindeki elastoplastik gerilme birikimi, Chaboche kinematik sertleşme ve termomekanik yorulma (TMF) analiz uzmanıyım.",
+"beceriler": "Abaqus FEA, Chaboche Kinematik Sertleşme Modeli, Viskoplastisite & Sürünme, Termomekanik Yorulma (TMF), Fren Diski Sıcak Noktaları (Hot Spot), Plastik Gerinim Birikimi (Ratcheting)",
+"deneyim": [
+"Termomekanik Yorulma ve Sürünme Simülasyon Mühendisi (Abaqus / Visco-Plasticity) ([TARİH]): Yüksek performanslı fren diskinin 0'dan 800°C'ye tekrarlı acil frenleme döngü…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Makine Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C11316",
+"kind": "CV",
+"title": "Titreşim Testleri ve Sarsıcı Kontrol Mühendisi (MIL-STD Shaker / Vibration)",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Elektrodinamik titreşim sarsıcılarında (shaker) sinüs, rastgele (random) ve şok test profillerinin koşturulması, rezonans arama ve MIL-STD/DO-160 test yürütme uzmanıyım.",
+"beceriler": "Vibration Research / Lansmont Shaker Kontrolörleri, Rastgele Titreşim (PSD Profilleri), Rezonans Arama ve Bekleme (RSTD), Şok Tepki Spektrumu (SRS), Çok Kanallı İvmeölçer Kalibrasyonu, MIL-STD-810H",
+"deneyim": [
+"Titreşim Testleri ve Sarsıcı Kontrol Mühendisi (MIL-STD Shaker / Vibration) ([TARİH]): Aviyonik bilgisayar modülünün 5-2000 Hz aralığında 12 Grms rastgele titreşim dayan…",
+"Ar-Ge Stajyeri ([TARİH]): Ar-Ge merkezinde yeni malzeme formülasyonları için literatür taraması yaptım; çekme-kopma test numunelerinin laboratuvarda hazırlanmasına ve te…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Makine Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C10975",
+"kind": "CV",
+"title": "Toksikoloji ve Güvenlik Değerlendirme Uzmanı",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Toksikoloji ve Güvenlik Değerlendirme Uzmanı olarak 2 yıllık profesyonel deneyime sahibim. Laboratuvar Analiz Cihazları (HPLC, GC-MS), Klinik Teşhis ve Tedavi Protokolleri ve Klinik Araştırma ve Faz Çalışmaları alanlarındaki pratik çalışmalarımı iş hedefleri doğrultusunda titizlikle sürdürürüm. Takım çalışmasına uyumlu, dinamik çalışma ortamlarına…",
+"beceriler": "Laboratuvar Analiz Cihazları (HPLC, GC-MS), Klinik Teşhis ve Tedavi Protokolleri, Klinik Araştırma ve Faz Çalışmaları, Farmakovijilans Raporlaması, Hasta İletişimi ve Takibi",
+"deneyim": [
+"Toksikoloji ve Güvenlik Değerlendirme Uzmanı (2024 - Günümüz): Farmakovijilans ve rasyonel ilaç kullanım ilkeleri doğrultusunda advers etki bildirimlerini ve klinik çalı…",
+"Stajyer (Temmuz 2022 - Eylül 2022): Zorunlu staj kapsamında departman iş akışlarını gözlemledim, uzman ekiple birlikte saha/ofis denetimlerine katılarak teknik dokümanta…"
+],
+"egitim": [
+"Sakarya Üniversitesi - Lisans (Moleküler Biyoloji ve Genetik) 2019 - 2023"
+]
+}
+},
+{
+"id": "C11389",
+"kind": "CV",
+"title": "Uzay ve Uydu Sistemleri Mühendisliği Uzmanı (CubeSat / LEO Uyduları)",
+"industry": "SCIENCE_RND",
+"city": "Eskişehir",
+"context": {
+"ozet": "Alçak Dünya Yörüngesi (LEO) mikro ve küp uydularında görev analizi, yörünge yayılımı, güç bütçesi, ısıl bütçe ve fırlatma şok/titreşim kalifikasyonu süreçlerinde uzmanım.",
+"beceriler": "CubeSat Sistem Mimarisi, Yörünge Mekaniği & Görev Analizi (STK), Güneş Paneli & Batarya Güç Bütçesi, Uydu Termal Kontrolü (MLI & Radyatör), Fırlatıcı Arayüzü & Kalifikasyon Testleri, ECSS Standartları",
+"deneyim": [
+"Uzay ve Uydu Sistemleri Mühendisliği Uzmanı (CubeSat / LEO Uyduları) ([TARİH]): 3U yer gözlem CubeSat uydusunun STK ortamında yörünge simülasyonlarını, yer istasyonu ile…",
+"Aviyonik Test Stajyeri ([TARİH]): Laboratuvar ortamında aviyonik kablo demetlerinin pin süreklilik testlerini yürüttüm, multimetre ile şase kaçak kontrolleri yaptım ve t…"
+],
+"egitim": [
+"İstanbul Teknik Üniversitesi - Lisans (Uzay Mühendisliği) 2015 - 2019"
+]
+}
+},
+{
+"id": "J1724",
+"kind": "JOB",
+"title": "Yakıt ve Madeni Yağ Formülasyon Kimyageri",
+"industry": "SCIENCE_RND",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Yeni nesil düşük emisyonlu yakıt katkıları ve biyo-bazlı madeni yağ formülasyonlarını geliştirecek Kimyager veya Kimya Mühendisi arıyoruz. Görev ve Sorumluluklar: - Sentetik baz yağlar ve özel katık paketleri ile motor yağı formülasyon denemeleri yapmak - ASTM ve EN standartlarına uygun kinematik viskozite, parlama noktası, akma noktası ve aşınma testlerini (Four-Ball) yürütmek - Motor test standlarından gelen aşınma metalleri analizlerini (ICP-OES) yorumlamak - Ar-Ge projelerinde fikri mülkiyet ve patent süreçlerine katkı vermek Aranan Niteli…"
+}
+},
+{
+"id": "C11362",
+"kind": "CV",
+"title": "Yanma ve Termokimyasal Proses Simülasyon Mühendisi (Ansys Chemkin / Fluent)",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "Gaz türbinleri, endüstriyel brülörler ve içten yanmalı motorlarda yanma kimyası, alev hızı, NOx/CO kirletici emisyon mekanizmaları ve alev kararsızlıkları analizinde uzmanım.",
+"beceriler": "Ansys Chemkin-Pro, Ansys Fluent Combustion, Reaksiyon Mekanizması İndirgeme, Alev Hızı & Tutuşma Gecikmesi, Emisyon Tahmini (NOx / Soot), Türbülanslı Yanma (PDF / FGM Modelleri)",
+"deneyim": [
+"Yanma ve Termokimyasal Proses Simülasyon Mühendisi (Ansys Chemkin / Fluent) ([TARİH]): Hidrojen-doğalgaz karışımı yakan endüstriyel brülörde Chemkin ve Fluent FGM modeli…"
+],
+"egitim": [
+"Hacettepe Üniversitesi - Yüksek Lisans (Makine / Kimya Mühendisliği) 2015 - 2018"
+]
+}
+},
+{
+"id": "C11475",
+"kind": "CV",
+"title": "Zırhlı Kara Araçları Otomotiv Sistem Entegrasyon Mühendisi",
+"industry": "SCIENCE_RND",
+"city": "Ankara",
+"context": {
+"ozet": "6x6 ve 8x8 zırhlı muharebe araçlarında güç grubu (motor-şanzıman), bağımsız hidropnömatik süspansiyon, merkezi lastik şişirme (CTIS) ve soğutma paketi entegrasyonunda uzmanım.",
+"beceriler": "Zırhlı Araç Güç Grubu (Powerpack), Hidropnömatik Süspansiyon, CAN J1939 Araç Ağı, Merkezi Lastik Şişirme (CTIS), Amfibi İtki ve Yüzme Sistemleri, Aşırı Sıcak/Soğuk İklim Doğrulama",
+"deneyim": [
+"Zırhlı Kara Araçları Otomotiv Sistem Entegrasyon Mühendisi ([TARİH]): 8x8 zırhlı aracın 600 BG dizel motor ve otomatik şanzıman güç paketinin (powerpack) gövde içine ent…"
+],
+"egitim": [
+"Yıldız Teknik Üniversitesi - Lisans (Otomotiv / Makine Mühendisliği) 2014 - 2018"
+]
+}
+},
+{
+"id": "C20969",
+"kind": "CV",
+"title": "AVM X-Ray ve Kapı Dedektörü Güvenlik Görevlisi",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"context": {
+"ozet": "Büyük alışveriş merkezlerinde ziyaretçi giriş kapılarında kapı tipi metal dedektörü, el dedektörü ve çanta X-Ray bagaj kontrol cihazı operatörüyüm. Yasaklı delici-kesici aletlerin tespiti, bagaj görüntüsü analizi (organik/inorganik renk ayrımı) ve yoğun kalabalık yönetiminde tecrübeliyim.",
+"beceriler": "X-Ray Bagaj Tarama Cihazı Görüntü Analizi, Kapı ve El Tipi Metal Dedektörü Kullanımı, Ziyaretçi Üst ve Çanta Arama Hukuku, Kalabalık Giriş Trafiği Akış Kontrolü, Kayıp Çocuk ve Acil Durum Anons Koordinasyonu, Müşteri Od…",
+"deneyim": [
+"AVM X-Ray ve Kapı Dedektörü Güvenlik Görevlisi ([TARİH]): Hafta sonları günde 40.000 ziyaretçinin giriş yaptığı mega AVM'de X-Ray tarama noktasında yasaklı maddeler giri…"
+],
+"egitim": [
+"İstanbul Bakırköy Mesleki ve Teknik Anadolu Lisesi - Lise (Güvenlik Hizmetleri) [TARİH]"
+]
+}
+},
+{
+"id": "C20981",
+"kind": "CV",
+"title": "CCTV Kamera Kontrol Odası Operatörü",
+"industry": "SECURITY_EMERGENCY",
+"city": "Adana",
+"context": {
+"ozet": "AVM, fabrika ve büyük lojistik kampüslerde 200+ kameralı video yönetim sistemlerini (Milestone, Hikvision, Dahua) video duvarı (video wall) üzerinden 7/24 izleyen kıdemli CCTV operatörüyüm. PTZ kamera takibi, olay anı arşiv tarama, şüpheli hareket tespiti ve saha devriyesini telsizle yönlendirmede uzmanım.",
+"beceriler": "VMS Video Yönetim Yazılımları (Milestone, HikCentral), PTZ Kamera Kontrolü ve Hareket Takibi, Kamera Arşiv Tarama ve Adli Görüntü Çıkarma, Şüpheli Davranış ve Kör Nokta Tespiti, Telsizle Saha Ekip Koordinasyonu, Vardiya…",
+"deneyim": [
+"CCTV Kamera Kontrol Odası Operatörü ([TARİH]): Merkezi izleme odasında 350 kamerayı eş zamanlı takip ederek hırsızlık girişimlerini ve yetkisiz bölge ihlallerini anlık t…"
+],
+"egitim": [
+"Eskişehir Tepebaşı Mesleki ve Teknik Anadolu Lisesi - Lise (Bilişim ve Güvenlik Teknolojileri) [TARİH]"
+]
+}
+},
+{
+"id": "J2973",
+"kind": "JOB",
+"title": "CCTV ve Elektronik Güvenlik Sistemleri Uzmanı",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Akıllı binalarımızda IP kamera, geçiş kontrol (PDKS), plaka tanıma ve çevre güvenlik sistemlerinin entegrasyonunu yönetecek uzmanlar arıyoruz. Temel İş ve Sorumluluk Alanları: - Merkezi VMS (Video Management Software - Milestone, Genetec vb.) platformlarını yönetmek ve kullanıcı yetkilendirmelerini yapmak - Kartlı geçiş ve biyometrik turnike sistemlerinin sunucu senkronizasyonunu ve arıza takibini yürütmek - Yangın algılama panelleri ile duman tahliye ve turnike acil açılma senaryolarının periyodik testlerini icra etmek - Kamera kör noktaların…"
+}
+},
+{
+"id": "J2965",
+"kind": "JOB",
+"title": "CCTV ve Güvenlik Kamera Operatörü",
+"industry": "SECURITY_EMERGENCY",
+"city": "Ankara",
+"position_level": "ENTRY",
+"mode": "OnSite",
+"context": {
+"aciklama": "Tesis güvenlik merkezimizde yüzlerce kameranın canlı görüntülerini izleyecek ve alarm durumlarını yönetecek operatörler arıyoruz. Rol ve Sorumluluklar: - CCTV izleme odasında güvenlik kameralarını 7/24 izlemek ve şüpheli durumları tespit etmek - Yangın, panik ve hırsızlık alarm sinyallerini doğrulayarak saha ekiplerini ve kolluk kuvvetlerini yönlendirmek - Kamera arızalarını ve görüntü kayıplarını teknik servis birimine raporlamak - Olay anı kamera kayıtlarını saklamak ve resmi makamlar için tutanak düzenlemek Kimleri Arıyoruz? - Özel Güvenlik…"
+}
+},
+{
+"id": "C20527",
+"kind": "CV",
+"title": "Endüstriyel Tesis İtfaiye ve Yangın Güvenlik Elemanı",
+"industry": "SECURITY_EMERGENCY",
+"city": "Ankara",
+"context": {
+"ozet": "Koruma ve güvenlik kapsamında 1 yıldır görev yapmaktayım. Endüstriyel Tesis İtfaiye ve Yangın Güvenlik Elemanı olarak tesis giriş-çıkış kontrolü, ziyaretçi kayıt ve devriye hizmetlerinde yetkinim. Kriz anında soğukkanlı, dikkatli ve mevzuata uygun hareket ederim.",
+"beceriler": "Endüstriyel Yangına Müdahale, Sprinkler ve Yangın Hidrant Hattı Denetimi, Solunum Cihazı (SCBA) Kullanımı, Acil Durum ve Yangın Tatbikatı",
+"deneyim": [
+"Endüstriyel Tesis İtfaiye ve Yangın Güvenlik Elemanı ([TARİH]): [ŞİRKET] üretim kampüsünde yangın dolapları, hidrantlar ve otomatik sprinkler sistemlerinin periyodik bas…"
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "J0623",
+"kind": "JOB",
+"title": "Endüstriyel Tesis İtfaiye ve Yangın Güvenlik Personeli",
+"industry": "SECURITY_EMERGENCY",
+"city": "Eskişehir",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] endüstriyel osb civarındaki işletmemize acil tesis i̇tfaiye personeli arıyoruz iş ağır değildir düzenli çalışacak verilen işi yapacak eli çabuk arkadaş arıyoruz vardiya 08:00 - 18:00 pazar tatil servisimiz vardır ücret asgari ücret + fazla mesai + sgk + servis ilgilenenlerin şahsen veya telefonla müracaatı rica olunur"
+}
+},
+{
+"id": "J0812",
+"kind": "JOB",
+"title": "Endüstriyel Tesis İtfaiye ve Yangın Güvenlik Personeli",
+"industry": "SECURITY_EMERGENCY",
+"city": "Bursa",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren Kardemir Endüstriyel Teknik Hizmetler A.Ş. ekibimize değer katacak dinamik 'Endüstriyel Tesis İtfaiye ve Yangın Güvenlik Personeli' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Tesis genelindeki yangın hidrantları, sprinkler sistemleri, yangın dolapları ve söndürücü tüplerin periyodik kontrolü. - Fabrika yangın tatbikatlarının organize edilmesi ve çalışanlara temel yangın güvenliği bilgilendirmesi yapılması. - Olası kimyasal sızıntı, parlama veya yangın durumlarına itfaiye araç ve ekipma…"
+}
+},
+{
+"id": "C20967",
+"kind": "CV",
+"title": "Entegre Yangın ve Hırsız Alarm İzleme Operatörü",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"context": {
+"ozet": "Akıllı binalar ve veri merkezlerinde yangın algılama panelleri, bina otomasyonu (BMS), kartlı geçiş ihlalleri ve acil çıkış kapısı manyetik kontak alarmlarını tek ekrandan izleyen kontrol merkezi teknisyeniyim. Yanlış alarmları eleme, acil durumlarda itfaiye ve ambulansı sevk etme süreçlerinde uzmanım.",
+"beceriler": "Yangın Algılama Santrali (Honeywell, Siemens) Takibi, Manyetik Kontak ve Kapı İhlal Alarmları, BMS Bina Yönetim Entegrasyonu, Acil Durum İtfaiye/Polis Çağrı Yönetimi, Sesli Tahliye Sistemi Devreye Alma, Sistem Hata ve A…",
+"deneyim": [
+"Entegre Yangın ve Hırsız Alarm İzleme Operatörü ([TARİH]): Finans merkezi kule binasında yangın paneli ve kartlı geçiş alarmları 24 saat izlendi, dedektör kısa devreleri…"
+],
+"egitim": [
+"Kayseri Melikgazi Mesleki Eğitim Merkezi - Ustalık Belgesi (Elektronik Güvenlik Sistemleri) [TARİH]"
+]
+}
+},
+{
+"id": "J2976",
+"kind": "JOB",
+"title": "Fabrika ve Endüstriyel Tesis Güvenlik Amiri",
+"industry": "SECURITY_EMERGENCY",
+"city": "Bursa",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Otomotiv ana sanayi fabrikamızda tüm tesis güvenliği, devriye kontrolleri ve acil durum müdahale ekiplerini sevk ve idare edecek amirler arıyoruz. Pozisyonun Temel Görevleri: - Fabrika yerleşkesindeki 15 güvenlik noktasının ve 30 güvenlik görevlisinin günlük operasyonunu yönetmek - Tedarikçi tırları ve kargo araçlarının giriş-çıkış güvenlik protokollerini ve arama süreçlerini denetlemek - Fabrika içi İSG ihlallerini, hız sınırlarını ve izinsiz alan girişlerini tespit ederek fabrika yönetimine raporlamak - Gece vardiyalarında çevre tel çitleri …"
+}
+},
+{
+"id": "J2978",
+"kind": "JOB",
+"title": "Fiziksel Güvenlik ve Risk Değerlendirme Uzmanı",
+"industry": "SECURITY_EMERGENCY",
+"city": "Ankara",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "Büyükelçilikler, kamu binaları ve iş merkezleri için güvenlik açığı analizleri yapacak ve risk haritaları çıkaracak uzmanlar arıyoruz. Neler Yapacaksınız? - Hizmet verilen tesislerde yerinde fiziksel güvenlik denetimleri ve sızma testleri (red teaming) gerçekleştirmek - Bina zayıf noktalarını, kamera kör alanlarını ve bariyer yetersizliklerini raporlamak - 5188 Sayılı Kanun gereği İl Güvenlik Komisyonu onaylı Özel Güvenlik İzin Belgesi dosyalarını hazırlamak - Tesisler için Acil Durum Eylem Planları ve Güvenlik İşletme Prosedürlerini kaleme al…"
+}
+},
+{
+"id": "C20425",
+"kind": "CV",
+"title": "Gece Bekçisi / Tesis Koruma Elemanı",
+"industry": "SECURITY_EMERGENCY",
+"city": "İzmir",
+"context": {
+"ozet": "Koruma ve güvenlik kapsamında 1 yıldır görev yapmaktayım. Gece Bekçisi / Tesis Koruma Elemanı olarak tesis giriş-çıkış kontrolü, ziyaretçi kayıt ve devriye hizmetlerinde yetkinim. Kriz anında soğukkanlı, dikkatli ve mevzuata uygun hareket ederim.",
+"beceriler": "Gece Devriyesi ve Tur Kontrol Sistemi, Çevre Aydınlatma ve Kilit Kontrolleri, Yangın ve Hırsızlık Alarm Takibi, Vukuat Defteri ve Olay Raporlama",
+"deneyim": [
+"Gece Bekçisi / Tesis Koruma Elemanı ([TARİH]): [ŞİRKET] tesisinde mesai bitimi sonrası tüm kapı, pencere, depo kilitleri ve yangın vanalarının kontrollerini yaparak devr…"
+],
+"egitim": [
+"[OKUL] - Lise (Adalet) [TARİH]"
+]
+}
+},
+{
+"id": "J1224",
+"kind": "JOB",
+"title": "Gece Bekçisi / Tesis Koruma Elemanı",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] lokasyonumuzda faaliyet gösteren [şehir] Metal ve Kalıp Fabrikası ekibimize değer katacak dinamik 'Gece Bekçisi / Tesis Koruma Elemanı' takım arkadaşı arıyoruz. İş Tanımı ve Temel Sorumluluklar: - Gece vardiyasında fabrika, depo ve açık saha alanlarında belirlenen rotalarda devriye turlarının atılması. - Devriye kontrol noktalarında bekçi saati / tom kalemi okutularak raporlama yapılması. - Kapı kilitleri, pencere ve aydınlatma sistemlerinin düzenli olarak kontrol edilmesi. - Şüpheli kişi, araç veya durumların derhal amirlere ve güvenl…"
+}
+},
+{
+"id": "C20183",
+"kind": "CV",
+"title": "Güvenlik Görevlisi - AVM / Plaza",
+"industry": "SECURITY_EMERGENCY",
+"city": "Ankara",
+"context": {
+"ozet": "AVM gibi kapalı ve kalabalık alanlarda hırsızlık vakalarını önleme, otopark güvenliğini sağlama ve asayişi koruma konularında tecrübe sahibiyim. Mağaza personelleri ve yönetim ile koordineli çalışarak tesisin sorunsuz işlemesine katkı sunarım. İletişim becerilerimle ortaya çıkabilecek tartışma veya gerginlikleri büyümeden ve profesyonelce yatıştır…",
+"beceriler": "Turnike Yönetimi, X-Ray Cihazı, Ziyaretçi Kaydı",
+"deneyim": [
+"Güvenlik Görevlisi - AVM / Plaza ([TARİH]): [ŞEHİR] bölgesinde Güvenlik Görevlisi - AVM / Plaza olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Özel Güvenlik ve Koruma) [TARİH]"
+]
+}
+},
+{
+"id": "C20184",
+"kind": "CV",
+"title": "Güvenlik Görevlisi - AVM / Plaza",
+"industry": "SECURITY_EMERGENCY",
+"city": "Mersin",
+"context": {
+"ozet": "Prestijli iş merkezleri ve plazalarda VIP karşılama, danışma ve güvenlik hizmetlerini bir arada yürütebilen, diksiyonu düzgün ve prezantabl bir çalışanım. Çalışanların ve ziyaretçilerin güvenli bir ortamda bulunmasını sağlamak amacıyla devriye prosedürlerini titizlikle uygularım. Şüpheli paket veya kayıp eşya durumlarında soğukkanlılıkla standart …",
+"beceriler": "Çanta/Üst Araması, Ziyaretçi Kaydı, Turnike Yönetimi, X-Ray Cihazı",
+"deneyim": [
+"Güvenlik Görevlisi - AVM / Plaza ([TARİH]): [ŞEHİR] bölgesinde Güvenlik Görevlisi - AVM / Plaza olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "C20185",
+"kind": "CV",
+"title": "Güvenlik Görevlisi - AVM / Plaza",
+"industry": "SECURITY_EMERGENCY",
+"city": "Bursa",
+"context": {
+"ozet": "Yaya trafiğinin çok yoğun olduğu alışveriş merkezleri ve plazalarda müşteri ilişkileri ile güvenlik konseptini başarıyla harmanlayan bir özel güvenlik görevlisiyim. X-Ray cihazları, el dedektörleri ve kartlı geçiş sistemlerinin kullanımında uzmanım. İnsanlara güler yüzle yardımcı olurken, aynı zamanda olası tehditleri önceden sezebilen analitik bi…",
+"beceriler": "X-Ray Cihazı, Ziyaretçi Kaydı, Çanta/Üst Araması, Turnike Yönetimi",
+"deneyim": [
+"Güvenlik Görevlisi - AVM / Plaza ([TARİH]): [ŞEHİR] bölgesinde Güvenlik Görevlisi - AVM / Plaza olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "J2977",
+"kind": "JOB",
+"title": "Güvenlik Operasyon Merkezi (SOC) Analisti",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"position_level": "MID",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Kurumsal ve bireysel alarm izleme merkezimizde alarm sinyallerini analiz edecek ve acil durum operasyonlarını koordine edecek analistler arıyoruz. Rol ve Sorumluluklar: - Saniyeler içinde düşen hırsızlık, yangın, sabotaj ve su baskını alarm sinyallerini önceliklendirmek ve teyit etmek - Doğrulanan acil durumlarda emniyet, itfaiye ve ambulans birimlerine sistem üzerinden otomatik çağrı açmak - Müşterilerle sakin ve profesyonel iletişim kurarak panik anında yönlendirme yapmak - Alarm takip yazılımındaki (Manitou vb.) veri tabanı tutarsızlıkların…"
+}
+},
+{
+"id": "J2972",
+"kind": "JOB",
+"title": "Güvenlik Vardiya Amiri",
+"industry": "SECURITY_EMERGENCY",
+"city": "Kocaeli",
+"position_level": "MID",
+"mode": "OnSite",
+"context": {
+"aciklama": "[şehir] Organize Sanayi Bölgesindeki lojistik kampüsümüzde 20 kişilik güvenlik ekibinin vardiya yönetimini üstlenecek Vardiya Amirleri arıyoruz. Neler Yapacaksınız? - Vardiyadaki özel güvenlik görevlilerinin nöbet noktası dağılımlarını, kılık kıyafet ve teçhizat denetimlerini yapmak - Devriye tur kontrol sistemi (guard tour) raporlarını inceleyerek aksaklıkları gidermek - Tesis içinde meydana gelen kaza, hırsızlık veya yangın alarmlarında ilk müdahaleyi yönetmek ve tutanak tutmak - Müşteri güvenlik yöneticisi ile günlük brifingleri gerçekleşti…"
+}
+},
+{
+"id": "J0012",
+"kind": "JOB",
+"title": "GÜVENLİK GÖREVLİSİ",
+"industry": "SECURITY_EMERGENCY",
+"city": "Diyarbakır",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "Genel Nitelikler 5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun uyarınca, geçerli Silahlı veya Silahsız Özel Güvenlik Kimlik Kartı sahibi, En az lise mezunu, Tercihen AVM, otel, iş merkezi veya benzeri yoğun ziyaretçi alan projelerde güvenlik deneyimi olan, Vardiyalı çalışma sistemine ve esnek çalışma saatlerine (gece vardiyası dahil) uyum sağlayabilecek, Etkin iletişim becerilerine sahip, kriz anlarında sakin ve çözüm odaklı kalabilen, Diksiyonu düzgün, güler yüzlü, dış görünümüne ve kişisel bakımına özen gösteren, Takım çalışmasına yatkın…"
+}
+},
+{
+"id": "J0106",
+"kind": "JOB",
+"title": "GÜVENLİK VE TEMİZLİK PERSONELİ",
+"industry": "SECURITY_EMERGENCY",
+"city": "Diyarbakır",
+"position_level": "UNSPECIFIED",
+"mode": "OnSite",
+"context": {
+"aciklama": "GÜVENLİK VE TEMİZLİK HİZMETLERİNDE DAHA ÖNCEDE ÇALIŞMIŞ DENEYİMLİ PERSONELLERE İHTİYAÇ DUYULMAKTADIR. Tesis ve bina genelinde giriş-çıkış kontrollerinin sağlanması, ortak alanların günlük ve periyodik temizlik ve hijyen standartlarının korunması, düzenli devriye ve saha kontrollerinin gerçekleştirilmesi beklenmektedir. Vardiyalı çalışma sistemine uyumlu, sorumluluk sahibi ve dinamik çalışma arkadaşları aranmaktadır."
+}
+},
+{
+"id": "C20994",
+"kind": "CV",
+"title": "Hastane Acil Servis & Protokol Güvenlik Görevlisi",
+"industry": "SECURITY_EMERGENCY",
+"city": "Ankara",
+"context": {
+"ozet": "Şehir hastaneleri ve devlet hastanelerinin acil servis girişlerinde hasta yakınları taşkınlıklarını önleme, Beyaz Kod (acil müdahale) çağrılarını yönetme ve sağlık personeli güvenliğini sağlama konusunda deneyimliyim. Öfke kontrolü, fiziksel çatışmayı yatıştırma ve polis noktası koordinasyonunda profesyonelim.",
+"beceriler": "Hastane Beyaz Kod Acil Müdahale Sistemi, Sağlık Personeli Emniyeti ve Hasta Yakını İletişimi, Öfke ve Kriz Yönetimi Becerisi, Ambulans Giriş-Çıkış Yolu Açık Tutma, Genel Adli Olaylarda Emniyetle İş Birliği, İlk Müdahale…",
+"deneyim": [
+"Hastane Acil Servis & Protokol Güvenlik Görevlisi ([TARİH]): Eğitim ve araştırma hastanesi acil servisinde verilen 50'den fazla Beyaz Kod çağrısına 1 dakika içinde müdah…"
+],
+"egitim": [
+"Adana Yüreğir Mesleki Eğitim Merkezi - Lise (Sosyal Hizmetler / Güvenlik) [TARİH]"
+]
+}
+},
+{
+"id": "C20041",
+"kind": "CV",
+"title": "Havalimanı Güvenlik Görevlisi",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"context": {
+"ozet": "Yolcu ve personelin üst araması ile bagaj kontrollerini titizlikle yapan, şüpheli durumlara anında müdahale edebilen soğukkanlı bir güvenlik personeliyim. Güvenlik prosedürlerinden asla taviz vermeden caydırıcı ve profesyonel bir duruş sergilerim.",
+"beceriler": "X-Ray Cihazı Kullanımı, Yolcu Üst Araması, Patlayıcı İz Dedektörü (ETD), Kapı Dedektörü (WTMD) Operasyonu",
+"deneyim": [],
+"egitim": [
+"[OKUL] - Lisans (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "J0763",
+"kind": "JOB",
+"title": "Havalimanı Güvenlik Görevlisi (X-Ray ve Kapı Kontrol)",
+"industry": "SECURITY_EMERGENCY",
+"city": "Antalya",
+"position_level": "SPECIALIST",
+"mode": "OnSite",
+"context": {
+"aciklama": "Aşağıdaki niteliklere sahip ve belirtilen süreçleri yönetecek adayların başvurularını bekliyoruz: 'Havalimanı Güvenlik Görevlisi (X-Ray ve Kapı Kontrol)' ekibimize katılacak çalışma arkadaşı aranmaktadır. Rolün Getirdiği Başlıca Görevler: Silahlı/silahsız özel güvenlik kimlik kartı olan, terminal girişlerinde el bagajı X-Ray ve kapı dedektörü taraması yapacak. Kimleri Arıyoruz? - 7/24 vardiyalı çalışma düzenine ve havalimanı ulaşım saatlerine uyumlu - Havacılık emniyeti, ramp güvenliği ve SMS kurallarına harfiyen uyan - İyi seviyede İngilizce …"
+}
+},
+{
+"id": "C20968",
+"kind": "CV",
+"title": "Havalimanı Terminal ve Bagaj Tarama Güvenliği",
+"industry": "SECURITY_EMERGENCY",
+"city": "Bursa",
+"context": {
+"ozet": "Havalimanlarında iç ve dış hatlar arındırılmış saha giriş noktalarında EDS ve çift açılı X-Ray cihazı ile el bagajı taraması yapan havacılık güvenlik personeliyim. ICAO ve Sivil Havacılık (SHGM) standartlarına uygun olarak patlayıcı iz tespit (ETD) cihazı ve vücut tarayıcı kullanımında uzmanım.",
+"beceriler": "Sivil Havacılık Güvenliği (SHGM Standartları), Çift Açılı Bagaj X-Ray ve EDS Analizi, Patlayıcı İz Tespit Cihazı (ETD) Kullanımı, Vücut Tarayıcı (Body Scanner) Operasyonu, Arındırılmış Saha Güvenlik Prosedürleri, Yabanc…",
+"deneyim": [
+"Havalimanı Terminal ve Bagaj Tarama Güvenliği ([TARİH]): Uluslararası havalimanında uçuş öncesi güvenlik kontrol noktasında her gün binlerce yolcu ve el bagajı uçuş güve…"
+],
+"egitim": [
+"Antalya Kepez Mesleki ve Teknik Anadolu Lisesi - Lise (Ulaştırma / Havacılık Hizmetleri) [TARİH]"
+]
+}
+},
+{
+"id": "C20188",
+"kind": "CV",
+"title": "İtfaiye Eri",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"context": {
+"ozet": "Yangın güvenliği ve önleme tedbirleri konusunda halkı bilinçlendirme çalışmalarında da rol alan, iletişim yönü güçlü bir itfaiyeciyim. Hidrolik kesiciler, solunum cihazları ve termal kameralar gibi modern itfaiye teçhizatlarını profesyonelce kullanırım. Yüksek stresli ortamlarda hızlı ve rasyonel kararlar alabilme yeteneğimle kriz yönetiminde başa…",
+"beceriler": "Kurtarma Operasyonları, Yangın Söndürme, Ekipman Bakımı, Acil Müdahale",
+"deneyim": [
+"İtfaiye Eri ([TARİH]): [ŞEHİR] bölgesinde İtfaiye Eri olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Ön Lisans (Sivil Savunma ve İtfaiyecilik) [TARİH]"
+]
+}
+},
+{
+"id": "C20189",
+"kind": "CV",
+"title": "İtfaiye Eri",
+"industry": "SECURITY_EMERGENCY",
+"city": "Ankara",
+"context": {
+"ozet": "Trafik kazaları, sel, deprem ve kimyasal sızıntı gibi çok çeşitli kriz durumlarında vatandaşların yardımına koşan profesyonel bir kurtarmacıyım. Takım çalışmasının hayati önem taşıdığı bu meslekte, ekip arkadaşlarımla kusursuz bir koordinasyon içinde hareket ederim. Kondisyonumu her zaman üst seviyede tutmak için düzenli spor yapar, mesleki tatbik…",
+"beceriler": "Acil Müdahale, Kurtarma Operasyonları, Ekipman Bakımı, Yangın Söndürme",
+"deneyim": [
+"İtfaiye Eri ([TARİH]): [ŞEHİR] bölgesinde İtfaiye Eri olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "J2988",
+"kind": "JOB",
+"title": "Kıdemli Acil Durum ve Yangın Güvenlik Müdürü",
+"industry": "SECURITY_EMERGENCY",
+"city": "Adana",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Petrokimya ve enerji tesislerimizin endüstriyel yangın güvenliği, söndürme sistemleri ve acil durum kriz masasını yönetecek müdürler arıyoruz. Pozisyonun Temel Görevleri: - Tesis genelindeki sabit gazlı söndürme, köpüklü söndürme ve delüj sistemlerinin teknik denetimlerini yönetmek - Endüstriyel acil durum müdahale ekiplerini (yangın, kimyasal sızıntı, arama-kurtarma) eğitmek ve tatbikatları idare etmek - Tesis risk analizlerini SEVESO direktifleri ve NFPA kodlarına göre güncellemek - Acil durum anında itfaiye ve AFAD ile ortak kriz merkezini …"
+}
+},
+{
+"id": "J2987",
+"kind": "JOB",
+"title": "Kıdemli Endüstriyel Tesis ve Liman Güvenlik Müdürü (ISPS)",
+"industry": "SECURITY_EMERGENCY",
+"city": "Kocaeli",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Uluslararası liman ve kimyasal depolama tesisimizin ISPS Kodu standartlarında liman ve tesis güvenliğini sevk ve idare edecek Güvenlik Müdürü arıyoruz. İş Tanımı ve Temel Sorumluluklar: - ISPS Kodu (Uluslararası Gemi ve Liman Tesisi Güvenlik Kodu) Güvenlik Planını (PFSP) uygulamak ve güncellemek - Liman sahasına gemi, personel ve yük giriş-çıkışlarında gümrük muhafaza ve deniz polisi ile koordinasyonu sağlamak - Liman güvenlik seviyelerine (Level 1, 2, 3) göre güvenlik tedbirlerini devreye almak ve tatbikatları yönetmek - Ulaştırma ve Altyapı …"
+}
+},
+{
+"id": "J2990",
+"kind": "JOB",
+"title": "Kıdemli Entegre Güvenlik Sistemleri Proje Müdürü",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Büyük kurumsal müşterilerimizin anahtar teslim elektronik güvenlik, geçiş kontrol ve yapay zeka tabanlı video analiz projelerini yönetecek Proje Müdürleri arıyoruz. Neler Yapacaksınız? - Milyon liralık kurumsal elektronik güvenlik projelerinin keşif, teklif, şartname ve montaj süreçlerini yönetmek - Alt yüklenici montaj ekiplerinin saha iş kalitesini ve takvime uyumunu denetlemek - Yapay zeka tabanlı çevre güvenlik ve yüz tanıma yazılımlarının müşteri sistemlerine entegrasyonunu sağlamak - Proje kârlılıklarını, hakediş onaylarını ve müşteri ka…"
+}
+},
+{
+"id": "J2991",
+"kind": "JOB",
+"title": "Kıdemli Güvenlik Denetim ve Kalite Güvence Müdürü",
+"industry": "SECURITY_EMERGENCY",
+"city": "Ankara",
+"position_level": "SENIOR",
+"mode": "Hybrid",
+"context": {
+"aciklama": "Türkiye genelindeki 500'ü aşkın güvenlik projemizin hizmet kalitesini, yasal uyumunu ve operasyonel disiplinini denetleyecek Kalite Müdürü arıyoruz. Temel İş ve Sorumluluk Alanları: - Türkiye genelinde habersiz gece ve gündüz güvenlik saha denetimlerini planlamak ve icra etmek - Projelerde 5188 Sayılı Kanun, SGK ve İSG mevzuatına uyum açıklarını tespit edip düzeltici faaliyetleri (CAPA) başlatmak - ISO 9001, ISO 27001 ve ISO 45001 entegre yönetim sistemleri denetimlerini yürütmek - Müşteri memnuniyet anketlerini analiz ederek operasyonel iyile…"
+}
+},
+{
+"id": "J2986",
+"kind": "JOB",
+"title": "Kıdemli Tesis Güvenlik Müdürü (Karma Proje)",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Rezidans, AVM ve ofis kulelerinden oluşan prestijli bir karma yaşam projemizin tüm güvenlik operasyonlarını yönetecek Güvenlik Müdürü arıyoruz. Görev ve Sorumluluklar: - 100'ü aşkın özel güvenlik görevlisi, amir ve teknik operatörden oluşan kadroya liderlik etmek - Tesis güvenlik bütçesini, vardiya planlarını ve fazla mesai maliyetlerini optimize etmek - Mülk yönetimi, site yönetim kurulu ve kolluk kuvvetleri ile üst düzey koordinasyon sağlamak - Yıllık güvenlik denetimlerini yürütmek ve acil durum tahliye tatbikatlarını organize etmek Aranan …"
+}
+},
+{
+"id": "J2989",
+"kind": "JOB",
+"title": "Kıdemli VIP Koruma ve Güvenlik Koordinatörü",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"position_level": "SENIOR",
+"mode": "OnSite",
+"context": {
+"aciklama": "Holding yönetim kurulu başkanlığı ve aile üyelerinin yurt içi ve yurt dışı tüm fiziki ve yakın koruma operasyonlarını koordine edecek kıdemli liderler arıyoruz. Rol ve Sorumluluklar: - Yönetim kurulu üyelerinin rezidans, ofis ve seyahat güvenlik operasyonlarını 7/24 kesintisiz planlamak - Yakın koruma ekibinin taktik atış, savunma sporları ve ileri sürüş eğitimlerini organize etmek - Uluslararası seyahatlerde yabancı güvenlik kuruluşları ve büyükelçiliklerle güvenlik koordinasyonunu sağlamak - Gizlilik, siber farkındalık ve kişisel güvenlik pr…"
+}
+},
+{
+"id": "C20186",
+"kind": "CV",
+"title": "Koruma Görevlisi / Korumalık",
+"industry": "SECURITY_EMERGENCY",
+"city": "Adana",
+"context": {
+"ozet": "Önemli kişilerin (VIP), üst düzey yöneticilerin veya sanatçıların can ve mal güvenliğini sağlamak amacıyla yakın koruma taktikleri konusunda eğitimli bir profesyonelim. Yakın dövüş sanatları, ileri sürüş teknikleri ve risk analizi konularında yüksek yetkinliğe sahibim. Tehditleri gerçekleşmeden önce sezme ve bertaraf etme üzerine kurulu defansif b…",
+"beceriler": "Tehdit Değerlendirmesi, Yakın Koruma, VIP Eskort, Güzergah Planlama",
+"deneyim": [
+"Koruma Görevlisi / Korumalık ([TARİH]): [ŞEHİR] bölgesinde Koruma Görevlisi / Korumalık olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "C20187",
+"kind": "CV",
+"title": "Koruma Görevlisi / Korumalık",
+"industry": "SECURITY_EMERGENCY",
+"city": "Tokat",
+"context": {
+"ozet": "Silahlı koruma tecrübesine sahip, kalabalık yönetimi ve güzergah planlaması yapabilen, analitik zekası güçlü bir güvenlik uzmanıyım. Olası bir saldırı veya tehlike anında korunan kişiyi hızla ve güvenli bir şekilde tahliye etme senaryolarına tam olarak hazırım. Disiplinli, sır tutabilen ve görev etiğine sonuna kadar bağlı bir yapıya sahibim.",
+"beceriler": "Güzergah Planlama, Yakın Koruma, Tehdit Değerlendirmesi, VIP Eskort",
+"deneyim": [
+"Koruma Görevlisi / Korumalık ([TARİH]): [ŞEHİR] bölgesinde Koruma Görevlisi / Korumalık olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "J2996",
+"kind": "JOB",
+"title": "Kurumsal Güvenlik Direktörü (Corporate Security Director)",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"position_level": "LEAD",
+"mode": "Hybrid",
+"context": {
+"aciklama": "### Biz Kimiz? Dünyanın lider güvenlik hizmetleri kuruluşu Securitas, uzman güvenlik personeli, teknoloji çözümleri ve risk danışmanlığıyla küresel çapta güvenli bir dünya inşa etmektedir. Pozisyon Özeti: Türkiye genelindeki en stratejik kurumsal projelerimizin, finansal kuruluşların ve holdinglerin fiziki ve elektronik güvenlik operasyonlarını yönetecek Kurumsal Güvenlik Direktörü arıyoruz. Neler Yapacaksınız? - Türkiye genelinde 5.000'i aşkın güvenlik personelinden oluşan kurumsal güvenlik teşkilatına stratejik liderlik etmek - Entegre güven…"
+}
+},
+{
+"id": "C20987",
+"kind": "CV",
+"title": "Lojistik Depo & Saha Güvenlik Kamera Operatörü",
+"industry": "SECURITY_EMERGENCY",
+"city": "Ankara",
+"context": {
+"ozet": "Geniş ölçekli e-ticaret ve kargo dağıtım aktarma merkezlerinde mal kabul rampaları, depo içi koridorlar ve sevkiyat kapılarını yüksek çözünürlüklü kameralarla denetleyen güvenlik operatörüyüm. Koli açılma şüphesi, palet hasarları ve hırsızlık vakalarının saniye saniye kamera kayıtlarından incelenmesinde deneyimliyim.",
+"beceriler": "Lojistik Depo Rampaları ve Sevkiyat Kamera Takibi, Barkod Eşleştirmeli Kamera Sistemi Kullanımı, Hasar ve Çalınma Olaylarında Kanıt Tespiti, Depo İçi Forklift Hız ve İSG İhlalleri Tespiti, Kayıt Saklama ve Disk Doluluk …",
+"deneyim": [
+"Lojistik Depo & Saha Güvenlik Kamera Operatörü ([TARİH]): 50.000 m² lojistik aktarma merkezinde ürün kayıp ve hasar bildirimleri kamera arşivinden geriye dönük incelener…"
+],
+"egitim": [
+"Kocaeli Gebze Mesleki Eğitim Merkezi - Lise (Güvenlik Hizmetleri) [TARİH]"
+]
+}
+},
+{
+"id": "C20180",
+"kind": "CV",
+"title": "Özel Güvenlik Görevlisi",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"context": {
+"ozet": "Fiziki kondisyonu yüksek, dikkat dağınıklığı yaşamadan uzun saatler görev yapabilen, disiplinli bir güvenlik elemanıyım. Yangın, deprem veya hırsızlık gibi acil durum senaryolarına yönelik eğitimlerimi tamamladım ve bu tür olaylarda tahliye süreçlerini profesyonelce yönetebilirim. Raporlama ve tutanak tutma becerilerimle idari süreçlere de eksiksi…",
+"beceriler": "Vukuat Raporlama, Devriye Atma, Giriş-Çıkış Kontrolü, X-Ray ve El Dedektörü, CCTV İzleme",
+"deneyim": [
+"Özel Güvenlik Görevlisi ([TARİH]): [ŞEHİR] bölgesinde Özel Güvenlik Görevlisi olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "C20181",
+"kind": "CV",
+"title": "Özel Güvenlik Görevlisi",
+"industry": "SECURITY_EMERGENCY",
+"city": "Tokat",
+"context": {
+"ozet": "5188 sayılı kanun kapsamında silahlı/silahsız özel güvenlik kimlik kartına sahip, tesis ve can güvenliğini sağlamada tecrübeli bir güvenlik profesyoneliyim. Giriş-çıkış kontrolleri, devriye atma ve CCTV kamera izleme sistemlerini etkin bir şekilde kullanırım. Olası kriz ve acil durumlarda soğukkanlılığımı koruyarak prosedürlere uygun, hızlı müdaha…",
+"beceriler": "Vukuat Raporlama, Giriş-Çıkış Kontrolü, CCTV İzleme, Devriye Atma, X-Ray ve El Dedektörü",
+"deneyim": [
+"Özel Güvenlik Görevlisi ([TARİH]): [ŞEHİR] bölgesinde Özel Güvenlik Görevlisi olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[OKUL] - Lise (Genel) [TARİH]"
+]
+}
+},
+{
+"id": "C20182",
+"kind": "CV",
+"title": "Özel Güvenlik Görevlisi",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"context": {
+"ozet": "Kurumsal firmalarda, sitelerde veya üretim tesislerinde huzur ve güven ortamını tesis eden, gözlem yeteneği gelişmiş bir koruma görevlisiyim. Ziyaretçi yönlendirme, risk analizi yapma ve şüpheli durumları tespit etme konularında proaktif bir yaklaşım sergilerim. İnsan ilişkilerinde saygılı, iletişime açık ancak kuralların uygulanması konusunda tav…",
+"beceriler": "Devriye Atma, Vukuat Raporlama",
+"deneyim": [
+"Stajyer Özel ([TARİH]): Özel Güvenlik Görevlisi pozisyonunda staj yaptım ve sektörel deneyim kazandım.",
+"Özel Güvenlik Görevlisi ([TARİH]): [ŞEHİR] bölgesinde Özel Güvenlik Görevlisi olarak günlük görevlerimi eksiksiz yerine getirdim."
+],
+"egitim": [
+"[ÜNİVERSİTE] - Lisans (İşletme) [TARİH]"
+]
+}
+},
+{
+"id": "J0136",
+"kind": "JOB",
+"title": "Özel Güvenlik Görevlisi",
+"industry": "SECURITY_EMERGENCY",
+"city": "İstanbul",
+"position_level": "ENTRY_LEVEL",
+"mode": "OnSite",
+"context": {
+"aciklama": "🔴⚪⚫ [şehir] Çakmaklı Mah Bölgesinde bulunan Site projemiz için 23-45 yaş arası Bay - Bayan Özel Güvenlik Görevlisi Alımı Yapılacaktır. ❗Boy kilo orantılı ❗Lise mezunu/ Diksiyonu Düzgün ❗️Özel Güvenlik Kimlik Kartı Zorunlu Vardiya : 2 Gündüz + 2 Gece + 2 Off 🏦 Hakediş:43.000,00₺ (Herşey Dahil) ‼️ Projede Yemek 📝 Not: Firmamızda maaşlar her ayın 15’inde banka hesabınıza otomatik yatırılmaktadır. Kariyerinize yön verin, bize katılın."
+}
+}
+]

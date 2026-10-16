@@ -1,0 +1,452 @@
+[
+ {
+  "id": "S30226",
+  "target_occ_key": "7132:mobilya_boya_ve_cila_ustasi",
+  "target_specialty": "Mobilya Boya ve Cila Ustası",
+  "target_isco4": "7132",
+  "target_isco_title": "Spray painters and varnishers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Mersin",
+  "example_job_titles": [
+   "Lake ve Vernik Boya Ustası",
+   "Mobilya Ahşap Cila Ustası"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30227",
+  "target_occ_key": "7212:gazalti_ve_elektrik_ark_kaynakcisi",
+  "target_specialty": "Gazaltı ve Elektrik Ark Kaynakçısı",
+  "target_isco4": "7212",
+  "target_isco_title": "Welders and flamecutters",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Gazaltı (MIG-MAG) ve Elektrik Kaynakçısı",
+   "Gazaltı ve Elektrot Kaynakçısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30228",
+  "target_occ_key": "7221:sicak_dovme_pres_operatoru",
+  "target_specialty": "Sıcak Dövme Pres Operatörü",
+  "target_isco4": "7221",
+  "target_isco_title": "Blacksmiths, hammersmiths and forging press workers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kıdemli Sıcak Dövme Pres Ustası",
+   "Sıcak Dövme Pres Operatörü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30229",
+  "target_occ_key": "7222:cilingir",
+  "target_specialty": "Çilingir",
+  "target_isco4": "7222",
+  "target_isco_title": "Toolmakers and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Anahtarcı ve Çilingir Ustası",
+   "Kilit ve Emniyet Sistemleri Ustası (Locksmith)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30230",
+  "target_occ_key": "7223:cnc_kayar_otomat_operatoru",
+  "target_specialty": "CNC Kayar Otomat Operatörü",
+  "target_isco4": "7223",
+  "target_isco_title": "Metal working machine tool setters and operators",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İzmir",
+  "example_job_titles": [
+   "CNC Kayar Otomat Ustası ve Ayarcısı (Citizen & Star)",
+   "CNC Otomat ve Kayar Otomat Operatör Yardımcısı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30231",
+  "target_occ_key": "7223:cnc_tezgah_operatoru",
+  "target_specialty": "CNC Tezgah Operatörü",
+  "target_isco4": "7223",
+  "target_isco_title": "Metal working machine tool setters and operators",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Stajyer CNC Tezgah Operatörü (Meslek Lisesi / MYO)",
+   "Talaşlı İmalat Makinisti"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30232",
+  "target_occ_key": "7223:cnc_torna_ve_dik_isleme_operatoru",
+  "target_specialty": "CNC Torna ve Dik İşleme Operatörü",
+  "target_isco4": "7223",
+  "target_isco_title": "Metal working machine tool setters and operators",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Tokat",
+  "example_job_titles": [
+   "CNC Torna ve Dik İşleme Operatörü",
+   "CNC Torna ve İşleme Merkezi Programlama Ustası (Mazak Mazatrol)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30233",
+  "target_occ_key": "7223:silindirik_taslama_operatoru",
+  "target_specialty": "Silindirik Taşlama Operatörü",
+  "target_isco4": "7223",
+  "target_isco_title": "Metal working machine tool setters and operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Hassas CNC Taşlama Ustası (Studer & Mikron Seviyesi)",
+   "Silindirik Taşlama Operatörü (CNC & Konvansiyonel)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30234",
+  "target_occ_key": "7224:capak_alma_elemani",
+  "target_specialty": "Çapak Alma Elemanı",
+  "target_isco4": "7224",
+  "target_isco_title": "Metal polishers, wheel grinders and tool sharpeners",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Sac Çapak Alma ve Kenar Yuvarlama Makinesi Elemanı",
+   "Talaşlı İmalat Çapak Alma ve Yüzey Temizleme Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30235",
+  "target_occ_key": "7224:dokum_temizleme_elemani",
+  "target_specialty": "Döküm Temizleme Elemanı",
+  "target_isco4": "7224",
+  "target_isco_title": "Metal polishers, wheel grinders and tool sharpeners",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Dökümhane Maça Kumlama ve Boyutsal Kontrol Elemanı",
+   "Dökümhane Taşlama ve Kumlama Elemanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30236",
+  "target_occ_key": "7224:kaynak_taslama_elemani",
+  "target_specialty": "Kaynak Taşlama Elemanı",
+  "target_isco4": "7224",
+  "target_isco_title": "Metal polishers, wheel grinders and tool sharpeners",
+  "target_collar": "BLUE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kaynak Dikişi Temizleme ve Pasivasyon Elemanı",
+   "Kaynak Öncesi Taşlama ve Kaynak Ağzı Açma Elemanı"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30237",
+  "target_occ_key": "7232:ucak_bakim_teknisyeni",
+  "target_specialty": "Uçak Bakım Teknisyeni",
+  "target_isco4": "7232",
+  "target_isco_title": "Aircraft engine mechanics and repairers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AVIATION",
+  "industry_tr": "Havacılık",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Uçak Bakım Teknisyeni (B1 / B2 Lisanslı)",
+   "Uçak Gövde ve Motor Bakım Teknisyeni (B1/B2)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30238",
+  "target_occ_key": "7233:is_makinesi_bakim_teknisyeni",
+  "target_specialty": "İş Makinesi Bakım Teknisyeni",
+  "target_isco4": "7233",
+  "target_isco_title": "Agricultural and industrial machinery mechanics and repairers",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Şantiye Ağır Makine Bakım ve Kademe Başustası",
+   "Stajyer İş Makineleri Bakım ve Şantiye Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30239",
+  "target_occ_key": "7534:mobilya_doseme_ustasi",
+  "target_specialty": "Mobilya Döşeme Ustası",
+  "target_isco4": "7534",
+  "target_isco_title": "Upholsterers and related workers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Ankara",
+  "example_job_titles": [
+   "Döşeme Ustası (Upholsterer)",
+   "Mobilya ve Oto Döşeme Ustası"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30240",
+  "target_occ_key": "8112:konkasor_operatoru",
+  "target_specialty": "Konkasör Operatörü",
+  "target_isco4": "8112",
+  "target_isco_title": "Mineral and stone processing plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "KONKASÖR OPERATÖR",
+   "Konkasör (Kırma-Eleme) Operatörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30241",
+  "target_occ_key": "8121:ergitme_ocagi_operatoru",
+  "target_specialty": "Ergitme Ocağı Operatörü",
+  "target_isco4": "8121",
+  "target_isco_title": "Metal processing plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Mersin",
+  "example_job_titles": [
+   "İndüksiyon Ocağı ve Sıvı Metal Döküm Operatörü",
+   "İzabe ve Ergitme Operatörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30242",
+  "target_occ_key": "8152:dokuma_tezgahi_operatoru",
+  "target_specialty": "Dokuma Tezgahı Operatörü",
+  "target_isco4": "8152",
+  "target_isco_title": "Weaving and knitting machine operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "APPAREL_TEXTILE",
+  "industry_tr": "Tekstil ve Hazır Giyim",
+  "city": "Konya",
+  "example_job_titles": [
+   "Armürlü ve Jakarlı Dokuma Tezgah Operatörü",
+   "Dokuma Makinesi Operatörü (Weaver)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30243",
+  "target_occ_key": "8153:deri_konfeksiyon_dikimcisi",
+  "target_specialty": "Deri Konfeksiyon Dikimcisi",
+  "target_isco4": "8153",
+  "target_isco_title": "Sewing machine operators",
+  "target_collar": "BLUE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "APPAREL_TEXTILE",
+  "industry_tr": "Tekstil ve Hazır Giyim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Deri Konfeksiyon Dikim Ustası",
+   "Deri Konfeksiyon ve Dikim Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30244",
+  "target_occ_key": "8153:ilik_dugme_makinecisi",
+  "target_specialty": "İlik Düğme Makinecisi",
+  "target_isco4": "8153",
+  "target_isco_title": "Sewing machine operators",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "APPAREL_TEXTILE",
+  "industry_tr": "Tekstil ve Hazır Giyim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Ponterez ve İlik Düğme Makinecisi",
+   "İlik Düğme Makine Elemanı"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30245",
+  "target_occ_key": "8332:agir_yuk_cekici_soforu",
+  "target_specialty": "Ağır Yük Çekici Şoförü",
+  "target_isco4": "8332",
+  "target_isco_title": "Heavy truck and lorry drivers",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Ağır Yük ve Lowbed Dorseli Çekici Şoförü",
+   "Kıdemli Ağır Gabari ve Proje Taşımacılığı Başkaptanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30246",
+  "target_occ_key": "8332:kamyon_soforu",
+  "target_specialty": "Kamyon Şoförü",
+  "target_isco4": "8332",
+  "target_isco_title": "Heavy truck and lorry drivers",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "LOGISTICS_DRIVER",
+  "industry_tr": "Sürücülük ve Kurye",
+  "city": "Konya",
+  "example_job_titles": [
+   "Parsiyel Yük Dağıtım ve Toplama Kamyon Şoförü",
+   "Zincir Market Bölge Dağıtım Şoförü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30247",
+  "target_occ_key": "8341:bicerdover_operatoru",
+  "target_specialty": "Biçerdöver Operatörü",
+  "target_isco4": "8341",
+  "target_isco_title": "Mobile farm and forestry plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Adana",
+  "example_job_titles": [
+   "G Sınıfı Biçerdöver Operatörü",
+   "Tarım Makineleri ve Biçerdöver Operatörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30248",
+  "target_occ_key": "8342:loder_operatoru",
+  "target_specialty": "Loder Operatörü",
+  "target_isco4": "8342",
+  "target_isco_title": "Earthmoving and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Loder (Kepçe) Operatörü",
+   "Loder / Yükleyici İş Makinesi Operatörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30249",
+  "target_occ_key": "8342:silindir_operatoru",
+  "target_specialty": "Silindir Operatörü",
+  "target_isco4": "8342",
+  "target_isco_title": "Earthmoving and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Trabzon",
+  "example_job_titles": [
+   "Toprak ve Asfalt Silindiri Operatörü (Başlangıç)",
+   "Yol Silindiri Operatörü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30250",
+  "target_occ_key": "9329:saha_iscisi",
+  "target_specialty": "Saha İşçisi",
+  "target_isco4": "9329",
+  "target_isco_title": "Manufacturing labourers not elsewhere classified",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Saha Destek Personeli",
+   "Saha İşçisi (Laborer)"
+  ],
+  "style": "kisa ve oz"
+ }
+]

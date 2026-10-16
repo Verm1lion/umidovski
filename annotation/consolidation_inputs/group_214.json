@@ -1,0 +1,5928 @@
+[
+{
+"specialty": "Ambalaj Geliştirme Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ambalaj ve Paketleme Geliştirme Mühendisi"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Batarya Üretim Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Batarya Paketleme ve Hücre Modül Montaj Hattı Üretim Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boya Kalite Kontrol Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otomotiv Boya Kalite Kontrol ve Görsel Kusur Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boyahane ve Yüzey İşlem Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Boyahane ve Yüzey İşlem Üretim Mühendisi (Kataforez / Elektrostatik Toz)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çelik Boru Üretim Proses Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kaynaklı Çelik Boru İmalat Mühendisi (ERW / Spiral)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dişli İmalat Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Hassas Dişli ve Redüktör İmalat Teknolojileri Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Eklemeli İmalat Süreç Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Eklemeli İmalat ve 3D Baskı Süreç Mühendisi (SLM / DMLS)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstri 4.0 ve MES Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Üretim Veri Analitiği ve Endüstri 4.0 Çözümleri Mühendisi (MES / IoT)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstri Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstri Mühendisi",
+"Endüstri Mühendisi (Üretim ve Süreç İyileştirme)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Envanter Kontrol Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Envanter ve Stok Kontrol Mühendisi"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fabrika Yerleşim ve İç Lojistik Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fabrika Yerleşim ve İç Lojistik Akış Mühendisi (Plant Simulation)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Garanti ve Saha Hata Analizi Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otomotiv Garanti ve Saha Hata Analizi Mühendisi (Reliability / Weibull)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gövde Kaynak Hattı Üretim Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otomotiv Gövde Kaynak Hattı Üretim Mühendisi (Body-in-White / BIW)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hijyenik Kağıt Dönüştürme Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Hijyenik Kağıt ve Peçete/Havlu Dönüştürme (Converting) Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İlaç Kalite Güvence Uzmanı",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kalite Güvence (QA) Dokümantasyon Asistanı",
+"Kalite Güvence (QA) Sapma ve CAPA Uzmanı",
+"Kıdemli Kalite Güvence (QA) ve GMP Denetim Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": [
+"22"
+]
+},
+{
+"specialty": "İlaç Lojistiği Kalite Güvence Uzmanı",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Soğuk Zincir ve İlaç Lojistiği Kalite Güvence Uzmanı (Pharma GDP)",
+"İlaç Depolama ve GDP Kalite Güvence Lojistik Uzmanı"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kablo Üretim Proses Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kablo Üretim ve Damar Büküm Proses Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Güvence Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kalite Güvence Mühendisi",
+"Kalite Güvence ve Sistem Mühendisi (ISO 9001/IATF 16949)",
+"Kalite Kontrol Uzmanı",
+"Kıdemli Kalite Güvence ve IATF 16949 Başdenetçisi",
+"Kıdemli Otomotiv Kalite Güvence Mühendisi (IATF 16949 / VDA 6.3)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Kontrol Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Dövme Çelik Parça Kalite Kontrol ve Çatlak Muayene Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Elektronik İmalat Kalite ve ESD Koruma Sorumlusu Mühendis",
+"Giriş Kalite Kontrol Mühendisi (IQC)",
+"Plastik Parça Boyutsal Doğrulama ve Fikstür Kalite Mühendisi",
+"Quality Assurance Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Test Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Beyaz Eşya Fonksiyonel ve Dayanıklılık Test Kalite Mühendisi",
+"Boru ve Vana Hidrostatik Basınç ve Sızdırmazlık Test Kalite Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalite Yönetim Sistemleri Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Havacılık Kalite Yönetim Sistemleri Mühendisi (AS9100 Rev D)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaynak Kalite Kontrol Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kaynaklı İmalat Kalite Kontrol Mühendisi (CSWIP 3.1 / EN ISO 3834)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaynaklı İmalat Üretim Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kaynaklı İmalat Atölye Şefi ve Süreç İyileştirme Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kompozit Malzeme Üretim Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kompozit Malzeme Üretim Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lojistik Planlama Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Logistics Planning Engineer",
+"Lojistik Planlama Mühendisi"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lojistik Süreç İyileştirme Uzmanı",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Lojistik Süreç İyileştirme ve Kaizen Şefi"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Malzeme Planlama Uzmanı",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Malzeme İhtiyaç Planlama ve Stok Optimizasyonu Uzmanı (MRP / Kan-Ban)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "MES ve Üretim Dijitalleştirme Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel Otomasyon ve Üretim Dijitalleştirme (MES/SCADA) Lideri"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metot Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tasarım ve Metot Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metot ve Zaman Etüdü Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Metot ve Zaman Etüdü Mühendisi (MTM-1 / MOST Sertifikalı)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mobilya Üretim Süreç Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mobilya ve Ahşap Sanayii Seri İmalat Süreç Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Montaj Hattı Proses Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Montaj Hattı Proses Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Müşteri Kalite Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Müşteri Kalite Mühendisi (CQE / 8D & Müşteri Şikayet Yönetimi)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oluklu Mukavva Üretim Proses Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kağıt ve Karton Ambalaj Üretim Süreç Mühendisi (Oluklu Mukavva)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Operasyonel Mükemmellik ve Altı Sigma Uzmanı",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Operasyonel Mükemmellik & Altı Sigma Kara Kuşak Yöneticisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Enjeksiyon Proses Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Plastik Malzeme ve Enjeksiyon Proses Uzmanı",
+"Plastik Enjeksiyon Üretim ve Süreç Mühendisi (Scientific Molding)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pres Hattı Üretim Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otomotiv Pres Hattı ve Sac Şekillendirme Üretim Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Proses Kalite Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"İmalat ve Proses Kalite Mühendisi (APQP & PPAP)",
+"İstatistiksel Proses Kontrol (SPC) ve Yetenek Analizi Uzmanı (Minitab)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Raylı Sistemler RAMS ve Kalite Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Raylı Sistemler Kalite ve RAMS Güvence Mühendisi (IRIS / ISO 22163)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Robotik Hat Simülasyon Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Robotik Hücre Tasarım ve Çevrim Süresi Mühendisi (Line Simulation)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Robotik İmalat Hücresi Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İleri İmalat Teknolojileri ve Robotik Hücre Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "SMT Süreç Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektronik Kart Montaj Hattı (SMT) Süreç Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Süreç Geliştirme Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Süreç Geliştirme Mühendisi",
+"Süreç Geliştirme ve Endüstri Mühendisliği Uzmanı (OEE & Kaizen)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Süreç İyileştirme Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Process Improvement Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tahribatsız Muayene Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Döküm Parça Ultrasonik ve Manyetik Kontrol Mühendisi (EN 12680)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Talaşlı İmalat Metot Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Talaşlı İmalat Metot Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Talaşlı İmalat Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 2,
+"n_job": 4,
+"ornek_unvanlar": [
+"Junior Mekanik İmalat ve Talaşlı İşleme Mühendisi",
+"Kıdemli Talaşlı İmalat ve CAM Mühendisi (5 Eksen CNC)",
+"Machining & Manufacturing Engineer",
+"Talaşlı İmalat Mühendisi",
+"Talaşlı İmalat ve CAM Programlama Mühendisi (5 Eksen / Mastercam)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Talep ve Envanter Planlama Uzmanı",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Demand & Inventory Planning Specialist"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tedarik Zinciri Ağ Tasarım Uzmanı",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Dağıtım Ağı ve Lojistik Hub Tasarım Mimarı (Network Optimization / LLamasoft)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tedarik Zinciri Planlama Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tedarik Zinciri Envanter ve Güvenlik Stoğu Optimizasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tedarikçi Kalite Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Supplier Quality Development Engineer",
+"Tedarikçi Kalite Geliştirme Mühendisi",
+"Tedarikçi Kalite Geliştirme Mühendisi (SQE / VDA 6.3 Denetçisi)",
+"Tedarikçi Kalite Güvence ve Geliştirme Mühendisi (SQA / VDA 6.3 / PPAP)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teknik Tekstil Geliştirme Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Teknik Tekstil ve Koruyucu Kumaş Geliştirici"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teknik Tekstil Ürün Geliştirme Uzmanı",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Teknik Tekstil ve Koruyucu Kumaş Geliştirici"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tekstil Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tekstil Mühendisi",
+"Textile Engineer"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tekstil Terbiye ve Boyahane Proses Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tekstil Terbiye ve Boyahane Proses Şefi"
+],
+"sektorler": [
+"APPAREL_TEXTILE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tekstil Üretim Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tekstil İplik ve Dokuma İmalat Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Temiz Oda ve Sterilizasyon Validasyon Uzmanı",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Temiz Oda ve Steril Alan Validasyon Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üretim Hattı Yerleşim Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Üretim Hatları Mekanik Yerleşim Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üretim Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İmalat ve Üretim Mühendisi (Otomotiv Sanayi)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üretim Planlama Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 4,
+"n_job": 2,
+"ornek_unvanlar": [
+"Endüstri Mühendisliği Üretim Planlama Stajyeri",
+"Üretim Planlama Mühendisi",
+"Üretim Planlama Mühendisi (MRP & Çizelgeleme)",
+"Üretim Planlama ve Çizelgeleme Uzmanı (SAP PP / MRP II)",
+"İleri Planlama ve Çizelgeleme Mühendisi (APS / Asprova / Preactor)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üretim Planlama Uzmanı",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Plancı",
+"Planlama ve Tedarik Zinciri Mühendisi",
+"SAP PP/MM Üretim ve Malzeme Planlama Uzmanı",
+"Stajyer Üretim Planlama & Operasyon Destek"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yalın Üretim Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Yalın Dönüşüm ve Endüstriyel Verimlilik Grup Lideri",
+"Yalın Üretim ve Sürekli İyileştirme Mühendisi (5S & Kaizen)",
+"Yalın Üretim ve VSM Uzmanı (Lean Manufacturing Specialist)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yalın Üretim ve Operasyonel Mükemmellik Uzmanı",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kıdemli Yalın Üretim ve Operasyonel Mükemmellik Uzmanı (Six Sigma Black Belt)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yeni Ürün Devreye Alma Proje Mühendisi",
+"isco4": "2141",
+"isco_title": "Industrial and production engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mekanik Proje Mühendisi (Yeni Ürün Devreye Alma - APQP)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Açık Deniz Platformu Yapı Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Offshore Oil & Gas Platform Structural Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Altyapı İnşaat Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şantiye Altyapı ve Saha Çevre Düzenleme Mühendisi (Yağmur / Kanalizasyon)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Altyapı ve Yol İnşaatı Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Altyapı ve Yol Saha Mühendisi (Başlangıç Düzeyi)",
+"Altyapı ve Yol İnşaatı Mühendisi",
+"Altyapı, Yol ve Köprü İnşaat Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Altyapı ve Yol Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Altyapı ve Yol Tasarım Mühendisi (Civil 3D)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Beton Teknolojisi Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Beton Teknolojisi ve Ar-Ge Mühendisi (Kendiliğinden Yerleşen Beton / SCC)",
+"Şantiye Kış Şartları Beton Dökümü ve Isı Koruma Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "BIM Uzmanı",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 5,
+"n_job": 4,
+"ornek_unvanlar": [
+"BIM / Revit Modelleme Uzmanı (Yetiştirilmek Üzere)",
+"BIM 4D/5D Planlama ve Maliyet Entegrasyon Mühendisi (Synchro / Navisworks)",
+"BIM Coordinator",
+"BIM Kalite Güvence ve Model Doğrulama Uzmanı (Solibri Model Checker)",
+"BIM Koordinatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çelik Konstrüksiyon Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ağır Çelik Konstrüksiyon ve İmalat Tasarım Mühendisi (Tekla Structures / AISC)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çelik Montaj Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çelik Konstrüksiyon Şantiye Montaj Mühendisi",
+"Çelik Yapı Şantiye Montaj Şefi (Ağır Kaldırma / Vinç Planı)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çelik Yapı Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 5,
+"n_job": 4,
+"ornek_unvanlar": [
+"Kıdemli Çelik Konstrüksiyon Tasarım Uzmanı (Stadyum & Havalimanı)",
+"Çelik Baca ve Endüstriyel Boru Köprüsü (Pipe Rack) Mühendisi",
+"Çelik Konstrüksiyon Statik Tasarım Mühendisi",
+"Çelik Raf Sistemleri ve Otomatik Depo (ASRS) Statik Mühendisi (EN 15512)",
+"Çelik Yapı Birleşim ve Düğüm Noktası Hesap Uzmanı (IDEA StatiCa / CBFEM)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cephe Montaj Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Cephe İmalat ve Montaj Saha Şefi (Cam Giydirme / Taş Cephe)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cephe Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Cephe Mühendisliği Uzmanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cephe Saha Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mekanik ve Cephe İşleri Şantiye Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cephe Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Alüminyum Alt Konstrüksiyon ve Giydirme Cephe Statik Mühendisi",
+"Alüminyum Giydirme Cephe Tasarım Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Demiryolu Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Demiryolu Altyapı ve Üstyapı Geometri Mühendisi (Balastlı / Balastsız Yol)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Deprem Hasar Tespit Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Deprem Sonrası Hızlı Hasar Tespit ve Acil Müdahale Uzmanı İnşaat Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Zemin Uygulama Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Endüstriyel Zemin ve Saha Betonu Uygulama Mühendisi (Laser Screed)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Geoteknik Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 10,
+"n_job": 8,
+"ornek_unvanlar": [
+"Boru Hatları Zemin-Boru Etkileşimi Geoteknik Mühendisi (AutoPIPE / Plaxis)",
+"Derin Kazı ve İksa Sistemleri Geoteknik Mühendisi (Plaxis 2D/3D / Shoring)",
+"Derin Kazı ve İksa Sistemleri Mühendisi",
+"Fore Kazıklı Süreksiz Zemin İyileştirme ve Sıvılaşma Mühendisi",
+"Geotechnical Tunnel Modeling Specialist"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hakediş ve Metraj Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Hakediş ve Kesin Hesap Mühendisi",
+"Hakediş ve Metraj Mühendisi",
+"Şantiye Hakediş, Metraj ve Kesin Hesap Mühendisi",
+"Şantiye Saha Taşeron Sözleşme ve Hak Ediş Kontrol Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hidrolik Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kentsel Drenaj ve Yağmur Suyu Şebekesi Modelleme Mühendisi (EPA SWMM)",
+"Köprü ve Menfez Hidroliği Taşkın ve Oyulma Mühendisi (HEC-RAS 1D/2D)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hidrolik Yapılar Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Baraj Gövdesi ve Hidrolik Yapılar Tasarım Mühendisi (Kaya Dolgu / RCC)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İhale ve Maliyet Uzmanı",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İhale, Keşif ve Yaklaşık Maliyet Uzmanı (Birim Fiyat / Metraj)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnşaat Kalite Kontrol Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Betonarme Donatı Kaynak ve Manşonlu Ek Kontrol Mühendisi",
+"Ready-Mix Concrete & Aggregates QA Manager",
+"Şantiye Kalite Güvence ve Kalite Kontrol (QA/QC) Mühendisi",
+"Şantiye Kalite Kontrol (QA/QC) Laboratuvar Mühendisi",
+"Şantiye Kalite Kontrol ve Güvence Mühendisi (QA/QC Civil Engineer)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnşaat Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 4,
+"n_job": 0,
+"ornek_unvanlar": [
+"Civil Engineer",
+"İnşaat Mühendisi",
+"İnşaat Mühendisliği Stajyeri"
+],
+"sektorler": [
+"CONSTRUCTION",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İskele Güvenliği Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Dış Cephe İskele Güvenliği ve Denetim Mühendisi (TS EN 12810)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalıp ve İskele Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Betonarme Kalıp İskele ve Geçici Yapılar Mühendisi (PERI / Doka / EN 12812)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Karayolu Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kıdemli Karayolu ve Otoyol Tasarım Mühendisi (AutoCAD Civil 3D / AASHTO)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kıyı ve Liman Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dalgakıran ve Deniz Tabanı Tarama Mühendisi",
+"Deniz İskelesi ve Kazıklı Rıhtım Yapıları Statik Mühendisi (PIANC / OCIMF)",
+"Kıyı Hidroliği ve Liman Tarama Mühendisi (MIKE 21 / Dredging)",
+"Kıyı Koruma Mahmuzları ve Dalgakıran Statik Mühendisi (Rock Armour / Xbloc)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Köprü Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kablo Askılı ve Asma Köprüler Geometri ve Gerilme Mühendisi (SOFiSTiK)",
+"Çelik Halatlı ve Asma Köprü Askı Montaj Saha Mühendisi",
+"Çelik Köprü İmalat ve Sürme-Sürme (Incremental Launching) Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Köprü Proje Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Köprü ve Viyadük Proje Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Liman ve Kıyı Yapıları İnşaat Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Liman ve Kıyı Yapıları İnşaat Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Membran Yapı Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Hafif Örtü ve Membran Germe Asma Yapılar Mühendisi (Easy / Forten)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metraj ve Hakediş Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Metraj ve Hakediş Şefi (Yeşil Defter / Kesin Hesap)",
+"Metraj ve Keşif Mühendisi (Yetiştirilmek Üzere)",
+"Modüler Prefabrik Yapılar Hakediş ve Birim Fiyat Analisti"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Modüler Prefabrik Yapı Montaj Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Prefabrik Konut ve Saha Montaj Mühendisi (Konteyner / Hafif Çelik)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otoyol Ücret Toplama Sistemleri Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otoyol Gişeleri ve Serbest Geçiş Sistemi (FTRS) Altyapı Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pasif Yangın Yalıtım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şantiye Yangın Durdurucu ve Pasif Yangın İzolasyon Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Patlamaya Dayanıklı Yapı Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yapısal Yangın ve Patlama Dayanımlı Duvar Tasarım Mühendisi (Blast Wall)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Peyzaj Uygulama Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şantiye Dış Aydınlatma ve Peyzaj Saha İmalat Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Planlama Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Proje Planlama ve Risk Kontrol Mühendisi",
+"Kıdemli Proje Planlama ve Çizelgeleme Uzmanı (Oracle Primavera P6)",
+"Kıdemli Şantiye Planlama ve Proje Kontrol Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Prefabrik Betonarme Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Prefabrik Betonarme Menfez ve Alt Geçit Yapıları Mühendisi",
+"Prefabrik Endüstriyel Betonarme Yapılar Statik Mühendisi (ProtaStructure)",
+"Prekast ve Prefabrik Betonarme Tasarımcısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Prefabrik Montaj Saha Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Prefabrik Betonarme Altyapı ve Saha Mühendisi",
+"Prefabrik Köprü Kirişleri Montaj ve Gantry Saha Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Proje Planlama Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Proje Planlama Mühendisi (Junior / Yeni Mezun)",
+"Proje Planlama ve İlerleme Kontrol Mühendisi",
+"Tünel ve Altyapı Projeleri İlerleme ve Maliyet Mühendisi (Linear Scheduling / Tilos)",
+"Uluslararası EPC Projeleri Planlama Mühendisi (Milestone / KOBi)",
+"Şantiye Planlama ve İlerleme Takip Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Proje Risk Yönetimi Uzmanı",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İnşaat Risk Yönetimi ve Değer Mühendisliği Uzmanı (SAVE / Monte Carlo)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Radyasyon Zırhlama Yapıları Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Nükleer ve Radyasyon Zırhlama Betonarme Yapılar Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Rüzgar ve Yapı Dinamiği Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yüksek Yapılar Rüzgar Mühendisliği ve Dinamik Analiz Uzmanı (RWDI / CFD)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Saha İnşaat Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 0,
+"n_job": 3,
+"ornek_unvanlar": [
+"Saha İnşaat Mühendisi (Kaba Yapı & Betonarme)",
+"Saha İnşaat Mühendisi (Kaba Yapı - Yetiştirilmek Üzere)",
+"Stajyer Saha İnşaat Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şantiye Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Betonarme Tünel Kalıp Şantiye Mühendisi (MESA / Peri)",
+"Endüstriyel Tesisler Şantiye Mühendisi",
+"Kıdemli Otoyol ve Sanat Yapıları Başmühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sismik İzolasyon Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sismik Yalıtım ve Deprem İzolatörleri Tasarım Mühendisi (LRB / Friction Pendulum)",
+"Sismik İzolasyon ve Deprem Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sözleşme ve Hak Talebi Uzmanı",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kamu İhale Sözleşmeleri ve Hukuki Uyuşmazlık Mühendisi (KİK Mevzuatı)",
+"İnşaat Uyuşmazlık Çözümü ve Adli Gecikme Analisti (Forensic Delay Analysis)",
+"İnşaat İhtilafları ve Hak Talebi (Claim) Danışmanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sözleşme Yönetimi Uzmanı",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Construction Claims & Dispute Resolution Consultant",
+"Çevre ve Altyapı Projeleri Dünya Bankası ve İller Bankası Şartnameleri Uzmanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Statik Proje Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 9,
+"n_job": 7,
+"ornek_unvanlar": [
+"Ard Germeli ve Ön Germeli Betonarme Tasarım Mühendisi (ADAPT-PT / Post-Tensioning)",
+"Baş Statik Tasarım Mühendisi / Tasarım Grup Lideri",
+"Betonarme Köprü Ayakları ve Başlık Kirişi Statik Mühendisi (AASHTO / SAP2000)",
+"Betonarme Prefabrik Cephe Panelleri Bağlantı Mühendisi (Halfen / Peikko)",
+"Betonarme Silo ve Su Deposu Statik Tasarım Mühendisi (Eurocode 2 / ACI 350)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Su Altyapı Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İçme Suyu İletim Hatları ve Su Dağıtım Şebekesi Mühendisi (WaterGEMS)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sulama Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tarımsal Sulama ve Otomasyon Mühendisi"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tarihi Yapılar Statik Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tarihi Taş ve Tuğla Yığma Yapılar Statik Mühendisi (3Muri / ANSYS)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tasarım ve Değişiklik Yönetimi Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tasarım Yönetimi ve Değişiklik Yönetimi Mühendisi (Design Management / VOR)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Taşkın Koruma ve Akarsu Islahı Proje Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Taşkın Koruma ve Akarsu Islahı Proje Mühendisi (Gabion / Taş Tahkimat)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Trafik Güvenliği Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otoyol Trafik İşaretleme ve Yol Güvenliği Mühendisi (EURORAP / Çelik Oto Korkuluk)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Trafik Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otoyol Trafik Simülasyonu ve Kapasite Analizi Mühendisi (VISSIM / Synchro)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tünel Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 4,
+"n_job": 4,
+"ornek_unvanlar": [
+"Kıdemli Tünel Kazı ve Tahkimat Başmühendisi (NATM & TBM)",
+"NATM Tünel ve Yeraltı Açımı Mühendisi (Yeni Avusturya Tünel Açma Yöntemi)",
+"TBM Tünel Mühendisliği Uzmanı (EPB / Slurry TBM / Segment Montajı)",
+"Tunnel Construction Engineer",
+"Tünel ve Yeraltı Kazı Saha Mühendisi (Başlangıç)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tünel Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Tünel ve Yeraltı Yapıları Tasarım Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ulaşım ve Trafik Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kentsel Bisiklet ve Mikro-Mobilite Yolları Tasarım Mühendisi (CROW)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapı Güçlendirme Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Bina Güçlendirme ve Deprem Performans Analizi Mühendisi (Pushover / CFRP)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapı Malzemeleri Laboratuvar Uzmanı",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yapı Malzemeleri Laboratuvar Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapısal Sağlık İzleme Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yapısal Sağlık İzleme ve Sensör Sistemleri Mühendisi (SHM / Köprüler)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapısal Yangın Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Çelik Yapılarda Yangın Mühendisliği ve Yangın Dayanım Analisti (OZone / SAFIR)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yatay Yönlü Sondaj Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yatay Yönlü Sondaj ve Kazısız Altyapı Mühendisi (HDD / Trenchless)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yeraltı Suyu Drenaj Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şantiye Su Tahliye ve Drenaj Mühendisi (Wellpoint / Derin Kuyu)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yıkım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Bina Yıkım ve Asbest Söküm Saha Şefi (Ekskavatör & Güvenlik)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yol Üstyapı Tasarım Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Esnek ve Rijit Asfalt Üstyapı Tasarım Mühendisi (AASHTOWare / Kenpave)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Zemin Güçlendirme ve İksa Mühendisi",
+"isco4": "2142",
+"isco_title": "Civil engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yeraltı Otoparkı ve Zemin Güçlendirme Saha Mühendisi (Jet Grout / Ankraj)",
+"Yüksek Dayanımlı Zemin Ankrajı ve Mini Kazık Mühendisi (Kentsel İksa)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Atıksu Arıtma Tesisi Tasarım Mühendisi",
+"isco4": "2143",
+"isco_title": "Environmental engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Atıksu Arıtma Tesisi Hidrolik ve İnşaat Tasarım Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çevre Akustiği Mühendisi",
+"isco4": "2143",
+"isco_title": "Environmental engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gürültü Haritalama ve Çevre Akustiği Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çevre Mühendisi",
+"isco4": "2143",
+"isco_title": "Environmental engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çevre Mühendisi",
+"Çevre Mühendisi (Sürdürülebilirlik & Atık Yönetimi)",
+"Şantiye Çevre ve Atık Yönetimi Mühendisi (Sıfır Atık / ISO 14001)"
+],
+"sektorler": [
+"CONSTRUCTION",
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aeroakustik Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Aeroakustik ve Rüzgar Gürültüsü Simülasyon Mühendisi (PowerFLOW / Exa)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aerodinamik Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Aerodinamik ve Dış Akış Mühendisi (Otomotiv CFD)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aerodinamik Test Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Otomotiv Aerodinamik Test Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aerotermal Analiz Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gaz Türbini Yanma Odası ve Termal Analiz Mühendisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Akış ve Isı Transferi Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otomotiv Egzoz ve Katalizör Akış Homojenliği Mühendisi (1D/3D CFD)",
+"Termal Yönetim ve Akış Simülasyon Mühendisi (Star-CCM+ / Batarya & Motor)",
+"Yanma ve Termokimyasal Proses Simülasyon Mühendisi (Ansys Chemkin / Fluent)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Akışkanlar Mekaniği ve Termal Analiz Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineering professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Akışkanlar Mekaniği (CFD) Analiz Mühendisi",
+"Ar-Ge Tasarım Mühendisi (Simülasyon & Termal)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aktarma Organları Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otomotiv Aktarma Organları Mekanik Tasarım Mühendisi (PTC Creo)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Akustik ve NVH Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineering professionals",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Akustik ve NVH Mühendisi",
+"Akustik ve NVH Simülasyon Mühendisi (Gürültü & Titreşim)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ar-Ge Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ar-Ge Mühendisi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Araç Dinamiği Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineering professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Araç Dinamiği ve Süspansiyon Sistemleri Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Araç Dinamiği Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otomotiv Aktif Süspansiyon ve Kontrol Simülasyon Mühendisi (Adams / Simulink)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Araç Gövde Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gövde İskelet Tasarım Mühendisi (Body in White - BIW)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Araç İklimlendirme Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineering professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Araç İçi İklimlendirme ve Konfor Mühendisi (Climate Control)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Araç Sistem Entegrasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Zırhlı Kara Araçları Otomotiv Sistem Entegrasyon Mühendisi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Araç Termal Yönetim Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineering professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Araç Termal Soğutma Paketi Mühendisi (Underhood Thermal)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Asansör Montaj Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şantiye Asansör ve Yürüyen Merdiven Montaj Mühendisi (EN 81-20/50)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Asansör Sistem Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Asansör ve Yürüyen Merdiven Sistem Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Asansör ve Yürüyen Merdiven Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Asansör ve Yürüyen Merdiven Sistem Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Atış ve Saha Test Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Savunma Sanayii Test ve Doğrulama Mühendisi (Atış & Çevre Testleri)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bakım Onarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bakım Onarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bakım Planlama Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"TPM ve Önleyici Bakım Planlama Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Basınçlı Kap Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Basınçlı Kaplar ve Mekanik Mukavemet Mühendisi (ASME / EN)",
+"Boru Hattı ve Basınçlı Kap Tasarım Mühendisi (ASME VIII / PV Elite)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Batarya Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Elektrikli Araç (EV) Batarya Sistemleri Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Batarya Termal Yönetim Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Elektrikli Araç Batarya Termal Yönetim Mühendisi (BTMS)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "BIM Koordinasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior MEP BIM Koordinasyon Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boru Hattı Bütünlüğü Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Boru Hattı (Pipeline) Bütünlüğü Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çarpışma Güvenliği Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Batarya Yapısal Güvenlik ve Ezilme Mühendisi (Battery Crashworthiness)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çarpışma Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Çarpışma Güvenliği ve Non-Linear Analiz Mühendisi (LS-DYNA)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çarpışma ve Pasif Güvenlik Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Pasif Emniyet ve Yaya Güvenliği Uzmanı (Pedestrian Protection)",
+"Kıdemli Çarpışma ve Güvenlik Simülasyon Uzmanı (Crash & Safety - LS-DYNA)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çevresel Kontrol Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Havacılık Çevresel Kontrol ve Yaşam Destek Sistemi Mühendisi (ECS / On-Board Oxygen)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dayanım ve Yorulma Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Dayanım ve Yorulma Ömrü Simülasyon Mühendisi (nCode DesignLife / Fe-Safe)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Deneysel Modal Analiz ve Test Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Deneysel Modal Analiz ve Saha Test Mühendisi (LMS Test.Lab / Strain Gauge)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Döner Ekipman Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Döner Ekipman ve Pompa/Vana Tasarım Mühendisi (CFturbo / CFX)",
+"Döner Ekipman ve Triboloji Mühendisi (Rulman & Aşınma)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Egzoz Sistemleri Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv Egzoz Sıcak Uç Mühendisi (Manifold & Katalizör)",
+"Otomotiv Egzoz ve Emisyon Son İşlem Sistemleri Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Egzoz ve Emisyon Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Egzoz Gazı Arıtma ve Emisyon Sistemleri Mühendisi (Aftertreatment)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrikli Araç Mekanik Entegrasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Elektrikli Araç Mekanik Entegrasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektronik Paketleme Mekanik Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Yarı İletken ve Elektronik Ambalaj Mekanik Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Soğutma Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel Soğutma ve Amonyak Sistemleri Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Faydalı Yük ve Silah Entegrasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İHA Faydalı Yük ve Silah Entegrasyon Mühendisi (MIL-STD-1760 / UAI)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fren Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Fren Sistemleri ve Hidrolik Fren Devresi Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi İnşa Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi İnşa ve Deniz Teknolojisi Mühendisi"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi İnşaatı Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Naval Architect & Marine Technology Engineer"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Klaslama ve Sörvey Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi Klaslama ve Sörvey Mühendisi"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Pervane ve Sevk Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi Pervane ve Sevk Sistemleri Mühendisi"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Sevk Sistemleri Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Denizcilik ve Gemi Sevk Sistemleri Mekanik Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Geometrik Boyutlandırma ve Toleranslandırma Uzmanı",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Geometrik Boyutlandırma ve Toleranslandırma (GD&T) Uzmanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güç Aktarma Organları Entegrasyon ve NVH Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Lead Powertrain Integration & NVH Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güç Aktarma Sistemleri Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Elektrikli Güç Aktarma ve E-Aks Tasarım Mühendisi (E-Axle)",
+"Kıdemli Otomotiv Şanzıman ve Debriyaj Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güç Aktarma ve Dişli Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mekanik Güç Aktarma ve Dişli Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Güdüm, Seyrüsefer ve Kontrol Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Güdüm, Seyrüsefer ve Kontrol (GNC) Mühendisi (MATLAB / Simulink / Kalman)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hareketli Gövde Parçaları Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Hareketli Gövde Parçaları Tasarım Uzmanı (Closures - Kapı & Kaput)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havacılık Motor Test Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Havacılık Tahrik Sistemleri Test Mühendisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havacılık Sertifikasyon ve Uyumluluk Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Havacılık Yapısal Sertifikasyon ve Uyumluluk Yetkilisi (CVE - Structure)"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havacılık ve Uzay Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Havacılık ve Uzay Mühendisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havacılık Yapısal Analiz Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Havacılık Sonlu Elemanlar ve Yorulma Analizi Mühendisi (Nastran/Patran)",
+"Kıdemli Havacılık Yapısal Bütünlük ve Hasar Toleransı Lideri"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havalandırma ve Yangın Güvenlik Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Havalandırma ve Yangın Güvenlik Sistemleri Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hesaplamalı Akışkanlar Dinamiği Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 6,
+"n_job": 1,
+"ornek_unvanlar": [
+"Açık Kaynak Hesaplamalı Akışkanlar Dinamiği Mühendisi (OpenFOAM / Linux)",
+"Computational Fluid Dynamics (CFD) Engineer",
+"Endüstriyel Karıştırma ve Tank İçi Karışım Simülasyon Mühendisi (Fluent / VOF)",
+"Havacılık İtki Nozul ve Süpersonik Akış Simülasyon Mühendisi",
+"Hesaplamalı Akışkanlar Dinamiği (CFD) Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hidroelektrik Santral Türbin Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hidroelektrik Santral (HES) Türbin Mühendisi",
+"Hydroelectric Plant (HPP) Turbine Engineer"
+],
+"sektorler": [
+"ENV_ESG",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hidrojen Yakıt Hücresi Entegrasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Hidrojen Yakıt Hücreli Araç (FCEV) Entegrasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hidrolik Sistem Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineering professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Akışkan Gücü ve Hidrolik Sistem Tasarım Mühendisi (Automation Studio)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hidrolik ve Pnömatik Sistem Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Hidrolik ve Pnömatik Sistem Mühendisi",
+"Hydraulic & Pneumatic Systems Engineer",
+"Junior Hidrolik & Pnömatik Sistemler Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Homologasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineering professionals",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Araç Tip Onay ve Homologasyon Mühendisi",
+"Junior Otomotiv Tip Onay ve Dokümantasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İç Balistik Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Savunma Mühimmat İtki ve İç Balistik Simülasyon Mühendisi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İHA Sistem Mimarı",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"UAV (Drone) Systems Architect"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İHA Sistem Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Otonom Döner Kanat ve VTOL İHA Sistem Mühendisliği Lideri",
+"İnsansız Hava Aracı (İHA) Sistem Mimarı"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İHA Uçuş Test Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İHA Uçuş Test ve Saha Operasyon Şefi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İklimlendirme ve Havalandırma Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İklimlendirme ve Havalandırma (HVAC) Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnsansız Hava Aracı Sistem ve Uçuş Test Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İnsansız Hava Aracı (İHA) Sistem Mimarı ve Uçuş Test Mühendisi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İtki Sistemi Entegrasyon ve Test Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Havacılık İtki Sistemi Entegrasyon ve Test Mühendisi (Turbofan / Turboprop)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaynak Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"International Welding Engineer (IWE)",
+"Kaynak Mühendisliği Uzmanı (IWE / EWE Sertifikalı)",
+"Kaynak Mühendisliği ve İmalat Yöntemleri Uzmanı (IWE)",
+"Kaynak ve Sac Metal Üretim Mühendisi",
+"Uluslararası Kaynak Mühendisi (IWE)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kazan ve Basınçlı Kap Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kazan ve Basınçlı Isı Eşanjörü Tasarım Mühendisi (HTRI / EN 12952)",
+"Kazan ve Basınçlı Kap Tasarım Mühendisi (ASME)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kompozit Yapı Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kompozit Malzeme Mekanik Tasarım Mühendisi (Havacılık / Catia CPD)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Konveyör ve Malzeme Taşıma Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Konveyör ve Malzeme Taşıma Sistemleri Tasarım Mühendisi",
+"Konveyör ve Malzeme İletim Sistemleri Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kriyojenik Ekipman Mekanik Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kriyojenik ve Düşük Sıcaklık Ekipmanları Mekanik Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Makine Bakım ve İkmal Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Şantiye Makine Bakım ve İkmal Şefi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Makine Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Makine Mühendisi",
+"Mechanical Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Makine Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Engineering Lead"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Malzeme Taşıma Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Conveyor & Bulk Material Handling Engineer"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal Cihaz Mekanik Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Medikal Cihaz Mekanik Tasarım Mühendisi (ISO 13485 / SolidWorks)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Bakım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Mekanik Bakım Planlama Mühendisi (TPM & OEE)",
+"Mekanik Bakım ve Güvenilirlik Mühendisi",
+"Mekanik Bakım ve Güvenilirlik Mühendisi (Çimento & Ağır Sanayi)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 3,
+"n_job": 7,
+"ornek_unvanlar": [
+"Junior Mekanik Tasarım Mühendisi (SolidWorks & Sac Metal)",
+"Kıdemli Mekanik Sistem Tasarım Mimarı (Siemens NX & Büyük Montaj)",
+"Lead Mechanical Systems Architect",
+"Makine Mühendisi (Tasarım & CAD/CAM)",
+"Makine Mühendisliği CAD Tasarım Stajyeri"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Tesisat Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Cleanroom HVAC Architecture & Validation Engineer",
+"HVAC Hava Kanalı İmalat ve Akustik Susturucu Mühendisi",
+"Hastane Medikal Gaz ve Hijyenik HVAC Tesisat Mühendisi (HTM 02-01 / DIN 1946-4)",
+"Jeotermal Isıtma ve Toprak Kaynaklı Isı Pompası Mühendisi (GSHP / IGSHPA)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Tesisat Proje Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mekanik Tesisat (HVAC) Proje Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Tesisat Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"HVAC ve Mekanik Tesisat Tasarım Mühendisi (Revit MEP)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Tesisat ve Borulama Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plumbing & Piping Design Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Test ve Doğrulama Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Titreşim ve Dayanıklılık Doğrulama Mühendisi",
+"Mekanik Test ve Doğrulama Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik ve Elektrik Tesisat Koordinasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Şantiye Elektrik & Mekanik (MEP) Koordinatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanizma ve Kinematik Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mekanizma ve Kinematik Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekatronik Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Mekatronik Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metroloji ve Tolerans Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hassas Metroloji ve Geometrik Toleranslandırma (GD&T) Uzmanı",
+"Junior Mekanik Tolerans ve Metroloji Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Montaj ve Entegrasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Savunma Sanayii Hassas Montaj ve Entegrasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Motor Kalibrasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Otomotiv Motor Kalibrasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Motor Mekanik Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"İçten Yanmalı Motor Mekanik Tasarım Mühendisi (Engine Mechanical)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "NVH Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Elektrikli Araç Şanzıman Dişli NVH ve Gürültü Simülasyon Mühendisi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "NVH ve Akustik Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli NVH ve Araç İçi Akustik Mühendisi (Noise, Vibration, Harshness)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Optomekanik Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Optomekanik Sistem Tasarım Mühendisi (Savunma & Elektro-Optik)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Cam Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv Cam Sistemleri ve Mekanik Entegrasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Dış Donanım Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Otomotiv Dış Donanım ve Tampon Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Ergonomi Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv Kabin İçi Ergonomi ve HMI Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Gövde ve Şasi Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Hafifletme ve Alüminyum Şasi Tasarım Mühendisi (Catia V5 / Radioss)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Automotive Engineer",
+"Zirai İlaç Formülasyon Kimyageri"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"IT_SOFTWARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Şasi Test Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Otomotiv Şasi Test Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv Sistemleri Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Trim Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv İç & Dış Trim Tasarım Mühendisi (Catia V5)",
+"Otomotiv İç Trim ve Gösterge Paneli Tasarım Mühendisi (Cockpit)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Paketleme Makinesi Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineering professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ambalaj ve Paketleme Otomasyonu Mekanik Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pasif Güvenlik Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineering professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Araç Güvenlik ve Pasif Emniyet Sistemleri Mühendisi (Passive Safety)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pasif Güvenlik Test Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Otomotiv Çarpışma ve Pasif Güvenlik Test Kalite Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Enjeksiyon Kalıp Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kıdemli Plastik Enjeksiyon Kalıp Tasarım Mühendisi (Catia V5)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Enjeksiyon Kalıp Tasarımcısı",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Plastic Injection Mold Designer",
+"Plastik Enjeksiyon Kalıp Tasarımcısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Enjeksiyon Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plastik Parça Çarpılma ve Soğuma Simülasyon Mühendisi (Moldflow / Moldex3D)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pnömatik Taşıma Sistemleri Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Pnömatik Taşıma ve Toz Toplama Sistemleri Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Raylı Sistemler Araç Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Raylı Sistemler Araç Gövdesi Tasarım Mühendisi (EN 12663 / Catia)",
+"Raylı Sistemler ve Lokomotif Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Robotik Hücre Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Endüstriyel Robotik Hücre Tasarım ve Entegrasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Roket İtki ve Aerodinamik Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Roket İtki ve Aerodinamik Mühendisi"
+],
+"sektorler": [
+"AVIATION",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Rotor Dinamiği Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Helikopter Dinamik Sistemleri ve Rotor Dinamiği Mühendisi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Rüzgar Enerjisi Analiz Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Rüzgar Çiftliği Uyan ve Türbülans Etkileşimi Simülasyon Mühendisi (WindFarmer / SOWFA)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Rüzgar Türbini Kanat ve Kule Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Rüzgar Türbini Kanat ve Kule Mühendisi"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Rüzgar Türbini Mekanik Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Rüzgar Türbini Kanat ve Kule Mühendisi",
+"Rüzgar Türbini Mekanik Bileşenleri ve Kule Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Rüzgar Türbini Yük Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Rüzgar Türbini Aeroelastik Yük Simülasyon Mühendisi (FAST / Bladed)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sac Kalıp Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kalıp Tasarım Mühendisi (Plastik Enjeksiyon & Sac Kalıpları)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sac Metal Kalıp Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sac Metal Kalıp Tasarım Mühendisi",
+"Sac Metal Kalıp Tasarım ve Şekillendirme Mühendisi (Siemens NX)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şantiye İklimlendirme Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Şantiye Saha Çevre ve İklimlendirme Geçici Tesisler Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şasi ve Araç Dinamiği Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Lead Chassis & Vehicle Dynamics Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şasi ve Süspansiyon Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Kıdemli Direksiyon Sistemleri Tasarım Mühendisi (EPS)",
+"Kıdemli Şasi & Süspansiyon Tasarım Mühendisi",
+"Otomobil Süspansiyon ve Direksiyon Kinematiği Tasarım Mühendisi",
+"Otomotiv Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sıhhi Tesisat Proje Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sıhhi Tesisat ve Gri Su / Yağmur Suyu Geri Kazanım Mühendisi",
+"Sıhhi Tesisat ve Yangın Proje Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Silah Sistemleri Mekanik Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Savunma Kule ve Silah Mekanizmaları Tasarım Mühendisi (NX CAD / Ansys)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sismik Askılama Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mekanik Tesisat Deprem Koruma ve Sismik Askılama Mühendisi (ASHRAE / SMACNA)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Soğutma ve İklimlendirme Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Soğutma ve İklimlendirme Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sonlu Elemanlar Analiz Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Sonlu Elemanlar (FEA) Analiz Mühendisi",
+"Yapısal Dayanım ve Sonlu Elemanlar (FEA) Mühendisi",
+"Yapısal Sonlu Elemanlar Analiz Mühendisi (FEA / Ansys Mechanical)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tasarım Optimizasyonu Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Çok Disiplinli Tasarım Optimizasyonu Mühendisi (MDO / modeFRONTIER / HEEDS)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Taşıt Dinamiği Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Çoklu Cisim Dinamiği ve Taşıt Dinamiği Mühendisi (MSC Adams)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teknik Enspektör",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Teknik Enspektör (Technical Superintendent)"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teleferik Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kentsel Teleferik ve Havai Hat Ulaşım Sistemleri Mühendisi (OITAF)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Temiz Oda İklimlendirme ve Validasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Cleanroom HVAC Architecture & Validation Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Termal Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Termal Simülasyon Mühendisi (Elektronik Soğutma)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Termal Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Elektrikli Araç Güç Elektroniği Soğutma Mühendisi (Inverter Cooling)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Termal Yönetim Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Termal Yönetim ve Isı Borusu Tasarımcısı",
+"Termal Yönetim ve Soğutma Sistemleri Mühendisi (Flotherm / Fluent)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Termal Yönetim ve Soğutma Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Termal Yönetim ve Soğutma Sistemleri Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Test Ayar ve Dengeleme Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mekanik Test, Ayar ve Dengeleme Mühendisi (TAB / NEBB Standartları)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Test ve Validasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Savunma Sanayii Çevre Koşulları ve Dayanım Test Mühendisi (MIL-STD-810G)",
+"Test ve Validasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Titreşim Test Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Titreşim Testleri ve Sarsıcı Kontrol Mühendisi (MIL-STD Shaker / Vibration)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Titreşim ve Akustik Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Titreşim Yalıtımı ve Mekanik Akustik Mühendisi (NVH / Actran)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Titreşim ve Akustik Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"NVH ve Araç Akustiği Simülasyon Mühendisi (Simcenter 3D / Nastran)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Titreşim Yalıtımı ve Elastomer Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Titreşim Yalıtımı ve Elastomer Mühendisi (Engine Mounts)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tünel Havalandırma ve Yangın Güvenliği Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tünel Havalandırma ve Yangın Güvenliği Mühendisi (FDS / SES)",
+"Tünel ve Yer Altı Yapıları Yangın ve Kaçış Güvenliği MEP Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Turboşarj Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Turboşarj ve Aşırı Doldurma Mühendisi (Turbocharger Systems)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uçak Motoru Revizyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Uçak Motoru Montaj ve Revizyon (MRO) Mühendisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uçak Performans Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Uçak Performans ve Ağırlık-Denge (W&B) Mühendisi",
+"Uçuş Operasyon ve Performans Mühendisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uçak Yapısal Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uçak / Havacılık Yapısal Tasarım Mühendisi (CAD & Kompozit)"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uçuş Kontrol ve Güdüm Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uçuş Kontrol ve Otopilot Algoritmaları Mühendisi (GNC)"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uydu Sistem Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Uzay ve Uydu Sistemleri Mühendisliği Uzmanı (CubeSat / LEO Uyduları)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vana ve Armatür Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Pompa ve Vana Tasarım Mühendisi (Hidrolik & Akış)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Veri Merkezi Mekanik Soğutma Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Veri Merkezi Beyaz Alan Mekanik Soğutma Mühendisi (CRAH / In-Row / DLC)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vinç ve Ağır Kaldırma Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Vinç ve Ağır Kaldırma Ekipmanları Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vinç ve Ağır Kaldırma Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Crane & Heavy Lifting Systems Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vinç ve Çelik Konstrüksiyon Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineering professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ağır Çelik Konstrüksiyon ve Vinç Tasarım Mühendisi (DIN 15018 / FEM)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yakıt Sistemleri Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Otomotiv Yakıt Sistemleri ve Borulama Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yangın Söndürme Sistemleri Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yangın Algılama ve Söndürme Sistemleri Mühendisi",
+"Yangın Koruma ve Sulu Söndürme Sistemleri Mühendisi (NFPA 13 / Sprinkler)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yanma Odası ve Termal Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Yanma Odası ve Termal Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapısal Analiz Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Elektronik Cihaz Düşme ve Darbe Simülasyon Mühendisi (Drop Test / Ansys LS-DYNA)",
+"Endüstriyel Gaz Türbini Kanat Mekanik Bütünlük Mühendisi",
+"Junior Yapısal Analiz Mühendisi (ANSYS & Statik Mukavemet)",
+"Kıdemli Gövde Mukavemet ve Burulma Rijitliği Uzmanı (BIW Torsional Stiffness)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapısal Analiz Simülasyon Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kompozit Hasar Mekaniği ve Delaminasyon Simülasyon Mühendisi (Abaqus / XFEM)",
+"Savunma Araçları Mayın Patlama ve Şok Simülasyon Mühendisi (LS-DYNA / ALE)",
+"Termomekanik Yorulma ve Sürünme Simülasyon Mühendisi (Abaqus / Visco-Plasticity)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yapısal Sağlık İzleme Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Hava Aracı Yapısal Sağlık İzleme (SHM) Sistem Mühendisi (Fiber Bragg Izgara)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yorulma ve Ömür Tahmin Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mekanik Yorulma ve Ömür Tahmin Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Zırh ve Balistik Koruma Tasarım Mühendisi",
+"isco4": "2144",
+"isco_title": "Mechanical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Savunma Sanayii Zırh ve Balistik Koruma Tasarım Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ar-Ge Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"R&D Engineer"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Araştırma Geliştirme Uzmanı",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Araştırma Geliştirme / Arge Uzmanı"
+],
+"sektorler": [
+"CHEF_HORECA"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Batarya Modelleme Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Batarya Elektrokimyasal ve Termal Modelleme Mühendisi (COMSOL Multiphysics)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyokütle ve Biyoenerji Proses Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biomass & Bioenergy Process Engineer",
+"Biyokütle ve Biyoenerji Proses Mühendisi"
+],
+"sektorler": [
+"ENV_ESG",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyoproses Saflaştırma Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Biyoproses Saflaştırma Mühendisi"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cam Şekillendirme Proses Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Cam Sanayii Sıcak Bölüm ve Şekillendirme Proses Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çimento Proses Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Çimento Üretim ve Fırın Operasyonları Proses Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gıda Kalite Güvence Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gıda Güvenliği ve Kalite Güvence Mühendisi (HACCP / ISO 22000)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gıda Kalite Kontrol Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sorumlu"
+],
+"sektorler": [
+"FINANCE_ACCOUNTING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gıda Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gıda Mühendisi"
+],
+"sektorler": [
+"AGRICULTURE",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gıda Proses Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gıda Üretim ve Paketleme Hatları Proses Mühendisi (BRC / IFS)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hidrojen ve Yakıt Pili Ar-Ge Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Hidrojen ve Yakıt Pili Ar-Ge Mühendisi"
+],
+"sektorler": [
+"ENV_ESG",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Katı Dozaj İlaç Proses Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İlaç Katı Dozaj ve Tablet Baskı Proses Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kauçuk Proses Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kauçuk ve Lastik Pişirme Proses Mühendisi (Vulkanizasyon)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kimya Ar-Ge Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineering professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ar-Ge Mühendisi (Tüpraş)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kimya Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kimya Mühendisi",
+"Kimya Mühendisi (Boya Ar-Ge ve Formülasyon)",
+"Kimya Mühendisi (Kalite Kontrol)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Polimer Ar-Ge Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Polimer & Biyoplastik Ar-Ge Mühendisi",
+"Polimer ve Biyoplastik Ar-Ge Mühendisi",
+"Polymer & Bioplastics R&D Engineer"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Poliüretan ve Termoform Proses Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Beyaz Eşya Poliüretan İzolasyon ve Termoform Proses Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Steril İlaç Üretim Proses Mühendisi",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"İlaç ve Biyoteknoloji Üretim Süreç Mühendisi (GMP / Temiz Oda)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tahıl ve Yem Proses Uzmanı",
+"isco4": "2145",
+"isco_title": "Chemical engineers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tahıl ve Yem Teknolojileri Proses Uzmanı"
+],
+"sektorler": [
+"AGRICULTURE",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Açık Deniz Platform Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Açık Deniz (Offshore) Petrol ve Gaz Platform Mühendisi"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Alüminyum Ekstrüzyon Süreç Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Alüminyum Ekstrüzyon ve Eloksal Süreç Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Döküm Proses Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Döküm Teknolojileri ve Simülasyon Mühendisi (MAGMASoft)",
+"Dökümhane Metalurjik Süreç ve Ergitme Mühendisi (Kupol / İndüksiyon)",
+"Dökümhane ve Isıl İşlem Proses Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Döküm Simülasyon Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Dökümhane Termal Gerilme ve Çarpılma Simülasyon Mühendisi (ProCAST)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Döküm Teknolojileri Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Döküm Teknolojileri ve Simülasyon Mühendisi (MAGMASoft)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hassas Döküm ve Metalurji Proses Uzmanı",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hassas Döküm ve Metalurji Proses Uzmanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Isıl İşlem ve Metalografi Uzmanı",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Heat Treatment & Metallography Specialist",
+"Isıl İşlem ve Metalografi Uzmanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Jeotermal Enerji Sondaj ve Kuyu Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Jeotermal Enerji Sondaj ve Kuyu Mühendisi"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Korozyon ve Katodik Koruma Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Korozyon ve Katodik Koruma Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Maden Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Maden Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Maden Tahkimat Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Maden Şaftı ve Yeraltı Galerileri Tahkimat Mühendisi (Rocsupport / Unwedge)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Malzeme ve Korozyon Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Malzeme Seçimi ve Korozyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metalurji Laboratuvar Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Metalurjik Laboratuvar ve Malzeme Muayene Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metalurji ve Malzeme Karakterizasyon Uzmanı",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Malzeme Karakterizasyonu ve Metalurji Uzmanı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metalurji ve Malzeme Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Metal Isıl İşlem ve Sertleştirme Fırınları Proses Mühendisi",
+"Metallurgical & Materials Engineer",
+"Metalurji ve Malzeme Mühendisi (Isıl İşlem & Döküm)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Patlatma Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kaya Patlatma ve Titreşim Kontrol Mühendisi (Orica / 2D/3D Blast)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Seramik ve Refrakter Malzeme Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ceramics & Refractory Materials Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sıcak Haddeleme Proses Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Çelik Haddehane ve Sıcak Haddeleme Süreç Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Toz Metalurjisi ve Katmanlı İmalat Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Toz Metalurjisi ve Katmanlı İmalat (3D Baskı) Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Triboloji Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Triboloji ve Aşınma Analizi Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Triboloji ve Aşınma Analizi Mühendisi",
+"isco4": "2146",
+"isco_title": "Mining engineers, metallurgists and related professionals",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Triboloji ve Aşınma Analizi Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Akustik Danışmanı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Akustik Mimari Danışmanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ambalaj Kalite Kontrol Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Ambalaj Malzemeleri Kalite Kontrol ve Laboratuvar Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Aydınlatma ve Işık Kirliliği Analisti",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Aydınlatma ve Işık Kirliliği Analisti"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "BIM MEP Koordinatörü",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kıdemli BIM MEP Koordinatörü (Revit MEP / Navisworks Clash Detection)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "BIM Yöneticisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli BIM Yöneticisi / BIM Manager",
+"Kıdemli BIM Yöneticisi ve Koordinatörü (Autodesk Revit / Navisworks)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Bina Enerji Modelleme Uzmanı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Bina Enerji Modelleme ve Simülasyon Uzmanı",
+"Bina Enerji Modellemesi ve Simülasyon Mühendisi (EnergyPlus / DesignBuilder)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyomedikal Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Biyomedikal Mühendisi",
+"Biyomedikal Mühendisi (Cihaz Bakım ve Kalibrasyon)",
+"Biyomedikal Mühendisliği Stajyeri",
+"Stajyer Biyomedikal ve Tıbbi Cihaz Asistanı"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyomekanik Simülasyon Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Biyomekanik ve İmplant Yorulma Simülasyon Mühendisi (Abaqus / Mimics)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Biyomekanik ve İmplant Tasarım Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Biyomekanik ve İmplant Tasarım Mühendisi"
+],
+"sektorler": [
+"HEALTHCARE",
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Cam Ergitme ve Fırın Teknolojisi Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Glass Melting & Furnace Technology Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CMM Ölçüm Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Metroloji ve CMM Ölçüm Mühendisi (Zeiss Calypso)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Depo Otomasyon Proje Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Lojistik ve Depo Otomasyon Sistemleri Proje Mühendisi (Conveyor / Sortation)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Devreye Alma Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Bina Devreye Alma Yöneticisi (Commissioning Authority - CxA)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Enerji Verimliliği Yöneticisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel Enerji Verimliliği Yöneticisi"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Otomasyon Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Beckhoff TwinCAT Tabanlı PC-Tabanlı Kontrol Mühendisi",
+"Lead Industrial Automation & Smart Factory Architect (Industry 4.0)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Enerji Sistemleri Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Enerji Sistemleri Mühendisi"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Enerji Verimliliği Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fabrika Enerji Yönetimi ve Karbon Ayak İzi Mühendisi (ISO 50001)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Entegre Lojistik Destek Uzmanı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Savunma Sanayii Entegre Lojistik Destek (ELD) Uzmanı (ILS / S1000D)"
+],
+"sektorler": [
+"SUPPLY_CHAIN_LOGISTICS"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fonksiyonel Güvenlik Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Fonksiyonel Güvenlik ve Gömülü Yazılım Mimarı (ISO 26262 - ASIL D)",
+"Otomotiv Fonksiyonel Güvenlik Mühendisi (ISO 26262 / ASIL-D)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hakediş Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Hakediş ve Sözleşme Mühendisi (Uluslararası Projeler)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hassas Tarım Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hassas Tarım ve IoT Çözümleri Mühendisi"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havacılık Emniyet ve Güvenilirlik Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Havacılık Emniyet ve Güvenilirlik Mühendisi (ARP4754A / ARP4761)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havacılık Kalite Güvence Denetçisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Flight Safety & Quality Assurance Auditor",
+"Havacılık Kalite Güvence ve EASA Part-M/Part-145 Denetçisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalibrasyon ve Metroloji Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kalibrasyon ve Metroloji Laboratuvarı Sorumlusu Mühendis (ISO 17025)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kompozit Malzeme Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"İleri Kompozit Malzemeler Ar-Ge Mühendisi",
+"İleri Kompozit ve Karbon Fiber Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Makine Emniyeti Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Güvenlikli Otomasyon ve Emniyet Devreleri Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Malzeme Bilimci",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Scientist"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Malzeme Test Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior Malzeme Test Mühendisi (Mekanik & Tahribatsız)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Medikal Cihaz Kalite Güvence ve Regülasyon Uzmanı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Medikal Cihaz Kalite Güvence ve Regülasyon Uzmanı (ISO 13485 / MDR)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekatronik Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 3,
+"ornek_unvanlar": [
+"Mekatronik Mühendisi",
+"Mekatronik Mühendisi (Robotik Sistemler)",
+"Mekatronik Sistemler Entegrasyon Mühendisi",
+"Mekatronik ve Otomasyon Sistemleri Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metraj ve Maliyet Uzmanı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Çelik Yapı Metraj ve İmalat Maliyet Analisti (StruMIS / FabTrol)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metroloji Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"3D Metroloji ve CMM Ölçüm Programlama Mühendisi (Zeiss Calypso)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Metroloji ve Kalibrasyon Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Metrology & Calibration Engineer",
+"Metroloji ve Kalibrasyon Sorumlusu"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mikroakışkan Simülasyon Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mikroakışkan ve Lab-on-a-Chip Akış Simülasyon Mühendisi (COMSOL)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mikroakışkan ve Biyosensör Araştırmacısı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Mikroakışkanlar ve Biyosensör Ar-Ge Araştırmacısı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mimari Akustik Uzmanı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Mimari Akustik ve Hacim Akustiği Uzmanı (Odeon / EASE)"
+],
+"sektorler": [
+"CREATIVE_DESIGN"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Model Tabanlı Sistem Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kıdemli Model Tabanlı Sistem Mühendisi (MBSE / Cameo / SysML)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Nanoteknoloji ve İleri Malzeme Araştırmacısı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Nanoteknoloji ve İleri Malzeme Araştırmacısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Nükleer Reaktör Güvenliği Uzmanı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Nükleer Reaktör Güvenliği Uzmanı"
+],
+"sektorler": [
+"ENV_ESG"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Nükleer Reaktör Güvenliği ve Radyasyon Uzmanı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Nuclear Reactor Safety & Radiation Specialist"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oftalmik Cihaz Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Göz İçi Lens ve Oftalmik Cihaz Mühendisi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oftalmik Tıbbi Cihaz Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Intraocular Lens & Ophthalmic Device Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Optik Kalite Kontrol Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Gözlük Camı ve Hassas Optik Yüzey Kalite Kontrol Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Optik Tarama Metroloji Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Optik ve Lazer Tarama Metroloji Mühendisi (GOM ATOS / PolyWorks)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Optik ve Lazer Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Optik ve Fotonik Sistemler Araştırmacısı",
+"Optik ve Lazer Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING",
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomasyon Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 4,
+"ornek_unvanlar": [
+"Kıdemli PC Tabanlı Otomasyon ve Görüntü İşleme Mühendisi (Beckhoff TwinCAT)",
+"Montaj Hattı Dijital Dönüşüm ve Poka-Yoke Entegratörü Mühendis",
+"Otomasyon ve PLC Programlama Mühendisi",
+"Pnömatik ve Valf Sistemleri Otomasyon Mühendisi",
+"Robotik Kaynak ve Fikstür Otomasyonu Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": [
+"215"
+]
+},
+{
+"specialty": "Polimer Test ve Karakterizasyon Uzmanı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Polimer Karakterizasyon ve Reoloji Uzmanı",
+"Polimer ve Plastik Malzeme Laboratuvarı Test Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Proses Kontrol ve Enstrümantasyon Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Proses Kontrol ve Enstrümantasyon Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Robotik Otomasyon Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Robotik Sistemler ve Otomasyon Mühendisi (KUKA / Fanuc)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Seramik Proses Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Seramik Sağlık Gereçleri Proses Mühendisi",
+"Seramik ve Porselen Karo İmalat Proses Mühendisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Seramik ve Cam Malzeme Araştırmacısı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Junior İleri Seramik ve Cam Araştırmacısı"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Seramik ve Refrakter Malzeme Geliştirme Uzmanı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Seramik ve Refrakter Malzeme Geliştirme Uzmanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Simülatör Sistemleri Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Askeri Simülatör ve Sentetik Eğitim Sistemleri Mühendisi (DIS / HLA)"
+],
+"sektorler": [
+"SCIENCE_RND"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sözleşme ve Hak Talepleri Uzmanı",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"FIDIC Contracts & Commercial Project Manager",
+"FIDIC Sözleşme ve Hak Talepleri (Claim) Yöneticisi (Kırmızı / Sarı Kitap)",
+"FIDIC Sözleşme ve Talep (Claim) Uzmanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sözleşme ve İhale Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sözleşme ve İhale Hazırlık Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sözleşme Yöneticisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Sözleşme ve İhale Şantiye Yöneticisi (FIDIC)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sterilizasyon ve Temiz Oda Validasyon Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sterilization & Cleanroom Validation Engineer"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tahribatsız Muayene Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kalite Güvence ve NDT Muayene Mühendisi",
+"Kompozit Parça Ultrasonik C-Scan Tahribatsız Muayene Mühendisi",
+"Tahribatsız Muayene (NDT) Mühendisi",
+"Tahribatsız Muayene Uzmanı (NDT Seviye II / UT, MT, PT, VT)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Teknik Ofis Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Kıdemli Teknik Ofis Şefi (Proje Koordinasyon)",
+"Teknik Ofis Dokümantasyon ve Hakediş Asistanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Temiz Oda Validasyon Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Temiz Oda Çevre Kontrol ve Partikül Validasyon Mühendisi (ISO 14644)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tesis Yönetimi ve İşletme Maliyetleri Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Tesis Yönetimi ve İşletme Maliyetleri (OPEX / Life Cycle Costing) Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tıbbi Cihaz Kalibrasyon Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Tıbbi Cihaz Kalibrasyon ve Metroloji Uzmanı",
+"Tıbbi Cihaz Kalibrasyon ve Validasyon Mühendisi"
+],
+"sektorler": [
+"HEALTHCARE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uçuş Emniyeti ve Kalite Denetçisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Uçuş Emniyet ve Kalite Denetçisi",
+"Uçuş Emniyeti ve Havacılık Kalite Denetçisi"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yangın Güvenliği ve Kaçış Tasarım Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yangın Güvenliği ve Kaçış Tasarım Mühendisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yangın Koruma Sistemleri Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fire Protection Systems Engineer"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yeni Ürün Kalite Mühendisi",
+"isco4": "2149",
+"isco_title": "Engineering professionals not elsewhere classified",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"APQP ve Yeni Ürün Devreye Alma Kalite Lideri (FMEA / Kontrol Planı)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+}
+]

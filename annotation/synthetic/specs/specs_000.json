@@ -1,0 +1,477 @@
+[
+ {
+  "id": "S30001",
+  "target_occ_key": "3434:mutfak_sefi",
+  "target_specialty": "Mutfak Şefi",
+  "target_isco4": "3434",
+  "target_isco_title": "Chefs",
+  "target_collar": "BLUE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "CHEF_HORECA",
+  "industry_tr": "Mutfak, Restoran ve Otelcilik",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Aşçıbaşı Yardımcısı (Sous Chef - 5 Yıldızlı Otel)",
+   "Endüstriyel Toplu Yemek ve Catering Mutfak Direktörü",
+   "Executive Chef (Aşçıbaşı)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30002",
+  "target_occ_key": "2433:ilac_tanitim_temsilcisi",
+  "target_specialty": "İlaç Tanıtım Temsilcisi",
+  "target_isco4": "2433",
+  "target_isco_title": "Technical and medical sales professionals (excluding ICT)",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Kıdemli Tıbbi Satış Temsilcisi (Kardiyoloji & Diyabet)",
+   "Medikal Mümessil (Genel Tıp)",
+   "Medikal Satış Mümessili (İlaç / Tıbbi Cihaz)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30003",
+  "target_occ_key": "3334:gayrimenkul_danismani",
+  "target_specialty": "Gayrimenkul Danışmanı",
+  "target_isco4": "3334",
+  "target_isco_title": "Real estate agents and property managers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Trabzon",
+  "example_job_titles": [
+   "BAY / BAYAN  ÇALIŞMA ARKADAŞLARI ARIYORUZ !",
+   "GAYRİMENKUL DANIŞMANI",
+   "Gayrimenkul Satış Danışmanı"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30004",
+  "target_occ_key": "5244:telesatis_temsilcisi",
+  "target_specialty": "Telesatış Temsilcisi",
+  "target_isco4": "5244",
+  "target_isco_title": "Contact centre salespersons",
+  "target_collar": "BLUE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SALES",
+  "industry_tr": "Satış",
+  "city": "Mersin",
+  "example_job_titles": [
+   "Giden Çağrı (Outbound) Satış ve Bilgilendirme Temsilcisi",
+   "Konuk Koordinatörü 32.000 - 60.000 Maaş + Prim",
+   "Müşteri Temsilcisi ve Takım Lideri (Home Office)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30005",
+  "target_occ_key": "2113:analitik_metot_gelistirme_uzmani",
+  "target_specialty": "Analitik Metot Geliştirme Uzmanı",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Analitik Ar-Ge Kromatografi Uzmanı (LC-MS/MS)",
+   "Analitik Geliştirme ve Validasyon Grup Lideri",
+   "Analitik Metot Geliştirme ve Validasyon Uzmanı (HPLC/GC)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30006",
+  "target_occ_key": "2522:bulut_muhendisi",
+  "target_specialty": "Bulut Mühendisi",
+  "target_isco4": "2522",
+  "target_isco_title": "Systems administrators",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "IT_SOFTWARE",
+  "industry_tr": "Bilişim ve Yazılım",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Bulut Altyapı Uzmanı (Azure DevOps & Windows/Linux)",
+   "Bulut Sistem Mühendisi (OpenShift & Kurumsal Altyapı)",
+   "Cloud Infrastructure Specialist (AWS Serverless & IaC)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30007",
+  "target_occ_key": "1439:musteri_hizmetleri_muduru",
+  "target_specialty": "Müşteri Hizmetleri Müdürü",
+  "target_isco4": "1439",
+  "target_isco_title": "Services managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "CUSTOMER_SERVICE",
+  "industry_tr": "Müşteri Hizmetleri",
+  "city": "Trabzon",
+  "example_job_titles": [
+   "Kıdemli Kurumsal Müşteri Hizmetleri Müdürü (B2B Key Accounts)",
+   "Kıdemli Müşteri Başarısı ve Gelir Operasyonları Yöneticisi",
+   "Müşteri İletişim Merkezi Bölüm Başkanı (Head of Contact Center)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30008",
+  "target_occ_key": "2141:surekli_iyilestirme_muhendisi",
+  "target_specialty": "Sürekli İyileştirme Mühendisi",
+  "target_isco4": "2141",
+  "target_isco_title": "Industrial and production engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Antalya",
+  "example_job_titles": [
+   "Kıdemli Lojistik Süreç İyileştirme ve Kaizen Şefi",
+   "Kıdemli Operasyonel Mükemmellik & Altı Sigma Kara Kuşak Yöneticisi",
+   "Süreç Geliştirme Mühendisi"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30009",
+  "target_occ_key": "2330:ingilizce_ogretmeni",
+  "target_specialty": "İngilizce Öğretmeni",
+  "target_isco4": "2330",
+  "target_isco_title": "Secondary education teachers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "EDUCATION",
+  "industry_tr": "Eğitim",
+  "city": "Tokat",
+  "example_job_titles": [
+   "Kıdemli Yabancı Diller Bölüm Başkanı (Head of English)",
+   "Uluslararası Bakalorya (IB) İngilizce Dil Eğitmeni",
+   "İngilizce Öğretmeni"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30010",
+  "target_occ_key": "7543:kalite_kontrol_elemani",
+  "target_specialty": "Kalite Kontrol Elemanı",
+  "target_isco4": "7543",
+  "target_isco_title": "Product graders and testers (excluding foods and beverages)",
+  "target_collar": "BLUE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kalite Kontrol -Üretim Destek Personeli",
+   "Kalite Kontrol Elemanı",
+   "Kalite Kontrol ve Üretim Destek Elemanı"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30011",
+  "target_occ_key": "8342:beton_pompasi_operatoru",
+  "target_specialty": "Beton Pompası Operatörü",
+  "target_isco4": "8342",
+  "target_isco_title": "Earthmoving and related plant operators",
+  "target_collar": "BLUE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "BETON POMPA OPERATÖRÜ",
+   "Beton Pompa ve Mikser Operatörü",
+   "Beton Santral ve Pompa Operatörü"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30012",
+  "target_occ_key": "1222:kurumsal_iletisim_ve_halkla_iliskiler_muduru",
+  "target_specialty": "Kurumsal İletişim ve Halkla İlişkiler Müdürü",
+  "target_isco4": "1222",
+  "target_isco_title": "Advertising and public relations managers",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "İzmir",
+  "example_job_titles": [
+   "Halkla İlişkiler (PR) Yöneticisi",
+   "Kurumsal İletişim Direktörü (Chief Communications Officer - CCO)",
+   "Kurumsal İletişim ve Sürdürülebilirlik Direktörü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30013",
+  "target_occ_key": "2142:santiye_muhendisi",
+  "target_specialty": "Şantiye Mühendisi",
+  "target_isco4": "2142",
+  "target_isco_title": "Civil engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 1,
+  "target_seniority_tr": "Giriş Seviyesi",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Endüstriyel Tesisler Şantiye Mühendisi",
+   "Kıdemli Otoyol ve Sanat Yapıları Başmühendisi",
+   "Saha İnşaat Mühendisi (Kaba Yapı & Betonarme)"
+  ],
+  "style": "detayli"
+ },
+ {
+  "id": "S30014",
+  "target_occ_key": "2262:ilac_formulasyon_gelistirme_uzmani",
+  "target_specialty": "İlaç Formülasyon Geliştirme Uzmanı",
+  "target_isco4": "2262",
+  "target_isco_title": "Pharmacists",
+  "target_collar": "WHITE",
+  "target_seniority": 0,
+  "target_seniority_tr": "Stajyer / Öğrenci",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Farmasötik Teknoloji Asistanı",
+   "Formülasyon Geliştirme Uzmanı (Solid Dozaj)",
+   "Kıdemli Formülasyon Ar-Ge Uzmanı (Parenteral & İnhalasyon)"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30015",
+  "target_occ_key": "2431:arama_motoru_optimizasyonu_uzmani",
+  "target_specialty": "Arama Motoru Optimizasyonu Uzmanı",
+  "target_isco4": "2431",
+  "target_isco_title": "Advertising and marketing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Bursa",
+  "example_job_titles": [
+   "SEO Asistanı / Junior SEO Specialist",
+   "SEO ve İçerik Stratejisti",
+   "SEO ve İçerik Yöneticisi"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30016",
+  "target_occ_key": "2431:sosyal_medya_uzmani",
+  "target_specialty": "Sosyal Medya Uzmanı",
+  "target_isco4": "2431",
+  "target_isco_title": "Advertising and marketing professionals",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "MARKETING_MEDIA",
+  "industry_tr": "Pazarlama ve Medya",
+  "city": "Kocaeli",
+  "example_job_titles": [
+   "Kurumsal Sosyal Medya Uzman Yardımcısı",
+   "Sosyal Medya Yöneticisi",
+   "Sosyal Medya Yöneticisi (Social Media Manager)"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30017",
+  "target_occ_key": "1211:finansal_planlama_ve_analiz_muduru",
+  "target_specialty": "Finansal Planlama ve Analiz Müdürü",
+  "target_isco4": "1211",
+  "target_isco_title": "Finance managers",
+  "target_collar": "WHITE",
+  "target_seniority": 5,
+  "target_seniority_tr": "Direktör / Üst Yönetim",
+  "industry": "FINANCE_ACCOUNTING",
+  "industry_tr": "Finans ve Muhasebe",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Head of Financial Planning & Analysis (FP&A Direktörü)",
+   "Kıdemli Bütçe ve Ticari Kontrol Müdürü (FMCG)",
+   "Kıdemli Finansal Modelleme ve Karar Destek Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30018",
+  "target_occ_key": "1219:idari_isler_muduru",
+  "target_specialty": "İdari İşler Müdürü",
+  "target_isco4": "1219",
+  "target_isco_title": "Business services and administration managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "OFFICE_ADMIN_MGMT",
+  "industry_tr": "Ofis, İdari İşler ve Yönetim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kurumsal Hizmetler ve İdari Operasyonlar Direktörü",
+   "Kıdemli Ofis Operasyonları ve Çalışma Ortamı Müdürü (Head of Workplace)",
+   "Kıdemli İdari İşler ve Hizmetler Müdürü"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30019",
+  "target_occ_key": "1219:kalite_muduru",
+  "target_specialty": "Kalite Müdürü",
+  "target_isco4": "1219",
+  "target_isco_title": "Business services and administration managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "CONSTRUCTION",
+  "industry_tr": "İnşaat ve Yapı",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Hazır Beton ve Agrega Kalite Güvence Müdürü",
+   "Kalite Sistemleri ve Müşteri Kalite Güvence Müdürü",
+   "Kıdemli Güvenlik Denetim ve Kalite Güvence Müdürü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30020",
+  "target_occ_key": "1219:temizlik_hizmetleri_muduru",
+  "target_specialty": "Temizlik Hizmetleri Müdürü",
+  "target_isco4": "1219",
+  "target_isco_title": "Business services and administration managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "JANITORIAL_FACILITY",
+  "industry_tr": "Temizlik ve Tesis Hizmetleri",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kıdemli Endüstriyel Tesis Temizlik ve Operasyon Müdürü",
+   "Kıdemli Sağlık Kurumları Temizlik ve Enfeksiyon Kontrol Müdürü",
+   "Kıdemli Tesis Hizmetleri ve Hijyen Müdürü"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30021",
+  "target_occ_key": "1349:guvenlik_muduru",
+  "target_specialty": "Güvenlik Müdürü",
+  "target_isco4": "1349",
+  "target_isco_title": "Professional services managers not elsewhere classified",
+  "target_collar": "WHITE",
+  "target_seniority": 4,
+  "target_seniority_tr": "Lider / Şef / Müdür",
+  "industry": "OFFICE_ADMIN_MGMT",
+  "industry_tr": "Ofis, İdari İşler ve Yönetim",
+  "city": "İstanbul",
+  "example_job_titles": [
+   "Kurumsal Güvenlik Direktörü (Corporate Security Director)",
+   "Kıdemli Endüstriyel Tesis ve Liman Güvenlik Müdürü (ISPS)",
+   "Kıdemli Kurumsal Güvenlik ve Kriz Yönetimi Müdürü"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30022",
+  "target_occ_key": "2113:formulasyon_kimyageri",
+  "target_specialty": "Formülasyon Kimyageri",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "SCIENCE_RND",
+  "industry_tr": "Bilim ve Ar-Ge",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Adhesives & Resins Formulation Chemist",
+   "Ar-Ge Formülasyon Kimyageri",
+   "Kıdemli Zirai İlaç Formülasyon Kimyageri"
+  ],
+  "style": "gercek firma ve yil"
+ },
+ {
+  "id": "S30023",
+  "target_occ_key": "2113:kalite_kontrol_kimyageri",
+  "target_specialty": "Kalite Kontrol Kimyageri",
+  "target_isco4": "2113",
+  "target_isco_title": "Chemists",
+  "target_collar": "WHITE",
+  "target_seniority": 3,
+  "target_seniority_tr": "Kıdemli",
+  "industry": "HEALTHCARE",
+  "industry_tr": "Sağlık",
+  "city": "Bursa",
+  "example_job_titles": [
+   "Kalite Kontrol Kimyageri",
+   "Kıdemli İlaç Kalite Kontrol (QC) Uzmanı",
+   "Nükleer İlaç Radyofarmasi Kalite Kontrol Analisti"
+  ],
+  "style": "maskeli ([TARİH]/[ŞİRKET] kullan)"
+ },
+ {
+  "id": "S30024",
+  "target_occ_key": "2132:ziraat_muhendisi",
+  "target_specialty": "Ziraat Mühendisi",
+  "target_isco4": "2132",
+  "target_isco_title": "Farming, forestry and fisheries advisers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "AGRICULTURE",
+  "industry_tr": "Tarım ve Hayvancılık",
+  "city": "Adana",
+  "example_job_titles": [
+   "Kıdemli Ziraat Mühendisi (Tarımsal Danışmanlık ve Saha Lideri)",
+   "Ziraat Mühendisi (Bitki Koruma ve Ruhsatlandırma)",
+   "Ziraat Mühendisi (Bitki Koruma)"
+  ],
+  "style": "kisa ve oz"
+ },
+ {
+  "id": "S30025",
+  "target_occ_key": "2144:mekanik_bakim_muhendisi",
+  "target_specialty": "Mekanik Bakım Mühendisi",
+  "target_isco4": "2144",
+  "target_isco_title": "Mechanical engineers",
+  "target_collar": "WHITE",
+  "target_seniority": 2,
+  "target_seniority_tr": "Uzman / Orta Seviye",
+  "industry": "INDUSTRIAL_MANUFACTURING",
+  "industry_tr": "Endüstriyel Üretim ve İmalat",
+  "city": "Eskişehir",
+  "example_job_titles": [
+   "Bakım Onarım Mühendisi",
+   "Mekanik Bakım Planlama Mühendisi (TPM & OEE)",
+   "Mekanik Bakım ve Güvenilirlik Mühendisi"
+  ],
+  "style": "gercek firma ve yil"
+ }
+]

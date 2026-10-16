@@ -1,0 +1,2033 @@
+[
+{
+"specialty": "Döküm Kalıpçısı",
+"isco4": "7211",
+"isco_title": "Metal moulders and coremakers",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Döküm İşçisi / Kalıpçı",
+"Dökümhane Maça ve Kalıplama Elemanı (Yetiştirilmek Üzere)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "6G Boru Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flame cutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"6G Boru ve Basınçlı Kap Başkaynakçısı (ASME IX / ISO 9606-1)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Alüminyum Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flame cutters",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Alüminyum Gazaltı (MIG) Kaynakçısı",
+"Alüminyum Kaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Alüminyum TIG/MIG Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Alüminyum TIG/MIG Kaynak Başustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boru Tesisat Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flame cutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çelik Konstrüksiyon Boru Donatım ve Tesisat Kaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boru ve Basınçlı Kap Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flame cutters",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Basınçlı Tank ve Otoklav Kaynak Başustası",
+"Boru & Basınçlı Kap Kaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çelik Konstrüksiyon Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flame cutters",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Çelik Konstrüksiyon Kaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Elektrik Ark Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flame cutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Elektrik Ark (Elektrot - MMA) Boru Kaynakçısı (111 Prosesi)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gazaltı (MIG/MAG) Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 7,
+"n_job": 8,
+"ornek_unvanlar": [
+"Gazaltı (MIG/MAG) Kaynak Ustası",
+"Gazaltı (MIG/MAG) Kaynakçısı",
+"Gazaltı (MIG/MAG) Şasi Kaynakçısı (135 Prosesi)",
+"Kaynak Ustası (Welder)",
+"Kaynak ve Metal Teknolojisi Çıraklık Stajyeri"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gazaltı ve Elektrik Ark Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Gazaltı (MIG-MAG) ve Elektrik Kaynakçısı",
+"Gazaltı ve Elektrot Kaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Söküm Elemanı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi Söküm Elemanı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaynak Fikstür Ayarcısı",
+"isco4": "7212",
+"isco_title": "Welders and flame cutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ağır İş Makineleri Kaynak Fikstür ve Ayar Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lazer Kaynak Operatörü",
+"isco4": "7212",
+"isco_title": "Welders and flame cutters",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Lazer Kaynak Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oksi-Gaz (Şaloma) Kesimcisi",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oksi-Gaz ve Şaloma Kesim Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oksijen (Oksi-Gaz) Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Oksijen (Oksi-Gaz) Kaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Orbital Kaynak Ayarcısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kazan ve Eşanjör Borulama Kaynak Başayarcısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Örtülü Elektrot (MMA) Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Örtülü Elektrot (MMA) Kaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Özlü Tel (FCAW) Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Özlü Tel (FCAW) Ağır Sanayi Kaynakçısı (136 Prosesi)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Paslanmaz Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Paslanmaz (Inox) Kaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Boru Alın Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plastik / Alın Kaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Polietilen Boru Alın Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flame cutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Alın Kaynakçısı Yardımcısı (Polietilen Boru Hatları)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": [
+"71"
+]
+},
+{
+"specialty": "Punta Kaynak Operatörü",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Otomatik Punta ve Projeksiyon Kaynak Operatörü",
+"Otomotiv Direnç Punta Kaynak Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Punta Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flame cutters",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Direnç / Punta Kaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Robotik Kaynak Operatörü",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"Robotik Kaynak Hücresi Parça Yükleme Elemanı",
+"Robotik Kaynak Operatörü",
+"Robotik Kaynak Operatörü & Ayarcısı (Fanuc / ABB)",
+"Robotik Kaynak Programlama ve Fikstür Ayar Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sualtı Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Sualtı Kaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": [
+"75"
+]
+},
+{
+"specialty": "TIG (Argon) Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flame cutters",
+"n_cv": 5,
+"n_job": 5,
+"ornek_unvanlar": [
+"Argon (TIG) Kaynakçısı",
+"Argon (TIG) Paslanmaz Boru Kaynakçısı (141 Prosesi)",
+"Argon / TIG Kaynakçısı",
+"Gıda ve Kimya Makineleri Paslanmaz Kaynakçısı (TIG)",
+"Kıdemli Paslanmaz TIG (Argon) Başkaynakçısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "TIG ve Gazaltı (MIG/MAG) Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tanker ve Basınçlı Kap Kaynakçısı (TIG & MAG)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tozaltı Kaynak Operatörü",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"Tozaltı (SAW) Kaynak Başustası (Rüzgar Kuleleri & Boru)",
+"Tozaltı (SAW) Kaynak Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Zırh Çeliği Kaynakçısı",
+"isco4": "7212",
+"isco_title": "Welders and flamecutters",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Savunma Sanayi Zırh Çeliği Kaynak Başustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çatı Oluğu ve Sac İmalatçısı",
+"isco4": "7213",
+"isco_title": "Sheet-metal workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Çatı Oluğu ve Sac İmalat Elemanı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Havalandırma Kanal Montaj Ustası",
+"isco4": "7213",
+"isco_title": "Sheet-metal workers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Havalandırma Galvaniz Kanal Montaj Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oto Kaporta Ustası",
+"isco4": "7213",
+"isco_title": "Sheet-metal workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oto Kaporta ve Şase Düzeltme Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çelik Konstrüksiyon Çatım Ustası",
+"isco4": "7214",
+"isco_title": "Structural-metal preparers and erectors",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Çelik Konstrüksiyon Çatıcı & Montaj Ustası",
+"Çelik Konstrüksiyon Çatım ve Puntalama Elemanı (Başlangıç)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çelik Konstrüksiyon Montaj Ustası",
+"isco4": "7214",
+"isco_title": "Structural-metal preparers and erectors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Çelik Konstrüksiyon Montaj ve Çatım Başustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ferforje ve Demir Doğrama Ustası",
+"isco4": "7214",
+"isco_title": "Structural-metal preparers and erectors",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ferforje ve Demir Doğrama Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi İnşa ve Sac Montaj Ustası",
+"isco4": "7214",
+"isco_title": "Structural-metal preparers and erectors",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi İnşa ve Sac Montaj Ustası"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Gemi Montaj Ustası",
+"isco4": "7214",
+"isco_title": "Structural-metal preparers and erectors",
+"n_cv": 3,
+"n_job": 1,
+"ornek_unvanlar": [
+"Gemi Montaj Ustası",
+"Tersane İşçisi / Montaj Elemanı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İnşaat Demircisi",
+"isco4": "7214",
+"isco_title": "Structural-metal preparers and erectors",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Demirci / İnşaat Demircisi"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": [
+"71"
+]
+},
+{
+"specialty": "Kazan Tamircisi",
+"isco4": "7214",
+"isco_title": "Structural-metal preparers and erectors",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Kazancı / Kazan Tamircisi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tersane Montaj Elemanı",
+"isco4": "7214",
+"isco_title": "Structural-metal preparers and erectors",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tersane İşçisi / Montaj Elemanı"
+],
+"sektorler": [
+"MARITIME"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Vinç İşaretçisi ve Sapancı",
+"isco4": "7215",
+"isco_title": "Riggers and cable splicers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Şantiye Vinç İşaretçisi ve Sapancısı (Rigger)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Nalbant",
+"isco4": "7221",
+"isco_title": "Blacksmiths, hammersmiths and forging press workers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Nalbant",
+"Usta Nalbant"
+],
+"sektorler": [
+"AGRICULTURE"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sıcak Dövme Pres Operatörü",
+"isco4": "7221",
+"isco_title": "Blacksmiths, hammersmiths and forging press workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sıcak Dövme Pres Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sıcak Dövme Pres Ustası",
+"isco4": "7221",
+"isco_title": "Blacksmiths, hammersmiths and forging press workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Sıcak Dövme Pres Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çilingir",
+"isco4": "7222",
+"isco_title": "Toolmakers and related workers",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Anahtarcı ve Çilingir Ustası",
+"Kilit ve Emniyet Sistemleri Ustası (Locksmith)",
+"Çilingir / Kilit Ustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kalıp İmalat Ustası",
+"isco4": "7222",
+"isco_title": "Toolmakers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kalıp İmalat ve Montaj Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Plastik Enjeksiyon Kalıp Bakım Ustası",
+"isco4": "7222",
+"isco_title": "Toolmakers and related workers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Plastik Enjeksiyon Kalıp Bakım Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pres Kalıp Ustası",
+"isco4": "7222",
+"isco_title": "Toolmakers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Otomotiv Pres Kalıp Revizyon ve Alıştırma Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sac Kalıp Bakım ve Alıştırma Tesviyecisi",
+"isco4": "7222",
+"isco_title": "Toolmakers and related workers",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sac Kalıp Bakım & Alıştırma Tesviyecisi",
+"Sac Şekillendirme Kalıp Bakım ve Alıştırma Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Takımhane Ustası",
+"isco4": "7222",
+"isco_title": "Toolmakers and related workers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC Takımhane ve Fikstür İmalat Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tesviyeci",
+"isco4": "7222",
+"isco_title": "Toolmakers and related workers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tesviyeci / Metal Tesviye Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "5 Eksen CNC Freze Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"5 Eksen Kalıp İşleme Ustası (Heidenhain & Mikron Hassasiyeti)",
+"5-Eksen CNC Freze Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Ağır Sac Pres Büküm Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Ağır Sac Pres ve Büküm Kalıpçısı (Boru & Basınçlı Kap)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Atölye ve İmalat Elemanı",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Atölye ve İmalat Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Boru Profil Lazer Kesim Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fiber Lazer Kesim & Boru Profil Lazer Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Borwerk Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Üniversal Freze & Borwerk Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çift Taretli CNC Torna Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC Çift Ayna & Çift Taret Torna Operatörü",
+"Çift Taretli CNC Torna Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Abkant Büküm Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 4,
+"n_job": 4,
+"ornek_unvanlar": [
+"CNC Abkant Büküm Operatör Yardımcısı",
+"CNC Abkant Büküm Operatörü",
+"CNC Abkant Büküm Operatörü (Delem Kontrol Ünitesi)",
+"CNC Abkant Büküm Operatörü (Kalın Sac & Ağır Şasi)",
+"CNC Abkant Büküm Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Abkant Büküm Ustası",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli CNC Abkant Büküm Ustası & Ayarcısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Alüminyum Kompozit Router Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"CNC Alüminyum & Kompozit Router Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Boru Büküm Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC Boru Büküm Operatörü (Mandrenli & Çok Katlı)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Boru Büküm Ustası",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli CNC Boru Büküm ve Form Verme Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Borverk Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"CNC Talaşlı İmalat Tezgah Operatör Yardımcısı",
+"CNC Yatay Borverk (Boring) Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Dalma Erozyon Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"CNC Dalma Erozyon Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Dik İşleme Merkezi Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Yetiştirilmek Üzere CNC Dik İşleme Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Dik İşleme Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"3-Eksen Dikey İşleme (VMC) Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Dik Torna Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC Dik Torna Operatörü (Büyük Çaplı Döküm Parçalar)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Dişli Azdırma Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC Dişli Azdırma Operatörü",
+"CNC Freze ve Dişli Açma Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Dişli Taşlama Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"CNC Dişli Profil Taşlama Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Freze Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"CNC Dik İşleme Operatörü (Siemens 840D & Kalıp İmalatı)",
+"CNC Freze Operatörü (Heidenhain Kontrol Ünitesi)",
+"CNC Freze Tezgah Operatörü (Yetiştirilmek Üzere)",
+"Freze Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Giyotin Makas Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"CNC Giyotin Makas Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Kayar Otomat Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"CNC Kayar Otomat Operatörü",
+"CNC Kayar Otomat Ustası ve Ayarcısı (Citizen & Star)",
+"CNC Otomat ve Kayar Otomat Operatör Yardımcısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Lazer Kesim Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 4,
+"ornek_unvanlar": [
+"CNC Fiber Lazer Kesim Operatörü (Trumpf / Bystronic)",
+"CNC Lazer Kesim Operatörü",
+"CNC Lazer Kesim ve Sac Nesting Operatörü",
+"Yetiştirilmek Üzere CNC Lazer Kesim Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Panel Büküm Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC Köşe Açma ve Çift Taraflı Kenar Büküm Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Plazma Kesim Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"CNC Plazma & Alevli Kesim Operatörü",
+"CNC Plazma & Oksijen Kesim Operatörü",
+"CNC Plazma Kesim Operatörü",
+"Plazma Kesim Tezgah Operatör Yardımcısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Portal Freze Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC Ağır Talaşlı İmalat ve Portal Freze Ustası",
+"CNC Portal Freze Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Punch Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 3,
+"ornek_unvanlar": [
+"CNC Punch Pres Operatörü (Amada & Kalıp Tareti)",
+"CNC Punch ve Otomasyonel Sac İşleme Ustası",
+"CNC Punch ve Talaşlı Şekillendirme Operatörü",
+"CNC Taretli Punch Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Router Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC Router ve Alüminyum Profil İşleme Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Satıh Taşlama Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"CNC Satıh Taşlama Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Silindirik Taşlama Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"CNC Silindirik Taşlama Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Takım Bileme Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC Taşlama ve Kesici Takım Bileme Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Talaşlı İmalat Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"CNC İşleme ve Talaşlı İmalat Stajyeri (MYO)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Taşlama Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hassas CNC Taşlama Ustası (Studer & Mikron Seviyesi)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Tel Erozyon Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"CNC Tel Erozyon Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Tezgah Ayarcısı",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 2,
+"ornek_unvanlar": [
+"CNC CAM Ayarcı & Takım Sıfırlama Operatörü",
+"CNC Freze ve Yatay Borverk Başayarcısı",
+"CNC Freze ve Yatay İşleme Ayarcısı (Doosan & Makino)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Tezgah Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Stajyer CNC Tezgah Operatörü (Meslek Lisesi / MYO)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Torna Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 5,
+"n_job": 5,
+"ornek_unvanlar": [
+"CNC Torna (C & Y Eksenli) Operatörü",
+"CNC Torna Ayarcısı ve Takım Lideri (Setup Specialist)",
+"CNC Torna Operatör Yardımcısı (Yetiştirilmek Üzere)",
+"CNC Torna Operatörü",
+"CNC Torna Operatörü (Fanuc & C Eksen)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Torna ve Dik İşleme Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"CNC Torna ve Dik İşleme Operatörü",
+"CNC Torna ve İşleme Merkezi Programlama Ustası (Mazak Mazatrol)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "CNC Yatay İşleme Merkezi Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"CNC Yatay İşleme Merkezi Operatörü (4 Eksen & Palet Değiştirmeli)",
+"Yatay İşleme Merkezi (HMC) Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Dalma Erozyon Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Dalma Erozyon (Die Sinking EDM) Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Eksantrik ve Hidrolik Pres Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 3,
+"n_job": 3,
+"ornek_unvanlar": [
+"CNC Köşe Kesme ve Delik Delme Pres Elemanı",
+"Eksantrik Pres Operatörü",
+"Eksantrik Pres Operatörü (Progresif Kalıp & Otomotiv)",
+"Eksantrik ve Hidrolik Pres Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Fiber Lazer Kesim Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fiber Lazer Kesim Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Giyotin Makas Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 2,
+"ornek_unvanlar": [
+"Giyotin Makas ve Sac Kesim Elemanı",
+"Giyotin Makas ve Sac Kesim Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hidrolik Derin Çekme Pres Ayarcısı",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hidrolik Derin Çekme Presi Başayarcısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hidrolik Derin Çekme Pres Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hidrolik Derin Çekme Pres Operatörü",
+"Hidrolik Pres Operatörü (Derin Çekme & Form Verme)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Konvansiyonel Torna Ustası",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Konvansiyonel Torna & Tesviye Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Konvansiyonel Torna ve Freze Ustası",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Konvansiyonel Torna ve Freze Ustası (Bakım & Onarım)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Konvansiyonel Torna ve Matkap Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Konvansiyonel Torna & Matkap Elemanı (Başlangıç Düzeyi)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lazer Kesim Nesting Uzmanı",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Fiber Lazer Kesim ve Nesting Uzmanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lazer ve Plazma Kesim Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 3,
+"n_job": 0,
+"ornek_unvanlar": [
+"Lazer / Plazma Kesim Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Panel Büküm ve Pres Ayarcısı",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hassas Sac Şekillendirme ve Panel Büküm Başayarcısı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pres Kalıp Ayar Ustası",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Pres Kalıp Bağlama & Ayar Ustası (Die Setter Specialist)",
+"Progresif Kalıp ve Pres Ayar Başustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pres Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Pres Operatörü",
+"Sac Şekillendirme ve Pres İşleri Stajyeri",
+"Yetiştirilmek Üzere Eksantrik & Hidrolik Pres Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Rulo Sac Boy Kesme ve Dilme Hattı Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 3,
+"n_job": 2,
+"ornek_unvanlar": [
+"Rulo Sac Boy Kesme Hat Operatörü",
+"Rulo Sac Boy Kesme ve Dilme Hattı Operatörü",
+"Rulo Sac Dilme Hattı Operatörü",
+"Sac Doğrultma ve Rulo Açıcı Hat Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Sac Pres Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 4,
+"ornek_unvanlar": [
+"Alüminyum Sac Pres ve Form Verme Operatörü",
+"Stajyer Sac İşleme & Pres Elemanı (Meslek Lisesi / Çıraklık)",
+"Tandem Pres Hattı Operatörü (Otomotiv Karoser)",
+"Transfer Pres Hattı Operatörü (Otomotiv Yan Sanayi)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Şerit Testere Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Testere ve Malzeme Kesim Elemanı (Talaşlı İmalat)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Silindir Sac Büküm Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Silindir Valsli Sac Büküm Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Silindirik Taşlama Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Silindirik Taşlama Operatörü (CNC & Konvansiyonel)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Talaşlı İmalat Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Talaşlı İmalat Makinisti"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tel Erozyon Operatörü",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Tel Erozyon (Wire EDM) Operatörü"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Tel ve Dalma Erozyon Ustası",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Tel ve Dalma Erozyon Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Torna-Tesviye Ustası",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 4,
+"n_job": 1,
+"ornek_unvanlar": [
+"Torna-Tesviye Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üniversal Freze Ustası",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 1,
+"ornek_unvanlar": [
+"Üniversal Freze & Divizör Ustası",
+"Üniversal Freze Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Üniversal Torna Ustası",
+"isco4": "7223",
+"isco_title": "Metal working machine tool setters and operators",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Üniversal Torna Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Çapak Alma Elemanı",
+"isco4": "7224",
+"isco_title": "Metal polishers, wheel grinders and tool sharpeners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Talaşlı İmalat Çapak Alma ve Yüzey Temizleme Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Döküm Temizleme Elemanı",
+"isco4": "7224",
+"isco_title": "Metal polishers, wheel grinders and tool sharpeners",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Dökümhane Maça Kumlama ve Boyutsal Kontrol Elemanı",
+"Dökümhane Taşlama ve Kumlama Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaynak Ağzı Açma ve Taşlama Elemanı",
+"isco4": "7224",
+"isco_title": "Metal polishers, wheel grinders and tool sharpeners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kaynak Öncesi Taşlama ve Kaynak Ağzı Açma Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kaynak Dikişi Temizleme Elemanı",
+"isco4": "7224",
+"isco_title": "Metal polishers, wheel grinders and tool sharpeners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kaynak Dikişi Temizleme ve Pasivasyon Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kumlama Operatörü",
+"isco4": "7224",
+"isco_title": "Metal polishers, wheel grinders and tool sharpeners",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sanayi Kumlama Operatörü"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": [
+"81"
+]
+},
+{
+"specialty": "Sac Çapak Alma Makinesi Operatörü",
+"isco4": "7224",
+"isco_title": "Metal polishers, wheel grinders and tool sharpeners",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Sac Çapak Alma ve Kenar Yuvarlama Makinesi Elemanı"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lastik ve Rot Balans Ustası",
+"isco4": "7231",
+"isco_title": "Motor vehicle mechanics and repairers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oto Lastik Tamir ve Rot Balans Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oto Ekspertiz Uzmanı",
+"isco4": "7231",
+"isco_title": "Motor vehicle mechanics and repairers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oto Ekspertiz Uzmanı (TSE Belgeli)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oto Mekanik Ustası",
+"isco4": "7231",
+"isco_title": "Motor vehicle mechanics and repairers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"OTOMOTİV BAKIMCI",
+"Oto Mekanik ve Motor Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Oto ve Makine Mekanikeri",
+"isco4": "7231",
+"isco_title": "Motor vehicle mechanics and repairers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Oto ve Makine Mekanikeri"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Otomotiv Servis Teknisyeni",
+"isco4": "7231",
+"isco_title": "Motor vehicle mechanics and repairers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Hafif Ticari Araç Servis Şefi"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Uçak Bakım Teknisyeni",
+"isco4": "7232",
+"isco_title": "Aircraft engine mechanics and repairers",
+"n_cv": 0,
+"n_job": 2,
+"ornek_unvanlar": [
+"Uçak Bakım Teknisyeni (B1 / B2 Lisanslı)",
+"Uçak Gövde ve Motor Bakım Teknisyeni (B1/B2)"
+],
+"sektorler": [
+"AVIATION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Arıza Tespit ve Tamir Ustası",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Arıza Tespit ve Tamir Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Endüstriyel Bakım Teknisyeni",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Saha Bakım Teknisyeni (Technician)"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Hidrolik Sistem Bakım Ustası",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Hidrolik Sistem Bakım Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Makinesi Bakım Teknisyeni",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 1,
+"n_job": 1,
+"ornek_unvanlar": [
+"Stajyer İş Makineleri Bakım ve Şantiye Elemanı",
+"İş Makineleri Bakım ve Onarım Stajyeri (MYO)"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Makinesi Bakım Ustası",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Kıdemli Şantiye Ağır Makine Bakım ve Kademe Başustası"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "İş Makinesi Yağcısı",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Şantiye Yağcısı ve Ağır Makine Bakım Yardımcısı"
+],
+"sektorler": [
+"CONSTRUCTION"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Kompresör Bakım Teknisyeni",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Pnömatik & Vidalı Kompresör Bakım Teknisyeni"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Konveyör ve Üretim Hattı Mekanikeri",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Konveyör & Üretim Hattı Mekanikeri"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Lazerli Şaft ve Kaplin Ayar Teknisyeni",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Lazerli Şaft & Kaplin Ayar Teknisyeni"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Bakım Teknisyeni",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 5,
+"n_job": 3,
+"ornek_unvanlar": [
+"Mekanik Bakım & Onarım Ustası",
+"Mekanik Bakım Teknisyeni",
+"Mekanik Bakımcı (Millwright)",
+"Mekanik İmalat ve Bakım Onarım Teknisyeni"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Mekanik Bakım Ustası",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 0,
+"n_job": 1,
+"ornek_unvanlar": [
+"Endüstriyel Tesis Bakım ve Onarım Ustası"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Pnömatik ve Otomasyon Bakım Teknisyeni",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 1,
+"n_job": 0,
+"ornek_unvanlar": [
+"Pnömatik & Otomasyon Sistemleri Bakım Teknisyeni"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+},
+{
+"specialty": "Yağlama ve Bakım Teknisyeni",
+"isco4": "7233",
+"isco_title": "Agricultural and industrial machinery mechanics and repairers",
+"n_cv": 2,
+"n_job": 0,
+"ornek_unvanlar": [
+"Fabrika Merkezi Yağlama & Bakım Teknisyeni",
+"Fabrika Periyodik Bakım & Yağlama Teknisyeni"
+],
+"sektorler": [
+"INDUSTRIAL_MANUFACTURING"
+],
+"diger_gruplarda_da_var": []
+}
+]

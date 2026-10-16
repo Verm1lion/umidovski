@@ -77,6 +77,8 @@
       "maske_[ÜNİVERSİTE]": 304,
       "maske_[OKUL]": 312
     },
+    "cv_about_cv_text_farkli": 447,
+    "cv_about_cv_text_farkli_pct": 14.69,
     "cv_ingilizce_agirlikli": 285,
     "cv_text_len": {
       "count": 3043.0,
@@ -602,6 +604,7 @@
       "SENIOR": 261,
       "ENTRY_LEVEL": 157
     },
+    "negatif_cift_farkli_sektor": 81.26,
     "hard_neg_farkli_sektor": 100.0,
     "pozitif_cift_ayni_sektor": 93.95
   },

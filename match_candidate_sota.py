@@ -570,7 +570,8 @@ GOLD_PREFIX = "gold_"
 
 
 def assert_no_gold_columns(df: pd.DataFrame, where: str = ""):
-    bad = [c for c in df.columns if str(c).startswith(GOLD_PREFIX) or c in ("grade", "label", "Category", "collar")]
+    bad = [c for c in df.columns if str(c).startswith((GOLD_PREFIX, "legacy_")) or
+           c in ("grade", "label", "Category", "collar", "occ_key", "isco4", "specialty")]
     if bad:
         raise AssertionError(f"[SIZINTI] Özellik tablosunda altın etiket sütunları var ({where}): {bad}")
 

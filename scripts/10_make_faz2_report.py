@@ -99,9 +99,11 @@ def main():
         ["ISCO-08 2 hane", iaa.get("isco2_kappa"), "—"],
         ["Yaka (BLUE/WHITE)", iaa.get("collar_kappa"), iaa.get("collar_uyum")],
         ["Kıdem 0–5 (ikinci dereceden ağırlıklı κ)", iaa.get("seniority_quadratic_kappa"), iaa.get("seniority_birebir")],
-        ["Veri setindeki CV yakası ↔ anotatör yakası", iaa.get("cv_dataset_collar_vs_anotator_kappa"), iaa.get("cv_dataset_collar_vs_anotator_uyum")],
     ]
     md.append(f"n = {iaa.get('n', '?')} öğe.\n\n" + fmt_tbl(rows, ["Alan", "Cohen κ", "Birebir uyum"]) + "\n")
+    md.append(f"\nκ değerleri ikinci anotasyon ile ana anotasyonun **konsolidasyon öncesi** kodları arasındadır. Ayrıca veri "
+              f"setindeki CV `collar` alanı anotatör yakasıyla tüm 3.043 CV üzerinde κ = {iaa.get('cv_dataset_collar_vs_anotator_kappa')} "
+              f"(uyum {iaa.get('cv_dataset_collar_vs_anotator_uyum')}) uyumludur; bu anotatörler arası değil, bir geçerlilik kontrolüdür.\n")
     md.append(f"\nKıdemde |fark| ≤ 1 oranı: {iaa.get('seniority_fark_le1')}. Landis & Koch (1977) ölçeğinde κ > 0,80 "
               "'neredeyse mükemmel' uyumdur. Uzmanlık adlarının konsolidasyon öncesi birebir yazım uyumu "
               f"{iaa.get('specialty_birebir_(konsolidasyon_oncesi)')}'dir; bu yüzden ad farklılıkları ayrı bir "
@@ -118,7 +120,7 @@ def main():
               "Listede olmayan tüm çiftler grade 0'dır. **Tüm** CV × ilan çiftleri yargılıdır (tam yargı).\n")
     if qv:
         md.append("### 3.1 Kural-türevi derecelerin bağımsız çift-düzeyi yargılarla doğrulanması\n")
-        md.append(f"Tabakalı örneklem (her dereceden eşit sayıda, yalnız gerçek val/test CV'leri), n = {qv['n']}. Yargıçlar "
+        md.append(f"Tabakalı örneklem (her dereceden eşit sayıda, yalnız gerçek — sentetik olmayan — CV'ler; yargılar hiçbir eğitimde kullanılmaz), n = {qv['n']}. Yargıçlar "
                   "kural derecesini görmeden yalnızca CV ve ilan metnini okuyup 0–3 verdi "
                   "(`annotation/qrels_validation/RUBRIC.txt`).\n\n")
         md.append(fmt_tbl([["İkinci dereceden ağırlıklı κ", qv["quadratic_weighted_kappa"]],
@@ -129,13 +131,24 @@ def main():
         cm = qv["karisiklik_matrisi_satir=kural_sutun=yargi"]
         md.append("\nKarışıklık matrisi (satır = kural, sütun = bağımsız yargı):\n\n" +
                   fmt_tbl([[g] + cm[g] for g in range(4)], ["kural \\ yargı", "0", "1", "2", "3"]) + "\n")
-        md.append("\n**Yorum:** Uyum yüksektir (ağırlıklı κ ve |fark| ≤ 1 oranı). Ayrışmaların neredeyse tamamı **bir kademe "
-                  "aşağı** yöndedir: bağımsız yargıçlar kural grade-3 çiftlerinin bir kısmını 2, kural grade-2 çiftlerinin "
-                  "bir kısmını 1 olarak değerlendirmiştir (ör. aynı uzmanlık ama farklı teknoloji yığını; aynı ISCO grubu "
-                  "ama farklı alt rol). Kurallar bu anlamda biraz cömerttir; bu, mutlak NDCG değerlerini etkiler ancak "
-                  "sistemlerin **göreli** sıralamasını değiştirmez, çünkü tüm sistemler aynı qrels ile ölçülür. Ters yönde "
-                  f"hata çok azdır: kural grade-0 çiftlerin {cm[0][0]}/{sum(cm[0])}'i yargıçça da 0, hiçbiri ≥ 2 değildir; "
-                  f"yargıcın alakalı (≥ 2) bulup kuralın ≤ 1 dediği çift sayısı yalnızca {cm[0][2] + cm[0][3] + cm[1][2] + cm[1][3]}'dir.\n")
+        dis = [(r, c, cm[r][c]) for r in range(4) for c in range(4) if r != c]
+        n_dis = sum(v for _, _, v in dis)
+        one_down = sum(v for r, c, v in dis if r - c == 1)
+        two_down = sum(v for r, c, v in dis if r - c >= 2)
+        up = sum(v for r, c, v in dis if c > r)
+        g0_hi = cm[0][2] + cm[0][3]
+        md.append(f"\n**Yorum:** Ağırlıklı uyum yüksektir (κ, |fark| ≤ 1); birebir uyum ise %{100 * qv['birebir_uyum']:.1f} düzeyindedir. "
+                  f"{n_dis} ayrışmadan {one_down} tanesi (%{100 * one_down / max(1, n_dis):.0f}) bir kademe aşağı, {two_down} tanesi iki+ "
+                  f"kademe aşağı, {up} tanesi yukarı yöndedir. Kural grade-3 çiftlerinden {cm[3][2]} / {sum(cm[3])} tanesi yargıçça 2 "
+                  f"bulunmuştur (ör. aynı uzmanlık ama farklı teknoloji yığını ya da kıdem/lokasyon yorumu); kural grade-2 çiftlerinden "
+                  f"{cm[2][0] + cm[2][1]} / {sum(cm[2])} tanesi 0–1 bulunmuştur. Yani kurallar özellikle üst derecelerde **cömerttir**: "
+                  "mutlak NDCG değerleri bir miktar iyimser olabilir. Tüm sistemler aynı qrels ile ölçüldüğü için karşılaştırma "
+                  "aynı ölçüt üzerindedir; ancak bu yanlılığın sistemleri eşit etkilediği kanıtlanmış değildir. Ters yönde: "
+                  f"kural grade-0 çiftlerden {cm[0][0]} / {sum(cm[0])} tanesi yargıçça da 0, "
+                  + (f"hiçbiri ≥ 2 değildir. " if g0_hi == 0 else f"{g0_hi} tanesi ≥ 2 bulunmuştur. ") +
+                  "Not: grade-0 çiftler rastgele örneklendi; zor (BM25/leksikal) grade-0 çiftlerdeki hata oranını bu örneklem "
+                  "ölçmez. Yargıçlara derecelendirme rubriği verildiği için bu doğrulama kuralların tutarlı uygulanıp "
+                  "uygulanmadığını sınar; kuralların kendisinin doğruluğunu bağımsız olarak kanıtlamaz.\n")
     md.append("## 4. Sızıntısız bölme\n")
     rows = [[s, sp[s]["cv"], sp[s]["gercek"], sp[s]["sentetik"], sp[s]["ort_grade3"], sp[s]["ort_grade2"],
              sp[s]["grade3_ilani_olan_cv_orani"], sp[s]["alakali(>=2)_ilani_olmayan_cv"], sp[s]["alakali_sayisi_medyan"]]
@@ -144,7 +157,8 @@ def main():
                              "grade-3'ü olan CV oranı", "alakalısı olmayan CV", "medyan alakalı (≥2)"]) + "\n")
     md.append(f"\nİlan havuzu: {meta['ilan_havuzu']} (cold = hiçbir eğitim sinyalinde kullanılmaz). Vitrin adayları "
               f"(test'e sabit): {meta['vitrin_adaylari_test']}.\n")
-    md.append("### 4.1 Otomatik sızıntı kontrolleri (hepsi `05_build_dataset.py` içinde zorunlu; biri bile başarısızsa paket üretilmez)\n")
+    md.append("### 4.1 Otomatik sızıntı kontrolleri (sayım kontrolleri `05_build_dataset.py` içinde zorunludur ve 0 olmalıdır; biri bile "
+              "başarısızsa paket üretilmez. `*_medyan`, `*_p90`, `*_p99` satırları yalnız bilgi amaçlıdır)\n")
     md.append(fmt_tbl([[k, v] for k, v in chk.items()], ["Kontrol", "Değer"]) + "\n")
     md.append("## 5. Zor negatifler ve triplet'ler\n")
     t = meta["triplet"]
@@ -153,7 +167,7 @@ def main():
         md.append(f"* `{k}`: {v}\n")
     md.append(f"* Negatiflerin derece dağılımı: {t['negatif_grade_dagilimi']}\n")
     md.append("* Notebook ayrıca 4. bir negatif üretir: eğitimsiz base modelin üst sıralara koyduğu **grade-0** ilanlar "
-              "(qrels ile filtrelendiği için yanlış negatif yok).\n")
+              "(qrels ile filtrelenir: kurallara göre grade 0'dır; yine de en benzer grade-0 ilanların bir kısmı yakın-alakalı olabilir).\n")
     if syn:
         md.append("## 6. Sentetik CV zenginleştirmesi (yalnız train)\n")
         md.append(f"* Hedef: train'de hiç / tek CV'si olmayan ve WARM ilanlarda geçen uzmanlıklar. Üretilen: {syn.get('hedef')}, "

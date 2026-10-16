@@ -4,7 +4,7 @@ oznitelikler; dense ve cross-encoder oznitelikleri 0). Notebook'taki LTR protoko
   * oznitelik siniflandiricilari yalnizca train CV'leriyle egitilir,
   * LambdaMART val sorgularinda (cold ilanlar haric) egitilir; erken durdurma val icindeki ayri bir bolmede,
   * test bir kez degerlendirilir; %95 bootstrap GA + Fisher randomizasyon testi (BM25'e karsi).
-Amac: elle carpan yerine ogrenilen siralamanin katkisini, noral modellerden bagimsiz ve sizintisiz olcmek.
+Amac: ham (carpansiz) BM25 uzerine ogrenilen siralamanin katkisini, noral modellerden bagimsiz ve sizintisiz olcmek.
 
 Cikti: reports/local_lexical_ltr.json
 """

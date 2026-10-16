@@ -60,6 +60,8 @@ SHOWCASE = [20951, 10587, 10511, 21029]   # Baklava ustasi, ucus dispeceri, Java
 COLD_FRAC = 0.10
 MAX_POS = 4
 REL_THRESHOLD = 2
+LEX_MIN_SIM = 0.05      # leksikal tuzak negatifinin anchor unvanina en dusuk karakter n-gram benzerligi
+NEG_USE_CAP = 25        # ayni ilanin bir negatif turunde en fazla kac satirda kullanilacagi (hub negatifleri sinirla)
 
 GRADE_RULES = {
     "3": "Tam eslesme: ayni uzmanlik (occ_key) + yaka uyumu + |kidem farki| <= 1 + lokasyon uyumu (ayni sehir veya Remote)",
@@ -70,7 +72,13 @@ GRADE_RULES = {
 
 
 def spec_key(s):
-    return re.sub(r"[^a-z0-9]+", " ", core.tr_ascii(s)).strip()
+    """Unvan anahtari: ASCII katlama + noktalama silme + KELIME SIRASINDAN BAGIMSIZ (sirali kume).
+
+    "Satis Muduru Bolge" ile "Bolge Satis Muduru" ayni anahtari alir; boylece yalnizca sozcuk sirasi farkli
+    unvanlar bolumler arasina dagilmaz.
+    """
+    toks = re.sub(r"[^a-z0-9]+", " ", core.tr_ascii(s)).split()
+    return " ".join(sorted(set(toks)))
 
 
 def clean_legacy(text):
@@ -267,6 +275,7 @@ def mine_triplets(cvs, jobs, G, split, rng, max_pos=MAX_POS):
     keys = jobs.job_key.to_numpy(dtype=object)
     rows, no_pos = [], 0
     stats = Counter()
+    neg_use = {"lex": Counter(), "trap": Counter(), "bm25": Counter()}
     for ai, a in enumerate(anchors):
         g = G[a]
         p3 = np.where((g == 3) & warm)[0]
@@ -279,13 +288,18 @@ def mine_triplets(cvs, jobs, G, split, rng, max_pos=MAX_POS):
             no_pos += 1
             continue
         lex = np.where((g == 0) & warm & (ind_j != ind_c[a]))[0]
-        lex = lex[np.argsort(-tsim[ai, lex], kind="stable")][:8]
+        lex = lex[np.argsort(-tsim[ai, lex], kind="stable")]
+        lex = lex[tsim[ai, lex] >= LEX_MIN_SIM]
+        lex = np.asarray([j for j in lex if neg_use["lex"][j] < NEG_USE_CAP][:8] or list(lex[:8]), dtype=int)
         trap = np.where((g <= 1) & warm & ((ind_j == ind_c[a]) | (isc2_j == isc2_c[a]))
                         & ((col_j != col_c[a]) | (np.abs(sen_j - sen_c[a]) >= 3)))[0]
-        trap = trap[np.argsort(-tsim[ai, trap], kind="stable")][:8]
+        trap = trap[np.argsort(-tsim[ai, trap], kind="stable")]
+        trap = np.asarray([j for j in trap if neg_use["trap"][j] < NEG_USE_CAP][:8] or list(trap[:8]), dtype=int)
         bmn = np.where((g == 0) & warm)[0]
-        bmn = bmn[np.argsort(-bms[ai, bmn], kind="stable")][:10]
-        if not len(trap):
+        bmn = bmn[np.argsort(-bms[ai, bmn], kind="stable")]
+        bmn = np.asarray([j for j in bmn[:40] if neg_use["bm25"][j] < NEG_USE_CAP][:10] or list(bmn[:10]), dtype=int)
+        trap_fb = not len(trap)
+        if trap_fb:
             stats["trap_fallback_bm25"] += 1
             trap = bmn[3:]
         if not len(lex):
@@ -304,14 +318,23 @@ def mine_triplets(cvs, jobs, G, split, rng, max_pos=MAX_POS):
             if None in (nl, nt, nb):
                 stats["eksik_negatif"] += 1
                 continue
+            neg_use["lex"][nl] += 1
+            neg_use["trap"][nt] += 1
+            neg_use["bm25"][nb] += 1
+            if trap_fb:
+                stats["trap_fallback_bm25_satir"] += 1
             rows.append({
                 "anchor_cv_id": int(cvs.cv_id.iloc[a]),
                 "positive_job_key": keys[p], "positive_grade": int(g[p]),
                 "neg_lexical_job_key": keys[nl], "neg_seniority_collar_job_key": keys[nt], "neg_bm25_job_key": keys[nb],
                 "neg_lexical_grade": int(g[nl]), "neg_seniority_collar_grade": int(g[nt]), "neg_bm25_grade": int(g[nb]),
+                "neg_lexical_title_sim": round(float(tsim[ai, nl]), 4),
+                "neg_seniority_collar_is_fallback": bool(trap_fb),
                 "anchor_source": cvs.source.iloc[a],
             })
     stats["anchor_pozitifsiz_atlandi"] = no_pos
+    for t, c in neg_use.items():
+        stats[f"en_cok_kullanilan_{t}_negatif_satir"] = int(max(c.values())) if c else 0
     stats["anchor"] = len(anchors)
     return pd.DataFrame(rows), dict(stats)
 
@@ -357,7 +380,8 @@ def leakage_checks(cvs, jobs, trip, vtrip, legacy):
     ok = all(v == 0 for k, v in chk.items() if k in (
         "id_kesisim_train_val", "id_kesisim_train_test", "id_kesisim_val_test", "unvan_kesisim_train_test",
         "unvan_kesisim_train_val", "sentetik_val_test_te", "triplet_anchor_train_disi", "val_triplet_anchor_val_disi",
-        "triplette_cold_ilan", "legacy_pairs_train_disi_cv", "legacy_pairs_cold_ilan", "test_cv_cos_ge_0.8_trainde_ikizi"))
+        "triplette_cold_ilan", "legacy_pairs_train_disi_cv", "legacy_pairs_cold_ilan", "test_cv_cos_ge_0.8_trainde_ikizi",
+        "sentetik_test_cos_ge_0.8", "unvan_kesisim_gercek_train_test"))
     chk["TUM_KONTROLLER_GECTI"] = bool(ok)
     return chk
 
@@ -477,8 +501,8 @@ def main():
         "vitrin_adaylari_test": SHOWCASE,
         "triplet": {"train": int(len(trip)), "val": int(len(vtrip)), "train_istatistik": tstats, "val_istatistik": vstats,
                     "negatif_turleri": {
-                        "neg_lexical": "Ayni/benzer unvan sozcugu (karakter n-gram), FARKLI sektor, grade 0 (Baklava Ustasi ~ Siva Ustasi)",
-                        "neg_seniority_collar": "Ayni sektor veya ayni ISCO alt-ana grubu; yaka zit veya |kidem farki|>=3, grade<=1",
+                        "neg_lexical": f"Ayni/benzer unvan sozcugu (karakter n-gram TF-IDF kosinus >= {LEX_MIN_SIM}), FARKLI sektor, grade 0 (Baklava Ustasi ~ Siva Ustasi); benzerlik neg_lexical_title_sim sutununda",
+                        "neg_seniority_collar": "Ayni sektor veya ayni ISCO alt-ana grubu; yaka zit veya |kidem farki|>=3, grade<=1. Boyle ilan yoksa BM25 sirasi 4-10'dan grade 0 ilan konur (neg_seniority_collar_is_fallback=True)",
                         "neg_bm25": "BM25 ile en yuksek skorlu fakat grade 0 ilanlar (kelime kesisimi yuksek, anlamca uyumsuz)"},
                     "negatif_grade_dagilimi": {c: trip[c].value_counts().to_dict() for c in
                                                ("neg_lexical_grade", "neg_seniority_collar_grade", "neg_bm25_grade")}},
@@ -491,6 +515,8 @@ def main():
             "ozellik_kullanilabilir": ["headline", "cv_text", "cv_struct", "text_city", "text_seniority", "text_years_exp",
                                        "ilan: title, company_name, description, industry, position_level, mode_of_operation, job_type, city, job_struct"],
             "yalnizca_degerlendirme(gold_*)": sorted([c for c in cvs.columns if c.startswith("gold_")]),
+            "yalnizca_sizinti_gosterimi(legacy_*)": sorted({c for c in list(cvs.columns) + list(jobs.columns) if c.startswith("legacy_")}),
+            "not": f"Ayni ilanin bir negatif turunde kullanimi en fazla {NEG_USE_CAP} satirla sinirlidir (hub negatifleri).",
         },
         "dosyalar": {},
     }
@@ -527,6 +553,9 @@ Bu klasör `scripts/05_build_dataset.py` tarafından üretilir ve Colab notebook
 | legacy_train_pairs.parquet | Eski `train.csv`'nin yalnızca yeni train bölümündeki CV'lere ait satırları (Baseline-3). |
 | metadata.json | Kurallar, istatistikler, sızıntı kontrolleri, SHA-256 özetleri. |
 | match_candidate_sota.py | Eğitim ve çıkarımın ortak çekirdeği (özellikler, BM25, metrikler, çıkarım sınıfı). |
+
+`legacy_*` sütunları eski sistemin alanlarıdır; CV tarafında `legacy_collar`/`legacy_city` altın etikete denktir —
+YALNIZCA Baseline-3 sızıntı gösterimi içindir, özellik olarak kullanılamaz (`assert_no_gold_columns` bunları da reddeder).
 
 Alaka dereceleri:
 * 3 — aynı uzmanlık + yaka uyumu + |kıdem farkı| ≤ 1 + lokasyon uyumu (aynı şehir / Remote)

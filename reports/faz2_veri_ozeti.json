@@ -10,120 +10,121 @@
   "alakali_esigi_binary_metrikler": 2,
   "split": {
     "train": {
-      "cv": 2838,
-      "gercek": 2127,
-      "sentetik": 711,
-      "ort_grade3": 1.41,
-      "ort_grade2": 34.32,
-      "ort_grade1": 124.79,
-      "alakali(>=2)_ilani_olmayan_cv": 49,
-      "grade3_ilani_olan_cv_orani": 0.5106,
+      "cv": 2835,
+      "gercek": 2125,
+      "sentetik": 710,
+      "ort_grade3": 1.43,
+      "ort_grade2": 35.46,
+      "ort_grade1": 124.78,
+      "alakali(>=2)_ilani_olmayan_cv": 43,
+      "grade3_ilani_olan_cv_orani": 0.5203,
       "alakali_sayisi_medyan": 27.0,
-      "alakali_sayisi_lt10_orani": 0.3185,
+      "alakali_sayisi_lt10_orani": 0.3097,
       "kategori_dagilimi": {
-        "INDUSTRIAL_MANUFACTURING": 449,
-        "CONSTRUCTION": 365,
+        "INDUSTRIAL_MANUFACTURING": 450,
+        "CONSTRUCTION": 363,
         "IT_SOFTWARE": 289,
-        "FINANCE_ACCOUNTING": 221,
-        "HEALTHCARE": 175,
+        "FINANCE_ACCOUNTING": 222,
+        "HEALTHCARE": 174,
         "SALES": 124,
-        "MARKETING_MEDIA": 109,
-        "SUPPLY_CHAIN_LOGISTICS": 103,
-        "CHEF_HORECA": 102,
-        "SCIENCE_RND": 98,
+        "MARKETING_MEDIA": 113,
+        "CHEF_HORECA": 104,
+        "SUPPLY_CHAIN_LOGISTICS": 101,
+        "SCIENCE_RND": 99,
         "HR": 90,
-        "CREATIVE_DESIGN": 88,
-        "LEGAL": 79,
+        "CREATIVE_DESIGN": 85,
+        "LEGAL": 81,
         "MARITIME": 73,
         "EDUCATION": 72,
         "LOGISTICS_DRIVER": 68,
-        "AVIATION": 53,
-        "AGRICULTURE": 52,
-        "APPAREL_TEXTILE": 48,
-        "OFFICE_ADMIN_MGMT": 41,
-        "JANITORIAL_FACILITY": 35,
-        "ENV_ESG": 34,
-        "SECURITY_EMERGENCY": 27,
-        "SPORTS": 17,
-        "CUSTOMER_SERVICE": 13,
-        "BEAUTY_CARE": 13
+        "AGRICULTURE": 53,
+        "AVIATION": 52,
+        "APPAREL_TEXTILE": 50,
+        "OFFICE_ADMIN_MGMT": 43,
+        "JANITORIAL_FACILITY": 37,
+        "ENV_ESG": 33,
+        "SECURITY_EMERGENCY": 26,
+        "SPORTS": 13,
+        "CUSTOMER_SERVICE": 10,
+        "BEAUTY_CARE": 10
       }
     },
     "val": {
-      "cv": 455,
-      "gercek": 455,
+      "cv": 457,
+      "gercek": 457,
       "sentetik": 0,
-      "ort_grade3": 1.19,
-      "ort_grade2": 37.91,
-      "ort_grade1": 127.06,
-      "alakali(>=2)_ilani_olmayan_cv": 10,
-      "grade3_ilani_olan_cv_orani": 0.3363,
-      "alakali_sayisi_medyan": 27.0,
-      "alakali_sayisi_lt10_orani": 0.3319,
+      "ort_grade3": 1.07,
+      "ort_grade2": 32.3,
+      "ort_grade1": 128.51,
+      "alakali(>=2)_ilani_olmayan_cv": 16,
+      "grade3_ilani_olan_cv_orani": 0.3173,
+      "alakali_sayisi_medyan": 23.0,
+      "alakali_sayisi_lt10_orani": 0.3589,
       "kategori_dagilimi": {
-        "INDUSTRIAL_MANUFACTURING": 68,
-        "CONSTRUCTION": 62,
+        "INDUSTRIAL_MANUFACTURING": 67,
+        "CONSTRUCTION": 63,
         "IT_SOFTWARE": 54,
         "FINANCE_ACCOUNTING": 38,
+        "SUPPLY_CHAIN_LOGISTICS": 24,
         "SALES": 23,
-        "SUPPLY_CHAIN_LOGISTICS": 23,
-        "HEALTHCARE": 18,
-        "MARKETING_MEDIA": 18,
-        "CHEF_HORECA": 18,
+        "HEALTHCARE": 19,
+        "CHEF_HORECA": 17,
+        "MARKETING_MEDIA": 15,
         "HR": 15,
-        "OFFICE_ADMIN_MGMT": 14,
+        "OFFICE_ADMIN_MGMT": 13,
         "SCIENCE_RND": 13,
         "LEGAL": 13,
+        "CREATIVE_DESIGN": 12,
+        "MARITIME": 11,
         "LOGISTICS_DRIVER": 11,
         "EDUCATION": 10,
-        "MARITIME": 10,
-        "CREATIVE_DESIGN": 9,
-        "AGRICULTURE": 7,
         "JANITORIAL_FACILITY": 7,
-        "SECURITY_EMERGENCY": 6,
-        "APPAREL_TEXTILE": 6,
-        "AVIATION": 4,
+        "AVIATION": 5,
+        "AGRICULTURE": 5,
+        "CUSTOMER_SERVICE": 4,
         "ENV_ESG": 4,
+        "SECURITY_EMERGENCY": 4,
+        "APPAREL_TEXTILE": 4,
         "SPORTS": 3,
-        "CUSTOMER_SERVICE": 1
+        "BEAUTY_CARE": 3
       }
     },
     "test": {
       "cv": 461,
       "gercek": 461,
       "sentetik": 0,
-      "ort_grade3": 1.26,
-      "ort_grade2": 37.17,
-      "ort_grade1": 130.26,
+      "ort_grade3": 1.24,
+      "ort_grade2": 35.72,
+      "ort_grade1": 128.75,
       "alakali(>=2)_ilani_olmayan_cv": 8,
-      "grade3_ilani_olan_cv_orani": 0.3774,
+      "grade3_ilani_olan_cv_orani": 0.3362,
       "alakali_sayisi_medyan": 27.0,
-      "alakali_sayisi_lt10_orani": 0.3167,
+      "alakali_sayisi_lt10_orani": 0.3449,
       "kategori_dagilimi": {
         "INDUSTRIAL_MANUFACTURING": 69,
         "CONSTRUCTION": 63,
         "IT_SOFTWARE": 57,
-        "FINANCE_ACCOUNTING": 39,
+        "FINANCE_ACCOUNTING": 38,
         "SALES": 26,
-        "CHEF_HORECA": 19,
+        "SUPPLY_CHAIN_LOGISTICS": 19,
         "HEALTHCARE": 18,
-        "SUPPLY_CHAIN_LOGISTICS": 18,
+        "CHEF_HORECA": 18,
         "LOGISTICS_DRIVER": 18,
-        "MARKETING_MEDIA": 17,
+        "MARKETING_MEDIA": 16,
         "HR": 15,
-        "LEGAL": 15,
-        "SCIENCE_RND": 14,
+        "SCIENCE_RND": 13,
+        "LEGAL": 13,
         "CREATIVE_DESIGN": 12,
-        "MARITIME": 11,
+        "MARITIME": 10,
         "EDUCATION": 9,
         "AVIATION": 7,
-        "JANITORIAL_FACILITY": 7,
-        "OFFICE_ADMIN_MGMT": 6,
         "APPAREL_TEXTILE": 6,
-        "AGRICULTURE": 5,
-        "ENV_ESG": 4,
-        "SECURITY_EMERGENCY": 3,
-        "SPORTS": 2,
+        "SECURITY_EMERGENCY": 6,
+        "SPORTS": 6,
+        "AGRICULTURE": 6,
+        "OFFICE_ADMIN_MGMT": 5,
+        "ENV_ESG": 5,
+        "JANITORIAL_FACILITY": 5,
         "CUSTOMER_SERVICE": 1
       }
     }
@@ -139,48 +140,58 @@
     21029
   ],
   "triplet": {
-    "train": 4886,
-    "val": 444,
+    "train": 4883,
+    "val": 438,
     "train_istatistik": {
-      "trap_fallback_bm25": 23,
-      "anchor_pozitifsiz_atlandi": 53,
-      "anchor": 2838
+      "lex_fallback_bm25": 4,
+      "trap_fallback_bm25": 19,
+      "trap_fallback_bm25_satir": 29,
+      "anchor_pozitifsiz_atlandi": 49,
+      "en_cok_kullanilan_lex_negatif_satir": 25,
+      "en_cok_kullanilan_trap_negatif_satir": 114,
+      "en_cok_kullanilan_bm25_negatif_satir": 25,
+      "anchor": 2835
     },
     "val_istatistik": {
-      "trap_fallback_bm25": 1,
-      "anchor_pozitifsiz_atlandi": 11,
-      "anchor": 455
+      "lex_fallback_bm25": 1,
+      "trap_fallback_bm25": 6,
+      "trap_fallback_bm25_satir": 6,
+      "anchor_pozitifsiz_atlandi": 19,
+      "en_cok_kullanilan_lex_negatif_satir": 15,
+      "en_cok_kullanilan_trap_negatif_satir": 12,
+      "en_cok_kullanilan_bm25_negatif_satir": 16,
+      "anchor": 457
     },
     "negatif_turleri": {
-      "neg_lexical": "Ayni/benzer unvan sozcugu (karakter n-gram), FARKLI sektor, grade 0 (Baklava Ustasi ~ Siva Ustasi)",
-      "neg_seniority_collar": "Ayni sektor veya ayni ISCO alt-ana grubu; yaka zit veya |kidem farki|>=3, grade<=1",
+      "neg_lexical": "Ayni/benzer unvan sozcugu (karakter n-gram TF-IDF kosinus >= 0.05), FARKLI sektor, grade 0 (Baklava Ustasi ~ Siva Ustasi); benzerlik neg_lexical_title_sim sutununda",
+      "neg_seniority_collar": "Ayni sektor veya ayni ISCO alt-ana grubu; yaka zit veya |kidem farki|>=3, grade<=1. Boyle ilan yoksa BM25 sirasi 4-10'dan grade 0 ilan konur (neg_seniority_collar_is_fallback=True)",
       "neg_bm25": "BM25 ile en yuksek skorlu fakat grade 0 ilanlar (kelime kesisimi yuksek, anlamca uyumsuz)"
     },
     "negatif_grade_dagilimi": {
       "neg_lexical_grade": {
-        "0": 4886
+        "0": 4883
       },
       "neg_seniority_collar_grade": {
-        "0": 3206,
-        "1": 1680
+        "0": 3153,
+        "1": 1730
       },
       "neg_bm25_grade": {
-        "0": 4886
+        "0": 4883
       }
     }
   },
   "qrels": {
-    "satir(grade>=1)": 608901,
+    "satir(grade>=1)": 608691,
     "grade_dagilimi": {
-      "1": 472005,
-      "2": 131784,
-      "3": 5112
+      "1": 471829,
+      "2": 131751,
+      "3": 5111
     }
   },
   "legacy_train_pairs": {
-    "satir": 16163,
-    "cikarilan(val/test CV'leri)": 7867,
-    "cikarilan(cold ilanlar)": 1876
+    "satir": 16206,
+    "cikarilan(val/test CV'leri)": 7815,
+    "cikarilan(cold ilanlar)": 1885
   },
   "sizinti_kontrolleri": {
     "id_kesisim_train_val": 0,
@@ -195,10 +206,10 @@
     "triplette_cold_ilan": 0,
     "legacy_pairs_train_disi_cv": 0,
     "legacy_pairs_cold_ilan": 0,
-    "test_train_max_cos_medyan": 0.247,
-    "test_train_max_cos_p90": 0.6,
+    "test_train_max_cos_medyan": 0.252,
+    "test_train_max_cos_p90": 0.605,
     "test_cv_cos_ge_0.8_trainde_ikizi": 0,
-    "sentetik_test_max_cos_p99": 0.19,
+    "sentetik_test_max_cos_p99": 0.169,
     "sentetik_test_cos_ge_0.8": 0,
     "TUM_KONTROLLER_GECTI": true
   },
@@ -357,48 +368,56 @@
       "gold_occ_key",
       "gold_seniority",
       "gold_specialty"
-    ]
+    ],
+    "yalnizca_sizinti_gosterimi(legacy_*)": [
+      "legacy_city",
+      "legacy_collar",
+      "legacy_infer_text",
+      "legacy_seniority",
+      "legacy_train_text"
+    ],
+    "not": "Ayni ilanin bir negatif turunde kullanimi en fazla 25 satirla sinirlidir (hub negatifleri)."
   },
   "dosyalar": {
     "clean_cvs.parquet": {
-      "bayt": 4638850,
-      "sha256": "45c1a3a195b2b0c6dd86a3d987d5c19649c595afe4dc6ed146855008de0b5221"
+      "bayt": 4637399,
+      "sha256": "88b004e5b5ebe32920cf16821361fc8d1d87ff7a82c42415ea0231ceb6972abc"
     },
     "clean_jobs.parquet": {
       "bayt": 7453667,
       "sha256": "c6c7d073c802abf52aadf00d0ce8cf797007e24986e5688106c89ad365564001"
     },
     "legacy_train_pairs.parquet": {
-      "bayt": 74300,
-      "sha256": "b75994ad7d839af968af65198fc60f994b2330a052bae2aae04b10eb28cad143"
+      "bayt": 73941,
+      "sha256": "4a30d5faf3552d5d9b47948fe67203f447b637dd00d342bcc238001e7afe1b41"
     },
     "match_candidate_sota.py": {
-      "bayt": 45541,
-      "sha256": "02b865f8240dd04d294812312be6d654f58cca193ccf0dc753b6ea97059ba331"
+      "bayt": 45598,
+      "sha256": "4b4621598befa131ab6c11601585dfe661c04b3a67052bd2cf4efc3b1d88d9a8"
     },
     "qrels_ground_truth.parquet": {
-      "bayt": 357365,
-      "sha256": "cb94e071de82dc1a10f61d3d09d05a897246760531e5181a519427c1090ed847"
+      "bayt": 358639,
+      "sha256": "108637bac126ee38c1a7fe1794a4cbe93602ee3f7d212fd4ab1f26cfaba64d08"
     },
     "test_queries.parquet": {
-      "bayt": 258967,
-      "sha256": "7ab23c8a817c806b065e967be1207cc828da24163db9db76f85134be70d2cafd"
+      "bayt": 262463,
+      "sha256": "6e41d74a7d9c4062968be6b64b6fa523d226acc8db0da67c8eb98ea68f697a35"
     },
     "train_queries.parquet": {
-      "bayt": 1836707,
-      "sha256": "46c884beaf619e674b5aaabc09812f680cf71c9ffd82dea8b75572e7272822b0"
+      "bayt": 1828903,
+      "sha256": "807bf528da34164e3b95ffa61cf022f0d5ac782baac9344715127dd63413713e"
     },
     "train_triplets.parquet": {
-      "bayt": 82231,
-      "sha256": "8cfbf451c7207df7fd00b53d208ff2e668f36a85097a0506ad1204142a81f4e5"
+      "bayt": 104979,
+      "sha256": "f3f18b14bb7ad033a466c1b80627f98d7c65676b2ffb196ef2a3349458d91bb1"
     },
     "val_queries.parquet": {
-      "bayt": 256005,
-      "sha256": "d7366c1f2c6a2e2564338b561f61969307b66db6ff2d02a085ba275629ed5323"
+      "bayt": 257908,
+      "sha256": "80dbce89f6adca9c93e7dd3910673e1707179ba62e28f6afe9dcad23b82f4fb9"
     },
     "val_triplets.parquet": {
-      "bayt": 17314,
-      "sha256": "3bc41bf704eaace2a583838dabdfad4d33a48901f153809db71babfa9a64f162"
+      "bayt": 21588,
+      "sha256": "85519f8f0bb88dc94a8f85258b699822102aaae8c3a12eac1e1e82b057ccd591"
     }
   }
 }

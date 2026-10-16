@@ -37,8 +37,8 @@ md(r"""
 | **Metrikler** | NDCG@10 (tam havuz IDCG), MRR@10, P@10, R@10/50/100, Top-1; %95 bootstrap GA, Fisher randomizasyon testi |
 
 **Çalıştırma (5 dakikalık özet):** `Çalışma Zamanı → Çalışma zamanı türünü değiştir → A100 GPU` seçin, `data_bundle.zip`'i
-yükleyin (ilk hücreler sorar) ve `Çalışma Zamanı → Tümünü çalıştır` deyin. A100-40GB'da toplam süre ≈ 1,5–2,5 saat
-(Drive bağlama izni bir kez sorulur).
+yükleyin (ilk hücreler sorar) ve `Çalışma Zamanı → Tümünü çalıştır` deyin. A100-40GB'da toplam süre **tahminen** ≈ 1,5–2,5 saat (GPU'da ölçülmedi;
+CPU kuru çalıştırması yalnız akışı doğrular). Drive bağlama izni bir kez sorulur.
 
 ```
                ┌─────────────── AŞAMA 1: ADAY ÜRETİMİ ───────────────┐   ┌──────── AŞAMA 2: YENİDEN SIRALAMA ────────┐
@@ -412,6 +412,13 @@ def cv_texts(ids, prefix=""):
 def job_texts(prefix=""):
     return [prefix + t for t in jobs.job_struct]
 
+def drop_amp_wrapper(m):
+    # bf16/fp16 eğitimde accelerate model.forward'ı autocast+fp32 sarmalayıcısıyla değiştirir ve train() sonrası GERİ
+    # ALMAZ; sonraki encode()/predict() çağrıları bf16 autocast altında koşar. Sarmalayıcı kaldırılır -> fp32/TF32.
+    for mod in [m] + list(m.modules()):
+        mod.__dict__.pop("forward", None); mod.__dict__.pop("_original_forward", None)
+    return m
+
 def enable_grad_ckpt(model):
     # ST 6.1 + transformers 5.x'te TrainingArguments(gradient_checkpointing=True) imza uyumsuzluğu verir;
     # bu yüzden gradient checkpointing doğrudan alttaki HF modeline uygulanır (use_reentrant=False).
@@ -481,6 +488,7 @@ largs = SentenceTransformerTrainingArguments(
     bf16=BF16, fp16=FP16, logging_steps=50, save_strategy="no", report_to="none", seed=CFG["SEED"])
 SentenceTransformerTrainer(model=legacy_model, args=largs, train_dataset=ds_legacy,
                            loss=CosineSimilarityLoss(legacy_model), callbacks=[legacy_logs]).train()
+drop_amp_wrapper(legacy_model)
 plot_logs(legacy_logs.rows, "Baseline 3 — eski yaklaşım eğitimi", "b3_training.png")
 # test.py çıkarım biçimi
 E_leg_jobs = encode(legacy_model, ["passage: " + legacy_clean(t) for t in jobs.legacy_infer_text])
@@ -569,7 +577,7 @@ if CFG["DENSE_MINED_NEG"]:
         neg_dense[a] = [int(j) for j in top[i] if grade(a, j) == 0][:10]
 del base; free_mem()
 
-def build_mnrl_rows(tdf):
+def build_mnrl_rows(tdf, neg_store=None):
     rows = defaultdict(list)
     seen = Counter()
     for r in tdf.itertuples():
@@ -578,6 +586,7 @@ def build_mnrl_rows(tdf):
             pool = [j for j in neg_dense.get(r.anchor_cv_id, []) if j not in negs]
             k = seen[r.anchor_cv_id]; seen[r.anchor_cv_id] += 1
             negs.append(pool[k % len(pool)] if pool else negs[-1])
+        if neg_store is not None: neg_store.append(list(negs))
         rows["anchor"].append(QP + CV.loc[r.anchor_cv_id, "cv_struct"])
         rows["positive"].append(DP + jobs.job_struct.iloc[JIDX[r.positive_job_key]])
         for n, j in enumerate(negs, 1):
@@ -599,21 +608,33 @@ def build_cosent_rows(anchor_ids, per_grade=2, seed=0):
                 s1.append(QP + CV.loc[a, "cv_struct"]); s2.append(DP + jobs.job_struct.iloc[int(j)]); sc.append(g / 3.0)
     return Dataset.from_dict({"sentence1": s1, "sentence2": s2, "score": sc})
 
-DS_TRAIN = build_mnrl_rows(trip)
+TRAIN_NEG_IDX = []
+DS_TRAIN = build_mnrl_rows(trip, neg_store=TRAIN_NEG_IDX)
 DS_VAL = build_mnrl_rows(vtrip) if len(vtrip) else None
 DS_COSENT = build_cosent_rows(anchors, per_grade=CFG["COSENT_PER_GRADE"]) if CFG["BI_USE_COSENT"] else None
 print("MNRL satırı:", len(DS_TRAIN), "| sütunlar:", DS_TRAIN.column_names, "| CoSENT çifti:", len(DS_COSENT) if DS_COSENT else 0)
 
-# Tanı: rastgele batch'lerde batch-içi YANLIŞ negatif oranı (başka satırın pozitifi bu anchor için grade>=2 ise)
+# Tanı: rastgele batch'lerde batch-içi YANLIŞ negatif oranı. MNRL'de her anchor için paydada batch'teki TÜM
+# pozitifler VE TÜM satırların zor negatifleri bulunur; bunlardan biri bu anchor için grade>=2 ise yanlış negatiftir.
 pos_idx = [JIDX[k] for k in trip.positive_job_key]; anc = trip.anchor_cv_id.tolist()
-B = CFG["BI_BATCH"]; fn = tot = 0
+B = CFG["BI_BATCH"]; cnt = Counter()
 for _ in range(50):
     b = rng.choice(len(anc), min(B, len(anc)), replace=False)
     for x in b:
         for y in b:
-            if x != y and pos_idx[x] != pos_idx[y]:
-                tot += 1; fn += grade(anc[x], pos_idx[y]) >= 2
-print(f"Batch-içi yanlış-negatif oranı (tahmini): %{100 * fn / max(1, tot):.2f}  (NO_DUPLICATES örnekleyici aynı metni engeller)")
+            if x != y and pos_idx[y] != pos_idx[x]:
+                g_ = grade(anc[x], pos_idx[y]); cnt["pos_tot"] += 1; cnt["pos_fn"] += g_ >= 2
+            for j in TRAIN_NEG_IDX[y]:
+                if j == pos_idx[x]: continue
+                g_ = grade(anc[x], j); key = "own" if y == x else "oth"
+                cnt[key + "_tot"] += 1; cnt[key + "_fn"] += g_ >= 2
+pct = lambda a, b: 100 * cnt[a] / max(1, cnt[b])
+print("Batch-içi yanlış-negatif oranı (rastgele batch'lerle tahmin, grade>=2):")
+print(f"  başka satırların pozitifleri : %{pct('pos_fn', 'pos_tot'):.2f}  ({cnt['pos_fn']}/{cnt['pos_tot']})")
+print(f"  başka satırların zor negatifleri: %{pct('oth_fn', 'oth_tot'):.2f}  ({cnt['oth_fn']}/{cnt['oth_tot']})")
+print(f"  kendi zor negatifleri (qrels ile filtreli): %{pct('own_fn', 'own_tot'):.2f}  ({cnt['own_fn']}/{cnt['own_tot']})")
+fn_all = cnt["pos_fn"] + cnt["oth_fn"] + cnt["own_fn"]; tot_all = cnt["pos_tot"] + cnt["oth_tot"] + cnt["own_tot"]
+print(f"  toplam                      : %{100 * fn_all / max(1, tot_all):.2f}  (NO_DUPLICATES örnekleyici aynı metni engeller)")
 """)
 
 code(r"""
@@ -636,14 +657,37 @@ class GradedIREvaluator(SentenceEvaluator):
 from sentence_transformers.base.sampler import NoDuplicatesBatchSampler, RoundRobinBatchSampler
 
 class ExactNoDuplicatesBatchSampler(NoDuplicatesBatchSampler):
-    # ST'nin NoDuplicatesBatchSampler.__len__ değeri bir üst-sınır TAHMİNİDİR; çok tekrar eden ilan metinlerinde gerçek
-    # batch sayısı farklı olur ve Trainer fazla batch'leri sessizce atlar. Bu sınıf her epoch'un batch listesini bir kez
-    # hesaplar; __len__ ve __iter__ aynı listeyi kullanır -> hiçbir satır atlanmaz, aynı metin bir batch'te iki kez olmaz.
+    # (1) ST'nin NoDuplicatesBatchSampler.__len__ değeri bir üst-sınır TAHMİNİDİR; Trainer fazla batch'leri sessizce
+    #     atlıyordu. Burada her epoch'un batch listesi bir kez hesaplanır; __len__ ve __iter__ aynı listeyi kullanır.
+    # (2) Kural: anchor/pozitif (negatif olmayan sütunlar) batch içinde tekil olmalı ve hiçbir satırın negatifiyle
+    #     çakışmamalı (yanlış negatif). Aynı ZOR NEGATİF birden çok satırda paylaşılabilir (zararsız) -> batch'ler dolu kalır.
     def __init__(self, *a, **k):
         super().__init__(*a, **k); self._cache = {}
+        cols = self.dataset.column_names
+        neg = [c for c in cols if c.startswith("negative")]
+        key = [c for c in cols if c not in neg]
+        self._key = [set(map(str, t)) for t in zip(*(self.dataset[c] for c in key))]
+        self._neg = ([set(map(str, t)) for t in zip(*(self.dataset[c] for c in neg))] if neg
+                     else [set() for _ in range(len(self.dataset))])
+    def _make(self):
+        if self.generator is not None and self.seed is not None:
+            self.generator.manual_seed(self.seed + self.epoch)
+        rest, out = torch.randperm(len(self.dataset), generator=self.generator).tolist(), []
+        while rest:
+            b, K, N, left = [], set(), set(), []
+            for i in rest:
+                k, n = self._key[i], self._neg[i]
+                if len(b) < self.batch_size and K.isdisjoint(k) and N.isdisjoint(k) and K.isdisjoint(n):
+                    b.append(i); K |= k; N |= n
+                else:
+                    left.append(i)
+            if self.drop_last and len(b) < self.batch_size:
+                break
+            out.append(b); rest = left
+        return out
     def _batches(self):
         if self.epoch not in self._cache:
-            self._cache = {self.epoch: list(super().__iter__())}
+            self._cache = {self.epoch: self._make()}
         return self._cache[self.epoch]
     def __iter__(self):
         return iter(self._batches())
@@ -679,10 +723,10 @@ def train_bi_encoder(scale, train_ds, epochs, out_dir, cosent_ds=None, eval_ds=N
         evald = {"mnrl": eval_ds} if eval_ds is not None else None
     else:
         train, loss, evald = train_ds, mnrl, eval_ds
-    # RoundRobin: her epoch'ta MNRL kadar CoSENT batch'i -> adım sayısı ~ 2 x (MNRL satır / batch)
-    n_rows = len(train_ds) * (2 if cosent_ds is not None else 1)
-    steps_per_epoch = max(1, n_rows // CFG["BI_BATCH"])
-    eval_steps = max(1, steps_per_epoch // CFG["EVALS_PER_EPOCH"])
+    # Değerlendirme/kayıt aralığı toplam adımın ORANI olarak verilir; Trainer gerçek adım sayısından (örnekleyicinin
+    # kesin uzunluğu) hesaplar -> epoch başına tam EVALS_PER_EPOCH değerlendirme.
+    n_evals = CFG["EVALS_PER_EPOCH"] * epochs
+    eval_steps = 1.0 / n_evals if n_evals > 1 else 0.999
     use_eval = evaluator is not None
     args = SentenceTransformerTrainingArguments(
         output_dir=out_dir, num_train_epochs=epochs, per_device_train_batch_size=CFG["BI_BATCH"],
@@ -692,12 +736,12 @@ def train_bi_encoder(scale, train_ds, epochs, out_dir, cosent_ds=None, eval_ds=N
         eval_strategy="steps" if use_eval else "no", eval_steps=eval_steps, save_strategy="steps" if use_eval else "no",
         save_steps=eval_steps, save_total_limit=2, save_only_model=True, load_best_model_at_end=use_eval,
         metric_for_best_model="eval_val_graded_ndcg@10" if use_eval else None, greater_is_better=True,
-        logging_steps=max(1, min(10, eval_steps)), report_to="none", seed=CFG["SEED"], dataloader_num_workers=2 if DEVICE == "cuda" else 0)
+        logging_steps=10 if not DRY_RUN else 1, report_to="none", seed=CFG["SEED"], dataloader_num_workers=2 if DEVICE == "cuda" else 0)
     logs = LogCollector()
     cbs = [logs] + ([EarlyStoppingCallback(early_stopping_patience=CFG["EARLY_STOP_PATIENCE"])] if use_eval else [])
     trainer = STTrainer(model=model, args=args, train_dataset=train, eval_dataset=evald, loss=loss,
                         evaluator=evaluator, callbacks=cbs)
-    t0 = time.time(); trainer.train()
+    t0 = time.time(); trainer.train(); drop_amp_wrapper(model)
     print(f"{log_name}: {time.time() - t0:.0f} sn")
     shutil.rmtree(out_dir, ignore_errors=True)     # checkpoint'lar diski doldurmasın (en iyi model bellekte)
     return model, logs.rows
@@ -847,7 +891,7 @@ ce_trainer = CrossEncoderTrainer(model=CE, args=ce_args, train_dataset=DS_CE,
                                  loss=LambdaLoss(CE, mini_batch_size=CFG["CE_MINI_BATCH"]),
                                  evaluator=GradedRerankEvaluator(VAL_IDS, HYB["val"][0]),
                                  callbacks=[ce_logs, EarlyStoppingCallback(early_stopping_patience=CFG["EARLY_STOP_PATIENCE"])])
-t0 = time.time(); ce_trainer.train(); print(f"Cross-encoder: {time.time() - t0:.0f} sn")
+t0 = time.time(); ce_trainer.train(); drop_amp_wrapper(CE); print(f"Cross-encoder: {time.time() - t0:.0f} sn")
 shutil.rmtree(os.path.join(CFG["OUT_DIR"], "ce_ckpt"), ignore_errors=True)
 ce_log_df = plot_logs(ce_logs.rows, "Aşama 2a — Cross-encoder eğitimi", "stage2a_training.png")
 ce_log_df.to_csv(os.path.join(CFG["OUT_DIR"], "stage2a_training_log.csv"), index=False)
@@ -916,7 +960,7 @@ def ltr_rank_eval(model, df, base_hyb_scores, qids):
     ranked = {}
     for q, g in df.groupby("qid", sort=False):
         ranked[int(q)] = g.sort_values("s", ascending=False).job_idx.astype(int).tolist()
-    return evaluate(ranked, store=False)["NDCG@10"]
+    return evaluate(ranked, cols=WARM_COLS, store=False)["NDCG@10"]   # cold ilan dereceleri seçim sinyaline karışmaz
 
 def objective(trial):
     params = dict(
@@ -978,6 +1022,7 @@ md(r"""
 ## 11. Ablation çalışması — aynı sızıntısız test kümesinde 5 sistem
 Tüm satırlar **aynı** test sorguları, **aynı** 3.000 ilanlık havuz ve **aynı** kademeli qrels ile ölçülür.
 Parantez içi: NDCG@10 için %95 bootstrap güven aralığı. `p` = bir önceki satıra göre iki yönlü Fisher randomizasyon testi.
+İkinci tablo her bileşenin (ince ayar, BM25 füzyonu, cross-encoder, LambdaMART) katkısını ayrı ayrı test eder.
 """)
 code(r"""
 MAIN = ["B1: BM25", "B2: Zero-shot e5-small", "B3: Eski (e5-small + CosineSimLoss)",
@@ -998,6 +1043,28 @@ for i, n in enumerate(MAIN + EXTRA):
 ABL = pd.DataFrame(rows).set_index("Sistem")
 ABL.to_csv(os.path.join(CFG["OUT_DIR"], "ablation_test.csv"))
 display(ABL)
+
+# Bileşen katkıları: her bileşen eklendiğinde NDCG@10 / Top-1 farkı ve iki yönlü eşleştirilmiş randomizasyon p-değeri
+PAIRS = {
+    "İnce ayar (dense: fine-tuned vs zero-shot base)": ("Ours: Fine-tuned dense (tek)", "Ref: Zero-shot base bi-encoder"),
+    "BM25 füzyonu (S1 vs fine-tuned dense)": (MAIN[3], "Ours: Fine-tuned dense (tek)"),
+    "Cross-encoder (Hybrid+CE vs S1)": ("Ours: Hybrid + Cross-encoder", MAIN[3]),
+    "LambdaMART (S2 vs Hybrid+CE)": (MAIN[4], "Ours: Hybrid + Cross-encoder"),
+    "Toplam (S2 vs B1 BM25)": (MAIN[4], MAIN[0]),
+    "Toplam (S2 vs B3 eski sistem)": (MAIN[4], MAIN[2]),
+}
+prow = []
+for lab, (a_n, b_n) in PAIRS.items():
+    pa, pb = per_q(a_n), per_q(b_n); cm = pa.index.intersection(pb.index)
+    rec = {"Karşılaştırma": lab, "sorgu": len(cm)}
+    for met in ("NDCG@10", "Top1"):
+        rec[f"Δ{met} (puan)"] = round(100 * float((pa.loc[cm, met] - pb.loc[cm, met]).mean()), 2)
+        rec[f"p ({met})"] = core.paired_randomization_test(pa.loc[cm, met], pb.loc[cm, met],
+                                                          n_perm=2000 if DRY_RUN else 10000, seed=CFG["SEED"])
+    prow.append(rec)
+COMP = pd.DataFrame(prow).set_index("Karşılaştırma")
+COMP.to_csv(os.path.join(CFG["OUT_DIR"], "ablation_component_tests.csv"))
+display(COMP)
 
 m = ["NDCG@10", "MRR@10", "P@10", "P@10_capped", "R@10", "Top1"]
 plot_df = ABL.loc[MAIN, m].reset_index().melt(id_vars="Sistem", var_name="Metrik", value_name="%")
@@ -1038,6 +1105,7 @@ def full_pipeline_on(cols, qids, Sd, Sb):
         r = CV.loc[int(q)]; qm = core.QueryMeta.from_text(r.headline, r.cv_text, ATTR, r.cv_struct)
         c = cg[i]
         f = core.build_pair_features(qm, c, JT, TSIM, Sd[i, c], Sb[i, c], fused[i, c], dr[i, c], br[i, c], rr[i, c], ce_s[i])
+        core.assert_no_gold_columns(f, "cold-start")
         parts.append(f)
     sc = RANKER.predict(pd.concat(parts)[FEATS].to_numpy(np.float32)).reshape(len(qids), K)
     out = {}
@@ -1150,6 +1218,7 @@ for si, q in enumerate(SHOWCASE[:2] if not DRY_RUN else SHOWCASE[:1]):
     ce_i = ce_score_matrix(CE, [q], np.array([cand_i]))[0]
     f_i = core.build_pair_features(qm, np.array(cand_i), JT, TSIM, S_DENSE["test"][i, cand_i], S_BM25["test"][i, cand_i],
                                    fused[i, cand_i], dr[i, cand_i], br[i, cand_i], rr[i, cand_i], ce_i)
+    core.assert_no_gold_columns(f_i, "hata-analizi")
     ltr_i = RANKER.predict(f_i[FEATS].to_numpy(np.float32))
     row = []
     for name, j in (("doğru", good), ("tuzak", trap)):
@@ -1216,14 +1285,17 @@ def save_model(m, path, half):
         m.save(path)
 save_model(BI, os.path.join(EX, "bi_encoder"), CFG["EXPORT_HALF"])
 save_model(CE, os.path.join(EX, "cross_encoder"), CFG["EXPORT_HALF"])
+# Çıkarımdaki sorgu tarafı paketteki (fp16'ya yuvarlanmış) ağırlıklarla kodlanır; ilan vektörleri de AYNI ağırlıklarla
+# yeniden kodlanır (belge/sorgu tarafı aynı hassasiyette)
+E_jobs_export = encode(BI, job_texts(DP)) if CFG["EXPORT_HALF"] else E_jobs
 RANKER.booster_.save_model(os.path.join(EX, "lambdamart.txt"))
 joblib.dump(ATTR, os.path.join(EX, "attribute_models.joblib"))
 joblib.dump(TSIM, os.path.join(EX, "title_sim.joblib"))
 jobs.drop(columns=[c for c in jobs.columns if c.startswith("gold_") or c.startswith("legacy_")]).to_parquet(os.path.join(EX, "jobs.parquet"), index=False)
 cvs[["cv_id", "headline", "cv_text", "split", "source"]].to_parquet(os.path.join(EX, "clean_cvs.parquet"), index=False)
-np.save(os.path.join(EX, "job_embeddings.npy"), E_jobs)
+np.save(os.path.join(EX, "job_embeddings.npy"), E_jobs_export)
 import faiss
-index = faiss.IndexFlatIP(E_jobs.shape[1]); index.add(E_jobs.astype(np.float32)); faiss.write_index(index, os.path.join(EX, "faiss.index"))
+index = faiss.IndexFlatIP(E_jobs_export.shape[1]); index.add(E_jobs_export.astype(np.float32)); faiss.write_index(index, os.path.join(EX, "faiss.index"))
 shutil.copy(os.path.join(CFG["DATA_DIR"], "match_candidate_sota.py"), os.path.join(EX, "match_candidate_sota.py"))
 EXPORT_CFG = {"bi_encoder_base": CFG["BI_ENCODER_BASE"], "cross_encoder_base": CFG["CROSS_ENCODER_BASE"],
               "query_prefix": QP, "doc_prefix": DP, "rrf_k": CFG["RRF_K"], "n_candidates": CFG["N_CANDIDATES"],
@@ -1256,7 +1328,13 @@ if DRIVE_DIR:
     shutil.copytree(CFG["FIG_DIR"], os.path.join(DRIVE_DIR, "figures"), dirs_exist_ok=True)
     for f in ("ablation_test.csv", "cold_start_test.csv", "stage1_training_log.csv", "stage2a_training_log.csv"):
         if os.path.exists(os.path.join(CFG["OUT_DIR"], f)): shutil.copy(os.path.join(CFG["OUT_DIR"], f), DRIVE_DIR)
-    print("Drive yedeği:", DRIVE_DIR)
+    # Drive yazmaları arka planda yüklenir; büyük paketin oturum kapanmadan Drive'a ulaşmasını garanti et
+    try:
+        from google.colab import drive
+        drive.flush_and_unmount()
+        print("Drive yedeği senkronize edildi:", DRIVE_DIR)
+    except Exception as e:
+        print("Drive senkronizasyonu doğrulanamadı; oturumu kapatmadan önce Drive'da dosyayı kontrol edin:", e)
 """)
 
 code(r"""

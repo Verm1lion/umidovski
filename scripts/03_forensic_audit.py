@@ -74,6 +74,10 @@ def profile(cv, jobs):
     }
     for m in ["[TARİH]", "[ŞİRKET]", "[ÜNİVERSİTE]", "[OKUL]"]:
         a["cv_empty"][f"maske_{m}"] = int(cv.cv_text.str.contains(re.escape(m)).sum())
+    _ws = lambda s: re.sub(r"\s+", " ", str(s or "")).strip()
+    n_diff = int(sum(_ws(j.get("about")) not in _ws(t) for j, t in zip(parsed, cv.cv_text)))
+    a["cv_about_cv_text_farkli"] = n_diff
+    a["cv_about_cv_text_farkli_pct"] = pct(n_diff / len(cv))
     en_words = {"the", "and", "with", "of", "in", "for", "experience", "skilled"}
     a["cv_ingilizce_agirlikli"] = int(cv.cv_text.apply(
         lambda t: sum(w in en_words for w in re.findall(r"[a-z]+", t.lower())) >= 8).sum())
@@ -243,6 +247,8 @@ def label_provenance(train):
     d["job_text_sektor_tokeni_iceriyor"] = pct(t.apply(lambda r: f"Sektör: {r.job_industry}" in str(r.job_text), axis=1).mean())
     d["job_text_pozisyon_seviyesi_iceriyor"] = pct(t.job_text.str.contains("Pozisyon Seviyesi:").mean())
     d["cand_seniority"] = t.drop_duplicates("cv_id").cand_seniority.value_counts().to_dict()
+    neg = t[t.binary_label.astype(int) == 0]
+    d["negatif_cift_farkli_sektor"] = pct((neg.cand_industry != neg.job_industry).mean())
     d["hard_neg_farkli_sektor"] = pct((t[t.match_type == "HARD_NEG"].cand_industry != t[t.match_type == "HARD_NEG"].job_industry).mean())
     d["pozitif_cift_ayni_sektor"] = pct((t[t.binary_label.astype(int) == 1].cand_industry == t[t.binary_label.astype(int) == 1].job_industry).mean())
     return d

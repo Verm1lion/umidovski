@@ -27,7 +27,9 @@ n = 604 öğe.
 | ISCO-08 2 hane | 0.9398 | — |
 | Yaka (BLUE/WHITE) | 0.9799 | 0.9917 |
 | Kıdem 0–5 (ikinci dereceden ağırlıklı κ) | 0.9585 | 0.9205 |
-| Veri setindeki CV yakası ↔ anotatör yakası | 0.9599 | 0.9823 |
+
+
+κ değerleri ikinci anotasyon ile ana anotasyonun **konsolidasyon öncesi** kodları arasındadır. Ayrıca veri setindeki CV `collar` alanı anotatör yakasıyla tüm 3.043 CV üzerinde κ = 0.9599 (uyum 0.9823) uyumludur; bu anotatörler arası değil, bir geçerlilik kontrolüdür.
 
 
 Kıdemde |fark| ≤ 1 oranı: 0.9983. Landis & Koch (1977) ölçeğinde κ > 0,80 'neredeyse mükemmel' uyumdur. Uzmanlık adlarının konsolidasyon öncesi birebir yazım uyumu 0.6192'dir; bu yüzden ad farklılıkları ayrı bir konsolidasyon turunda kanonikleştirilmiştir (ISCO grubu düzeyinde).
@@ -48,11 +50,11 @@ Kıdemde |fark| ≤ 1 oranı: 0.9983. Landis & Koch (1977) ölçeğinde κ > 0,8
 | 0 | Alakasiz / uygunsuz: diger tum durumlar (farkli yaka, farkli sektor ve farkli meslek) |
 
 
-qrels (grade ≥ 1): **608,901** satır; dağılım {'1': 472005, '2': 131784, '3': 5112}. Listede olmayan tüm çiftler grade 0'dır. **Tüm** CV × ilan çiftleri yargılıdır (tam yargı).
+qrels (grade ≥ 1): **608,691** satır; dağılım {'1': 471829, '2': 131751, '3': 5111}. Listede olmayan tüm çiftler grade 0'dır. **Tüm** CV × ilan çiftleri yargılıdır (tam yargı).
 
 ### 3.1 Kural-türevi derecelerin bağımsız çift-düzeyi yargılarla doğrulanması
 
-Tabakalı örneklem (her dereceden eşit sayıda, yalnız gerçek val/test CV'leri), n = 360. Yargıçlar kural derecesini görmeden yalnızca CV ve ilan metnini okuyup 0–3 verdi (`annotation/qrels_validation/RUBRIC.txt`).
+Tabakalı örneklem (her dereceden eşit sayıda, yalnız gerçek — sentetik olmayan — CV'ler; yargılar hiçbir eğitimde kullanılmaz), n = 360. Yargıçlar kural derecesini görmeden yalnızca CV ve ilan metnini okuyup 0–3 verdi (`annotation/qrels_validation/RUBRIC.txt`).
 
 
 | Ölçüt | Değer |
@@ -75,20 +77,20 @@ Karışıklık matrisi (satır = kural, sütun = bağımsız yargı):
 | 3 | 0 | 0 | 47 | 43 |
 
 
-**Yorum:** Uyum yüksektir (ağırlıklı κ ve |fark| ≤ 1 oranı). Ayrışmaların neredeyse tamamı **bir kademe aşağı** yöndedir: bağımsız yargıçlar kural grade-3 çiftlerinin bir kısmını 2, kural grade-2 çiftlerinin bir kısmını 1 olarak değerlendirmiştir (ör. aynı uzmanlık ama farklı teknoloji yığını; aynı ISCO grubu ama farklı alt rol). Kurallar bu anlamda biraz cömerttir; bu, mutlak NDCG değerlerini etkiler ancak sistemlerin **göreli** sıralamasını değiştirmez, çünkü tüm sistemler aynı qrels ile ölçülür. Ters yönde hata çok azdır: kural grade-0 çiftlerin 87/90'i yargıçça da 0, hiçbiri ≥ 2 değildir; yargıcın alakalı (≥ 2) bulup kuralın ≤ 1 dediği çift sayısı yalnızca 7'dir.
+**Yorum:** Ağırlıklı uyum yüksektir (κ, |fark| ≤ 1); birebir uyum ise %68.1 düzeyindedir. 115 ayrışmadan 97 tanesi (%84) bir kademe aşağı, 8 tanesi iki+ kademe aşağı, 10 tanesi yukarı yöndedir. Kural grade-3 çiftlerinden 47 / 90 tanesi yargıçça 2 bulunmuştur (ör. aynı uzmanlık ama farklı teknoloji yığını ya da kıdem/lokasyon yorumu); kural grade-2 çiftlerinden 43 / 90 tanesi 0–1 bulunmuştur. Yani kurallar özellikle üst derecelerde **cömerttir**: mutlak NDCG değerleri bir miktar iyimser olabilir. Tüm sistemler aynı qrels ile ölçüldüğü için karşılaştırma aynı ölçüt üzerindedir; ancak bu yanlılığın sistemleri eşit etkilediği kanıtlanmış değildir. Ters yönde: kural grade-0 çiftlerden 87 / 90 tanesi yargıçça da 0, hiçbiri ≥ 2 değildir. Not: grade-0 çiftler rastgele örneklendi; zor (BM25/leksikal) grade-0 çiftlerdeki hata oranını bu örneklem ölçmez. Yargıçlara derecelendirme rubriği verildiği için bu doğrulama kuralların tutarlı uygulanıp uygulanmadığını sınar; kuralların kendisinin doğruluğunu bağımsız olarak kanıtlamaz.
 
 ## 4. Sızıntısız bölme
 
 | Bölüm | CV | gerçek | sentetik | ort. grade-3 ilan | ort. grade-2 ilan | grade-3'ü olan CV oranı | alakalısı olmayan CV | medyan alakalı (≥2) |
 |---|---|---|---|---|---|---|---|---|
-| train | 2838 | 2127 | 711 | 1.41 | 34.32 | 0.5106 | 49 | 27.0 |
-| val | 455 | 455 | 0 | 1.19 | 37.91 | 0.3363 | 10 | 27.0 |
-| test | 461 | 461 | 0 | 1.26 | 37.17 | 0.3774 | 8 | 27.0 |
+| train | 2835 | 2125 | 710 | 1.43 | 35.46 | 0.5203 | 43 | 27.0 |
+| val | 457 | 457 | 0 | 1.07 | 32.3 | 0.3173 | 16 | 23.0 |
+| test | 461 | 461 | 0 | 1.24 | 35.72 | 0.3362 | 8 | 27.0 |
 
 
 İlan havuzu: {'warm': 2699, 'cold': 301} (cold = hiçbir eğitim sinyalinde kullanılmaz). Vitrin adayları (test'e sabit): [20951, 10587, 10511, 21029].
 
-### 4.1 Otomatik sızıntı kontrolleri (hepsi `05_build_dataset.py` içinde zorunlu; biri bile başarısızsa paket üretilmez)
+### 4.1 Otomatik sızıntı kontrolleri (sayım kontrolleri `05_build_dataset.py` içinde zorunludur ve 0 olmalıdır; biri bile başarısızsa paket üretilmez. `*_medyan`, `*_p90`, `*_p99` satırları yalnız bilgi amaçlıdır)
 
 | Kontrol | Değer |
 |---|---|
@@ -104,32 +106,32 @@ Karışıklık matrisi (satır = kural, sütun = bağımsız yargı):
 | triplette_cold_ilan | 0 |
 | legacy_pairs_train_disi_cv | 0 |
 | legacy_pairs_cold_ilan | 0 |
-| test_train_max_cos_medyan | 0.247 |
-| test_train_max_cos_p90 | 0.6 |
+| test_train_max_cos_medyan | 0.252 |
+| test_train_max_cos_p90 | 0.605 |
 | test_cv_cos_ge_0.8_trainde_ikizi | 0 |
-| sentetik_test_max_cos_p99 | 0.19 |
+| sentetik_test_max_cos_p99 | 0.169 |
 | sentetik_test_cos_ge_0.8 | 0 |
 | TUM_KONTROLLER_GECTI | True |
 
 ## 5. Zor negatifler ve triplet'ler
 
-* Train triplet: **4,886**, val triplet (yalnız val kaybı için): 444. İstatistik: {'trap_fallback_bm25': 23, 'anchor_pozitifsiz_atlandi': 53, 'anchor': 2838}.
+* Train triplet: **4,883**, val triplet (yalnız val kaybı için): 438. İstatistik: {'lex_fallback_bm25': 4, 'trap_fallback_bm25': 19, 'trap_fallback_bm25_satir': 29, 'anchor_pozitifsiz_atlandi': 49, 'en_cok_kullanilan_lex_negatif_satir': 25, 'en_cok_kullanilan_trap_negatif_satir': 114, 'en_cok_kullanilan_bm25_negatif_satir': 25, 'anchor': 2835}.
 
-* `neg_lexical`: Ayni/benzer unvan sozcugu (karakter n-gram), FARKLI sektor, grade 0 (Baklava Ustasi ~ Siva Ustasi)
+* `neg_lexical`: Ayni/benzer unvan sozcugu (karakter n-gram TF-IDF kosinus >= 0.05), FARKLI sektor, grade 0 (Baklava Ustasi ~ Siva Ustasi); benzerlik neg_lexical_title_sim sutununda
 
-* `neg_seniority_collar`: Ayni sektor veya ayni ISCO alt-ana grubu; yaka zit veya |kidem farki|>=3, grade<=1
+* `neg_seniority_collar`: Ayni sektor veya ayni ISCO alt-ana grubu; yaka zit veya |kidem farki|>=3, grade<=1. Boyle ilan yoksa BM25 sirasi 4-10'dan grade 0 ilan konur (neg_seniority_collar_is_fallback=True)
 
 * `neg_bm25`: BM25 ile en yuksek skorlu fakat grade 0 ilanlar (kelime kesisimi yuksek, anlamca uyumsuz)
 
-* Negatiflerin derece dağılımı: {'neg_lexical_grade': {'0': 4886}, 'neg_seniority_collar_grade': {'0': 3206, '1': 1680}, 'neg_bm25_grade': {'0': 4886}}
+* Negatiflerin derece dağılımı: {'neg_lexical_grade': {'0': 4883}, 'neg_seniority_collar_grade': {'0': 3153, '1': 1730}, 'neg_bm25_grade': {'0': 4883}}
 
-* Notebook ayrıca 4. bir negatif üretir: eğitimsiz base modelin üst sıralara koyduğu **grade-0** ilanlar (qrels ile filtrelendiği için yanlış negatif yok).
+* Notebook ayrıca 4. bir negatif üretir: eğitimsiz base modelin üst sıralara koyduğu **grade-0** ilanlar (qrels ile filtrelenir: kurallara göre grade 0'dır; yine de en benzer grade-0 ilanların bir kısmı yakın-alakalı olabilir).
 
 ## 6. Sentetik CV zenginleştirmesi (yalnız train)
 
-* Hedef: train'de hiç / tek CV'si olmayan ve WARM ilanlarda geçen uzmanlıklar. Üretilen: 868, kabul edilen: **711**.
+* Hedef: train'de hiç / tek CV'si olmayan ve WARM ilanlarda geçen uzmanlıklar. Üretilen: 868, kabul edilen: **710**.
 
-* Gidiş-dönüş (kör anotatör) tutarlılığı: ISCO 727, yaka 845, kıdem(±1) 863; filtre reddi 157, val/test başlık çakışması reddi 0.
+* Gidiş-dönüş (kör anotatör) tutarlılığı: ISCO 727, yaka 845, kıdem(±1) 863; filtre reddi 157, val/test başlık çakışması reddi 1.
 
 ## 7. Vitrin adayları için kural dereceleri (kontrol)
 
@@ -165,20 +167,20 @@ Karışıklık matrisi (satır = kural, sütun = bağımsız yargı):
 
 | Metrik | BM25 (test) |
 |---|---|
-| NDCG@10 | 51.63 |
-| MRR@10 | 71.15 |
-| P@10 | 38.21 |
-| P@10_capped | 46.04 |
-| Top1 | 60.26 |
-| Top1_exact(grade3) | 9.93 |
-| R@10 | 22.85 |
-| R@50 | 44.94 |
-| R@100 | 56.83 |
-| P@10(sektor) | 63.77 |
-| Top1(sektor) | 77.01 |
+| NDCG@10 | 53.66 |
+| MRR@10 | 74.03 |
+| P@10 | 38.37 |
+| P@10_capped | 48.53 |
+| Top1 | 64.68 |
+| Top1_exact(grade3) | 9.49 |
+| R@10 | 26.59 |
+| R@50 | 47.46 |
+| R@100 | 59.05 |
+| P@10(sektor) | 64.12 |
+| Top1(sektor) | 78.09 |
 | n_queries | 453 |
 | n_skipped_no_relevant | 8 |
-| NDCG@10_CI95 | [49.2, 54.0] |
+| NDCG@10_CI95 | [51.5, 55.8] |
 
 
 Aynı BM25 sıralaması eski metrikle ("aynı sektör") ölçülünce çok daha yüksek görünür. Yeni kademeli qrels meslek, yaka, kıdem ve lokasyonu ölçtüğü için çok daha katıdır. Nöral sistemlerin sayıları Colab A100 çalıştırmasıyla notebook'ta üretilir.
@@ -190,29 +192,29 @@ Aynı BM25 sıralaması eski metrikle ("aynı sektör") ölçülünce çok daha 
 
 | Metrik | BM25 | BM25 + LambdaMART (leksikal, noral yok) |
 |---|---|---|
-| NDCG@10 | 51.63 | 64.58 |
-| MRR@10 | 71.15 | 81.16 |
-| P@10 | 38.21 | 45.47 |
-| P@10_capped | 46.04 | 54.71 |
-| R@10 | 22.85 | 27.0 |
-| Top1 | 60.26 | 74.39 |
-| Top1_exact(grade3) | 9.93 | 17.66 |
-| NDCG@10_CI95 | [49.2, 54.0] | [62.2, 66.8] |
+| NDCG@10 | 53.66 | 66.05 |
+| MRR@10 | 74.03 | 80.23 |
+| P@10 | 38.37 | 45.01 |
+| P@10_capped | 48.53 | 56.35 |
+| R@10 | 26.59 | 29.71 |
+| Top1 | 64.68 | 72.85 |
+| Top1_exact(grade3) | 9.49 | 15.67 |
+| NDCG@10_CI95 | [51.5, 55.8] | [63.9, 68.2] |
 
 
-NDCG@10 farkı için Fisher randomizasyon testi p = 9.999e-05. En önemli öznitelikler (gain): ind_prob_job_sector, collar_agree, title_sim, bm25_z, title_tok_overlap, job_desc_len_log. Sektör/yaka öznitelikleri yalnızca train CV'lerinde eğitilmiş sınıflandırıcıların **tahminleridir**.
+NDCG@10 farkı için Fisher randomizasyon testi p = 9.999e-05. En önemli öznitelikler (gain): ind_prob_job_sector, bm25_z, title_sim, collar_agree, title_tok_overlap, job_p_blue. Sektör/yaka öznitelikleri yalnızca train CV'lerinde eğitilmiş sınıflandırıcıların **tahminleridir**.
 
 ## 9. Paket içeriği
 
 | Dosya | Boyut | SHA-256 |
 |---|---|---|
-| clean_cvs.parquet | 4.64 MB | 45c1a3a195b2b0c6… |
+| clean_cvs.parquet | 4.64 MB | 88b004e5b5ebe329… |
 | clean_jobs.parquet | 7.45 MB | c6c7d073c802abf5… |
-| legacy_train_pairs.parquet | 0.07 MB | b75994ad7d839af9… |
-| match_candidate_sota.py | 0.05 MB | 02b865f8240dd04d… |
-| qrels_ground_truth.parquet | 0.36 MB | cb94e071de82dc1a… |
-| test_queries.parquet | 0.26 MB | 7ab23c8a817c806b… |
-| train_queries.parquet | 1.84 MB | 46c884beaf619e67… |
-| train_triplets.parquet | 0.08 MB | 8cfbf451c7207df7… |
-| val_queries.parquet | 0.26 MB | d7366c1f2c6a2e25… |
-| val_triplets.parquet | 0.02 MB | 3bc41bf704eaace2… |
+| legacy_train_pairs.parquet | 0.07 MB | 4a30d5faf3552d5d… |
+| match_candidate_sota.py | 0.05 MB | 4b4621598befa131… |
+| qrels_ground_truth.parquet | 0.36 MB | 108637bac126ee38… |
+| test_queries.parquet | 0.26 MB | 6e41d74a7d9c4062… |
+| train_queries.parquet | 1.83 MB | 807bf528da34164e… |
+| train_triplets.parquet | 0.10 MB | f3f18b14bb7ad033… |
+| val_queries.parquet | 0.26 MB | 80dbce89f6adca9c… |
+| val_triplets.parquet | 0.02 MB | 85519f8f0bb88dc9… |

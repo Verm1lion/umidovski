@@ -61,7 +61,7 @@ def sample():
     order = rng.permutation(len(rows))
     rows = [rows[i] for i in order]
     os.makedirs(OUT, exist_ok=True)
-    for f in glob.glob(os.path.join(OUT, "*.json")):
+    for f in glob.glob(os.path.join(OUT, "pairs_*.json")):   # judged_*.json (yargilar) korunur
         os.remove(f)
     C = cvs.set_index("cv_id")
     J = jobs.set_index("job_key")

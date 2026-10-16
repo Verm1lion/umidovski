@@ -13,7 +13,7 @@ Alt komutlar
            Ayrica normalize basligi val/test CV basliklarindan biriyle cakisan sentetik CV atilir.
 
 Kullanim:
-  python scripts/06_synthetic_cvs.py targets [--per-batch 25] [--max 900]   # bu depo: 868 hedef, 35 parti
+  python scripts/06_synthetic_cvs.py targets [--per-batch 25] [--max 900]   # kayitli specs/: 868 hedef, 35 parti (bolmenin onceki surumu); mevcut bolmede 890 hedef, 36 parti
   python scripts/06_synthetic_cvs.py merge
 """
 import argparse

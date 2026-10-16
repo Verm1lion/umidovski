@@ -120,7 +120,13 @@ def main():
               "Listede olmayan tüm çiftler grade 0'dır. **Tüm** CV × ilan çiftleri yargılıdır (tam yargı).\n")
     if qv:
         md.append("### 3.1 Kural-türevi derecelerin bağımsız çift-düzeyi yargılarla doğrulanması\n")
-        md.append(f"Tabakalı örneklem (her dereceden eşit sayıda, yalnız gerçek — sentetik olmayan — CV'ler; yargılar hiçbir eğitimde kullanılmaz), n = {qv['n']}. Yargıçlar "
+        key = json.load(open(os.path.join(ROOT, "annotation", "qrels_validation_key.json"), encoding="utf-8"))
+        cv_all = pd.read_parquet(os.path.join(D, "clean_cvs.parquet"), columns=["cv_id", "split"]).set_index("cv_id").split
+        mix = pd.Series([cv_all.get(int(v["cv_id"]), "?") for v in key.values()]).value_counts().to_dict()
+        md.append(f"Tabakalı örneklem (her dereceden eşit sayıda, yalnız gerçek — sentetik olmayan — CV'ler; yargılar hiçbir eğitimde kullanılmaz), n = {qv['n']}. "
+                  "Örneklem bölmenin önceki bir sürümünde val/test CV'lerinden çizildi; unvan anahtarı kelime sırasından bağımsız "
+                  f"yapılınca bölme değişti ve mevcut bölmede çiftlerin dağılımı: {mix}. Kural dereceleri bölmeden bağımsız "
+                  "hesaplandığı için doğrulama kurallar için geçerlidir; ancak örneklem artık bir held-out ölçüm değildir. Yargıçlar "
                   "kural derecesini görmeden yalnızca CV ve ilan metnini okuyup 0–3 verdi "
                   "(`annotation/qrels_validation/RUBRIC.txt`).\n\n")
         md.append(fmt_tbl([["İkinci dereceden ağırlıklı κ", qv["quadratic_weighted_kappa"]],
@@ -170,8 +176,16 @@ def main():
               "(qrels ile filtrelenir: kurallara göre grade 0'dır; yine de en benzer grade-0 ilanların bir kısmı yakın-alakalı olabilir).\n")
     if syn:
         md.append("## 6. Sentetik CV zenginleştirmesi (yalnız train)\n")
+        cvq = pd.read_parquet(os.path.join(D, "clean_cvs.parquet"), columns=["split", "source", "gold_occ_key"])
+        jbq = pd.read_parquet(os.path.join(D, "clean_jobs.parquet"), columns=["job_pool", "gold_occ_key"])
+        tr_cnt = cvq[(cvq.split == "train") & (cvq.source == "real")].gold_occ_key.value_counts()
+        warm_occ = jbq[jbq.job_pool == "warm"].gold_occ_key.unique()
+        now_need = int(sum(tr_cnt.get(o, 0) <= 1 for o in warm_occ))
         md.append(f"* Hedef: train'de hiç / tek CV'si olmayan ve WARM ilanlarda geçen uzmanlıklar. Üretilen: {syn.get('hedef')}, "
-                  f"kabul edilen: **{syn.get('kabul')}**.\n")
+                  f"kabul edilen: **{syn.get('kabul')}**. Hedefler bölmenin önceki bir sürümünde çizildi; mevcut bölmede aynı koşul "
+                  f"{now_need} uzmanlık verir (`06 ... targets` yeniden çalıştırılırsa bu sayı üretilir). Sentetik CV'ler yalnız "
+                  "ilan tarafındaki meslek bilgisinden üretildiği ve `merge` mevcut bölmenin val/test başlıklarıyla çakışanları "
+                  "attığı için bu fark sızıntı yaratmaz.\n")
         md.append(f"* Gidiş-dönüş (kör anotatör) tutarlılığı: ISCO {syn.get('isco4_tutarli')}, yaka {syn.get('yaka_tutarli')}, "
                   f"kıdem(±1) {syn.get('kidem_tutarli')}; filtre reddi {syn.get('tutarlilik_filtresi_ret', 0)}, "
                   f"val/test başlık çakışması reddi {syn.get('val_test_baslik_cakismasi_ret', 0)}.\n")

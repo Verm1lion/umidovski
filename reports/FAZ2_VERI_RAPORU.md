@@ -54,7 +54,7 @@ qrels (grade ≥ 1): **608,691** satır; dağılım {'1': 471829, '2': 131751, '
 
 ### 3.1 Kural-türevi derecelerin bağımsız çift-düzeyi yargılarla doğrulanması
 
-Tabakalı örneklem (her dereceden eşit sayıda, yalnız gerçek — sentetik olmayan — CV'ler; yargılar hiçbir eğitimde kullanılmaz), n = 360. Yargıçlar kural derecesini görmeden yalnızca CV ve ilan metnini okuyup 0–3 verdi (`annotation/qrels_validation/RUBRIC.txt`).
+Tabakalı örneklem (her dereceden eşit sayıda, yalnız gerçek — sentetik olmayan — CV'ler; yargılar hiçbir eğitimde kullanılmaz), n = 360. Örneklem bölmenin önceki bir sürümünde val/test CV'lerinden çizildi; unvan anahtarı kelime sırasından bağımsız yapılınca bölme değişti ve mevcut bölmede çiftlerin dağılımı: {'train': 244, 'test': 69, 'val': 47}. Kural dereceleri bölmeden bağımsız hesaplandığı için doğrulama kurallar için geçerlidir; ancak örneklem artık bir held-out ölçüm değildir. Yargıçlar kural derecesini görmeden yalnızca CV ve ilan metnini okuyup 0–3 verdi (`annotation/qrels_validation/RUBRIC.txt`).
 
 
 | Ölçüt | Değer |
@@ -129,7 +129,7 @@ Karışıklık matrisi (satır = kural, sütun = bağımsız yargı):
 
 ## 6. Sentetik CV zenginleştirmesi (yalnız train)
 
-* Hedef: train'de hiç / tek CV'si olmayan ve WARM ilanlarda geçen uzmanlıklar. Üretilen: 868, kabul edilen: **710**.
+* Hedef: train'de hiç / tek CV'si olmayan ve WARM ilanlarda geçen uzmanlıklar. Üretilen: 868, kabul edilen: **710**. Hedefler bölmenin önceki bir sürümünde çizildi; mevcut bölmede aynı koşul 890 uzmanlık verir (`06 ... targets` yeniden çalıştırılırsa bu sayı üretilir). Sentetik CV'ler yalnız ilan tarafındaki meslek bilgisinden üretildiği ve `merge` mevcut bölmenin val/test başlıklarıyla çakışanları attığı için bu fark sızıntı yaratmaz.
 
 * Gidiş-dönüş (kör anotatör) tutarlılığı: ISCO 727, yaka 845, kıdem(±1) 863; filtre reddi 157, val/test başlık çakışması reddi 1.
 

@@ -10,43 +10,43 @@
   "alakali_esigi_binary_metrikler": 2,
   "split": {
     "train": {
-      "cv": 2127,
+      "cv": 2838,
       "gercek": 2127,
-      "sentetik": 0,
-      "ort_grade3": 1.49,
-      "ort_grade2": 36.04,
-      "ort_grade1": 128.31,
+      "sentetik": 711,
+      "ort_grade3": 1.41,
+      "ort_grade2": 34.32,
+      "ort_grade1": 124.79,
       "alakali(>=2)_ilani_olmayan_cv": 49,
-      "grade3_ilani_olan_cv_orani": 0.347,
-      "alakali_sayisi_medyan": 28.0,
-      "alakali_sayisi_lt10_orani": 0.315,
+      "grade3_ilani_olan_cv_orani": 0.5106,
+      "alakali_sayisi_medyan": 27.0,
+      "alakali_sayisi_lt10_orani": 0.3185,
       "kategori_dagilimi": {
-        "INDUSTRIAL_MANUFACTURING": 321,
-        "CONSTRUCTION": 288,
-        "IT_SOFTWARE": 258,
-        "FINANCE_ACCOUNTING": 177,
-        "SALES": 112,
-        "HEALTHCARE": 95,
-        "SUPPLY_CHAIN_LOGISTICS": 89,
-        "CHEF_HORECA": 80,
-        "MARKETING_MEDIA": 76,
-        "HR": 72,
-        "SCIENCE_RND": 61,
-        "LEGAL": 61,
-        "CREATIVE_DESIGN": 55,
-        "LOGISTICS_DRIVER": 53,
-        "MARITIME": 51,
-        "EDUCATION": 44,
-        "OFFICE_ADMIN_MGMT": 35,
-        "AVIATION": 32,
-        "JANITORIAL_FACILITY": 31,
-        "APPAREL_TEXTILE": 30,
-        "AGRICULTURE": 29,
-        "ENV_ESG": 22,
-        "SECURITY_EMERGENCY": 22,
-        "SPORTS": 15,
-        "BEAUTY_CARE": 12,
-        "CUSTOMER_SERVICE": 6
+        "INDUSTRIAL_MANUFACTURING": 449,
+        "CONSTRUCTION": 365,
+        "IT_SOFTWARE": 289,
+        "FINANCE_ACCOUNTING": 221,
+        "HEALTHCARE": 175,
+        "SALES": 124,
+        "MARKETING_MEDIA": 109,
+        "SUPPLY_CHAIN_LOGISTICS": 103,
+        "CHEF_HORECA": 102,
+        "SCIENCE_RND": 98,
+        "HR": 90,
+        "CREATIVE_DESIGN": 88,
+        "LEGAL": 79,
+        "MARITIME": 73,
+        "EDUCATION": 72,
+        "LOGISTICS_DRIVER": 68,
+        "AVIATION": 53,
+        "AGRICULTURE": 52,
+        "APPAREL_TEXTILE": 48,
+        "OFFICE_ADMIN_MGMT": 41,
+        "JANITORIAL_FACILITY": 35,
+        "ENV_ESG": 34,
+        "SECURITY_EMERGENCY": 27,
+        "SPORTS": 17,
+        "CUSTOMER_SERVICE": 13,
+        "BEAUTY_CARE": 13
       }
     },
     "val": {
@@ -139,12 +139,12 @@
     21029
   ],
   "triplet": {
-    "train": 4085,
+    "train": 4886,
     "val": 444,
     "train_istatistik": {
-      "trap_fallback_bm25": 18,
+      "trap_fallback_bm25": 23,
       "anchor_pozitifsiz_atlandi": 53,
-      "anchor": 2127
+      "anchor": 2838
     },
     "val_istatistik": {
       "trap_fallback_bm25": 1,
@@ -158,23 +158,23 @@
     },
     "negatif_grade_dagilimi": {
       "neg_lexical_grade": {
-        "0": 4085
+        "0": 4886
       },
       "neg_seniority_collar_grade": {
-        "0": 2721,
-        "1": 1364
+        "0": 3206,
+        "1": 1680
       },
       "neg_bm25_grade": {
-        "0": 4085
+        "0": 4886
       }
     }
   },
   "qrels": {
-    "satir(grade>=1)": 506111,
+    "satir(grade>=1)": 608901,
     "grade_dagilimi": {
-      "1": 390780,
-      "2": 111044,
-      "3": 4287
+      "1": 472005,
+      "2": 131784,
+      "3": 5112
     }
   },
   "legacy_train_pairs": {
@@ -198,6 +198,8 @@
     "test_train_max_cos_medyan": 0.247,
     "test_train_max_cos_p90": 0.6,
     "test_cv_cos_ge_0.8_trainde_ikizi": 0,
+    "sentetik_test_max_cos_p99": 0.19,
+    "sentetik_test_cos_ge_0.8": 0,
     "TUM_KONTROLLER_GECTI": true
   },
   "vitrin_kontrol": {
@@ -359,8 +361,8 @@
   },
   "dosyalar": {
     "clean_cvs.parquet": {
-      "bayt": 3259335,
-      "sha256": "b4caeceeb421f93922e10989504f82f7f0c2cdec4bec128f08158d358f73a6f4"
+      "bayt": 4638850,
+      "sha256": "45c1a3a195b2b0c6dd86a3d987d5c19649c595afe4dc6ed146855008de0b5221"
     },
     "clean_jobs.parquet": {
       "bayt": 7453667,
@@ -375,28 +377,28 @@
       "sha256": "02b865f8240dd04d294812312be6d654f58cca193ccf0dc753b6ea97059ba331"
     },
     "qrels_ground_truth.parquet": {
-      "bayt": 286793,
-      "sha256": "e4da835d95153bd5c755391ef48ef5632d73c345ff1a69d866d6ffd94f4160ae"
+      "bayt": 357365,
+      "sha256": "cb94e071de82dc1a10f61d3d09d05a897246760531e5181a519427c1090ed847"
     },
     "test_queries.parquet": {
       "bayt": 258967,
       "sha256": "7ab23c8a817c806b065e967be1207cc828da24163db9db76f85134be70d2cafd"
     },
     "train_queries.parquet": {
-      "bayt": 1143743,
-      "sha256": "5562c7af7f026ef744f0d45a9ed112fb0bacafa26e056695b64f2ceb8124fa3b"
+      "bayt": 1836707,
+      "sha256": "46c884beaf619e674b5aaabc09812f680cf71c9ffd82dea8b75572e7272822b0"
     },
     "train_triplets.parquet": {
-      "bayt": 69112,
-      "sha256": "20e8610d8fffa3353609bef9bbe3a3ecf426ae390a7b2f3c56922ac74d824b1f"
+      "bayt": 82231,
+      "sha256": "8cfbf451c7207df7fd00b53d208ff2e668f36a85097a0506ad1204142a81f4e5"
     },
     "val_queries.parquet": {
       "bayt": 256005,
       "sha256": "d7366c1f2c6a2e2564338b561f61969307b66db6ff2d02a085ba275629ed5323"
     },
     "val_triplets.parquet": {
-      "bayt": 17306,
-      "sha256": "3fc5ac9a03483ecedbc42959799a5994b31ebc3435109a2aed184bb7e2c8ed7c"
+      "bayt": 17314,
+      "sha256": "3bc41bf704eaace2a583838dabdfad4d33a48901f153809db71babfa9a64f162"
     }
   }
 }

@@ -30,21 +30,24 @@
    * hiçbir şey yapmayın: 2. bölümdeki hücre çalışınca bir **"Dosya seç"** düğmesi çıkar, oradan seçin.
 5. **Çalıştırın.** *Çalışma zamanı → Tümünü çalıştır*. İlk hücre kütüphaneleri sabit sürümlerle kurar (~2 dk).
    Modeller (BGE-M3 ≈ 2,3 GB, bge-reranker-v2-m3 ≈ 2,3 GB, e5-small ≈ 0,5 GB) Hugging Face'ten otomatik iner.
-6. **Bekleyin.** A100-40GB'da toplam süre yaklaşık **60–90 dakika**:
+6. **Bekleyin.** A100-40GB'da toplam süre yaklaşık **1,5–2,5 saat** (Google Drive bağlama izni bir kez sorulur;
+   sonuçlar `MyDrive/cv_ilan_sota/` klasörüne de yedeklenir):
 
    | Bölüm | Yaklaşık süre |
    |---|---|
-   | Kurulum + veri | 3 dk |
+   | Kurulum + veri + model indirme | 5 dk |
    | Baseline 1–2 (BM25, zero-shot) | 2 dk |
-   | Baseline 3 (eski yaklaşımın yeniden eğitimi, 3 epoch) | 8–12 dk |
-   | Sıcaklık taraması (3 × kısa eğitim) | 10–15 dk |
-   | Aşama 1 bi-encoder (3 epoch, erken durdurma) | 15–25 dk |
-   | Aşama 2a cross-encoder (2 epoch) | 10–15 dk |
-   | Aşama 2b LambdaMART (Optuna 40 deneme) | 2–4 dk |
-   | Ablation, hata analizi, dışa aktarım | 5 dk |
+   | Baseline 3 (eski yaklaşımın yeniden eğitimi, 3 epoch) | 10–15 dk |
+   | Sıcaklık taraması (τ ∈ {0,05; 0,02}, 2 × yarım epoch) | 10–15 dk |
+   | Aşama 1 bi-encoder (3 epoch, erken durdurma) | 25–45 dk |
+   | Aşama 2a cross-encoder (2 epoch) | 15–25 dk |
+   | Aşama 2b LambdaMART (Optuna 40 deneme) | 3–5 dk |
+   | Ablation, soğuk-başlangıç, hata analizi, dışa aktarım | 10 dk |
 
-7. **Sonuçları alın.** Son hücreler `export_model_bundle.zip`'i otomatik olarak indirir. Grafikler, CSV tabloları ve
-   `metrics.json` bu paketin içindedir (`figures/`, `ablation_test.csv`, `cold_start_test.csv`).
+7. **Sonuçları alın.** Son hücreler `export_model_bundle.zip`'i üretir (model ağırlıkları fp16, ≈2,5 GB) ve Drive'a
+   kopyalar; paket 1,5 GB'tan küçükse tarayıcı indirmesini de başlatır. Grafikler, CSV tabloları ve `metrics.json`
+   paketin içindedir (`figures/`, `ablation_test.csv`, `cold_start_test.csv`). Son hücre paketi sıfırdan yükleyip
+   notebook sonuçlarıyla **eşitliğini** (Top-10 örtüşme) ve FastAPI uç noktasını test eder.
 8. **Canlıda kullanım (arkadaşınız için):**
    ```bash
    unzip export_model_bundle.zip && cd export_model_bundle
@@ -59,7 +62,8 @@
 | Belirti | Çözüm |
 |---|---|
 | `CUDA out of memory` | 1. bölümdeki `CFG` içinde `BI_BATCH=32`, `BI_MINI_BATCH=8`, `CE_BATCH=4` yapın |
-| A100 yerine T4/L4 geldi | Çalışır ama yavaştır. L4'te bf16 vardır; T4'te `BF16=False` olur, süre 3–4 katına çıkar |
+| A100 yerine T4/L4/V100 geldi | Çalışır ama yavaştır. Notebook GPU neslini algılar: bf16/TF32 yalnız Ampere+ (A100/L4) üzerinde açılır, T4/V100'de otomatik fp16 kullanılır; batch boyutlarını düşürün |
+| Drive bağlamak istemiyorum | `CFG["USE_DRIVE"]=False`; sonuçlar yalnız Colab diskinde kalır (oturum kapanınca silinir) |
 | Kurulum sonrası "restart runtime" uyarısı | *Çalışma zamanı → Yeniden başlat*, ardından tekrar *Tümünü çalıştır* (kurulum hızlıca atlanır) |
 | Hugging Face indirmesi yavaş | Colab ağına bağlıdır. Model adları `CFG` içinde değiştirilebilir (ör. `intfloat/multilingual-e5-large`) |
 | Hızlı bir deneme isteniyor | `CFG`'de `BI_EPOCHS=1`, `TUNE_TEMPERATURE=False`, `LTR_TRIALS=10` yapın (~25 dk) |
@@ -142,9 +146,24 @@ kullanılır.
   ve onun altında kanonik bir **uzmanlık** etiketine (ESCO düzeyi inceliğinde) eşlendi. Ayrıca yaka ve 0–5 ölçekli
   kıdem atandı (`annotation/GUIDELINES.md`).
 * **Anotasyon süreci:** LLM destekli uzman anotasyonu (Thomas vd., 2024; Faggioli vd., 2023), yazılı kılavuz ve ev
-  kurallarıyla yapıldı. Ardından ISCO alt-ana gruplarına göre bir **konsolidasyon** turu, ayrıca öğelerin
-  rastgele %10'u için **bağımsız ikinci anotasyon** yapıldı. Uyum Cohen'in κ katsayısıyla raporlanır (Cohen, 1960;
-  kıdem için ağırlıklı κ, Cohen, 1968). Değerler `reports/FAZ2_VERI_RAPORU.md` içindedir.
+  kurallarıyla yapıldı. Ardından ISCO alt-ana gruplarına göre bir **konsolidasyon** turu yapıldı; sonuçta 298 ISCO-08
+  birim grubu ve 1.630 kanonik uzmanlık çıktı. Öğelerin rastgele %10'u (n = 604) **bağımsız ikinci anotasyondan**
+  geçti. Uyum Cohen'in κ katsayısıyla ölçüldü (Cohen, 1960; kıdem için ağırlıklı κ, Cohen, 1968):
+
+  | Alan | κ | Birebir uyum |
+  |---|---|---|
+  | ISCO-08 birim grubu (4 hane) | **0,916** | %91,7 |
+  | Yaka | **0,980** | %99,2 |
+  | Kıdem 0–5 (ikinci dereceden ağırlıklı) | **0,959** | %92,1 (\|fark\| ≤ 1: %99,8) |
+  | Veri setindeki CV yakası ↔ anotatör | 0,960 | %98,2 |
+
+  Landis & Koch (1977) ölçeğinde κ > 0,80 "neredeyse mükemmel" uyumdur. Ayrıntılar `reports/FAZ2_VERI_RAPORU.md` içinde.
+* **Çift düzeyinde bağımsız doğrulama:** Kurallardan türetilen dereceler, kuralı bilmeyen yargıçların doğrudan
+  (CV, ilan) çiftlerine verdiği 0–3 derecelerle karşılaştırıldı. Örneklem her dereceden 90 çift olmak üzere 360 çift
+  ve yalnızca gerçek val/test CV'leri. Sonuç: **ikinci dereceden ağırlıklı κ = 0,836**, Spearman ρ = 0,875,
+  \|fark\| ≤ 1 oranı %97,8, ikili (grade ≥ 2) uyum %86,1. Ayrışmalar neredeyse hep **bir kademe aşağı** yöndedir:
+  yargıçlar bazı kural grade-3 çiftlerini 2, bazı grade-2 çiftlerini 1 buldu. Yani kurallar biraz cömerttir.
+  Kural grade-0 olup yargıcın alakalı (≥ 2) bulduğu çift **yoktur**.
 * **Kademeler:**
 
   | Grade | Kural |
@@ -191,8 +210,11 @@ $$\mathcal{L}_{\text{MNRL}}=-\frac{1}{|B|}\sum_{i\in B}\log\frac{\exp(s(q_i,d_i^
 * **Sıcaklık** $\tau$ ($\text{scale}=1/\tau$) {0,05; 0,03; 0,02} ızgarasında, doğrulama NDCG@10'una göre seçilir.
 * **GradCache** (Cached MNRL; Gao vd., 2021): Gradyanlar mini-batch'lere bölünerek hesaplanır. Böylece bellek sabit
   kalırken etkin batch büyür (A100'de 64 satır × 6 metin). Batch-içi negatiflerin kalitesi batch boyutuyla artar.
-* **NO_DUPLICATES örnekleyici:** Aynı ilan metni bir batch'e iki kez girmez; bu, en bariz yanlış negatifi önler. Kalan
-  batch-içi yanlış-negatif oranı notebook'ta ölçülüp raporlanır.
+* **Tekrarsız örnekleyici (NO_DUPLICATES):** Aynı ilan metni bir batch'e iki kez girmez; en bariz yanlış negatif bu
+  sayede oluşmaz. ST 6.1'in örnekleyicisinde iki sessiz hata vardı ve notebook bunları düzeltir.
+  (i) Batch sayısının yalnızca bir üst-sınır tahmini olması nedeniyle bazı satırlar hiç eğitilmiyordu.
+  (ii) Çoklu-veri modunda epoch tohumu iletilmediği için her epoch aynı batch'ler tekrarlanıyordu.
+  Kalan batch-içi yanlış-negatif oranı notebook'ta ölçülüp raporlanır.
 * **CoSENT çoklu-görev kaybı** (Su, 2022; AnglE: Li & Li, 2023): kademeli sıralamayı doğrudan öğretir:
   $$\mathcal{L}_{\text{CoSENT}}=\log\Big(1+\sum_{r(i)>r(j)}\exp\big(\lambda\,(s_j-s_i)\big)\Big)$$
   Grade-2 bir çift grade-1 bir çiftten, grade-1 de grade-0'dan yüksek skorlanmalıdır. MNRL yalnızca "pozitif mi
@@ -259,11 +281,31 @@ unvan karakter n-gram benzerliği · deneyim yılı …
   Smucker vd. (2007) IR karşılaştırmalarında bu testi önerir.
 
 ### 3.10 Sentetik zenginleştirme
-Train'de hiç (ya da yalnızca 1) CV'si olmayan uzmanlıklar için, **yalnızca WARM ilanların meslek bilgisinden**
-gerçekçi Türkçe CV'ler üretildi. Bu, ilanlardan sorgu üretme fikridir (InPars: Bonifacio vd., 2022; Promptagator:
+Train'de hiç (ya da yalnızca 1) CV'si olmayan 868 uzmanlık için, **yalnızca WARM ilanların meslek bilgisinden**
+uzmanlık başına bir gerçekçi Türkçe CV üretildi. Bu, ilanlardan sorgu üretme fikridir (InPars: Bonifacio vd., 2022; Promptagator:
 Dai vd., 2023). **Gidiş-dönüş tutarlılık filtresi** uygulandı: üretilen CV, hedefi bilmeyen bağımsız bir anotatörce
-kodlandı; ISCO kodu, yaka ve kıdem (±1) hedefle uyuşmayan CV atıldı. Sentetik CV'ler **yalnızca train'e** girer.
+kodlandı; ISCO kodu, yaka ve kıdem (±1) hedefle uyuşmayan CV atıldı. 868 CV'nin **711'i** kabul edildi, 157'si
+reddedildi. Sentetik CV'ler **yalnızca train'e** girer.
 Val/test tamamen gerçek CV'lerdir.
+
+### 3.11 Bu depoda ölçülen gerçek sonuçlar (GPU gerektirmeyen bileşenler)
+Ortamda GPU ve Hugging Face erişimi olmadığından nöral modellerin sayıları Colab çalıştırmasından gelecektir. Nöral
+olmayan bileşenler ise yeni sızıntısız test kümesinde (453 sorgu; alakalı ilanı olmayan 8 sorgu TREC geleneğiyle
+dışarıda) **gerçekten** ölçüldü (`reports/local_bm25_test.json`, `reports/local_lexical_ltr.json`):
+
+| Sistem (test, kademeli qrels) | NDCG@10 [%95 GA] | MRR@10 | P@10 | P@10_capped | Top-1 |
+|---|---|---|---|---|---|
+| BM25 (Türkçe F5) | 51,6 [49,2; 54,0] | 71,2 | 38,2 | 46,0 | 60,3 |
+| BM25 + LambdaMART (yalnız metin-türevli öznitelikler; dense/CE yok) | **64,6** [62,2; 66,8] | **81,2** | **45,5** | **54,7** | **74,4** |
+
+Fark, Fisher randomizasyon testinde p < 0,0001 düzeyinde anlamlı. Elle seçilmiş çarpanlar yerine **öğrenilen sıralama**,
+nöral bileşenler olmadan bile NDCG@10'da +13 puan kazandırıyor. Notebook'taki tam boru hattı bu iki sistemin üstüne
+ince ayarlı dense getirim ve cross-encoder ekler.
+
+**Aynı BM25 sıralamasının eski metrikle ölçümü:** "aynı sektör" ölçütüyle P@10 = %63,8, Top-1 = %77,0. Eski metrik
+bu durumda kademeli metriğe göre 13–17 puan daha yüksek gösteriyor. Faz 1'de eski 450 test CV'si üzerinde de aynı
+karşılaştırma yapıldı: eski metrikle eğitimsiz BM25 Top-1 = %76,4 alıyor. Eski projenin ince ayarlı model için
+bildirdiği %79,8, bundan yalnızca 3,4 puan yüksek.
 
 ---
 
@@ -283,7 +325,8 @@ LLM yargılarının insan tercihlerini yüksek doğrulukla öngördüğünü ve 
 Faggioli vd. (ICTIR 2023) güçlü ve zayıf yanlarını tartışır. Biz LLM'e "bu çift alakalı mı?" diye **sormadık**.
 Yalnızca **öğe düzeyinde**, standart bir ontolojiye (ISCO-08) göre kodlama yaptırdık; çift düzeyindeki dereceler
 şeffaf kurallardan türedi. Bu yaklaşım denetlenebilir: kılavuz, ham kodlar, konsolidasyon eşlemeleri ve IAA
-ölçümleri depoda. Bağımsız ikinci anotasyonda ISCO-08 birim grubu için κ değeri `FAZ2_VERI_RAPORU.md`'de verilmiştir.
+ölçümleri depoda. Bağımsız ikinci anotasyonda ISCO-08 birim grubu için **κ = 0,916**, yaka için **κ = 0,980** çıktı.
+Kural-türevi dereceler, kuralı bilmeyen yargıçların çift düzeyindeki yargılarıyla **ağırlıklı κ = 0,836** uyumlu.
 
 **S3. "Neden tek aşamalı bir cross-encoder değil de iki aşama?"**
 Maliyet ve doğruluk dengesi. Cross-encoder her (CV, ilan) çifti için tam bir ileri geçiş ister:
@@ -304,7 +347,8 @@ kısıtlar metinde örtük ya da zayıf temsil edilir. Eski sistem bunları **el
 LambdaMART ise bu sinyallerin ağırlıklarını ve aralarındaki doğrusal olmayan etkileşimleri (ör. "mavi yakada şehir
 farkı beyaz yakadakinden daha önemli") **veriden**, doğrudan NDCG'yi optimize ederek öğrenir. Hangi sinyalin ne
 kadar katkı verdiği SHAP katkılarıyla açıklanır. "Hybrid + Cross-encoder" ile "+ LambdaMART" satırları arasındaki
-fark ve randomizasyon testi p-değeri bu katkıyı ölçer.
+fark ve randomizasyon testi p-değeri bu katkıyı ölçer. Bu depoda nöral bileşenler olmadan bile ölçüldü: BM25 →
+BM25 + LambdaMART geçişi NDCG@10'u %51,6'dan %64,6'ya, Top-1'i %60,3'ten %74,4'e çıkarıyor (p < 0,0001; §3.11).
 
 **S6. "LambdaMART'ı val kümesinde eğittiniz. Val'i hem model seçimi hem eğitim için kullanmak sızıntı değil mi?"**
 Test kümesine hiç dokunulmaz; test yalnızca bir kez, en sonda kullanılır. Val'in bi-encoder/cross-encoder için erken
@@ -358,13 +402,18 @@ Kekäläinen, 2002).
 ## BÖLÜM 5 — Sınırlılıklar (dürüst beyan)
 
 1. **Gümüş standart etiketler.** Meslek kodları LLM destekli anotasyondur. İnsan uzman anotasyonu yapılmadı;
-   uyum IAA ile ölçüldü.
-2. **Veri setinin doğası.** CV ve ilanların önemli kısmı sentetik ya da şablonludur (bkz. Faz 1 §B). Gerçek
+   uyum IAA ile ölçüldü (κ = 0,92 ISCO, 0,98 yaka). Çift düzeyi doğrulama, kuralların biraz cömert olduğunu
+   gösteriyor: yargıçlar bazı grade-3 çiftlerini 2, bazı grade-2 çiftlerini 1 buldu. Mutlak NDCG değerleri bu yüzden
+   biraz iyimser olabilir. Tüm sistemler aynı qrels ile ölçüldüğünden karşılaştırma adildir.
+2. **Teknoloji yığını ayrımı yapılmadı.** Kılavuz gereği "Java backend" ile ".NET backend" aynı uzmanlıktır (grade 3
+   olabilir). Teknoloji uyumu etikette değil öznitelikte (beceri kesişimi) yer alır; jüri isterse uzmanlık tanımı
+   inceltilerek qrels yeniden üretilebilir.
+3. **Veri setinin doğası.** CV ve ilanların önemli kısmı sentetik ya da şablonludur (bkz. Faz 1 §B). Gerçek
    platform verisinde mutlak sayıların farklı çıkması beklenir.
-3. **Kural tabanlı dereceler.** Kurallar İK pratiğini yansıtır ama tek doğru değildir (ör. kıdem toleransı ±1).
+4. **Kural tabanlı dereceler.** Kurallar İK pratiğini yansıtır ama tek doğru değildir (ör. kıdem toleransı ±1).
    Kurallar `scripts/05_build_dataset.py → GRADE_RULES` içinde tek yerde tanımlıdır, değiştirilip yeniden
    üretilebilir.
-4. **Bu depodaki doğrulama.** Ortamda GPU ve Hugging Face erişimi yoktu. Notebook'un hatasız çalıştığı CPU duman
+5. **Bu depodaki doğrulama.** Ortamda GPU ve Hugging Face erişimi yoktu. Notebook'un hatasız çalıştığı CPU duman
    testiyle kanıtlandı; gerçek model metrikleri Colab A100 çalıştırmasından gelir.
 
 ---
@@ -383,6 +432,11 @@ python scripts/06_synthetic_cvs.py targets          # sentetik CV hedefleri
 #   (üretim: annotation/synthetic/gen, kör doğrulama: annotation/synthetic/verify)
 python scripts/06_synthetic_cvs.py merge
 python scripts/05_build_dataset.py                  # data_bundle/ + data_bundle.zip
+python scripts/09_qrels_validation.py sample        # çift-düzeyi doğrulama örneklemi
+#   (bağımsız yargılar: annotation/qrels_validation/judged_*.json)
+python scripts/09_qrels_validation.py score         # -> reports/qrels_validation.json
+python scripts/11_local_lexical_ltr.py              # BM25 vs BM25+LambdaMART (yerel, gerçek ölçüm)
+python scripts/10_make_faz2_report.py               # -> reports/FAZ2_VERI_RAPORU.md
 python scripts/07_make_notebook.py                  # notebook'u üretir
 python scripts/08_dry_run_notebook.py               # statik kontrol + CPU duman testi
 ```
@@ -410,6 +464,7 @@ python scripts/08_dry_run_notebook.py               # statik kontrol + CPU duman
 * ILO (2012). *International Standard Classification of Occupations: ISCO-08*. International Labour Office, Geneva.
 * Järvelin, K., & Kekäläinen, J. (2002). Cumulated Gain-Based Evaluation of IR Techniques. *ACM TOIS*, 20(4), 422–446.
 * Karpukhin, V., Oğuz, B., Min, S., Lewis, P., Wu, L., Edunov, S., Chen, D., & Yih, W. (2020). Dense Passage Retrieval for Open-Domain Question Answering. *EMNLP*.
+* Landis, J. R., & Koch, G. G. (1977). The Measurement of Observer Agreement for Categorical Data. *Biometrics*, 33(1), 159–174.
 * Kaufman, S., Rosset, S., Perlich, C., & Stitelman, O. (2012). Leakage in Data Mining: Formulation, Detection, and Avoidance. *ACM TKDD*, 6(4).
 * Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., Ye, Q., & Liu, T.-Y. (2017). LightGBM: A Highly Efficient Gradient Boosting Decision Tree. *NeurIPS*.
 * Li, X., & Li, J. (2023). AnglE-optimized Text Embeddings. arXiv:2309.12871.

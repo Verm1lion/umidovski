@@ -1,0 +1,48 @@
+{
+  "BM25": {
+    "NDCG@10": 51.63,
+    "MRR@10": 71.15,
+    "P@10": 38.21,
+    "P@10_capped": 46.04,
+    "Top1": 60.26,
+    "Top1_exact(grade3)": 9.93,
+    "R@10": 22.85,
+    "R@50": 44.94,
+    "R@100": 56.83,
+    "NDCG@10_CI95": [
+      49.2,
+      54.0
+    ],
+    "n_queries": 453
+  },
+  "BM25 + LambdaMART (leksikal, noral yok)": {
+    "NDCG@10": 64.58,
+    "MRR@10": 81.16,
+    "P@10": 45.47,
+    "P@10_capped": 54.71,
+    "Top1": 74.39,
+    "Top1_exact(grade3)": 17.66,
+    "R@10": 27.0,
+    "R@50": 44.94,
+    "R@100": 56.83,
+    "NDCG@10_CI95": [
+      62.2,
+      66.8
+    ],
+    "n_queries": 453
+  },
+  "p_NDCG@10_LTR_vs_BM25": 9.999000099990002e-05,
+  "best_iteration": 140,
+  "en_onemli_oznitelikler(gain)": {
+    "ind_prob_job_sector": 4728.7,
+    "collar_agree": 2143.0,
+    "title_sim": 2125.2,
+    "bm25_z": 1748.8,
+    "title_tok_overlap": 1488.5,
+    "job_desc_len_log": 906.9,
+    "ind_pred_top1_match": 903.5,
+    "ind_prob_cv_max": 889.6,
+    "cv_p_blue": 760.4,
+    "job_p_blue": 736.4
+  }
+}

@@ -1,0 +1,227 @@
+[
+ {
+  "id": "S30326",
+  "isco4": "1345",
+  "isco_title": "Education managers",
+  "specialty": "Kalite Güvencesi ve Akreditasyon Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30327",
+  "isco4": "1345",
+  "isco_title": "Education managers",
+  "specialty": "Kariyer Merkezi Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30328",
+  "isco4": "2263",
+  "isco_title": "Environmental and occupational health and hygiene professionals",
+  "specialty": "Yangın Güvenliği ve Acil Durum Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30329",
+  "isco4": "1412",
+  "isco_title": "Restaurant managers",
+  "specialty": "Banket Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30330",
+  "isco4": "1412",
+  "isco_title": "Restaurant managers",
+  "specialty": "Bar Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30331",
+  "isco4": "1412",
+  "isco_title": "Restaurant managers",
+  "specialty": "Restoran Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30332",
+  "isco4": "1412",
+  "isco_title": "Restaurant managers",
+  "specialty": "Restoran Operasyon Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30333",
+  "isco4": "1412",
+  "isco_title": "Restaurant managers",
+  "specialty": "Yiyecek ve İçecek Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30334",
+  "isco4": "1431",
+  "isco_title": "Sports, recreation and cultural centre managers",
+  "specialty": "Fitness Kulübü Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 3
+ },
+ {
+  "id": "S30335",
+  "isco4": "1219",
+  "isco_title": "Business services and administration managers not elsewhere classified",
+  "specialty": "İş Gücü ve Kapasite Planlama Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30336",
+  "isco4": "1219",
+  "isco_title": "Business services and administration managers not elsewhere classified",
+  "specialty": "Satış Sonrası Hizmetler Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30337",
+  "isco4": "2111",
+  "isco_title": "Physicists and astronomers",
+  "specialty": "Astrofizikçi",
+  "collar": "WHITE",
+  "seniority": 2,
+  "conf": 2
+ },
+ {
+  "id": "S30338",
+  "isco4": "2111",
+  "isco_title": "Physicists and astronomers",
+  "specialty": "Fizik Mühendisi",
+  "collar": "WHITE",
+  "seniority": 0,
+  "conf": 2
+ },
+ {
+  "id": "S30339",
+  "isco4": "2111",
+  "isco_title": "Physicists and astronomers",
+  "specialty": "Hesaplamalı Malzeme Fizikçisi",
+  "collar": "WHITE",
+  "seniority": 3,
+  "conf": 3
+ },
+ {
+  "id": "S30340",
+  "isco4": "2112",
+  "isco_title": "Meteorologists",
+  "specialty": "Havacılık Meteoroloji Mühendisi",
+  "collar": "WHITE",
+  "seniority": 3,
+  "conf": 3
+ },
+ {
+  "id": "S30341",
+  "isco4": "2113",
+  "isco_title": "Chemists",
+  "specialty": "Aroma Kimyageri",
+  "collar": "WHITE",
+  "seniority": 3,
+  "conf": 3
+ },
+ {
+  "id": "S30342",
+  "isco4": "2113",
+  "isco_title": "Chemists",
+  "specialty": "Kromatografi Analisti",
+  "collar": "WHITE",
+  "seniority": 2,
+  "conf": 2
+ },
+ {
+  "id": "S30343",
+  "isco4": "2113",
+  "isco_title": "Chemists",
+  "specialty": "Kütle Spektrometrisi Uzmanı",
+  "collar": "WHITE",
+  "seniority": 1,
+  "conf": 2
+ },
+ {
+  "id": "S30344",
+  "isco4": "2113",
+  "isco_title": "Chemists",
+  "specialty": "Yüzey Kimyası ve Nanomalzeme Araştırmacısı",
+  "collar": "WHITE",
+  "seniority": 2,
+  "conf": 2
+ },
+ {
+  "id": "S30345",
+  "isco4": "2113",
+  "isco_title": "Chemists",
+  "specialty": "NMR Spektroskopisti",
+  "collar": "WHITE",
+  "seniority": 1,
+  "conf": 2
+ },
+ {
+  "id": "S30346",
+  "isco4": "2113",
+  "isco_title": "Chemists",
+  "specialty": "Sentez Kimyageri",
+  "collar": "WHITE",
+  "seniority": 2,
+  "conf": 3
+ },
+ {
+  "id": "S30347",
+  "isco4": "2113",
+  "isco_title": "Chemists",
+  "specialty": "Reoloji ve Polimer Karakterizasyon Uzmanı",
+  "collar": "WHITE",
+  "seniority": 2,
+  "conf": 2
+ },
+ {
+  "id": "S30348",
+  "isco4": "2114",
+  "isco_title": "Geologists and geophysicists",
+  "specialty": "Jeoloji Mühendisi",
+  "collar": "WHITE",
+  "seniority": 2,
+  "conf": 3
+ },
+ {
+  "id": "S30349",
+  "isco4": "2114",
+  "isco_title": "Geologists and geophysicists",
+  "specialty": "Fiziksel Oşinograf",
+  "collar": "WHITE",
+  "seniority": 2,
+  "conf": 2
+ },
+ {
+  "id": "S30350",
+  "isco4": "2120",
+  "isco_title": "Mathematicians, actuaries and statisticians",
+  "specialty": "İstatistik Uzmanı",
+  "collar": "WHITE",
+  "seniority": 1,
+  "conf": 3
+ }
+]

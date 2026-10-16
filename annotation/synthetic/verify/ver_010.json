@@ -1,0 +1,227 @@
+[
+ {
+  "id": "S30251",
+  "isco4": "9333",
+  "isco_title": "Freight handlers",
+  "specialty": "Liman Yükleme ve Lashing Elemanı",
+  "collar": "BLUE",
+  "seniority": 2,
+  "conf": 3
+ },
+ {
+  "id": "S30252",
+  "isco4": "1211",
+  "isco_title": "Finance managers",
+  "specialty": "Adli Muhasebe ve Suistimal İnceleme Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30253",
+  "isco4": "1211",
+  "isco_title": "Finance managers",
+  "specialty": "Finansal Kontrol Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 3
+ },
+ {
+  "id": "S30254",
+  "isco4": "1211",
+  "isco_title": "Finance managers",
+  "specialty": "Finansal Raporlama Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 3
+ },
+ {
+  "id": "S30255",
+  "isco4": "1211",
+  "isco_title": "Finance managers",
+  "specialty": "Gayrimenkul Portföy Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30256",
+  "isco4": "1211",
+  "isco_title": "Finance managers",
+  "specialty": "İç Denetim Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30257",
+  "isco4": "1211",
+  "isco_title": "Finance managers",
+  "specialty": "Kredi Riski Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30258",
+  "isco4": "1211",
+  "isco_title": "Finance managers",
+  "specialty": "Kurumsal Finansman ve Birleşme-Satın Alma Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30259",
+  "isco4": "1211",
+  "isco_title": "Finance managers",
+  "specialty": "Kurumsal Risk ve İş Sürekliliği Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30260",
+  "isco4": "1211",
+  "isco_title": "Finance managers",
+  "specialty": "Piyasa ve Likidite Riski Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30261",
+  "isco4": "1211",
+  "isco_title": "Finance managers",
+  "specialty": "Yatırım Teşvik ve Duran Varlık Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30262",
+  "isco4": "1212",
+  "isco_title": "Human resource managers",
+  "specialty": "Bordro ve Personel Özlük Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30263",
+  "isco4": "1212",
+  "isco_title": "Human resource managers",
+  "specialty": "Çalışan Deneyimi ve Kurum Kültürü Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30264",
+  "isco4": "1212",
+  "isco_title": "Human resource managers",
+  "specialty": "Endüstri İlişkileri Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 3
+ },
+ {
+  "id": "S30265",
+  "isco4": "1212",
+  "isco_title": "Human resource managers",
+  "specialty": "Gemi Adamı Donatım Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30266",
+  "isco4": "1212",
+  "isco_title": "Human resource managers",
+  "specialty": "İnsan Kaynakları Analitiği ve İşgücü Planlama Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30267",
+  "isco4": "1212",
+  "isco_title": "Human resource managers",
+  "specialty": "İnsan Kaynakları Operasyonları Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 3
+ },
+ {
+  "id": "S30268",
+  "isco4": "1212",
+  "isco_title": "Human resource managers",
+  "specialty": "Yetenek Yönetimi ve Liderlik Gelişimi Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30269",
+  "isco4": "1219",
+  "isco_title": "Business services and administration managers not elsewhere classified",
+  "specialty": "Ruhsatlandırma Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30270",
+  "isco4": "1219",
+  "isco_title": "Business services and administration managers not elsewhere classified",
+  "specialty": "Kurumsal Gayrimenkul ve Kiralama Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30271",
+  "isco4": "1219",
+  "isco_title": "Business services and administration managers not elsewhere classified",
+  "specialty": "İş Sağlığı, Güvenliği ve Çevre Müdürü",
+  "collar": "WHITE",
+  "seniority": 5,
+  "conf": 2
+ },
+ {
+  "id": "S30272",
+  "isco4": "1221",
+  "isco_title": "Sales and marketing managers",
+  "specialty": "Bireysel Bankacılık Ürün Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30273",
+  "isco4": "1221",
+  "isco_title": "Sales and marketing managers",
+  "specialty": "CRM ve Sadakat Programları Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 3
+ },
+ {
+  "id": "S30274",
+  "isco4": "1221",
+  "isco_title": "Sales and marketing managers",
+  "specialty": "İçerik Pazarlama Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ },
+ {
+  "id": "S30275",
+  "isco4": "1222",
+  "isco_title": "Advertising and public relations managers",
+  "specialty": "Influencer Pazarlama Müdürü",
+  "collar": "WHITE",
+  "seniority": 4,
+  "conf": 2
+ }
+]

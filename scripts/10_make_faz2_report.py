@@ -61,7 +61,7 @@ def local_bm25():
 def fmt_tbl(d, cols):
     lines = ["| " + " | ".join(cols) + " |", "|" + "---|" * len(cols)]
     for row in d:
-        lines.append("| " + " | ".join(str(x) for x in row) + " |")
+        lines.append("| " + " | ".join(str(x).replace("|", "\\|") for x in row) + " |")
     return "\n".join(lines)
 
 
@@ -129,6 +129,13 @@ def main():
         cm = qv["karisiklik_matrisi_satir=kural_sutun=yargi"]
         md.append("\nKarışıklık matrisi (satır = kural, sütun = bağımsız yargı):\n\n" +
                   fmt_tbl([[g] + cm[g] for g in range(4)], ["kural \\ yargı", "0", "1", "2", "3"]) + "\n")
+        md.append("\n**Yorum:** Uyum yüksektir (ağırlıklı κ ve |fark| ≤ 1 oranı). Ayrışmaların neredeyse tamamı **bir kademe "
+                  "aşağı** yöndedir: bağımsız yargıçlar kural grade-3 çiftlerinin bir kısmını 2, kural grade-2 çiftlerinin "
+                  "bir kısmını 1 olarak değerlendirmiştir (ör. aynı uzmanlık ama farklı teknoloji yığını; aynı ISCO grubu "
+                  "ama farklı alt rol). Kurallar bu anlamda biraz cömerttir; bu, mutlak NDCG değerlerini etkiler ancak "
+                  "sistemlerin **göreli** sıralamasını değiştirmez, çünkü tüm sistemler aynı qrels ile ölçülür. Ters yönde "
+                  f"hata çok azdır: kural grade-0 çiftlerin {cm[0][0]}/{sum(cm[0])}'i yargıçça da 0, hiçbiri ≥ 2 değildir; "
+                  f"yargıcın alakalı (≥ 2) bulup kuralın ≤ 1 dediği çift sayısı yalnızca {cm[0][2] + cm[0][3] + cm[1][2] + cm[1][3]}'dir.\n")
     md.append("## 4. Sızıntısız bölme\n")
     rows = [[s, sp[s]["cv"], sp[s]["gercek"], sp[s]["sentetik"], sp[s]["ort_grade3"], sp[s]["ort_grade2"],
              sp[s]["grade3_ilani_olan_cv_orani"], sp[s]["alakali(>=2)_ilani_olmayan_cv"], sp[s]["alakali_sayisi_medyan"]]
@@ -166,6 +173,17 @@ def main():
     md.append("\nAynı BM25 sıralaması eski metrikle (\"aynı sektör\") ölçülünce çok daha yüksek görünür. Yeni kademeli "
               "qrels meslek, yaka, kıdem ve lokasyonu ölçtüğü için çok daha katıdır. Nöral sistemlerin sayıları Colab "
               "A100 çalıştırmasıyla notebook'ta üretilir.\n")
+    ll = jl("local_lexical_ltr.json")
+    if ll:
+        md.append("### 8.1 Nöral model olmadan öğrenilen sıralamanın katkısı: BM25 + LambdaMART (yerel, gerçek ölçüm)\n")
+        md.append("`scripts/11_local_lexical_ltr.py`: BM25 Top-50 adaylar, metin-türevli öznitelikler (dense/CE = 0), "
+                  "LambdaMART val sorgularında (cold hariç) eğitildi, test bir kez ölçüldü.\n\n")
+        keys = ["NDCG@10", "MRR@10", "P@10", "P@10_capped", "R@10", "Top1", "Top1_exact(grade3)", "NDCG@10_CI95"]
+        names = [k for k in ll if isinstance(ll[k], dict) and "NDCG@10" in ll[k]]
+        md.append(fmt_tbl([[k] + [ll[n][k] for n in names] for k in keys], ["Metrik"] + names) + "\n")
+        md.append(f"\nNDCG@10 farkı için Fisher randomizasyon testi p = {ll['p_NDCG@10_LTR_vs_BM25']:.4g}. En önemli öznitelikler "
+                  f"(gain): {', '.join(list(ll['en_onemli_oznitelikler(gain)'])[:6])}. Sektör/yaka öznitelikleri yalnızca "
+                  "train CV'lerinde eğitilmiş sınıflandırıcıların **tahminleridir**.\n")
     md.append("## 9. Paket içeriği\n")
     md.append(fmt_tbl([[f, f"{v['bayt'] / 1e6:.2f} MB", v["sha256"][:16] + "…"] for f, v in meta["dosyalar"].items()],
                       ["Dosya", "Boyut", "SHA-256"]) + "\n")

@@ -1,0 +1,14 @@
+{
+ "hucre": 51,
+ "kod_hucresi": 29,
+ "ast_hatalari": [],
+ "pyflakes": [],
+ "nbformat_gecerli": true,
+ "dry_run": {
+  "durum": "OK",
+  "sure_sn": 118.3,
+  "hata": null,
+  "RUN_OK": true,
+  "export_zip": true
+ }
+}

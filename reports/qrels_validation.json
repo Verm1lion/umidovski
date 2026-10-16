@@ -1,0 +1,36 @@
+{
+  "n": 360,
+  "quadratic_weighted_kappa": 0.8357,
+  "linear_weighted_kappa": 0.7182,
+  "birebir_uyum": 0.6806,
+  "fark_le1": 0.9778,
+  "ikili_uyum_(>=2_alakali)": 0.8611,
+  "ikili_kappa_(>=2)": 0.7222,
+  "karisiklik_matrisi_satir=kural_sutun=yargi": [
+    [
+      87,
+      3,
+      0,
+      0
+    ],
+    [
+      15,
+      68,
+      7,
+      0
+    ],
+    [
+      8,
+      35,
+      47,
+      0
+    ],
+    [
+      0,
+      0,
+      47,
+      43
+    ]
+  ],
+  "spearman": 0.8753
+}

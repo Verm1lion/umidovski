@@ -1,0 +1,20 @@
+[
+ {"id": "S30851", "isco4": "9112", "isco_title": "Cleaners and helpers in offices, hotels and other establishments", "specialty": "Endüstriyel Temizlik Operatörü", "collar": "BLUE", "seniority": 2, "conf": 2},
+ {"id": "S30852", "isco4": "9121", "isco_title": "Hand launderers and pressers", "specialty": "Konfeksiyon Ütücüsü", "collar": "BLUE", "seniority": 2, "conf": 2},
+ {"id": "S30853", "isco4": "9112", "isco_title": "Cleaners and helpers in offices, hotels and other establishments", "specialty": "Uçak Kabin Temizlik Görevlisi", "collar": "BLUE", "seniority": 4, "conf": 2},
+ {"id": "S30854", "isco4": "9123", "isco_title": "Window cleaners", "specialty": "Dış Cephe Cam Temizlik Elemanı", "collar": "BLUE", "seniority": 1, "conf": 3},
+ {"id": "S30855", "isco4": "6121", "isco_title": "Livestock and dairy producers", "specialty": "Büyükbaş Besi Bakıcısı", "collar": "BLUE", "seniority": 4, "conf": 2},
+ {"id": "S30856", "isco4": "9213", "isco_title": "Mixed crop and livestock farm labourers", "specialty": "Çiftlik Elemanı", "collar": "BLUE", "seniority": 2, "conf": 2},
+ {"id": "S30857", "isco4": "7233", "isco_title": "Agricultural and industrial machinery mechanics and repairers", "specialty": "Rok Makinesi Yağcısı", "collar": "BLUE", "seniority": 2, "conf": 2},
+ {"id": "S30858", "isco4": "9311", "isco_title": "Mining and quarrying labourers", "specialty": "Taş Ocağı İşçisi", "collar": "BLUE", "seniority": 3, "conf": 2},
+ {"id": "S30859", "isco4": "9329", "isco_title": "Manufacturing labourers not elsewhere classified", "specialty": "Meydancı", "collar": "BLUE", "seniority": 0, "conf": 2},
+ {"id": "S30860", "isco4": "9329", "isco_title": "Manufacturing labourers not elsewhere classified", "specialty": "Pres Hattı Üretim Elemanı", "collar": "BLUE", "seniority": 1, "conf": 2},
+ {"id": "S30861", "isco4": "9329", "isco_title": "Manufacturing labourers not elsewhere classified", "specialty": "Toz Boya Hattı Askı Elemanı", "collar": "BLUE", "seniority": 1, "conf": 2},
+ {"id": "S30862", "isco4": "9334", "isco_title": "Shelf fillers", "specialty": "Market Reyon Elemanı", "collar": "BLUE", "seniority": 1, "conf": 3},
+ {"id": "S30863", "isco4": "9411", "isco_title": "Fast food preparers", "specialty": "Fast Food Hat Elemanı", "collar": "BLUE", "seniority": 2, "conf": 3},
+ {"id": "S30864", "isco4": "9412", "isco_title": "Kitchen helpers", "specialty": "Barboy", "collar": "BLUE", "seniority": 1, "conf": 2},
+ {"id": "S30865", "isco4": "9621", "isco_title": "Messengers, package deliverers and luggage porters", "specialty": "Bellboy", "collar": "BLUE", "seniority": 2, "conf": 3},
+ {"id": "S30866", "isco4": "9629", "isco_title": "Elementary workers not elsewhere classified", "specialty": "Otel Kapı Görevlisi", "collar": "BLUE", "seniority": 2, "conf": 2},
+ {"id": "S30867", "isco4": "9629", "isco_title": "Elementary workers not elsewhere classified", "specialty": "Vale", "collar": "BLUE", "seniority": 3, "conf": 2},
+ {"id": "S30868", "isco4": "9629", "isco_title": "Elementary workers not elsewhere classified", "specialty": "Vestiyer Görevlisi", "collar": "BLUE", "seniority": 2, "conf": 2}
+]

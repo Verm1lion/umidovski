@@ -31,8 +31,14 @@
 3. **A100'ü seçin.** *Çalışma zamanı → Çalışma zamanı türünü değiştir* → *Donanım hızlandırıcı: **A100 GPU***
    (Colab Pro / Pro+ / kredi gerekir) → *Kaydet*. İsterseniz *Yüksek RAM*'i de açın.
 4. **Veriyi yükleyin.** İki yol var:
-   * Sol menüde 📁 *Dosyalar* paneline `data_bundle.zip` dosyasını sürükleyin (`/content/data_bundle.zip` olur), **veya**
-   * hiçbir şey yapmayın: 2. bölümdeki hücre çalışınca bir **"Dosya seç"** düğmesi çıkar, oradan seçin.
+   * Sol menüde 📁 *Dosyalar* paneline `data_bundle.zip` dosyasını sürükleyin (`/content/data_bundle.zip` olur) ya da
+     Drive'ın köküne `data_bundle.zip` adıyla koyun (`MyDrive/data_bundle.zip`), **veya**
+   * hiçbir şey yapmayın: 2. bölümdeki hücre zip bulamazsa bir **"Dosya seç"** düğmesi çıkar, oradan seçin.
+
+   Birden çok zip varsa notebook en yenisini seçer ve daha önce açılmış paketten farklıysa yeniden açar; 2. bölümün
+   yazdırdığı **paket parmak izi** hangi paketin kullanıldığını gösterir. Aynı Colab oturumunda yeni bir zip
+   denerken onu Dosyalar paneliyle aynı adla (`data_bundle.zip`) koyun; "Dosya seç" penceresi aynı adı ikinci kez
+   `data_bundle (1).zip` diye kaydeder ve o okunmaz.
 5. **Çalıştırın.** *Çalışma zamanı → Tümünü çalıştır*. İlk hücre kütüphaneleri sabit sürümlerle kurar (tahminen ~2 dk).
    Modeller (BGE-M3 ≈ 2,3 GB, bge-reranker-v2-m3 ≈ 2,3 GB, e5-small ≈ 0,5 GB) Hugging Face'ten otomatik iner.
 6. **Bekleyin.** A100-40GB'da toplam süre **tahminen ≈ 1,5–2,5 saattir** (notebook başlığındaki tahminle aynı). Bu
@@ -468,7 +474,10 @@ değil): BM25 → BM25 + LambdaMART geçişi NDCG@10'u %53,66'dan %66,05'e (NDCG
 Top-1'i %64,68'den %72,85'e çıkarıyor.
 
 **S6. "LambdaMART'ı val kümesinde eğittiniz. Val'i hem model seçimi hem eğitim için kullanmak sızıntı değil mi?"**
-Test kümesine hiç dokunulmaz; test yalnızca en sonda ölçüm için kullanılır ve hiçbir seçim test üzerinde yapılmaz.
+Hiçbir model, hiperparametre ya da checkpoint seçimi test üzerinde yapılmaz; test yalnızca ölçüm içindir. (Dürüst
+not: nöral hat testte hiç ölçülmedi; ancak GPU'suz leksikal hat için hazırlık aşamasında birkaç keşif ölçümü testte
+yapıldı. Bunlar hiçbir seçimde kullanılmadı ve yerlerine yalnız val kullanan ölçümler konuldu; ayrıntı
+`ajan/06_DENEY_GUNLUGU.md` E000.)
 Val'in bi-encoder/cross-encoder için τ seçimi, erken durdurma ve en iyi checkpoint seçiminde kullanılması (gradyan
 eğitiminde değil), LambdaMART'ın val özniteliklerini hafifçe iyimser görmesine yol açabilir. Bunun yönü
 **test performansını düşürmek** yönündedir, şişirmek yönünde değil. Bu, yığınlamanın (Wolpert, 1992) standart

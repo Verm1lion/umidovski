@@ -36,7 +36,7 @@ md(r"""
 | **Metrikler** | NDCG@10 (tam havuz IDCG), MRR@10, P@10, R@10/50/100, Top-1; %95 bootstrap GA, Fisher randomizasyon testi |
 
 **Çalıştırma (5 dakikalık özet):** `Çalışma Zamanı → Çalışma zamanı türünü değiştir → A100 GPU` seçin, `data_bundle.zip`'i
-yükleyin (ilk hücreler sorar) ve `Çalışma Zamanı → Tümünü çalıştır` deyin. A100-40GB'da toplam süre **tahminen** ≈ 1,5–2,5 saat (GPU'da ölçülmedi;
+yükleyin (zip bulunamazsa §2 sorar; ayrıntı §2'de) ve `Çalışma Zamanı → Tümünü çalıştır` deyin. A100-40GB'da toplam süre **tahminen** ≈ 1,5–2,5 saat (GPU'da ölçülmedi;
 CPU kuru çalıştırması yalnız akışı doğrular). Drive bağlama izni bir kez sorulur.
 
 ```
@@ -211,17 +211,27 @@ print(json.dumps({k: v for k, v in CFG.items()}, indent=1, ensure_ascii=False))
 
 md(r"""
 ## 2. Veri paketini yükleme (`data_bundle.zip`)
-Sırasıyla şuralara bakılır: `CV_DATA_BUNDLE` ortam değişkeni, `/content/data_bundle.zip`, çalışma klasörü,
-Google Drive (`MyDrive/data_bundle.zip`). Bulunamazsa Colab dosya yükleme penceresi açılır.
+`CV_DATA_BUNDLE` ortam değişkeni verilmişse o kullanılır; yoksa `/content/data_bundle.zip`, çalışma klasörü ve Google Drive
+(`MyDrive/data_bundle.zip`) arasından **en yeni** zip seçilir. Zip daha önce açılmış `/content/data_bundle` ile karşılaştırılır;
+farklıysa eski klasör silinip zip yeniden açılır. Hiç zip yoksa ve paket daha önce açılmamışsa Colab dosya yükleme penceresi
+açılır (açılmış klasör varsa pencere açılmaz, uyarı yazılıp o klasör kullanılır). Yazdırılan **paket parmak izi**, repodaki
+`sha256sum data_bundle/metadata.json match_candidate_sota.py | cut -c1-12` ile aynı olmalıdır.
 """)
 code(r"""
 def find_zip():
-    cands = [os.environ.get("CV_DATA_BUNDLE"), os.path.join(CFG["WORK_DIR"], "data_bundle.zip"),
-             os.path.abspath("data_bundle.zip"), "/content/drive/MyDrive/data_bundle.zip"]
-    for c in cands:
-        if c and os.path.exists(c):
-            return c
-    return None
+    # CV_DATA_BUNDLE verilmişse o; yoksa adaylar arasından EN YENİ (değiştirilme zamanı) zip — eski bir yükleme yeni
+    # Drive zip'ini (ya da tersi) sessizce gölgelemesin
+    if os.environ.get("CV_DATA_BUNDLE") and os.path.exists(os.environ["CV_DATA_BUNDLE"]):
+        return os.environ["CV_DATA_BUNDLE"]
+    cands = {os.path.realpath(c) for c in (os.path.join(CFG["WORK_DIR"], "data_bundle.zip"), os.path.abspath("data_bundle.zip"),
+                                           "/content/drive/MyDrive/data_bundle.zip") if os.path.exists(c)}
+    if not cands:
+        return None
+    best = max(cands, key=os.path.getmtime)
+    if len(cands) > 1:
+        print("Birden çok data_bundle.zip bulundu; en yenisi seçildi:",
+              {c: time.strftime("%Y-%m-%d %H:%M", time.localtime(os.path.getmtime(c))) for c in cands}, "->", best)
+    return best
 
 def locate_bundle():
     c = find_zip()
@@ -695,7 +705,8 @@ print(f"  toplam                      : %{100 * fn_all / max(1, tot_all):.2f}  (
 
 code(r"""
 class GradedIREvaluator(SentenceEvaluator):
-    # Doğrulama sorguları üzerinde TAM havuz kademeli NDCG@10, MRR@10, P@10, R@10, Top-1 (her değerlendirmede loglanır)
+    # Doğrulama sorguları üzerinde WARM alt-korpusta (cold ne adayda ne qrels'te, WARM IDCG) kademeli NDCG@10, MRR@10,
+    # P@10, R@10, Top-1 (her değerlendirmede loglanır)
     def __init__(self, qids, name="val", qp="", dp=""):
         super().__init__()
         self.qids, self.name, self.qp, self.dp = list(qids), name, qp, dp
@@ -898,7 +909,7 @@ print("CE eğitim listesi:", len(DS_CE), "| ortalama liste uzunluğu:", np.mean(
       "| etiket dağılımı:", Counter(int(x) for l in LABELS for x in l))
 
 class GradedRerankEvaluator(SentenceEvaluator):
-    # Val Top-50 hibrit adaylarını cross-encoder ile yeniden sıralayıp tam-havuz NDCG@10 hesaplar
+    # Val'de cold maskeli hibrit ilk-50'yi cross-encoder ile yeniden sıralayıp WARM NDCG@10 hesaplar
     def __init__(self, qids, fused):
         super().__init__(); self.qids = list(qids); self.name = "val"
         f = fused.copy(); f[:, COLD] = -np.inf          # model seçimi yalnız WARM ilanlarla
@@ -955,7 +966,9 @@ ce_log_df = plot_logs(ce_logs.rows, "Aşama 2a — Cross-encoder eğitimi", "sta
 ce_log_df.to_csv(os.path.join(CFG["OUT_DIR"], "stage2a_training_log.csv"), index=False)
 CE.save(os.path.join(CFG["OUT_DIR"], "cross_encoder_best"))
 
-CAND = {s: core.topk_indices(HYB[s][0], CFG["N_CANDIDATES"]) for s in ("val", "test")}
+# Val adayları cold maskeli (karar sinyalleri ve LTR eğitimi WARM havuzda; §9.1 ile aynı küme); test tam havuz
+_fv = HYB["val"][0].copy(); _fv[:, COLD] = -np.inf
+CAND = {"val": core.topk_indices(_fv, CFG["N_CANDIDATES"]), "test": core.topk_indices(HYB["test"][0], CFG["N_CANDIDATES"])}
 CE_S = {s: ce_score_matrix(CE, VAL_IDS if s == "val" else TEST_IDS, CAND[s]) for s in ("val", "test")}
 print("Hybrid + Cross-encoder:", fmt(evaluate(rerank_lists(TEST_IDS, CAND["test"], CE_S["test"], HYB["test"][0]),
                                              "Ours: Hybrid + Cross-encoder")))
@@ -965,21 +978,21 @@ md(r"""
 ### 9.1 Tanı: aday kümesi tavanı ve belirteç kırpılması (karar için yalnız VAL)
 Aşama 2 en fazla aday kümesindeki ilanları sıralayabilir. Aşağıdaki "kâhin" (oracle), adayları gerçek dereceye göre dizer:
 Aşama 2'nin bu adaylarla ulaşabileceği **üst sınırdır**. Karar sinyali **val, WARM havuz** üzerinde ölçülür (cold ilanlar
-ne adayda ne qrels'te). Val tavanları test tavanlarından birkaç puan düşük çıkar (BM25 ilk-50: val 83,15, test 86,95);
-bu yüzden val tavanını val tabanlarıyla kıyasla. Test tavanı yalnız rapor için `run_summary.json`'a yazılır.
+ne adayda ne qrels'te). Kıyas tabanı val WARM BM25 tavanlarıdır (ilk-50 84,14 / ilk-100 90,67); val tavanları test
+tavanlarından birkaç puan düşük çıkar. Test tavanı yalnız rapor için `run_summary.json`'a yazılır.
 """)
 code(r"""
 def cand_ceiling(ids, cand, cols=None):
     orc = {int(q): sorted(map(int, cand[i]), key=lambda j: -grade(q, j)) for i, q in enumerate(ids)}
     res = core.evaluate_rankings(orc, qrels_for(list(orc), cols), k=10, rel_threshold=CFG["REL_THRESHOLD"])
     return fmt(res["summary"])
-_fv = HYB["val"][0].copy(); _fv[:, COLD] = -np.inf          # karar sinyali: cold ilanlar ne adayda ne qrels'te
-DIAG = {"aday_tavani_val(WARM)": cand_ceiling(VAL_IDS, core.topk_indices(_fv, CFG["N_CANDIDATES"]), WARM_COLS),
+DIAG = {"aday_tavani_val(WARM)": cand_ceiling(VAL_IDS, CAND["val"], WARM_COLS),   # CAND["val"] zaten cold maskeli
         "aday_tavani_test(tam_havuz,yalniz_rapor)": cand_ceiling(TEST_IDS, CAND["test"]),
         "n_candidates": CFG["N_CANDIDATES"]}
 print(f"Aday kümesi tavanı (VAL, WARM havuz, ilk {CFG['N_CANDIDATES']} hibrit aday, kâhin sıralama):", DIAG["aday_tavani_val(WARM)"])
-print("  Karşılaştırma için BM25 ilk-50 aday tavanı: val tam havuz 83,15 / test tam havuz 86,95 (reports/metric_ceilings.json);"
-      " val tavanları test tavanlarından birkaç puan düşük çıkar — kararı val'i val ile kıyaslayarak ver.")
+print("  Kıyas (val, WARM, kâhin NDCG@10): BM25 ilk-50 84,14 / ilk-100 90,67 / ilk-200 94,58 "
+      "(reports/metric_ceilings.json → aday_kumesi_tavani(BM25) → val|WARM|…). Eşik: < 92 Aşama 2 işine başlama; "
+      "92–95 gri bölge; ≥ 95 Aşama 2 işi karşılık verebilir.")
 try:
     def over(tok, texts, limit, pairs=False):
         if pairs:
@@ -1055,6 +1068,10 @@ ltr_tr = LTR["val"][~COLD[LTR["val"].job_idx.to_numpy()]].reset_index(drop=True)
 def groups_of(df):
     return df.groupby("qid", sort=False).size().to_numpy()
 
+def ltr_groups(df):
+    # Kat bölmesi CV'nin bölme grubuna (group_id) göre: neredeyse-kopya CV'ler aynı katta kalır (scripts/13 ile aynı)
+    return CV.loc[df.qid.to_numpy(), "group_id"].to_numpy()
+
 def ltr_rank_eval(model, df, base_hyb_scores, qids):
     df = df.copy(); df["s"] = model.predict(df[FEATS].to_numpy(np.float32))
     ranked = {}
@@ -1075,7 +1092,7 @@ def objective(trial):
         random_state=CFG["SEED"], verbose=-1)
     scores, iters = [], []
     r_ = np.random.default_rng(CFG["SEED"] + trial.number)
-    for tr_i, va_i in GroupKFold(n_splits=CFG["LTR_FOLDS"]).split(ltr_tr, groups=ltr_tr.qid):
+    for tr_i, va_i in GroupKFold(n_splits=CFG["LTR_FOLDS"]).split(ltr_tr, groups=ltr_groups(ltr_tr)):
         a_all, b = ltr_tr.iloc[tr_i], ltr_tr.iloc[va_i].sort_values("qid", kind="stable")
         # erken durdurma için eğitim katmanının İÇİNDEN ayrı sorgular; dış katman (b) yalnız puanlamada kullanılır
         qa = a_all.qid.unique()
@@ -1140,7 +1157,7 @@ def val_res(ranked, name):
 hyb_val_warm = warm_ranked(HYB["val"][0], VAL_IDS)
 ce_val = {q: [j for j in lst if not COLD[j]] for q, lst in rerank_lists(VAL_IDS, CAND["val"], CE_S["val"], HYB["val"][0]).items()}
 oof = {}
-for tr_i, va_i in GroupKFold(n_splits=CFG["LTR_FOLDS"]).split(ltr_tr, groups=ltr_tr.qid):
+for tr_i, va_i in GroupKFold(n_splits=CFG["LTR_FOLDS"]).split(ltr_tr, groups=ltr_groups(ltr_tr)):
     a_ = ltr_tr.iloc[tr_i].sort_values("qid", kind="stable")
     m_ = lgb.LGBMRanker(objective="lambdarank", metric="ndcg", eval_at=[10], n_estimators=max(10, n_est), subsample_freq=1,
                         random_state=CFG["SEED"], verbose=-1, **LTR_BEST)

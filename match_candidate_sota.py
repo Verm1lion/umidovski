@@ -23,7 +23,9 @@ Sızıntı kuralları (leakage guards)
 * Adayın altın (gold) etiketleri (Category, collar, ISCO/uzmanlık, kıdem) özellik olarak
   KULLANILMAZ. Sektör / yaka uyumu, yalnızca eğitim kümesinde eğitilmiş metin
   sınıflandırıcılarının olasılık çıktılarıdır (predicted industry / collar probability).
-* `assert_no_gold_columns` bu kuralı programatik olarak denetler.
+* `assert_no_gold_columns` öznitelik tablosunun SÜTUN ADLARINI denetler (gold_*, legacy_*, grade, label, Category,
+  collar, occ_key, isco4, specialty adlı sütun varsa hata verir). Bu bir şema denetimidir: tarafsız bir ada konmuş
+  etiket değerini yakalayamaz; asıl güvence özniteliklerin yalnızca metinden ve ilan meta verisinden üretilmesidir.
 
 Kullanım (CLI)
 --------------
@@ -40,7 +42,6 @@ Kullanım (Python)
 """
 import argparse
 import json
-import math
 import os
 import re
 import sys
@@ -742,7 +743,7 @@ class SOTAMatcher:
 
     Paket içeriği:
       config.json, jobs.parquet, bi_encoder/, cross_encoder/, lambdamart.txt,
-      attribute_models.joblib, title_sim.joblib, job_embeddings.npy, faiss.index (ops.)
+      attribute_models.joblib, title_sim.joblib, job_embeddings.npy, faiss.index (ops.; çıkarımda sorgulanmaz)
     """
 
     def __init__(self, bundle_dir: str, device: str | None = None):
@@ -778,17 +779,9 @@ class SOTAMatcher:
         self.job_emb = np.load(emb_p) if os.path.exists(emb_p) else self.bi.encode(
             [self.cfg.get("doc_prefix", "") + t for t in self.jobs["job_struct"]], normalize_embeddings=True,
             batch_size=64, show_progress_bar=False)
+        # Yoğun puanlama tüm ilanlar üzerinde kesin iç çarpımdır (IndexFlatIP ile eşdeğer): RRF ve LambdaMART'ın sıra
+        # öznitelikleri tam-korpus sıralarını gerektirir. Paketteki faiss.index yalnız büyük havuzlar için bırakılmıştır.
         self.job_emb = np.asarray(self.job_emb, dtype=np.float32)
-        self.index = None
-        try:
-            import faiss
-            ip = os.path.join(bundle_dir, "faiss.index")
-            self.index = faiss.read_index(ip) if os.path.exists(ip) else None
-            if self.index is None:
-                self.index = faiss.IndexFlatIP(self.job_emb.shape[1])
-                self.index.add(self.job_emb.astype(np.float32))
-        except Exception:
-            self.index = None
         self.ltr = None
         lp = os.path.join(bundle_dir, "lambdamart.txt")
         if os.path.exists(lp):

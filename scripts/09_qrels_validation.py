@@ -48,7 +48,8 @@ def sample():
         d = q[q.grade == g]
         take = d.iloc[rng.choice(len(d), size=min(PER_GRADE, len(d)), replace=False)]
         rows += [(int(r.cv_id), r.job_key, g) for r in take.itertuples()]
-    # grade 0: yarisi rastgele, yarisi BM25-benzeri zor (ayni unvan sozcugu) ciftler
+    # grade 0: TAMAMEN rastgele ciftler (qrels'te olmayan rastgele CV x ilan); zor (BM25/leksikal) grade-0
+    # ciftler orneklenmez, bu yuzden bu dogrulama zor negatiflerdeki hata oranini olcmez
     keys = jobs.job_key.to_numpy(dtype=object)
     have = set((c, j) for c, j, _ in rows) | set(zip(q.cv_id, q.job_key))
     cv_list = sorted(ids)

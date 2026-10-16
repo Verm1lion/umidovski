@@ -5,7 +5,6 @@ Notebook hucreleri bu dosyada tutulur; notebook elle degil buradan uretilir.
 Kullanim: python scripts/07_make_notebook.py
 """
 import os
-import sys
 
 import nbformat as nbf
 
@@ -50,7 +49,8 @@ CPU kuru çalıştırması yalnız akışı doğrular). Drive bağlama izni bir 
 
 > **Sızıntı yasası:** Hiçbir model, adayın *altın* (gold) etiketlerini (Category, yaka, ISCO, kıdem) özellik olarak görmez.
 > Sektör/yaka uyumu yalnızca **train bölümünde eğitilmiş** metin sınıflandırıcılarının olasılıklarıdır. `gold_*` sütunları
-> yalnızca değerlendirmede kullanılır ve `assert_no_gold_columns` ile programatik olarak denetlenir.
+> yalnızca değerlendirmede kullanılır. `assert_no_gold_columns`, her öznitelik tablosunda etiket adlı sütun (gold_*, legacy_*,
+> grade, label, …) olmadığını denetleyen bir **şema denetimidir**; tarafsız ada konmuş bir etiket değerini yakalayamaz.
 """)
 
 md(r"""
@@ -552,7 +552,8 @@ md(r"""
 **Kayıp:** $\mathcal{L} = -\log \frac{e^{s(q,d^+)/\tau}}{e^{s(q,d^+)/\tau} + \sum_{d^-\in \mathcal{B}\cup \mathcal{H}} e^{s(q,d^-)/\tau}}$
 (van den Oord vd., 2018; Henderson vd., 2017; Karpukhin vd., 2020). $\mathcal{B}$: batch-içi negatifler,
 $\mathcal{H}$: her satırdaki 4 zor negatif — (i) leksikal tuzak, (ii) kıdem/yaka tuzağı, (iii) BM25, (iv) base modelle
-**qrels-filtreli** yoğun madencilik (ANCE/RocketQA; tam yargı sayesinde yanlış negatif yok). **GradCache**
+**qrels-filtreli** yoğun madencilik (ANCE/RocketQA). Tam yargı sayesinde kural tabanlı qrels'e göre yanlış negatif
+yoktur; yine de en benzer grade-0 ilanların bir kısmı yakın-alakalı olabilir (aşağıdaki tanı hücresi). **GradCache**
 (Cached MNRL, Gao vd., 2021) ile A100'de büyük etkin batch. Ek olarak kademeli çiftlerde **CoSENT** (Su, 2022).
 """)
 code(r"""
@@ -1305,9 +1306,11 @@ EXPORT_CFG = {"bi_encoder_base": CFG["BI_ENCODER_BASE"], "cross_encoder_base": C
               "rel_threshold": CFG["REL_THRESHOLD"], "dry_run": DRY_RUN, "core_version": core.__version__}
 json.dump(EXPORT_CFG, open(os.path.join(EX, "config.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 METRICS = {"ablation_test": ABL.reset_index().to_dict(orient="records"), "cold_start_test": COLD_TBL.reset_index().to_dict(orient="records"),
+           "ablation_component_tests": COMP.reset_index().to_dict(orient="records"),
            "temperature_sweep": {str(k): v for k, v in temp_res.items()}, "ltr_cv_ndcg10": study.best_value}
 json.dump(METRICS, open(os.path.join(EX, "metrics.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1, default=str)
 ABL.to_csv(os.path.join(EX, "ablation_test.csv")); COLD_TBL.to_csv(os.path.join(EX, "cold_start_test.csv"))
+COMP.to_csv(os.path.join(EX, "ablation_component_tests.csv"))
 for f in os.listdir(CFG["FIG_DIR"]):
     os.makedirs(os.path.join(EX, "figures"), exist_ok=True); shutil.copy(os.path.join(CFG["FIG_DIR"], f), os.path.join(EX, "figures", f))
 open(os.path.join(EX, "README_INFERENCE.md"), "w", encoding="utf-8").write(
@@ -1326,7 +1329,8 @@ print("Paket:", zp, f"({os.path.getsize(zp) / 1e9:.2f} GB)")
 if DRIVE_DIR:
     shutil.copy(zp, os.path.join(DRIVE_DIR, "export_model_bundle.zip"))
     shutil.copytree(CFG["FIG_DIR"], os.path.join(DRIVE_DIR, "figures"), dirs_exist_ok=True)
-    for f in ("ablation_test.csv", "cold_start_test.csv", "stage1_training_log.csv", "stage2a_training_log.csv"):
+    for f in ("ablation_test.csv", "ablation_component_tests.csv", "cold_start_test.csv", "stage1_training_log.csv",
+              "stage2a_training_log.csv"):
         if os.path.exists(os.path.join(CFG["OUT_DIR"], f)): shutil.copy(os.path.join(CFG["OUT_DIR"], f), DRIVE_DIR)
     # Drive yazmaları arka planda yüklenir; büyük paketin oturum kapanmadan Drive'a ulaşmasını garanti et
     try:

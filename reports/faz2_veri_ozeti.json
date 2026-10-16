@@ -392,8 +392,8 @@
       "sha256": "4a30d5faf3552d5d9b47948fe67203f447b637dd00d342bcc238001e7afe1b41"
     },
     "match_candidate_sota.py": {
-      "bayt": 45598,
-      "sha256": "4b4621598befa131ab6c11601585dfe661c04b3a67052bd2cf4efc3b1d88d9a8"
+      "bayt": 45744,
+      "sha256": "bb4c507bffe9c24e8e26e00fe12fb82d927461395364756e9a6e78d29beef86a"
     },
     "qrels_ground_truth.parquet": {
       "bayt": 358639,

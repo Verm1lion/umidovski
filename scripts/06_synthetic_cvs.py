@@ -8,7 +8,7 @@ gercekci Turkce CV'ler uretilir. Hicbir val/test CV'si uretimde kullanilmaz.
 Alt komutlar
   targets  annotation/occupation_labels.parquet + split -> annotation/synthetic/specs/specs_###.json
   merge    gen/*.json (uretici) + verify/*.json (kor dogrulayici anotasyonu) -> synthetic_cvs.json
-           Gidis-donus tutarlilik filtresi (round-trip consistency, Dai vd. 2022 Promptagator):
+           Gidis-donus tutarlilik filtresi (round-trip consistency, Dai vd., ICLR 2023, Promptagator):
            kor anotatorun isco4'u hedefle ayni, yaka ayni ve |kidem farki| <= 1 olmali.
            Ayrica normalize basligi val/test CV basliklarindan biriyle cakisan sentetik CV atilir.
 
@@ -21,12 +21,10 @@ import glob
 import importlib
 import json
 import os
-import re
 import sys
 from collections import Counter
 
 import numpy as np
-import pandas as pd
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import ROOT, write_json  # noqa: E402

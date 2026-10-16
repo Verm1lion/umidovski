@@ -5,7 +5,7 @@ uctan uca calistirma (nbclient). Ag erisimi gerekmez (kucuk rastgele modeller no
 
 Kullanim:
   python scripts/08_dry_run_notebook.py [--bundle data_bundle.zip] [--workdir work/dry_run] [--static-only]
-Cikti: <workdir>/executed.ipynb ve reports/notebook_dogrulama.json
+Cikti: <workdir>/executed.ipynb (kopyasi: reports/dry_run_executed_notebook.ipynb) ve reports/notebook_dogrulama.json
 """
 import argparse
 import ast
@@ -85,6 +85,7 @@ def main():
         import re
         err = re.sub(r"\x1b\[[0-9;]*m", "", str(e))[-3000:]
     nbformat.write(nb, os.path.join(a.workdir, "executed.ipynb"))
+    shutil.copy(os.path.join(a.workdir, "executed.ipynb"), os.path.join(os.path.dirname(a.report), "dry_run_executed_notebook.ipynb"))
     rep["dry_run"] = {"durum": status, "sure_sn": round(time.time() - t0, 1), "hata": err,
                       "RUN_OK": os.path.exists(os.path.join(a.workdir, "outputs", "RUN_OK.json")),
                       "export_zip": os.path.exists(os.path.join(a.workdir, "export_model_bundle.zip"))}

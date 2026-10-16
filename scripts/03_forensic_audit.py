@@ -18,18 +18,18 @@ Eski test.py fonksiyonlari dogrudan ice aktarilarak (import test) birebir yenide
 Model agirliklari bu ortamda bulunmadigindan siralayici olarak (i) rastgele skorlar ve
 (ii) BM25 kullanilir; kanitlar modelden BAGIMSIZDIR (metriklerin kendisindeki hatalar).
 
-Cikti: reports/FAZ1_ADLI_DENETIM_RAPORU.md, reports/faz1_audit.json, reports/figures/*.png
+Cikti: reports/faz1_audit.json, reports/figures/*.png
+       (reports/FAZ1_ADLI_DENETIM_RAPORU.md bu ciktilardan elle yazilmistir; script raporu uretmez)
 Kullanim: python scripts/03_forensic_audit.py
 """
 import json
 import os
 import re
 import sys
-from collections import Counter, defaultdict
+from collections import Counter
 
 import numpy as np
 import pandas as pd
-import scipy.sparse as sp
 from scipy.sparse.csgraph import connected_components
 from sklearn.feature_extraction.text import TfidfVectorizer
 

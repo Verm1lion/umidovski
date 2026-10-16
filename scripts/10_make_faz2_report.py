@@ -85,8 +85,8 @@ def main():
               "   ─► [konsolidasyon, 43 ISCO grubu] ─► 04 finalize ─► 06 sentetik CV hedefleri ─► [üretim + kör doğrulama]\n"
               "   ─► 06 merge (gidiş-dönüş filtresi) ─► 05 veri paketi (split, qrels, triplet, sızıntı kontrolleri) ─► data_bundle.zip\n```\n")
     md.append("## 2. Meslek anotasyonu (ISCO-08 + uzmanlık + yaka + kıdem)\n")
-    md.append(f"* Kılavuz: `annotation/GUIDELINES.md`. 6.043 öğe (3.043 CV + 3.000 ilan), aynı sektör ve benzer unvanlar aynı "
-              f"parçada olacak şekilde 68 parça. Ham kodlar `annotation/raw/`.\n")
+    md.append("* Kılavuz: `annotation/GUIDELINES.md`. 6.043 öğe (3.043 CV + 3.000 ilan), aynı sektör ve benzer unvanlar aynı "
+              "parçada olacak şekilde 68 parça. Ham kodlar `annotation/raw/`.\n")
     md.append(f"* Konsolidasyon sonrası: **{ast.get('isco4_sayisi', '?')} ISCO-08 birim grubu**, "
               f"**{ast.get('occ_key_sayisi', '?')} kanonik uzmanlık**; hem CV hem ilan tarafında bulunan uzmanlık: "
               f"{ast.get('occ_key_hem_cv_hem_ilan', '?')}, ISCO grubu: {ast.get('isco4_hem_cv_hem_ilan', '?')}. "
@@ -145,7 +145,7 @@ def main():
                   "mutlak NDCG değerleri bir miktar iyimser olabilir. Tüm sistemler aynı qrels ile ölçüldüğü için karşılaştırma "
                   "aynı ölçüt üzerindedir; ancak bu yanlılığın sistemleri eşit etkilediği kanıtlanmış değildir. Ters yönde: "
                   f"kural grade-0 çiftlerden {cm[0][0]} / {sum(cm[0])} tanesi yargıçça da 0, "
-                  + (f"hiçbiri ≥ 2 değildir. " if g0_hi == 0 else f"{g0_hi} tanesi ≥ 2 bulunmuştur. ") +
+                  + ("hiçbiri ≥ 2 değildir. " if g0_hi == 0 else f"{g0_hi} tanesi ≥ 2 bulunmuştur. ") +
                   "Not: grade-0 çiftler rastgele örneklendi; zor (BM25/leksikal) grade-0 çiftlerdeki hata oranını bu örneklem "
                   "ölçmez. Yargıçlara derecelendirme rubriği verildiği için bu doğrulama kuralların tutarlı uygulanıp "
                   "uygulanmadığını sınar; kuralların kendisinin doğruluğunu bağımsız olarak kanıtlamaz.\n")

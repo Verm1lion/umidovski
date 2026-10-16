@@ -6,9 +6,12 @@ uctan uca calistirma (nbclient). Ag erisimi gerekmez (kucuk rastgele modeller no
 Kullanim:
   python scripts/08_dry_run_notebook.py [--bundle data_bundle.zip] [--workdir work/dry_run] [--static-only]
 Cikti: <workdir>/executed.ipynb (kopyasi: reports/dry_run_executed_notebook.ipynb) ve reports/notebook_dogrulama.json
+       (rapor her cikis yolunda yeniden yazilir; 'zaman' ve 'notebook_sha256' hangi notebook'un denetlendigini gosterir;
+        basari = cikis kodu 0 ve statik == OK ve dry_run.durum == OK)
 """
 import argparse
 import ast
+import hashlib
 import json
 import os
 import shutil
@@ -59,15 +62,35 @@ def main():
     ap.add_argument("--static-only", action="store_true")
     ap.add_argument("--report", default=os.path.join(ROOT, "reports", "notebook_dogrulama.json"))
     a = ap.parse_args()
-    nb = nbformat.read(NB, as_version=4)
-    rep = static_checks(nb)
+    os.makedirs(os.path.dirname(a.report), exist_ok=True)
+
+    def write_report(rep):
+        # Rapor HER çıkış yolunda yeniden yazılır (eski "OK" asla kalmaz); hangi notebook'un denetlendiği hash ile belli
+        rep["zaman"] = time.strftime("%Y-%m-%d %H:%M:%S")
+        rep["notebook_sha256"] = hashlib.sha256(open(NB, "rb").read()).hexdigest()
+        with open(a.report, "w", encoding="utf-8") as f:
+            json.dump(rep, f, ensure_ascii=False, indent=1)
+
+    try:
+        nb = nbformat.read(NB, as_version=4)
+        rep = static_checks(nb)
+    except Exception as e:  # nbformat okunamadı / geçersiz
+        write_report({"statik": "HATA", "hata": str(e)[-2000:], "dry_run": {"durum": "YAPILMADI"}})
+        raise
     print(json.dumps(rep, ensure_ascii=False, indent=1))
     if rep["ast_hatalari"] or rep["pyflakes"]:
         print("STATIK KONTROL BASARISIZ")
-        if not a.static_only:
-            sys.exit(1)
+        rep["statik"] = "HATA"
+        rep["dry_run"] = {"durum": "YAPILMADI"}
+        write_report(rep)
+        sys.exit(1)
+    rep["statik"] = "OK"
     if a.static_only:
+        rep["dry_run"] = {"durum": "ATLANDI (--static-only)"}
+        write_report(rep)
         return
+    rep["dry_run"] = {"durum": "CALISIYOR"}
+    write_report(rep)
     if os.path.isdir(a.workdir):
         shutil.rmtree(a.workdir)
     os.makedirs(a.workdir)
@@ -89,9 +112,7 @@ def main():
     rep["dry_run"] = {"durum": status, "sure_sn": round(time.time() - t0, 1), "hata": err,
                       "RUN_OK": os.path.exists(os.path.join(a.workdir, "outputs", "RUN_OK.json")),
                       "export_zip": os.path.exists(os.path.join(a.workdir, "export_model_bundle.zip"))}
-    os.makedirs(os.path.dirname(a.report), exist_ok=True)
-    with open(a.report, "w", encoding="utf-8") as f:
-        json.dump(rep, f, ensure_ascii=False, indent=1)
+    write_report(rep)
     print(json.dumps(rep["dry_run"], ensure_ascii=False, indent=1))
     sys.exit(0 if status == "OK" else 1)
 

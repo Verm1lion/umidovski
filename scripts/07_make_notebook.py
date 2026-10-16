@@ -184,6 +184,28 @@ set_seed(CFG["SEED"])
 RUN_T0 = time.time()      # toplam süre (run_summary.json)
 TIMINGS = {}              # aşama süreleri, sn (run_summary.json)
 EVAL_LOG = []             # her evaluate() çağrısı: (ad, bölüm, sorgu sayısı) — test kaç kez ölçüldü?
+CELL_LOG = []             # her hücrenin süresi ve GPU tepe belleği (run_summary.json -> hucre_sureleri)
+if not globals().get("_CELL_HOOKS_ON"):
+    try:
+        from IPython import get_ipython
+        _ip = get_ipython()
+        def _pre_cell(info):
+            globals()["_CELL_T0"] = time.time()
+            if torch.cuda.is_available():
+                torch.cuda.reset_peak_memory_stats()
+        def _post_cell(result):
+            t0_ = globals().get("_CELL_T0")
+            if t0_ is None:
+                return
+            raw = getattr(getattr(result, "info", None), "raw_cell", "") or ""
+            first = next((l.strip() for l in raw.splitlines() if l.strip()), "")[:90]
+            globals()["CELL_LOG"].append({"hucre_ilk_satir": first, "sn": round(time.time() - t0_, 1),
+                                          "gpu_tepe_GB": (round(torch.cuda.max_memory_allocated() / 1e9, 2)
+                                                          if torch.cuda.is_available() else None)})
+        _ip.events.register("pre_run_cell", _pre_cell); _ip.events.register("post_run_cell", _post_cell)
+        _CELL_HOOKS_ON = True
+    except Exception as e:
+        print("Hücre süre kaydı kapalı:", e)
 print(json.dumps({k: v for k, v in CFG.items()}, indent=1, ensure_ascii=False))
 """)
 
@@ -193,12 +215,18 @@ Sırasıyla şuralara bakılır: `CV_DATA_BUNDLE` ortam değişkeni, `/content/d
 Google Drive (`MyDrive/data_bundle.zip`). Bulunamazsa Colab dosya yükleme penceresi açılır.
 """)
 code(r"""
-def locate_bundle():
+def find_zip():
     cands = [os.environ.get("CV_DATA_BUNDLE"), os.path.join(CFG["WORK_DIR"], "data_bundle.zip"),
              os.path.abspath("data_bundle.zip"), "/content/drive/MyDrive/data_bundle.zip"]
     for c in cands:
         if c and os.path.exists(c):
             return c
+    return None
+
+def locate_bundle():
+    c = find_zip()
+    if c:
+        return c
     if IN_COLAB:
         from google.colab import files
         print("data_bundle.zip dosyasını seçin ...")
@@ -218,17 +246,35 @@ if IN_COLAB and CFG["USE_DRIVE"]:
         print("Drive bağlandı; sonuçlar ayrıca", DRIVE_DIR, "klasörüne yedeklenecek.")
     except Exception as e:
         print("Drive bağlanmadı (sorun değil, yerel diskle devam):", e)
-if not os.path.exists(os.path.join(CFG["DATA_DIR"], "metadata.json")):
-    zp = locate_bundle()
-    print("Açılıyor:", zp)
+import hashlib
+meta_p = os.path.join(CFG["DATA_DIR"], "metadata.json")
+zp = find_zip()
+if zp is None and not os.path.exists(meta_p):
+    zp = locate_bundle()                       # Colab: yükleme penceresi
+if zp is not None:
     with zipfile.ZipFile(zp) as z:
-        z.extractall(CFG["WORK_DIR"])
+        z_meta = z.read("data_bundle/metadata.json")
+        z_core = z.read("data_bundle/match_candidate_sota.py")
+    same = (os.path.exists(meta_p) and open(meta_p, "rb").read() == z_meta and
+            open(os.path.join(CFG["DATA_DIR"], "match_candidate_sota.py"), "rb").read() == z_core)
+    if not same:
+        # Eski açılmış paket ile zip farklı (ya da yok): eskisini sil, zip'i aç — bayat paket sessizce kullanılmaz
+        shutil.rmtree(CFG["DATA_DIR"], ignore_errors=True)
+        print("Açılıyor:", zp)
+        with zipfile.ZipFile(zp) as z:
+            z.extractall(CFG["WORK_DIR"])
+    else:
+        print("Açılmış paket zip ile aynı:", zp)
+else:
+    print("UYARI: zip bulunamadı; mevcut", CFG["DATA_DIR"], "klasörü kullanılıyor (parmak izini repo ile karşılaştırın)")
 sys.path.insert(0, CFG["DATA_DIR"])
 import match_candidate_sota as core
 importlib.reload(core)
-META = json.load(open(os.path.join(CFG["DATA_DIR"], "metadata.json"), encoding="utf-8"))
+META = json.load(open(meta_p, encoding="utf-8"))
+BUNDLE_FP = {f: hashlib.sha256(open(os.path.join(CFG["DATA_DIR"], f), "rb").read()).hexdigest()[:12]
+             for f in ("metadata.json", "match_candidate_sota.py")}
 print("Paket:", sorted(os.listdir(CFG["DATA_DIR"])))
-print("Çekirdek modül sürümü:", core.__version__)
+print("Çekirdek modül sürümü:", core.__version__, "| paket parmak izi (sha256[:12]):", BUNDLE_FP)
 """)
 
 code(r"""
@@ -570,6 +616,10 @@ E_base_jobs = encode(base, job_texts(DP))
 # Referans: base (zero-shot) BGE-M3
 E_base_test = encode(base, cv_texts(TEST_IDS, QP))
 print("Zero-shot base bi-encoder:", fmt(eval_scores(E_base_test @ E_base_jobs.T, TEST_IDS, "Ref: Zero-shot base bi-encoder")))
+# Aynısı VAL'de, WARM havuzda: Aşama 1 log'undaki eval_val_graded_ndcg@10 ile AYNI ölçek (karar için başlangıç noktası)
+E_base_val = encode(base, cv_texts(VAL_IDS, QP))
+VAL_ZS_BASE = fmt(eval_scores((E_base_val @ E_base_jobs.T)[:, WARM_COLS], VAL_IDS, cols=WARM_COLS, store=False))
+print("Zero-shot base bi-encoder (VAL, WARM havuz — Aşama 1 log'larıyla aynı ölçek):", VAL_ZS_BASE)
 
 # (iv) Yoğun zor negatif madenciliği: base modelin üst sıralarına koyduğu grade-0 WARM ilanlar
 anchors = sorted(set(trip.anchor_cv_id))
@@ -914,17 +964,22 @@ print("Hybrid + Cross-encoder:", fmt(evaluate(rerank_lists(TEST_IDS, CAND["test"
 md(r"""
 ### 9.1 Tanı: aday kümesi tavanı ve belirteç kırpılması (karar için yalnız VAL)
 Aşama 2 en fazla aday kümesindeki ilanları sıralayabilir. Aşağıdaki "kâhin" (oracle), adayları gerçek dereceye göre dizer:
-Aşama 2'nin bu adaylarla ulaşabileceği **üst sınırdır**. Val tavanı hedefin (NDCG@10 > 92) altındaysa Aşama 2'yi
-iyileştirmek hedefe götürmez; önce Aşama 1 / `N_CANDIDATES`. Test tavanı yalnız rapor için `run_summary.json`'a yazılır.
+Aşama 2'nin bu adaylarla ulaşabileceği **üst sınırdır**. Karar sinyali **val, WARM havuz** üzerinde ölçülür (cold ilanlar
+ne adayda ne qrels'te). Val tavanları test tavanlarından birkaç puan düşük çıkar (BM25 ilk-50: val 83,15, test 86,95);
+bu yüzden val tavanını val tabanlarıyla kıyasla. Test tavanı yalnız rapor için `run_summary.json`'a yazılır.
 """)
 code(r"""
-def cand_ceiling(ids, cand):
+def cand_ceiling(ids, cand, cols=None):
     orc = {int(q): sorted(map(int, cand[i]), key=lambda j: -grade(q, j)) for i, q in enumerate(ids)}
-    res = core.evaluate_rankings(orc, qrels_for(list(orc)), k=10, rel_threshold=CFG["REL_THRESHOLD"])
+    res = core.evaluate_rankings(orc, qrels_for(list(orc), cols), k=10, rel_threshold=CFG["REL_THRESHOLD"])
     return fmt(res["summary"])
-DIAG = {"aday_tavani_val": cand_ceiling(VAL_IDS, CAND["val"]), "aday_tavani_test(yalniz_rapor)": cand_ceiling(TEST_IDS, CAND["test"]),
+_fv = HYB["val"][0].copy(); _fv[:, COLD] = -np.inf          # karar sinyali: cold ilanlar ne adayda ne qrels'te
+DIAG = {"aday_tavani_val(WARM)": cand_ceiling(VAL_IDS, core.topk_indices(_fv, CFG["N_CANDIDATES"]), WARM_COLS),
+        "aday_tavani_test(tam_havuz,yalniz_rapor)": cand_ceiling(TEST_IDS, CAND["test"]),
         "n_candidates": CFG["N_CANDIDATES"]}
-print(f"Aday kümesi tavanı (val, ilk {CFG['N_CANDIDATES']} hibrit aday, kâhin sıralama):", DIAG["aday_tavani_val"])
+print(f"Aday kümesi tavanı (VAL, WARM havuz, ilk {CFG['N_CANDIDATES']} hibrit aday, kâhin sıralama):", DIAG["aday_tavani_val(WARM)"])
+print("  Karşılaştırma için BM25 ilk-50 aday tavanı: val tam havuz 83,15 / test tam havuz 86,95 (reports/metric_ceilings.json);"
+      " val tavanları test tavanlarından birkaç puan düşük çıkar — kararı val'i val ile kıyaslayarak ver.")
 try:
     def over(tok, texts, limit, pairs=False):
         if pairs:
@@ -943,9 +998,9 @@ try:
     print("Belirteç uzunlukları (> sınır oranı, medyan, p90):", {k: v for k, v in DIAG.items() if k.startswith("kirpilma")})
 except Exception as e:
     print("Kırpılma ölçümü atlandı:", e)
-if DEVICE == "cuda":
-    DIAG["gpu_tepe_bellek_GB_simdiye_kadar"] = round(torch.cuda.max_memory_allocated() / 1e9, 2)
-    print("GPU tepe bellek (şimdiye kadar):", DIAG["gpu_tepe_bellek_GB_simdiye_kadar"], "GB")
+if CELL_LOG:
+    print("Şimdiye kadarki en uzun hücreler (sn, GPU tepe GB):",
+          [(c["hucre_ilk_satir"][:40], c["sn"], c["gpu_tepe_GB"]) for c in sorted(CELL_LOG, key=lambda c: -c["sn"])[:5]])
 """)
 
 md(r"""
@@ -1061,6 +1116,76 @@ fig, ax = plt.subplots(1, 2, figsize=(15, 6))
 sns.barplot(data=imp.head(20), y="feature", x="gain", ax=ax[0], color="#4C72B0"); ax[0].set_title("LambdaMART — gain")
 sns.barplot(data=imp.head(20), y="feature", x="mean_abs_shap", ax=ax[1], color="#DD8452"); ax[1].set_title("LambdaMART — ort. |SHAP|")
 fig.tight_layout(); fig.savefig(os.path.join(CFG["FIG_DIR"], "ltr_importance.png"), dpi=120); plt.show()
+""")
+
+md(r"""
+### 10.1 VAL üzerinde tam hat (karar sinyali) — WARM havuz, LambdaMART kat dışı
+Test tablosu (§11) yalnız kayıt içindir. Kararlar için aynı sistemlerin **val** karşılığı burada ölçülür: cold ilanlar
+ne adayda ne qrels'te (WARM havuz); LambdaMART val'de eğitildiği için val sıralaması **kat dışı** (GroupKFold, aynı
+hiperparametreler) tahminlerle kurulur. Not: Aşama 1/2a val'de erken durdurma/checkpoint seçimi gördü ve LTR
+hiperparametreleri aynı val CV'siyle seçildi; bu sayılar test'e göre hafifçe iyimser olabilir — değişiklikleri
+**birbirleriyle** kıyaslamak için kullanılır. Sorgu bazlı sonuçlar `per_query_val.csv`'ye yazılır.
+""")
+code(r"""
+def warm_ranked(Smat, qids, k=100):
+    S_ = Smat.copy(); S_[:, COLD] = -np.inf
+    top = core.topk_indices(S_, k)
+    return {int(q): [int(j) for j in top[i] if not COLD[j]] for i, q in enumerate(qids)}
+
+def val_res(ranked, name):
+    res = core.evaluate_rankings(ranked, qrels_for(list(ranked), WARM_COLS), k=10, rel_threshold=CFG["REL_THRESHOLD"])
+    EVAL_LOG.append({"ad": name, "bölüm": "val", "sorgu": len(ranked), "alt_korpus": True})
+    return res
+
+hyb_val_warm = warm_ranked(HYB["val"][0], VAL_IDS)
+ce_val = {q: [j for j in lst if not COLD[j]] for q, lst in rerank_lists(VAL_IDS, CAND["val"], CE_S["val"], HYB["val"][0]).items()}
+oof = {}
+for tr_i, va_i in GroupKFold(n_splits=CFG["LTR_FOLDS"]).split(ltr_tr, groups=ltr_tr.qid):
+    a_ = ltr_tr.iloc[tr_i].sort_values("qid", kind="stable")
+    m_ = lgb.LGBMRanker(objective="lambdarank", metric="ndcg", eval_at=[10], n_estimators=max(10, n_est), subsample_freq=1,
+                        random_state=CFG["SEED"], verbose=-1, **LTR_BEST)
+    m_.fit(a_[FEATS], a_.grade, group=groups_of(a_))
+    b_ = ltr_tr.iloc[va_i].copy(); b_["s"] = m_.predict(b_[FEATS].to_numpy(np.float32))
+    for q, g in b_.groupby("qid", sort=False):
+        head = g.sort_values("s", ascending=False).job_idx.astype(int).tolist(); hs = set(head)
+        oof[int(q)] = (head + [j for j in hyb_val_warm[int(q)] if j not in hs])[:100]
+for q in VAL_IDS:                                  # tüm adayları cold olan sorgu kalırsa hibrit sırası
+    oof.setdefault(int(q), hyb_val_warm[int(q)])
+VAL_SYSTEMS = {
+    "B1: BM25": warm_ranked(S_BM25["val"], VAL_IDS),
+    "Ref: Zero-shot base bi-encoder": warm_ranked(E_base_val @ E_base_jobs.T, VAL_IDS) if "E_base_val" in globals() else None,
+    "Ours: Fine-tuned dense (tek)": warm_ranked(S_DENSE["val"], VAL_IDS),
+    "S1: Fine-tuned bi-encoder + BM25 (RRF)": hyb_val_warm,
+    "Ours: Hybrid + Cross-encoder": ce_val,
+    "S2: Hybrid + Cross-encoder + LambdaMART (kat dışı)": oof,
+}
+VAL_RES = {n: val_res(r, n) for n, r in VAL_SYSTEMS.items() if r is not None}
+vrows = []
+for n, r in VAL_RES.items():
+    lo, hi = core.bootstrap_ci(r["per_query"]["NDCG@10"].to_numpy(), seed=CFG["SEED"])
+    vrows.append({"Sistem": n, **fmt(r["summary"]), "NDCG@10 %95 GA": f"[{100*lo:.1f}, {100*hi:.1f}]", "sorgu": r["summary"]["n_queries"]})
+VAL_TBL = pd.DataFrame(vrows).set_index("Sistem")
+VAL_PAIRS = {"İnce ayar (val)": ("Ours: Fine-tuned dense (tek)", "Ref: Zero-shot base bi-encoder"),
+             "BM25 füzyonu (val)": ("S1: Fine-tuned bi-encoder + BM25 (RRF)", "Ours: Fine-tuned dense (tek)"),
+             "Cross-encoder (val)": ("Ours: Hybrid + Cross-encoder", "S1: Fine-tuned bi-encoder + BM25 (RRF)"),
+             "LambdaMART (val, kat dışı)": ("S2: Hybrid + Cross-encoder + LambdaMART (kat dışı)", "Ours: Hybrid + Cross-encoder")}
+vcomp = []
+for lab, (a_n, b_n) in VAL_PAIRS.items():
+    if a_n not in VAL_RES or b_n not in VAL_RES: continue
+    pa, pb = VAL_RES[a_n]["per_query"].set_index("qid"), VAL_RES[b_n]["per_query"].set_index("qid")
+    cm = pa.index.intersection(pb.index)
+    rec = {"Karşılaştırma": lab, "sorgu": len(cm)}
+    for met in ("NDCG@10", "Top1"):
+        rec[f"Δ{met} (puan)"] = round(100 * float((pa.loc[cm, met] - pb.loc[cm, met]).mean()), 2)
+        rec[f"p ({met})"] = core.paired_randomization_test(pa.loc[cm, met], pb.loc[cm, met], n_perm=2000 if DRY_RUN else 10000,
+                                                          seed=CFG["SEED"])
+    vcomp.append(rec)
+VAL_COMP = pd.DataFrame(vcomp).set_index("Karşılaştırma") if vcomp else pd.DataFrame()
+print("VAL (WARM havuz) — karar sinyali; test tablosu (§11) yalnız kayıt içindir:")
+display(VAL_TBL); display(VAL_COMP)
+VAL_TBL.to_csv(os.path.join(CFG["OUT_DIR"], "val_pipeline.csv")); VAL_COMP.to_csv(os.path.join(CFG["OUT_DIR"], "val_component_tests.csv"))
+pd.concat([r["per_query"].assign(sistem=n) for n, r in VAL_RES.items()], ignore_index=True).to_csv(
+    os.path.join(CFG["OUT_DIR"], "per_query_val.csv"), index=False)
 """)
 
 md(r"""
@@ -1366,9 +1491,14 @@ RUN_SUMMARY = {
                        "ltr_cv_ndcg10(val,WARM)": study.best_value,
                        "bi_val_en_iyi": (bi_log_df.filter(like="eval_val_graded_ndcg").max().max() if len(bi_log_df) else None),
                        "ce_val_en_iyi": (ce_log_df.filter(like="eval_val_graded_ndcg").max().max() if len(ce_log_df) else None)},
+    "val_tam_hat(WARM)": VAL_TBL.reset_index().to_dict(orient="records"),
+    "val_bilesen_testleri": VAL_COMP.reset_index().to_dict(orient="records") if len(VAL_COMP) else [],
+    "val_zero_shot_base(WARM)": VAL_ZS_BASE,
     "tani": DIAG, "sureler_sn": TIMINGS, "toplam_sure_dk": round((time.time() - RUN_T0) / 60, 1),
+    "hucre_sureleri": CELL_LOG, "paket_parmak_izi": BUNDLE_FP,
     "gpu": (torch.cuda.get_device_name(0) if DEVICE == "cuda" else "cpu"),
-    "gpu_tepe_bellek_GB": (round(torch.cuda.max_memory_allocated() / 1e9, 2) if DEVICE == "cuda" else None),
+    "gpu_tepe_bellek_GB": (max([c["gpu_tepe_GB"] or 0 for c in CELL_LOG] + [torch.cuda.max_memory_allocated() / 1e9])
+                           if DEVICE == "cuda" else None),
     "surumler": {"torch": torch.__version__, "sentence_transformers": sentence_transformers.__version__,
                  "transformers": transformers.__version__, "lightgbm": lgb.__version__, "sklearn": sklearn.__version__,
                  "python": sys.version.split()[0]},
@@ -1377,7 +1507,8 @@ RUN_SUMMARY = {
 }
 for d_ in (EX, CFG["OUT_DIR"]):
     json.dump(RUN_SUMMARY, open(os.path.join(d_, "run_summary.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1, default=str)
-shutil.copy(os.path.join(CFG["OUT_DIR"], "per_query_test.csv"), os.path.join(EX, "per_query_test.csv"))
+for f_ in ("per_query_test.csv", "per_query_val.csv", "val_pipeline.csv", "val_component_tests.csv"):
+    shutil.copy(os.path.join(CFG["OUT_DIR"], f_), os.path.join(EX, f_))
 print("run_summary.json yazıldı | test değerlendirme sayısı:", RUN_SUMMARY["test_degerlendirme_sayisi"],
       "| toplam süre:", RUN_SUMMARY["toplam_sure_dk"], "dk")
 for f in os.listdir(CFG["FIG_DIR"]):
@@ -1399,7 +1530,8 @@ if DRIVE_DIR:
     shutil.copy(zp, os.path.join(DRIVE_DIR, "export_model_bundle.zip"))
     shutil.copytree(CFG["FIG_DIR"], os.path.join(DRIVE_DIR, "figures"), dirs_exist_ok=True)
     for f in ("ablation_test.csv", "ablation_component_tests.csv", "cold_start_test.csv", "stage1_training_log.csv",
-              "stage2a_training_log.csv", "run_summary.json", "per_query_test.csv"):
+              "stage2a_training_log.csv", "run_summary.json", "per_query_test.csv", "per_query_val.csv",
+              "val_pipeline.csv", "val_component_tests.csv"):
         if os.path.exists(os.path.join(CFG["OUT_DIR"], f)): shutil.copy(os.path.join(CFG["OUT_DIR"], f), DRIVE_DIR)
     # Drive yazmaları arka planda yüklenir; büyük paketin oturum kapanmadan Drive'a ulaşmasını garanti et
     try:

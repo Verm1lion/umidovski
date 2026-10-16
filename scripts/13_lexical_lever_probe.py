@@ -6,8 +6,9 @@ Protokol (scripts/11 ile ayni aday/oznitelik hatti; dense ve cross-encoder oznit
     yalnizca TRAIN CV'lerinden ogrenilir; cold ilanlar kNN'de 0'lanir.
   * LambdaMART, val sorgularinda 5 katli GroupKFold (grup = CV'nin bolme grubu, group_id) ile egitilir; her katta
     erken durdurma egitim katlarinin icindeki ayri %15'lik bolmede yapilir; tutulan katin adaylari yeniden siralanir.
-  * Tum val sorgularinin kat-disi siralamalari tam havuz qrels ile olculur; varyantlar "base, K=50"ye karsi
-    eslestirilmis Fisher randomizasyon testiyle karsilastirilir.
+  * Tum val sorgularinin kat-disi siralamalari WARM havuzda olculur (cold ilanlar ne siralamada ne qrels'te; notebook'un
+    secim degerlendiricileriyle ayni olcek); varyantlar "base, K=50"ye karsi eslestirilmis Fisher randomizasyon testiyle
+    karsilastirilir. Aday kumesi BM25 ilk-K'dir (cold adaylar elenir, yani WARM aday sayisi K'dan az olabilir).
 
 Varyantlar
   base       : core.FEATURE_COLUMNS (35)
@@ -127,9 +128,10 @@ def main():
                 "+knn+isco": base + ["knn_gain", "knn_rel", "knn_g3", "isco_dot", "isco_top1_match"]}
     qids = d.cv_id.astype(int).to_numpy()
     folds = list(GroupKFold(n_splits=5).split(qids, groups=[grp[x] for x in qids]))
-    qr = {int(c): qrels.get(int(c), {}) for c in qids}
+    # Karar sinyali: cold ilanlar ne siralamada ne qrels'te (notebook'un secim degerlendiricileriyle ayni WARM havuz)
+    qr = {int(c): {j: g for j, g in qrels.get(int(c), {}).items() if not cold[j]} for c in qids}
     gsize = lambda df: df.groupby("qid", sort=False).size().to_numpy()  # noqa: E731
-    out = {"protokol": "val-yalniz, 5 katli GroupKFold (group_id), kat-disi siralama; test KULLANILMADI",
+    out = {"protokol": "val-yalniz, 5 katli GroupKFold (group_id), kat-disi siralama, WARM havuz (cold yok); test KULLANILMADI",
            "isco_siniflandirici_val_top1_dogrulugu": round(isco_acc, 4), "varyantlar": {}}
     ref = None
     for K in (50, 100):
@@ -148,13 +150,15 @@ def main():
                                    random_state=SEED, verbose=-1)
                 m.fit(a[feats], a.grade, group=gsize(a), eval_set=[(b[feats], b.grade)], eval_group=[gsize(b)],
                       callbacks=[lgb.early_stopping(100, verbose=False)])
-                tt = val[(val.pos < K) & val.qid.isin(teq)].copy()
+                tt = val[(val.pos < K) & val.qid.isin(teq) & ~cold[val.job_idx.to_numpy()]].copy()
                 tt["s"] = m.predict(tt[feats].to_numpy(np.float32))
                 for qid_, gq in tt.groupby("qid", sort=False):
                     i = int(np.where(qids == qid_)[0][0])
                     head = gq.sort_values("s", ascending=False).job_idx.astype(int).tolist()
                     hs = set(head)
-                    ranked[int(qid_)] = (head + [int(j) for j in cand[i] if j not in hs])[:100]
+                    ranked[int(qid_)] = (head + [int(j) for j in cand[i] if j not in hs and not cold[j]])[:100]
+            for i, q_ in enumerate(qids):          # tum adaylari cold olan sorgu: BM25 (WARM) sirasi
+                ranked.setdefault(int(q_), [int(j) for j in cand[i] if not cold[j]])
             r = core.evaluate_rankings(ranked, qr)
             s = r["summary"]
             pq = r["per_query"].set_index("qid")["NDCG@10"]

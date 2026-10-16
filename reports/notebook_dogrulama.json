@@ -1,14 +1,17 @@
 {
- "hucre": 53,
- "kod_hucresi": 30,
+ "hucre": 55,
+ "kod_hucresi": 31,
  "ast_hatalari": [],
  "pyflakes": [],
  "nbformat_gecerli": true,
+ "statik": "OK",
  "dry_run": {
   "durum": "OK",
-  "sure_sn": 901.8,
+  "sure_sn": 108.2,
   "hata": null,
   "RUN_OK": true,
   "export_zip": true
- }
+ },
+ "zaman": "2026-10-16 18:09:39",
+ "notebook_sha256": "4a3345063775b557801b385f1934b3ce6b52ab91a8777b2287aa38d34f5fa732"
 }

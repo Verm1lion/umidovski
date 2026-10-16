@@ -7,7 +7,8 @@ hedeflerin (Top-1 > 88, NDCG@10 > 92, P@10 > 85) mevcut tanimla ulasilabilir olu
 Olculenler
   * kahin (ilanlar gercek dereceye gore) — val/test x tam/warm/cold havuz x alakali esigi 1/2/3
   * "ikili kusursuz": tum grade>=2 ilanlar basta ama kendi aralarinda rastgele (grade 3'u 2'den ayirmayan model)
-  * BM25 ilk-K aday kumesinin kahin yeniden siralamasi (Asama 2'nin aday kalitesine bagli tavani), K = 50/100/200
+  * BM25 ilk-K aday kumesinin kahin yeniden siralamasi (Asama 2'nin aday kalitesine bagli tavani), K = 50/100/200;
+    tam havuz ve WARM havuz (cold ilanlar ne adayda ne qrels'te — notebook §9.1 val tavaniyla ayni olcek)
   * sorgu basina alakali ilan sayisi dagilimi, grade-3'un lokasyona bagimliligi
 
 Cikti: reports/metric_ceilings.json
@@ -91,6 +92,16 @@ def main():
                 head = sorted(top[i][:K].tolist(), key=lambda j: -Q.get(c, {}).get(j, 0))
                 ranked[c] = (head + top[i][K:].tolist())[:100]
             cand[f"{s}|bm25_ilk{K}_kahin_yeniden_siralama"] = summ(core.evaluate_rankings(ranked, qr))
+        # WARM havuz (cold ilanlar ne adayda ne qrels'te): notebook §9.1 val tavanı ve scripts/13 ile ayni olcek
+        Sw = S.copy(); Sw[:, (jobs.job_pool == "cold").to_numpy()] = -np.inf
+        topw = core.topk_indices(Sw, 300)
+        qrw = {c: {j: g for j, g in Q.get(c, {}).items() if j in pools["warm"]} for c in qids}
+        for K in (50, 100, 200):
+            ranked = {}
+            for i, c in enumerate(qids):
+                head = sorted(topw[i][:K].tolist(), key=lambda j: -qrw[c].get(j, 0))
+                ranked[c] = (head + topw[i][K:].tolist())[:100]
+            cand[f"{s}|WARM|bm25_ilk{K}_kahin_yeniden_siralama"] = summ(core.evaluate_rankings(ranked, qrw))
     out["aday_kumesi_tavani(BM25)"] = cand
 
     # 4) sorgu basina alakali ilan dagilimi

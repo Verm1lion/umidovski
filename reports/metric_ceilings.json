@@ -302,6 +302,45 @@
       "n_queries": 441,
       "n_skipped_no_relevant": 16
     },
+    "val|WARM|bm25_ilk50_kahin_yeniden_siralama": {
+      "NDCG@10": 84.14,
+      "MRR@10": 95.89,
+      "P@10": 62.88,
+      "P@10_capped": 73.77,
+      "Top1": 95.89,
+      "Top1_exact(grade3)": 26.71,
+      "R@10": 37.87,
+      "R@50": 44.86,
+      "R@100": 57.32,
+      "n_queries": 438,
+      "n_skipped_no_relevant": 19
+    },
+    "val|WARM|bm25_ilk100_kahin_yeniden_siralama": {
+      "NDCG@10": 90.67,
+      "MRR@10": 97.03,
+      "P@10": 70.73,
+      "P@10_capped": 82.97,
+      "Top1": 97.03,
+      "Top1_exact(grade3)": 28.77,
+      "R@10": 43.42,
+      "R@50": 56.84,
+      "R@100": 57.32,
+      "n_queries": 438,
+      "n_skipped_no_relevant": 19
+    },
+    "val|WARM|bm25_ilk200_kahin_yeniden_siralama": {
+      "NDCG@10": 94.58,
+      "MRR@10": 98.63,
+      "P@10": 75.71,
+      "P@10_capped": 89.02,
+      "Top1": 98.63,
+      "Top1_exact(grade3)": 30.14,
+      "R@10": 47.37,
+      "R@50": 68.03,
+      "R@100": 69.31,
+      "n_queries": 438,
+      "n_skipped_no_relevant": 19
+    },
     "test|bm25_dogrudan": {
       "NDCG@10": 53.66,
       "MRR@10": 74.03,
@@ -351,6 +390,45 @@
       "R@10": 47.93,
       "R@50": 68.76,
       "R@100": 70.45,
+      "n_queries": 453,
+      "n_skipped_no_relevant": 8
+    },
+    "test|WARM|bm25_ilk50_kahin_yeniden_siralama": {
+      "NDCG@10": 87.0,
+      "MRR@10": 96.91,
+      "P@10": 63.95,
+      "P@10_capped": 79.08,
+      "Top1": 96.91,
+      "Top1_exact(grade3)": 28.26,
+      "R@10": 42.04,
+      "R@50": 49.25,
+      "R@100": 60.99,
+      "n_queries": 453,
+      "n_skipped_no_relevant": 8
+    },
+    "test|WARM|bm25_ilk100_kahin_yeniden_siralama": {
+      "NDCG@10": 93.47,
+      "MRR@10": 99.34,
+      "P@10": 72.1,
+      "P@10_capped": 88.16,
+      "Top1": 99.34,
+      "Top1_exact(grade3)": 30.46,
+      "R@10": 46.59,
+      "R@50": 60.47,
+      "R@100": 60.99,
+      "n_queries": 453,
+      "n_skipped_no_relevant": 8
+    },
+    "test|WARM|bm25_ilk200_kahin_yeniden_siralama": {
+      "NDCG@10": 96.46,
+      "MRR@10": 99.34,
+      "P@10": 76.82,
+      "P@10_capped": 93.65,
+      "Top1": 99.34,
+      "Top1_exact(grade3)": 31.13,
+      "R@10": 49.93,
+      "R@50": 70.76,
+      "R@100": 72.21,
       "n_queries": 453,
       "n_skipped_no_relevant": 8
     }

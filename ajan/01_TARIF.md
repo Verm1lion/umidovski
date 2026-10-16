@@ -143,7 +143,7 @@ kanıtlamaktır.
 
   Biri farklıysa veri veya kod değişmiştir.
 - **Parite satırı.** Paketten yeniden yüklenen model, notebook'un test sıralamalarıyla örtüşmeli. Örtüşme ≈ %100,
-  Top-1 aynılığı ≈ %100 olmalı. Kuru çalıştırmada küçük modellerle %98,8 / %100 çıktı. Gerçek modelle %95'in altı
+  Top-1 aynılığı ≈ %100 olmalı. Kuru çalıştırmada küçük modellerle (8 test sorgusu) %97,5 / %100 çıktı (`reports/dry_run_executed_notebook.ipynb`). Gerçek modelle %95'in altı
   araştırılmalı (`05` §A).
 
 Tam sağlık tablosu `02` §3'tedir.

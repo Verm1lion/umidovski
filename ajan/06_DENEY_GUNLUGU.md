@@ -44,7 +44,7 @@ dosyaları bir sonraki çalıştırmadan **önce** kopyala ve bu çalıştırmay
 
 - **Durum:**
   - Veri paketi, notebook (55 hücre) ve çekirdek hazır. CPU kuru çalıştırma OK: `reports/notebook_dogrulama.json` →
-    `statik` OK, `dry_run.durum` OK, `zaman` 2026-10-16 18:09:39, `notebook_sha256` güncel `.ipynb` ile aynı.
+    `statik` OK, `dry_run.durum` OK, `notebook_sha256` güncel `.ipynb` ile aynı (zaman damgası raporda).
   - Paket parmak izi (sha256[:12]): `metadata.json` b0eb93042e32, `match_candidate_sota.py` d6a16586ffd7.
   - Notebook val karar sinyallerini WARM havuzda yazdırır: §7 val sıfır-atış (`val_zero_shot_base(WARM)`), §9.1
     `aday_tavani_val(WARM)`, §10.1 `VAL_TBL` / `VAL_COMP`; sorgu bazlı val sonuçlarını `per_query_val.csv`'ye yazar.

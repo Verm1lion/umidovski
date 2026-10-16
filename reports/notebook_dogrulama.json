@@ -7,11 +7,11 @@
  "statik": "OK",
  "dry_run": {
   "durum": "OK",
-  "sure_sn": 110.4,
+  "sure_sn": 121.2,
   "hata": null,
   "RUN_OK": true,
   "export_zip": true
  },
- "zaman": "2026-10-16 22:25:15",
- "notebook_sha256": "a08db3aa03fe6514ddd9361de7da4760efa8d72438f93f1367e17171bc8b4758"
+ "zaman": "2026-10-16 23:09:14",
+ "notebook_sha256": "b67e595968710f4e59b9907b14dc23bcb3544ff67c4fec3cd73178dadc3bae34"
 }

@@ -15,10 +15,10 @@
 | `match_candidate_sota.py` | Eğitim ve çıkarımın ortak çekirdeği + CLI/API (`--serve` ile FastAPI) |
 | `reports/FAZ1_ADLI_DENETIM_RAPORU.md` | Eski sistemin sayısal adli denetimi |
 | `reports/FAZ2_VERI_RAPORU.md` | Yeni veri setinin, etiketlerin ve sızıntı kontrollerinin raporu (`scripts/10` üretir) |
-| `reports/*.json`, `reports/figures/` | Ham ölçümler: `faz1_audit`, `faz2_veri_ozeti`, `annotation_iaa`, `annotation_stats`, `synthetic_cv_stats`, `qrels_validation`, `local_bm25_test`, `local_lexical_ltr`, `notebook_dogrulama`; Faz 1 grafikleri |
+| `reports/*.json`, `reports/figures/` | Ham ölçümler: `faz1_audit`, `faz2_veri_ozeti`, `annotation_iaa`, `annotation_stats`, `synthetic_cv_stats`, `qrels_validation`, `local_bm25_test`, `local_lexical_ltr`, `metric_ceilings`, `lexical_lever_probe_val`, `notebook_dogrulama`; Faz 1 grafikleri |
 | `reports/dry_run_executed_notebook.ipynb` | Notebook'un CPU duman testindeki çalıştırılmış kopyası (çıktıları anlamsız, yalnız akış kanıtı) |
 | `annotation/` | Kılavuz (`GUIDELINES.md`), anotasyon girdileri (`items.jsonl`, `chunks/`, `iaa_chunks/`), kayıtlı LLM çıktıları (`raw/`, `iaa_raw/`, `consolidation_raw/`, `synthetic/gen`, `synthetic/verify`, `qrels_validation/judged_*.json`), nihai etiketler (`occupation_labels.parquet`), çift düzeyi doğrulama anahtarı ve rubriği, biçim doğrulayıcıları (`validate_*.py`) |
-| `scripts/01…11_*.py` (+ `common.py`) | Verinin, notebook'un ve `reports/` altındaki ölçüm çıktılarının (JSON'lar, Faz 1 grafikleri, `FAZ2_VERI_RAPORU.md`, duman testi kopyası) tamamını yeniden üreten scriptler (sıra: BÖLÜM 6); `FAZ1_ADLI_DENETIM_RAPORU.md` ise elle yazılmıştır (sayı kaynakları: BÖLÜM 6 sonu) |
+| `scripts/01…13_*.py` (+ `common.py`) | Verinin, notebook'un ve `reports/` altındaki ölçüm çıktılarının (JSON'lar, Faz 1 grafikleri, `FAZ2_VERI_RAPORU.md`, duman testi kopyası) tamamını yeniden üreten scriptler (sıra: BÖLÜM 6); `FAZ1_ADLI_DENETIM_RAPORU.md` ise elle yazılmıştır (sayı kaynakları: BÖLÜM 6 sonu) |
 | `veriseti/`, `match_candidate.py`, `test.py`, `sbertmodel.py`, `MODEL_VE_TEST_REHBERI.md` | Eski projenin verisi, kodu ve rehberi (Faz 1'de denetlenen girdiler) |
 
 ---
@@ -88,7 +88,7 @@
 | Hızlı bir deneme isteniyor | `CFG`'de `BI_EPOCHS=1`, `TUNE_TEMPERATURE=False`, `LEGACY_EPOCHS=1`, `CE_EPOCHS=1`, `LTR_TRIALS=10` yapın (yukarıdaki tablodan türetilen tahmin ≈ 40–60 dk; ölçülmedi) |
 
 **Doğrulama:** Notebook bu depoda CPU üzerinde `DRY_RUN` modunda uçtan uca çalıştırılmıştır:
-`python scripts/08_dry_run_notebook.py` → `reports/notebook_dogrulama.json` (durum OK, 111 sn; çalıştırılmış kopya
+`python scripts/08_dry_run_notebook.py` → `reports/notebook_dogrulama.json` (durum OK, ≈2 dk; çalıştırılmış kopya
 `reports/dry_run_executed_notebook.ipynb`). Bu çalışma yalnızca **CPU kod yolunun** (veri yükleme, sızıntı
 koruyucuları, eğitim/değerlendirme mantığı, ablation, dışa aktarım ve paketin yeniden yüklenmesi) küçük, rastgele
 başlatılmış yerel BERT'ler ve alt-örneklenmiş veriyle (60 train anchor, 24 val ve 27 test sorgusu, 256 belirteç)
@@ -475,15 +475,17 @@ Top-1'i %64,68'den %72,85'e çıkarıyor.
 
 **S6. "LambdaMART'ı val kümesinde eğittiniz. Val'i hem model seçimi hem eğitim için kullanmak sızıntı değil mi?"**
 Hiçbir model, hiperparametre ya da checkpoint seçimi test üzerinde yapılmaz; test yalnızca ölçüm içindir. (Dürüst
-not: nöral hat testte hiç ölçülmedi; ancak GPU'suz leksikal hat için hazırlık aşamasında birkaç keşif ölçümü testte
-yapıldı. Bunlar hiçbir seçimde kullanılmadı ve yerlerine yalnız val kullanan ölçümler konuldu; ayrıntı
+not: nöral hat testte hiç ölçülmedi. Ancak hazırlık aşamasında GPU'suz leksikal hatta ≈14 LTR varyantı (ISCO-4, kNN,
+K=50/100, çapraz uydurma) ve BM25 Top-1 hata kategorileri testte keşif amaçlı ölçüldü. Bu sayılar hiçbir
+model/hiperparametre seçiminde ve kanıt olarak kullanılmadı; aynı kaldıraçlar yalnız val kullanan `scripts/13` ile
+yeniden ölçüldü. Yine de test kümesi leksikal varyantlar açısından tamamen bakir değildir; ayrıntı
 `ajan/06_DENEY_GUNLUGU.md` E000.)
 Val'in bi-encoder/cross-encoder için τ seçimi, erken durdurma ve en iyi checkpoint seçiminde kullanılması (gradyan
 eğitiminde değil), LambdaMART'ın val özniteliklerini hafifçe iyimser görmesine yol açabilir. Bunun yönü
 **test performansını düşürmek** yönündedir, şişirmek yönünde değil. Bu, yığınlamanın (Wolpert, 1992) standart
 yapısıdır. Alternatif olan "train sorgularında LTR eğitimi" çok daha kötüdür: ilk aşama modelleri bu sorguları
-ezberlediği için öznitelikler gerçekçi olmaz. LambdaMART hiperparametreleri val içinde sorgu bazlı GroupKFold
-ile seçilir.
+ezberlediği için öznitelikler gerçekçi olmaz. LambdaMART hiperparametreleri val içinde, CV bölme grubuna (`group_id`) göre kurulan
+GroupKFold ile seçilir (neredeyse-kopya val CV'leri aynı katta kalır).
 
 **S7. "Test sorgularınızdaki ilanları model eğitimde gördü. Bu transdüktif bir değerlendirme değil mi?"**
 IR'de standart protokol (MS MARCO, BEIR) belge havuzunu sabit tutup **sorguları** ayrıştırmaktır; biz de öyle
@@ -503,7 +505,10 @@ karşılanmadı"). Bu depoda yerelde ölçülen en iyi sistem, nöral bileşen i
 kendisi değil, eski çiftlerin yalnız yeni train CV'lerine ve WARM ilanlara düşen kısmıyla (16.206 / 25.906 çift)
 yeniden eğitilmiş kopyasıdır ve sayısı A100 çalıştırmasından gelecektir.
 (ii) Standart P@10, alakalı ilan sayısı 10'dan az olan sorgularda yapısal olarak 1'e ulaşamaz; bu yüzden
-$P@10_{capped}$ de raporlanır. Hedef bir sayıya ulaşmak için metriği gevşetmedik. Ulaşılamadıysa bu
+$P@10_{capped}$ de raporlanır. Bu tanımla P@10 > 85 testte yapısal olarak ulaşılamaz: ilanları gerçek dereceye göre
+sıralayan kâhin bile P@10 = 83,38 alır (`reports/metric_ceilings.json` → `kahin` → `test|tam|esik2`; test sorgularının
+%34,5'inin 10'dan az alakalı ilanı var). Bu yüzden P@10 kâhin tavanıyla (ve ona oranıyla) birlikte, P@10_capped
+yanında raporlanır; hedefin yeniden ifadesi kullanıcıya sorulur. Hedef bir sayıya ulaşmak için metriği gevşetmedik. Ulaşılamadıysa bu
 tabloda açıkça görünür.
 
 **S9. "Sentetik veri modelinizi yanıltmaz mı? Test sızıntısı yaratmaz mı?"**
@@ -602,6 +607,8 @@ python scripts/05_build_dataset.py                    # split, qrels, triplet, s
 python scripts/09_qrels_validation.py score           # -> reports/qrels_validation.json
 python scripts/03_forensic_audit.py                   # Faz 1 -> reports/faz1_audit.json, reports/figures/faz1_*.png
 python scripts/11_local_lexical_ltr.py                # BM25 vs BM25+LambdaMART -> reports/local_lexical_ltr.json
+python scripts/12_metric_ceilings.py                  # kâhin / ikili kusursuz / BM25 aday tavanları -> reports/metric_ceilings.json
+python scripts/13_lexical_lever_probe.py              # yalnız val, WARM havuz, GroupKFold -> reports/lexical_lever_probe_val.json
 python scripts/10_make_faz2_report.py                 # yerel BM25 -> reports/local_bm25_test.json;
                                                       #    -> reports/FAZ2_VERI_RAPORU.md (11'in çıktısını okur)
 python scripts/07_make_notebook.py                    # -> CV_Ilan_SOTA_Egitim_ve_Test_A100.ipynb

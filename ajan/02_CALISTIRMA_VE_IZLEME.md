@@ -28,7 +28,7 @@ sha256sum CV_Ilan_SOTA_Egitim_ve_Test_A100.ipynb        # raporun notebook_sha25
 Başarı yalnız şudur: `08` çıkış kodu 0; raporda `"statik": "OK"` ve `dry_run.durum = "OK"` (`RUN_OK: true`,
 `export_zip: true`); `zaman` bu çalıştırmanın saati; `notebook_sha256` = yukarıdaki `sha256sum`. Rapor her çıkış
 yolunda yeniden yazılır. `HATA`, `YAPILMADI` (statik hata), `ATLANDI (--static-only)` ya da `CALISIYOR`'da kalmış
-(süreç öldü ya da zaman aşımı) bir rapor başarı değildir. Son kuru çalıştırma ≈110 sn sürdü (`dry_run.sure_sn`).
+(süreç öldü ya da zaman aşımı) bir rapor başarı değildir. Son kuru çalıştırma ≈2 dk sürdü (`dry_run.sure_sn`).
 
 Çekirdek veya veri değiştiyse önce `05`'i çalıştır. Çekirdek veri üreticisinin de parçasıdır (değişmez kural 5):
 1. Taze klonda `data_bundle/` yoktur (git'te izlenmez): önce `unzip -o data_bundle.zip`. Sonra
@@ -61,7 +61,7 @@ Kullanıcıya şunları söyle:
 |---|---|---|---|---|
 | 0 | `pip install` (sabit sürümler), GPU bayrakları, sürüm uyarısı | — | — | 1–3 dk |
 | 1 | `CFG`; hücre süre/bellek kaydı (`CELL_LOG`) burada başlar | hepsi | — | — |
-| 2 | Drive bağla; zip'i bul (`CV_DATA_BUNDLE` → `/content/data_bundle.zip` → çalışma klasörü → `MyDrive/data_bundle.zip`; hiçbiri ve açılmış paket yoksa yükleme penceresi); açılmış paketle karşılaştır, farklıysa silip yeniden aç; parmak izi; sızıntı assert'leri | `USE_DRIVE` | — | <1 dk |
+| 2 | Drive bağla; zip'i bul (`CV_DATA_BUNDLE` verilmişse o; yoksa `/content/data_bundle.zip`, çalışma klasörü ve `MyDrive/data_bundle.zip` arasından **en yeni** zip, birden çoksa tarihleriyle yazdırılır; hiç zip ve açılmış paket yoksa yükleme penceresi); açılmış paketle karşılaştır, farklıysa silip yeniden aç; parmak izi; sızıntı assert'leri | `USE_DRIVE` | — | <1 dk |
 | 3 | Metrik altyapısı (`evaluate`, `fmt`, `EVAL_LOG`) | `REL_THRESHOLD` | — | — |
 | 4 | B1 BM25 (+ rank_bm25 paritesi) | — | — | <1 dk |
 | 5 | B2 sıfır-atış e5-small (ilk HF indirmesi) | `BASELINE_SMALL` | — | 1–2 dk |
@@ -188,7 +188,9 @@ Ayrılmış bellek yalnız hâlâ gereken nesnelere inmeli: §9'dan önce yalnı
 - `/content/outputs/bi_encoder_best` ve `cross_encoder_best` (fp32) yalnız aynı VM yaşadıkça vardır.
   `SentenceTransformer(path)` ve `CrossEncoder(path)` ile yüklenebilirler. Atlamak için hücreleri elle değiştirmek
   gerekir; `best_scale`, `temp_res`, `bi_log_df`, `ce_log_df` gibi değişkenleri de doldurman lazım.
-- §13 `drive.flush_and_unmount()` çağırır. Sonraki hücreler Drive'a yazamaz; yeniden yazmak için §2'yi tekrar çalıştır.
+- §13 `drive.flush_and_unmount()` çağırır. Sonraki hücreler Drive'a yazamaz; yeniden yazmak için yalnız Drive'ı yeniden bağla
+  (`from google.colab import drive; drive.mount("/content/drive")`). §2'yi yeniden çalıştırma: `importlib.reload(core)`
+  yapar ve §13 yeniden çalışırsa `joblib.dump(ATTR)` `PicklingError` verir (`05` §A).
 - **Karar senin:** Uzun bir deney planlıyorsan önce şu altyapıyı ekleyebilirsin:
   - en iyi modelleri ve günlükleri her aşamadan sonra Drive'a kopyalamak;
   - "varsa yükle, yoksa eğit" bayrakları (örn. `CFG["REUSE_STAGE1"]`);
@@ -216,7 +218,7 @@ Kullanıcıdan şunları iste ve `runs/<YYYY-MM-DD>_<etiket>/` altına koy (yap�
 | Dosya | Nerede | Neden |
 |---|---|---|
 | Çalıştırılmış `.ipynb` | Colab: Dosya → İndir → .ipynb | Tüm yazdırılan satırlar, tablolar, uyarılar |
-| `run_summary.json` | `MyDrive/cv_ilan_sota/` | Karar: `val_sinyalleri`, `val_zero_shot_base(WARM)`, `val_tam_hat(WARM)`, `val_bilesen_testleri`, `tani`. Ayrıca süreler (`hucre_sureleri`, `sureler_sn`, `toplam_sure_dk`), bellek, `paket_parmak_izi`, sürümler, CFG, test değerlendirme sayısı. `hedefler` / `ana_ablation` yalnız kayıttır |
+| `run_summary.json` | `MyDrive/cv_ilan_sota/` | Karar: `val_sinyalleri`, `val_zero_shot_base(WARM)`, `val_tam_hat(WARM)`, `val_bilesen_testleri`, `tani` → `aday_tavani_val(WARM)` (ve `kirpilma_*`). `tani` → `aday_tavani_test(tam_havuz,yalniz_rapor)` yalnız kayıttır. Ayrıca süreler (`hucre_sureleri`, `sureler_sn`, `toplam_sure_dk`), bellek, `paket_parmak_izi`, sürümler, CFG, test değerlendirme sayısı. `hedefler` / `ana_ablation` yalnız kayıttır |
 | `val_pipeline.csv`, `val_component_tests.csv`, `per_query_val.csv` | aynı | **Karar:** §10.1 val tam hat ve bileşen testleri. Sorgu bazlı val (0–1): hata kovaları (CV altın sütunlarıyla kovalamak değerlendirme tarafında serbest), iki çalıştırma arası eşleştirilmiş randomizasyon |
 | `stage1_training_log.csv`, `stage2a_training_log.csv` | aynı | Val eğrileri (karar) |
 | `per_query_test.csv` | aynı | Yalnız kayıt: final raporun hata analizi. Kaldıraç ya da hedefli veri bundan seçilmez |

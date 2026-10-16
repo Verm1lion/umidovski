@@ -1026,8 +1026,9 @@ lokasyon/remote uyumu, beceri kesişimi (overlap/Jaccard), unvan karakter-n-gram
 * Sektör/yaka sınıflandırıcıları **yalnızca train CV'leriyle** eğitilir; val/test için tahminler örneklem-dışıdır.
 * LambdaMART **val sorgularında** eğitilir (yığınlama / stacking: Aşama-1/2a modelleri bu sorgularla hiç **eğitilmedi**;
   val'in etiketleri τ seçimi, erken durdurma ve en iyi checkpoint seçimi için kullanıldı — bu, val özniteliklerini test'e
-  göre hafifçe iyimser yapabilir; test performansını şişirmez). **Cold** ilanlar LTR eğitiminden de çıkarılır; Optuna + GroupKFold (sorgu bazlı,
-  erken durdurma için ayrı iç bölme) ile hiperparametre seçilir.
+  göre hafifçe iyimser yapabilir; test performansını şişirmez). **Cold** ilanlar LTR eğitiminden de çıkarılır; Optuna + GroupKFold (katlar CV'nin bölme
+  grubuna, `group_id`'ye göre: neredeyse-kopya CV'ler aynı katta kalır, `scripts/13` ile aynı; erken durdurma için ayrı
+  iç bölme) ile hiperparametre seçilir.
 """)
 code(r"""
 tr_cv = cvs[cvs.cv_id.isin(S["train"]) & ((cvs.source == "real") | CFG["USE_SYNTHETIC"])]
